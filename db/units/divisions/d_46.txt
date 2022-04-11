@@ -1,0 +1,36 @@
+# MODEL_86_
+
+allowed_brigades = cag
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - Heavy Battlecruiser late carrier conversion (1934)
+model = {
+	cost						= 3
+	buildtime 					= 1080
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.6
+	maxspeed					= 28
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 2
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 31
+	airdefence					= 30
+	seaattack					= 0
+	convoyattack				= 0
+	subattack					= 0
+	airattack					= 1
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 10000
+	supplyconsumption			= 1.1
+	fuelconsumption				= 1
+	distance					= 0.05
+	reinforce_time				= 0.4
+	reinforce_cost				= 0.6	
+	equipment = { carrier = 1 manpower = 1600 }
+}

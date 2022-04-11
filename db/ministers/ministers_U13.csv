@@ -1,0 +1,53 @@
+U13;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+880001;Head of State;Károly Peyer;1933;1964;LWR;Insignificant Layman;High;M21045;X
+880002;Head of State;Zoltán Tildy;1933;1964;ST;Autocratic Charmer;High;M21011;X
+880003;Head of State;Béla Zsedényi;1933;1964;ST;Stern Imperialist;High;M21031;X
+880004;Head of State;László Rajk;1933;1964;ST;Autocratic Charmer;High;M21035;X
+880005;Head of State;Mátyás Rákosi;1933;1953;ST;Powerhungry Demagogue;High;M21032;X
+880006;Head of State;Arpád Szakasits;1933;1964;ST;Insignificant Layman;High;M21061;X
+880007;Head of State;Sandor Ronai;1933;1964;ST;Popular Figurehead;High;M21181;X
+880008;Head of State;Istvan Dobi;1933;1964;ST;Autocratic Charmer;High;M21182;X
+880009;Head of Government;Arpád Szakasits;1933;1964;LWR;Happy Amateur;High;M21061;X
+880010;Head of Government;László Rajk;1933;1964;ST;Flamboyant Tough Guy;High;M21035;X
+880011;Head of Government;Mátyás Rákosi;1933;1972;ST;Backroom Backstabber;High;M21032;X
+880037;Head of Government;Lajos Dinnyes;1933;1964;ST;Happy Amateur;High;M21183;X
+880038;Head of Government;Istvan Dobi;1933;1964;ST;Ambitious Union Boss;High;M21182;X
+880039;Head of Government;Imre Nagy;1933;1964;ST;Naive Optimist;High;M21113;X
+880009;Foreign Minister;Arpád Szakasits;1933;1964;LWR;Biased Intellectual;High;M21061;X
+880010;Foreign Minister;Erik Molnár;1933;1964;ST;Ideological Crusader;Medium;M21079;X
+880011;Foreign Minister;Matta Zalka;1933;1964;ST;General Staffer;Medium;M21037;X
+880012;Foreign Minister;László Rajk;1933;1964;ST;Iron Fisted Brute;Medium;M21035;X
+880013;Foreign Minister;Gyula Kallai;1933;1964;ST;The Cloak N Dagger Schemer;Medium;M21186;X
+880014;Foreign Minister;Karoly Kiss;1933;1964;ST;Apologetic Clerk;Medium;M21187;X
+880015;Minister of Armament;Reszö Kastner;1933;1964;LWR;Administrative Genius;Medium;M21089;X
+880016;Minister of Armament;Béla Zsedényi;1933;1964;ST;Infantry Proponent;High;M21031;X
+880017;Minister of Armament;Erno Gero;1933;1981;ST;Resource Industrialist;Medium;M21093;X
+880018;Minister of Armament;Zoltán Vas;1933;1964;ST;Military Entrepreneur;Medium;M21034;X
+880019;Minister of Armament;Imre Horvath;1933;1964;ST;Theoretical Scientist;Medium;M21188;X
+880020;Minister of Security;Jozsef Revay;1933;1964;LWR;Crime Fighter;Medium;M21107;X
+880021;Minister of Security;Mihaly Farkas;1933;1964;ST;Prince of Terror;Medium;M21110;X
+880022;Minister of Security;László Rajk;1933;1964;ST;Crime Fighter;Medium;M21035;X
+880023;Minister of Security;Mátyás Rákosi;1933;1964;ST;Crooked Kleptocrat;Very High;M21032;X
+880024;Minister of Security;Imre Nagy;1933;1964;ST;Back Stabber;Medium;M21113;X
+880025;Minister of Security;Ferenc Erdei;1933;1964;ST;Compassionate Gentleman;Medium;M21114;X
+880026;Minister of Security;János Kádár;1933;1964;ST;Back Stabber;Very High;M21189;X
+880027;Head of Military Intelligence;Károly Peyer;1933;1964;LWR;Industrial Specialist;Low;M21045;X
+880028;Head of Military Intelligence;Erno Gero;1933;1981;ST;Logistics Specialist;Medium;M21093;X
+880029;Head of Military Intelligence;László Rajk;1933;1964;ST;Political Specialist;Medium;M21035;X
+880030;Chief of Staff;Matta Zalka;1933;1964;ST;School of Psychology;Medium;M21037;X
+880031;Chief of Army;Gabor Sziszkalatay;1933;1964;LWR;Commando Doctrine Army;Medium;M21136;X
+880032;Chief of Navy;Reszö Kastner;1933;1964;LWR;Base Control Doctrine;High;M21089;X
+880033;Chief of Navy;Kalman Hardy;1933;1964;ST;Decisive Naval Battle Doctrine;Medium;M21039;X
+880034;Chief of Air Force;Edgar Keksz;1933;1964;LWR;Air Superiority Doctrine;Medium;M21073;X
+880035;Chief of Air Force;György De Brody;1933;1964;ST;Air Superiority Doctrine;Medium;M21040;X
+880036;Head of State;Béla Miklós de Dalnók;1944;1964;SC;Insignificant Layman;Medium;M21059;X
+880037;Head of State;Mátyás Rákosi;1953;1972;ST;Powerhungry Demagogue;Very High;M880103;X
+880038;Head of State;Imre Nagy;1956;1964;LWR;Benevolent Gentleman;Medium;M21113;X
+880039;Head of State;János Kádár;1956;1990;LE;Barking Buffoon;Very High;M21189;X
+880040;Head of State;Ernö Gerö;1956;1981;LE;Ruthless Powermonger;Very High;M21093;X
+880041;Head of Government;Ferenc Nagy;1945;1964;LWR;Backroom Backstabber;Medium;M880102;X
+880042;Head of Government;Zoltan Tildy;1946;1964;SL;Naive Optimist;High;M21011;X
+880043;Head of Government;Andras Hegedus;1955;2000;ST;Happy Amateur;Very High;M880104;X
+880044;Head of Government;János Kádár;1956;1990;LE;Silent Workhorse;Very High;M21189;X
+880045;Head of Government;Ferenc Munnich;1958;1968;LE;Political Protege;Medium;M880109;X

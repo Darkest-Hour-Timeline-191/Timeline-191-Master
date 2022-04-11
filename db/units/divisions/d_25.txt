@@ -1,0 +1,104 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_26 upgrade_time_factor = 0.75 upgrade_cost_factor = 0.75 }
+upgrade = { type = d_27 upgrade_time_factor = 0.8 upgrade_cost_factor = 0.8 }
+upgrade = { type = d_28 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1956 BBN 14 inch
+model = {
+	cost						= 6.5
+	buildtime 					= 1690
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.2
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 3
+	visibility					= 90
+	seadefence					= 22
+	airdefence					= 30
+	seaattack					= 30
+	airattack					= 14
+	subattack					= 1
+	convoyattack					= 28
+	shorebombardment			= 18
+	transportcapability			= 0
+	range						= 40000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 0
+	distance					= 0.4
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_25				= 1
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 2200 }
+}
+# 1 - 1956 BBN 14 inch 1961 refit
+model = {
+	cost						= 6.7
+	buildtime 					= 1710
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.2
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 5
+	subdetectioncapability		= 3
+	visibility					= 90
+	seadefence					= 14
+	airdefence					= 24
+	seaattack					= 30
+	airattack					= 20
+	subattack					= 1
+	convoyattack					= 28
+	shorebombardment			= 18
+	transportcapability			= 0
+	range						= 80000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 0
+	distance					= 0.4
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_25				= 2
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 2200 }
+}
+# 2 - 1956 BBN 14 inch 1971 refit
+model = {
+	cost						= 6.9
+	buildtime 					= 1730
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.2
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 5
+	subdetectioncapability		= 3
+	visibility					= 90
+	seadefence					= 10
+	airdefence					= 18
+	seaattack					= 32
+	airattack					= 26
+	subattack					= 1
+	convoyattack					= 28
+	shorebombardment			= 18
+	transportcapability			= 0
+	range						= 80000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 0
+	distance					= 0.4
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battleship = 1 manpower = 2200 }
+}

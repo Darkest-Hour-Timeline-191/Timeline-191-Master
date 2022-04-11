@@ -1,0 +1,17 @@
+MON;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+300001;Nalayh Coal Mine;T6800;2;1900;1970;industrial_engineering;mechanics;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1175044;Transbaikal Command;;4;1900;1970;artillery;mechanics;general_equipment;training;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+300004;Revolutionary Arsenal;T3701;3;1900;1970;artillery;mechanics;general_equipment;training;chemistry;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+300002;Choybalsan Industrial Combine;T6801;2;1900;1970;industrial_engineering;general_equipment;management;technical_efficiency;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+300005;Revolutionary School of Ulanbaator;T14900;2;1900;1970;chemistry;medicine;management;mathematics;small_unit_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1175042;Nikolai Polikarpov;;4;1933;1944;aeronautics;aircraft_testing;fighter_design;avionics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1175043;Polikarpov Design Bureau;;4;1944;1970;aeronautics;aircraft_testing;fighter_design;avionics;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+260157;Li Kenong;100809;2;1926;1959;mathematics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+260154;Deng Xiaoping;100804;4;1931;1970;management;industrial_engineering;individual_courage;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1175039;Ho Chi Minh;T97200;5;1930;1969;small_unit_tactics;infantry_focus;individual_courage;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+260158;Peng Dehuai;100698;4;1926;1974;centralized_execution;large_unit_tactics;large_unit_focus;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30039;Leon Trotsky;100318;7;1914;1945;large_unit_tactics;infantry_focus;individual_courage;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1175038;Vo Nguyen Giap;T97201;9;1944;1970;piloting;infantry_focus;individual_courage;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+300003;Sukhe Bator Military Academy;T6802;2;1900;1970;small_unit_tactics;centralized_execution;combined_arms_focus;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+260155;Lin Biao;100807;4;1933;1970;small_unit_tactics;decentralized_execution;infantry_focus;training;individual_courage;maneuver_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+260156;Mao Zedong;T8302;3;1935;1959;management;small_unit_tactics;individual_courage;training;decentralized_execution;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;x

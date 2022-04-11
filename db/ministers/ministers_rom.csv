@@ -1,0 +1,236 @@
+ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+110001;Head of State;M.S. Carol II;1933;1964;SC;Benevolent Gentleman;High;M22001;X
+110002;Head of Government;Gheorghe Tatarescu;1933;1964;SC;Silent Workhorse;High;M22002;X
+110003;Foreign Minister;Nicolae Titulescu;1933;1964;SC;Great Compromiser;Medium;M22003;X
+110004;Minister of Armament;Constantin I.C. Bratianu;1933;1964;SC;Resource Industrialist;High;M22004;X
+110005;Minister of Security;Istrate Micescu;1933;1964;SC;Silent Lawyer;Medium;M22005;X
+110006;Head of Military Intelligence;Mihail Moruzov;1933;1964;SC;Logistics Specialist;Very High;M22006;X
+110007;Chief of Staff;Ion Antonescu;1933;1964;SC;School of Psychology;High;M22007;X
+110008;Chief of Army;Marin Ceausu;1933;1964;SC;Static Defence Doctrine;Low;M22008;X
+110009;Chief of Navy;Nicolae Caranfil;1933;1964;SC;Decisive Naval Battle Doctrine;Low;M22009;X
+110010;Chief of Air Force;Dante Vizante;1933;1964;SC;Air Superiority Doctrine;Medium;M22010;X
+110011;Head of State;M.S. Carol II;1933;1964;SL;Benevolent Gentleman;High;M22001;X
+110012;Head of State;M.S. Carol II;1933;1964;PA;Benevolent Gentleman;High;M22001;X
+110013;Head of State;M.S. Mihai I;1927;1964;SC;Insignificant Layman;High;M22011;X
+110014;Head of State;M.S. Mihai I;1927;1964;PA;Insignificant Layman;High;M22011;X
+110015;Head of State;Corneliu Zelea Codreanu;1933;1964;NS;Die-hard Reformer;High;M22053;X
+110016;Head of State;Horia Sima;1939;1964;NS;Insignificant Layman;High;M22054;X
+110017;Head of State;Petru Groza;1933;1958;LWR;Powerhungry Demagogue;High;M22022;X
+110018;Head of State;Lucretiu Patrascanu;1931;1964;LE;Die-hard Reformer;High;2986;X
+110019;Head of State;Constantin I. Parhon;1933;1964;ST;Powerhungry Demagogue;High;M22038;X
+110019;Head of Government;Octavian Goga;1938;1964;FA;Political Protege;High;M22041;X
+110020;Head of Government;Miron Cristea;1938;1939;PA;Naive Optimist;High;M22042;X
+110021;Head of Government;Armand Calinescu;1939;1964;SL;Smiling Oilman;High;M22043;X
+110022;Head of Government;Gheorghe Argeseanu;1939;1964;SL;Silent Workhorse;High;M22044;X
+110023;Head of Government;Constantin Argetoianu;1939;1964;ML;Political Protege;High;M22045;X
+110024;Head of Government;Ion Gigurtu;1940;1964;FA;Corporate Suit;High;M22047;X
+110025;Head of Government;Ion Antonescu;1940;1964;PA;Old General;High;M22007;X
+110026;Head of Government;Constantin Sanatescu;1944;1949;PA;Old General;High;M22049;X
+110027;Head of Government;Nicolae Radescu;1944;1964;SC;Happy Amateur;High;M22050;X
+110028;Head of Government;Petru Groza;1933;1958;LWR;Backroom Backstabber;High;M22022;X
+110029;Head of Government;Gheorghe Gheorghiu-Dej;1933;1964;LWR;Political Protege;Low;M22052;X
+110030;Head of Government;Corneliu Zelea Codreanu;1933;1964;NS;Flamboyant Tough Guy;High;M22053;X
+110031;Head of Government;Horia Sima;1938;1964;NS;Political Protege;High;M22054;X
+110032;Head of Government;Constantin I.C. Bratianu;1933;1950;SC;Corporate Suit;High;M22004;X
+110032;Head of Government;Iuliu Maniu;1928;1964;SD;Naive Optimist;High;M22055;X
+110033;Head of Government;Lucretiu Patrascanu;1933;1964;LE;Naive Optimist;Low;2986;X
+110034;Foreign Minister;Victor Antonescu;1933;1947;SC;Apologetic Clerk;Medium;9673;X
+110035;Foreign Minister;Istrate Micescu;1933;1964;PA;Great Compromiser;High;M22005;X
+110036;Foreign Minister;Gheorghe Tatarescu;1933;1964;SL;Iron Fisted Brute;Medium;M22002;X
+110037;Foreign Minister;Nicolae Petrescu-Comnen;1938;1964;PA;Apologetic Clerk;Medium;M22070;X
+110038;Foreign Minister;Grigore Gafencu;1939;1964;PA;Biased Intellectual;Low;M22071;X
+110039;Foreign Minister;Ion Gigurtu;1940;1964;FA;Ideological Crusader;Medium;M22047;X
+110040;Foreign Minister;Mihail Manoilescu;1940;1964;FA;Apologetic Clerk;Medium;M22074;X
+110041;Foreign Minister;Constantin Argetoianu;1940;1964;SC;General Staffer;Medium;M22045;X
+110042;Foreign Minister;Mihail Sturdza;1940;1964;FA;Ideological Crusader;High;M22013;X
+110043;Foreign Minister;Ion Antonescu;1933;1964;PA;General Staffer;Very High;M22007;X
+110044;Foreign Minister;Mihai Antonescu;1941;1964;FA;The Cloak N Dagger Schemer;Very High;M22077;X
+110045;Foreign Minister;Grigore Niculesco-Buzesti;1944;1949;PA;Apologetic Clerk;Medium;M22078;X
+110046;Foreign Minister;Constantin Visoianu;1944;1964;SC;The Cloak N Dagger Schemer;Medium;M22079;X
+110047;Foreign Minister;Horia Sima;1933;1964;NS;Ideological Crusader;Low;M22054;X
+110048;Foreign Minister;Iuliu Hossu;1938;1964;SD;Great Compromiser;Medium;M22084;X
+110049;Foreign Minister;Georges Oprescu;1938;1964;SD;Biased Intellectual;Medium;M22086;X
+110050;Foreign Minister;Ana Pauker;1933;1960;LWR;Ideological Crusader;Low;M22023;X
+110051;Foreign Minister;Simion Bughici;1933;1964;LWR;Apologetic Clerk;Low;M22163;X
+110052;Foreign Minister;Lucretiu Patrascanu;1931;1964;LE;Great Compromiser;Low;2986;X
+110053;Minister of Armament;Virgil Madgearu;1933;1964;SL;Balanced Budget Economy;Medium;M22087;X
+110054;Minister of Armament;Victor Slavescu;1933;1977;SC;Resource Industrialist;High;9672;X
+110055;Minister of Armament;Victor Antonescu;1935;1947;SC;Laissez-Faire Capitalist;Medium;9673;X
+110056;Minister of Armament;Mircea Cancicov;1936;1959;SC;Balanced Budget Economy;Medium;9676;X
+110057;Minister of Armament;Eugen Savu;1937;1964;ML;Resource Industrialist;Medium;9677;X
+110058;Minister of Armament;Milita Constantinescu;1939;1964;PA;Mixed Economy;Medium;9678;X
+110059;Minister of Armament;Gheorghe N. Leon;1940;1959;FA;Balanced Budget Economy;Medium;unknownminister;X
+110060;Minister of Armament;George Cretzianu;1940;1964;NS;Planned Economy Proponent;High;unknownminister;X
+110061;Minister of Armament;Nicolae Stoenescu;1941;1964;PA;Tank Proponent;High;M22095;X
+110062;Minister of Armament;Alexandru D. Neagu;1942;1964;PA;Resource Industrialist;Medium;9682;X
+110063;Minister of Armament;Gheron Netta;1944;1964;PA;Resource Industrialist;Medium;9683;X
+110064;Minister of Armament;Gheorghe Potopeanu;1940;1964;PA;Military Entrepreneur;High;M22093;X
+110065;Minister of Armament;Constantin Sanatescu;1944;1948;PA;Infantry Proponent;High;M22049;X
+110066;Minister of Armament;Mihail Romniceanu;1944;1964;SC;Resource Industrialist;Medium;9685;X
+110067;Minister of Armament;Alexandru Alexandrini;1944;1964;SL;Corrupt Kleptocrat;High;unknownminister;X
+110068;Minister of Armament;Vasile Luca;1933;1963;LWR;Planned Economy Proponent;Low;M22024;X
+110069;Minister of Armament;Petre Tutea;1933;1964;NS;Mixed Economy;Medium;unknownminister;X
+110070;Minister of Armament;Constantin Papanace;1943;1964;NS;Administrative Genius;Medium;M22014;X
+110071;Minister of Armament;Gheorghe Dobre;1942;1964;FA;Infantry Proponent;High;M22094;X
+110072;Minister of Armament;Caius Brediceanu;1938;1964;PA;Laissez-Faire Capitalist;High;M22088;X
+110073;Minister of Armament;Iuliu Maniu;1939;1964;SC;Administrative Genius;Medium;M22055;X
+110074;Minister of Armament;Mihail Racovitza;1944;1964;SC;Infantry Proponent;High;M22096;X
+110075;Minister of Armament;Constantin Antoniade;1940;1964;SL;Laissez-Faire Capitalist;Low;M22092;X
+110076;Minister of Security;Dumitru Iuca;1936;1940;SC;Silent Lawyer;Medium;9674;X
+110077;Minister of Security;Gheorghe Tatarescu;1936;1964;SL;Efficient Sociopath;High;M22002;X
+110078;Minister of Security;Armand Calinescu;1937;1964;SL;Prince of Terror;High;M22043;X
+110079;Minister of Security;Richard Franasovici;1937;1964;SC;Silent Lawyer;Medium;9675;X
+110080;Minister of Security;Gabriel Marinescu;1938;1964;PA;Secret Police Chief;High;unknownminister;X
+110081;Minister of Security;Mihail Ghelmegeanu;1939;1964;FA;Silent Lawyer;Medium;9679;X
+110082;Minister of Security;David Popescu;1940;1964;FA;Prince of Terror;Medium;M22106;X
+110083;Minister of Security;Constantin Petrovicescu;1940;1964;NS;Efficient Sociopath;High;9680;X
+110084;Minister of Security;Dumitru I. Popescu;1940;1964;PA;Prince of Terror;High;9681;X
+110085;Minister of Security;Aurel Aldea;1944;1964;PA;Back Stabber;Medium;M22109;X
+110086;Minister of Security;Nicolae Penescu;1944;1964;SC;Silent Lawyer;Medium;9684;X
+110087;Minister of Security;Nicolae Radescu;1944;1964;SC;Compassionate Gentleman;High;M22050;X
+110088;Minister of Security;Teohari Georgescu;1933;1964;LWR;Back Stabber;High;M22025;X
+110089;Minister of Security;Constantin I. Gane;1933;1962;NS;Secret Police Chief;Medium;2987;X
+110090;Minister of Security;Horia Sima;1940;1964;NS;Efficient Sociopath;High;M22054;X
+110091;Minister of Security;Ion Petrovicescu;1943;1964;NS;Prince of Terror;Medium;M22015;X
+110092;Minister of Security;Alexandru Vaida-Voevod;1938;1964;FA;Crime Fighter;Medium;M22100;X
+110093;Minister of Security;Ion Mihalache;1939;1963;SL;Man of the People;Medium;M22101;X
+110094;Head of Military Intelligence;Mihail Moruzov;1933;1964;PA;Logistics Specialist;Very High;M22006;X
+110095;Head of Military Intelligence;Eugen Cristescu;1939;1964;FA;Dismal Enigma;Very High;M22016;X
+110096;Head of Military Intelligence;Victor Siminel;1944;1964;PA;Logistics Specialist;High;unknownminister;X
+110097;Head of Military Intelligence;Gheorghe Savoia;1939;1964;SC;Dismal Enigma;Medium;M22117;X
+110098;Head of Military Intelligence;Lucian Stupineanu;1945;1964;ML;Dismal Enigma;Medium;unknownminister;X
+110099;Head of Military Intelligence;Serghei Nicolau;1933;1964;LWR;Technical Specialist;Low;M22122;X
+110100;Head of Military Intelligence;Constantin I. Gane;1933;1962;NS;Dismal Enigma;Medium;2987;X
+110101;Head of Military Intelligence;Horia Sima;1940;1964;NS;Dismal Enigma;High;M22054;X
+110102;Head of Military Intelligence;Alexandru Vaida-Voevod;1938;1964;FA;Industrial Specialist;Medium;M22100;X
+110103;Chief of Staff;Nicolae Samsonovici;1934;1950;ML;School of Manoeuvre;Medium;ROM-Nicolae_Samsonovici;X
+110104;Chief of Staff;Stefan Ionescu;1937;1964;ML;School of Fire Support;High;ROM-Stefan_Ionescu;X
+110105;Chief of Staff;Florea Tenescu;1938;1964;PA;School of Defence;Medium;M22124;X
+110106;Chief of Staff;Gheorghe Mihail;1938;1964;PA;School of Fire Support;Medium;M22136;X
+110107;Chief of Staff;Alexandru Ioanitiu;1938;1964;NS;School of Manoeuvre;Medium;M22018;X
+110108;Chief of Staff;Iosif Iacobici;1941;1964;FA;School of Mass Combat;High;L4341;X
+110109;Chief of Staff;Ilie Steflea;1942;1964;FA;School of Defence;High;M22139;X
+110110;Chief of Staff;Constantin Sanatescu;1944;1948;PA;School of Manoeuvre;High;M22049;X
+110111;Chief of Staff;Nicolae Radescu;1944;1964;SC;School of Fire Support;High;M22050;X
+110112;Chief of Staff;Costin Ionascu;1938;1964;SL;School of Defence;High;M22135;X
+110113;Chief of Staff;Damian Rascu;1945;1964;LWR;School of Mass Combat;Medium;M22028;X
+110114;Chief of Staff;Platon Chirnoaga;1933;1964;NS;School of Psychology;High;M22132;X
+110115;Chief of Army;Nicolae Samsonovici;1934;1950;ML;Decisive Battle Doctrine;Medium;ROM-Nicolae_Samsonovici;X
+110116;Chief of Army;Stefan Ionescu;1937;1964;ML;Static Defence Doctrine;High;ROM-Stefan_Ionescu;X
+110117;Chief of Army;Florea Tenescu;1938;1964;PA;Elastic Defence Doctrine;Medium;M22124;X
+110118;Chief of Army;Gheorghe Mihail;1938;1964;PA;Decisive Battle Doctrine;Medium;M22136;X
+110119;Chief of Army;Alexandru Ioanitiu;1938;1964;NS;Decisive Battle Doctrine;Medium;M22018;X
+110120;Chief of Army;Costin Ionascu;1938;1964;SL;Static Defence Doctrine;High;M22135;X
+110121;Chief of Army;Ilie Steflea;1942;1964;FA;Guns and Butter Doctrine;High;M22139;X
+110122;Chief of Army;Constantin Sanatescu;1944;1948;PA;Elastic Defence Doctrine;High;M22049;X
+110123;Chief of Army;Nicolae Radescu;1944;1964;SC;Decisive Battle Doctrine;High;M22050;X
+110124;Chief of Army;Damian Rascu;1945;1964;LWR;Armoured Spearhead Doctrine;Medium;M22028;X
+110125;Chief of Army;Platon Chirnoaga;1933;1964;NS;Doctrine of Autonomy;High;M22132;X
+110126;Chief of Navy;Petre Barbunenau;1933;1964;SC;Decisive Naval Battle Doctrine;Very High;ROM-Petre_Barbunenau;X
+110127;Chief of Navy;Petre Barbunenau;1933;1964;PA;Decisive Naval Battle Doctrine;Very High;ROM-Petre_Barbunenau;X
+110128;Chief of Navy;Eugeniu Rosca;1940;1964;FA;Power Projection Doctrine;High;ROM-Eugeniu_Rosca;X
+110129;Chief of Navy;Ioan Cristescu;1941;1964;PA;Indirect Approach Doctrine;Very High;ROM-Ioan_Cristescu;X
+110130;Chief of Navy;Ioan Cristescu;1941;1964;SC;Indirect Approach Doctrine;Very High;ROM-Ioan_Cristescu;X
+110131;Chief of Navy;Eugeniu Savulescu;1944;1964;SD;Base Control Doctrine;High;ROM-Eugeniu_Savulescu;X
+110132;Chief of Navy;Ioan Georgescu;1943;1964;FA;Indirect Approach Doctrine;Medium;M22150;X
+110133;Chief of Navy;Horia Macellariu;1938;1964;PA;Indirect Approach Doctrine;High;M22019;X
+110134;Chief of Navy;Nicolae Sova;1944;1964;PA;Base Control Doctrine;High;M22151;X
+110135;Chief of Navy;Nicolai Duca di Silvania;1944;1964;SC;Open Seas Doctrine;High;M22152;X
+110136;Chief of Navy;Gheorghe Iliesca;1945;1964;LWR;Power Projection Doctrine;Medium;M22029;X
+110137;Chief of Air Force;Nicolae Caranfil;1935;1964;ML;Naval Aviation Doctrine;High;L4402;X
+110138;Chief of Air Force;Paul Teodorescu;1936;1964;SC;Carpet Bombing Doctrine;Very High;M22159;X
+110139;Chief of Air Force;Paul Teodorescu;1936;1964;PA;Carpet Bombing Doctrine;Very High;M22159;X
+110140;Chief of Air Force;Gheorghe Jienescu;1940;1964;PA;Army Aviation Doctrine;Very High;9298;X
+110141;Chief of Air Force;Emanoil Ionescu;1945;1964;SD;Army Aviation Doctrine;High;M22030;X
+110142;Chief of Air Force;Ermil Gheorghiu;1940;1964;FA;Air Superiority Doctrine;Medium;M22158;X
+110143;Chief of Air Force;Gheorghe Vasiliu;1944;1964;SC;Naval Aviation Doctrine;Low;M22160;X
+110144;Head of State;M.S. Carol I;1914;1915;SC;Stern Imperialist;Medium;2991;X
+110145;Head of State;M.S. Ferdinand I;1914;1928;SC;Benevolent Gentleman;Medium;2989;X
+110146;Head of State;M.S. Ferdinand I;1914;1928;PA;Benevolent Gentleman;Medium;2989;X
+110147;Head of State;Christian Rakovsky;1914;1933;LE;Die-hard Reformer;Medium;3008;X
+110148;Head of Government;Ion I.C. Bratianu;1910;1933;SC;Silent Workhorse;High;3018;X
+110149;Head of Government;Artur Vaitoianu;1918;1933;SC;Old General;Medium;3003;X
+110150;Head of Government;Alexandru Marghiloman;1918;1933;SC;Political Protege;Medium;2998;X
+110151;Head of Government;Constantin Coanda;1918;1933;PA;Old General;Medium;3001;X
+110152;Head of Government;Alexandru Averescu;1918;1933;SC;Old General;Medium;2990;X
+110153;Head of Government;Alexandru Vaida-Voevod;1919;1950;SC;Naive Optimist;Medium;3002;X
+110154;Head of Government;Dumitru Take Ionescu;1921;1933;SC;Naive Optimist;Medium;3005;X
+110155;Head of Government;Alexandru Averescu;1918;1933;PA;Old General;Medium;2990;X
+110156;Head of Government;Constantin I. Angelescu;1914;1948;SD;Silent Workhorse;High;9671;X
+110157;Head of Government;Ion Gh. Duca;1922;1934;ML;Ambitious Union Boss;Medium;3007;X
+110158;Head of Government;Christian Rakovsky;1914;1933;LE;Ambitious Union Boss;Medium;3008;X
+110159;Foreign Minister;Emanoil Porumbaru;1914;1933;ML;Apologetic Clerk;Medium;3068;X
+110160;Foreign Minister;Ion I.C. Bratianu;1910;1933;SC;Biased Intellectual;High;3018;X
+110161;Foreign Minister;Alexandru Marghiloman;1914;1933;SC;Ideological Crusader;High;2998;X
+110162;Foreign Minister;Alexandru Averescu;1918;1933;PA;General Staffer;High;2990;X
+110163;Foreign Minister;Nicolae Misu;1918;1933;SC;Apologetic Clerk;Medium;unknownminister;X
+110164;Foreign Minister;Constantin Coanda;1918;1933;PA;General Staffer;Medium;3001;X
+110165;Foreign Minister;Alexandru Vaida-Voevod;1919;1950;SC;Ideological Crusader;Medium;3002;X
+110166;Foreign Minister;Duiliu Zamfirescu;1920;1933;SC;Biased Intellectual;Medium;3004;X
+110167;Foreign Minister;Dumitru Take Ionescu;1920;1933;SC;Great Compromiser;Medium;3005;X
+110168;Foreign Minister;Gheorghe Derussi;1921;1933;SC;Apologetic Clerk;Medium;unknownminister;X
+110169;Foreign Minister;Ion Gh. Duca;1922;1934;ML;Great Compromiser;Medium;3007;X
+110170;Foreign Minister;Stefan Cicio Pop;1917;1933;SD;Apologetic Clerk;Medium;3006;X
+110171;Minister of Armament;Emil Costinescu;1914;1933;ML;Laissez-Faire Capitalist;Medium;3071;X
+110172;Minister of Armament;Victor Antonescu;1916;1933;ML;Reformer;Medium;unknownminister;X
+110173;Minister of Armament;Nicolae Titulescu;1917;1941;SC;Resource Industrialist;Medium;3011;X
+110174;Minister of Armament;Fotin Enescu;1918;1933;PA;Laissez-Faire Capitalist;Medium;3074;X
+110175;Minister of Armament;Mihail Seulescu;1918;1933;SC;Resource Industrialist;Medium;unknownminister;X
+110176;Minister of Armament;Constantin C. Arion;1918;1933;SC;Balanced Budget Economy;Medium;3000;X
+110177;Minister of Armament;Oscar Kiriacescu;1918;1933;SC;Corrupt Kleptocrat;Medium;unknownminister;X
+110178;Minister of Armament;Ioan Popescu;1919;1933;SC;Military Entrepreneur;Medium;unknownminister;X
+110179;Minister of Armament;Ion Anglescu;1919;1933;SC;Resource Industrialist;Medium;unknownminister;X
+110180;Minister of Armament;Aurel Vlad;1919;1933;SC;Laissez-Faire Capitalist;Medium;3012;X
+110181;Minister of Armament;Mihai Popovici;1920;1933;SL;Resource Industrialist;Medium;3014;X
+110182;Minister of Armament;Constantin Argetoianu;1920;1933;SC;Corrupt Kleptocrat;Medium;3013;X
+110183;Minister of Armament;Dumitru Take Ionescu;1914;1922;ML;Resource Industrialist;Medium;3005;X
+110184;Minister of Armament;Vintila Bratianu;1922;1933;ML;Laissez-Faire Capitalist;Medium;3015;X
+110185;Minister of Armament;Petre P. Carp;1914;1933;ML;Resource Industrialist;Medium;3009;X
+110186;Minister of Armament;Theodor Rosetti;1914;1933;PA;Resource Industrialist;Medium;3010;X
+110187;Minister of Armament;Alexandru Marghiloman;1914;1933;SC;Resource Industrialist;Medium;2998;X
+110188;Minister of Security;Vasile G. Mortun;1914;1919;ML;Silent Lawyer;Medium;3019;X
+110189;Minister of Security;Alexandru Constantinescu;1916;1933;ML;Prince of Terror;Medium;3020;X
+110190;Minister of Security;Artur Vaitoianu;1918;1933;SC;Back Stabber;Medium;3003;X
+110191;Minister of Security;George G. Marzescu;1918;1933;SL;Man of the People;Medium;3022;X
+110192;Minister of Security;Alexandru Averescu;1919;1933;PA;Crime Fighter;Medium;2990;X
+110193;Minister of Security;Aurel Vlad;1919;1933;SC;Compassionate Gentleman;Medium;3012;X
+110194;Minister of Security;Nicolae Lupu;1919;1933;SD;Silent Lawyer;Medium;3023;X
+110195;Minister of Security;Alexandru Averescu;1920;1933;SC;Crime Fighter;Medium;2990;X
+110196;Minister of Security;Constantin Argetoianu;1920;1933;SC;Prince of Terror;Medium;3013;X
+110197;Minister of Security;Ion I.C. Bratianu;1922;1933;SC;Man of the People;Medium;3018;X
+110198;Minister of Security;Constantin Olanescu;1914;1928;PA;Crime Fighter;Medium;3017;X
+110199;Minister of Security;Constantin C. Arion;1914;1933;PA;Silent Lawyer;Medium;3000;X
+110200;Minister of Security;Mihail Pherekyde;1914;1926;ML;Man of the People;Medium;3016;X
+110201;Minister of Security;Ion Camarasescu;1921;1933;SL;Silent Lawyer;Medium;3024;X
+110202;Minister of Security;Ion C. Inculet;1917;1940;SD;Compassionate Gentleman;Medium;unknownminister;X
+110203;Minister of Security;Gheorghe Mironescu;1928;1949;SD;Silent Lawyer;Medium;9669;X
+110204;Head of Military Intelligence;Under Army Command;1914;1964;ML;Generic;Very High;unknownminister;X
+110205;Head of Military Intelligence;Under Army Command;1914;1964;PA;Generic;Very High;unknownminister;X
+110206;Head of Military Intelligence;Under Army Command;1914;1964;LWR;Generic;Very High;unknownminister;X
+110207;Chief of Staff;Vasile Zottu;1914;1933;SC;School of Mass Combat;Very High;2995;X
+110208;Chief of Staff;Dumitru Iliescu;1916;1933;SC;School of Defence;Very High;2997;X
+110209;Chief of Staff;Constantin Cristescu;1919;1933;SC;School of Mass Combat;Very High;2996;X
+110210;Chief of Staff;Alexandru Lupescu;1923;1933;SC;School of Fire Support;Very High;3950;X
+110211;Chief of Staff;Vasile Zottu;1914;1933;PA;School of Mass Combat;Very High;2995;X
+110212;Chief of Staff;Dumitru Iliescu;1916;1933;PA;School of Defence;Very High;2997;X
+110213;Chief of Staff;Constantin Prezan;1916;1933;PA;School of Mass Combat;Very High;2988;X
+110214;Chief of Staff;Constantin Cristescu;1919;1933;PA;School of Mass Combat;Very High;2996;X
+110215;Chief of Staff;Alexandru Lupescu;1923;1933;PA;School of Fire Support;Very High;3950;X
+110216;Chief of Army;Vasile Zottu;1914;1933;PA;Static Defence Doctrine;Very High;2995;X
+110217;Chief of Army;Constantin Prezan;1916;1933;PA;Static Defence Doctrine;Very High;2988;X
+110218;Chief of Army;Constantin Cristescu;1919;1933;PA;Decisive Battle Doctrine;Very High;2996;X
+110219;Chief of Army;Alexandru Lupescu;1923;1933;PA;Guns and Butter Doctrine;Very High;3950;X
+110220;Chief of Navy;Eustasiu Sebastian;1914;1933;PA;Power Projection Doctrine;Very High;1070;X
+110221;Chief of Navy;Nicolae Negru;1917;1933;PA;Decisive Naval Battle Doctrine;Low;2992;X
+110222;Chief of Navy;Constantin Niculescu-Rizea;1920;1933;PA;Base Control Doctrine;Medium;2994;X
+110223;Chief of Navy;Constantin Balescu;1918;1933;PA;Open Seas Doctrine;Medium;2993;X
+110224;Chief of Navy;Eustasiu Sebastian;1914;1933;SC;Power Projection Doctrine;Very High;1070;X
+110225;Chief of Navy;Nicolae Negru;1917;1933;SC;Decisive Naval Battle Doctrine;Low;2992;X
+110226;Chief of Navy;Constantin Balescu;1918;1933;SC;Open Seas Doctrine;Medium;2993;X
+110227;Chief of Navy;Constantin Niculescu-Rizea;1920;1933;SC;Base Control Doctrine;Medium;2994;X
+110228;Chief of Air Force;Mihail Boteanu;1914;1933;SC;Army Aviation Doctrine;Medium;unknownminister;X
+110229;Chief of Air Force;Constantin Gavanescu;1916;1933;SC;Air Superiority Doctrine;High;unknownminister;X
+110230;Chief of Air Force;Under Army Command;1914;1964;SC;Generic;Very High;unknownminister;X
+110231;Chief of Air Force;Under Army Command;1914;1964;PA;Generic;Very High;unknownminister;X
+110232;Chief of Air Force;Under Army Command;1914;1964;LWR;Generic;Very High;unknownminister;X

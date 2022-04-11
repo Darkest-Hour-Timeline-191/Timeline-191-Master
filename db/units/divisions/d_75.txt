@@ -1,0 +1,39 @@
+# MODEL_115_
+
+allowed_brigades = b_04
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+upgrade = { type = d_76		upgrade_time_factor = 0.80	upgrade_cost_factor = 1.20 } #angled deck jet cag CV
+upgrade = { type = d_77		upgrade_time_factor = 0.60	upgrade_cost_factor = 0.60 } #ASW cag CV
+
+# 0 - Semi-Modern Carrier jet cag conversion (1940, avail 1945)
+model = {
+	cost						= 7.5
+	buildtime 					= 1320
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.8
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 26
+	airdefence					= 26
+	seaattack					= -1
+	convoyattack				= -1
+	subattack					= 0
+	airattack					= 0
+	shorebombardment			= -1
+	transportcapability			= 0
+	range						= 18000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	reinforce_time				= 0.4
+	reinforce_cost				= 0.6	
+	equipment = { carrier = 1 manpower = 3800 }
+}

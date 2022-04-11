@@ -1,0 +1,69 @@
+allowed_brigades = b_05
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_asw
+max_allowed_brigades = 5
+
+# 0 - 1940 S.-M. CV-'53 ASW
+model = {
+	cost						= 6
+	buildtime 					= 1360
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 2
+	visibility					= 100
+	seadefence					= 23
+	airdefence					= 23
+	seaattack					= 0
+	airattack					= 2
+	subattack					= 5
+	convoyattack					= 3
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 18000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_77				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 3000 }
+}
+# 1 - 1940 ASW CV 1963 refit
+model = {
+	cost						= 7
+	buildtime 					= 1460
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 4
+	visibility					= 100
+	seadefence					= 23
+	airdefence					= 23
+	seaattack					= 0
+	airattack					= 3
+	subattack					= 10
+	convoyattack					= 4
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 20000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 3500 }
+}

@@ -1,0 +1,102 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_36 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1944 SHBB 20 inch
+model = {
+	cost						= 7.2
+	buildtime 					= 1750
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3
+	maxspeed					= 28
+	surfacedetectioncapability	= 2
+	airdetectioncapability		= 3
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 18
+	airdefence					= 30
+	seaattack					= 35
+	airattack					= 7
+	subattack					= 1
+	convoyattack					= 33
+	shorebombardment			= 19
+	transportcapability			= 0
+	range						= 14000
+	supplyconsumption			= 1.2
+	fuelconsumption				= 1.5
+	distance					= 0.44
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_35				= 1
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 3000 }
+}
+# 1 - 1944 SHBB 20 inch '47 refit
+model = {
+	cost						= 7.4
+	buildtime 					= 1770
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3
+	maxspeed					= 30
+	surfacedetectioncapability	= 4
+	airdetectioncapability		= 4
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 14
+	airdefence					= 28
+	seaattack					= 44
+	airattack					= 10
+	subattack					= 1
+	convoyattack					= 36
+	shorebombardment			= 25
+	transportcapability			= 0
+	range						= 15000
+	supplyconsumption			= 1.2
+	fuelconsumption				= 1.5
+	distance					= 0.44
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_35				= 2
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 3000 }
+}
+# 2 - 1944 SHBB 20 inch '56 refit
+model = {
+	cost						= 7.6
+	buildtime 					= 1790
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3
+	maxspeed					= 30
+	surfacedetectioncapability	= 5
+	airdetectioncapability		= 6
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 7
+	airdefence					= 24
+	seaattack					= 46
+	airattack					= 14
+	subattack					= 1
+	convoyattack					= 36
+	shorebombardment			= 31
+	transportcapability			= 0
+	range						= 18000
+	supplyconsumption			= 1.4
+	fuelconsumption				= 1.5
+	distance					= 0.44
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battleship = 1 manpower = 3000 }
+}

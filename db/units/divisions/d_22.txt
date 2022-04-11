@@ -1,0 +1,71 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_23 upgrade_time_factor = 0.75 upgrade_cost_factor = 0.75 }
+upgrade = { type = d_24 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1944 BB 15 inch
+model = {
+	cost						= 5.7
+	buildtime 					= 1625
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.5
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 3
+	subdetectioncapability		= 3
+	visibility					= 90
+	seadefence					= 20
+	airdefence					= 27
+	seaattack					= 28
+	airattack					= 10
+	subattack					= 1
+	convoyattack					= 28
+	shorebombardment			= 16
+	transportcapability			= 0
+	range						= 12500
+	supplyconsumption			= 1
+	fuelconsumption				= 1
+	distance					= 0.39
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_22				= 1
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 2500 }
+}
+# 1 - 1944 BB 15 inch 1951 refit
+model = {
+	cost						= 6.1
+	buildtime 					= 1645
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.7
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 3
+	visibility					= 90
+	seadefence					= 18
+	airdefence					= 24
+	seaattack					= 28
+	airattack					= 12
+	subattack					= 1
+	convoyattack					= 28
+	shorebombardment			= 18
+	transportcapability			= 0
+	range						= 13500
+	supplyconsumption			= 1
+	fuelconsumption				= 1
+	distance					= 0.39
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battleship = 1 manpower = 2700 }
+}

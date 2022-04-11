@@ -1,0 +1,73 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_57 upgrade_time_factor = 0.75 upgrade_cost_factor = 0.75 }
+upgrade = { type = d_58 upgrade_time_factor = 0.8 upgrade_cost_factor = 0.8 }
+upgrade = { type = d_59 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+upgrade = { type = d_60 upgrade_time_factor = 0.8 upgrade_cost_factor = 1.2 }
+
+# 0 - 1939 BC 11-12 inch
+model = {
+	cost						= 4
+	buildtime 					= 1320
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.5
+	maxspeed					= 30
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 3
+	visibility					= 80
+	seadefence					= 24
+	airdefence					= 25
+	seaattack					= 20
+	airattack					= 5
+	subattack					= 1
+	convoyattack					= 20
+	shorebombardment			= 10
+	transportcapability			= 0
+	range						= 10000
+	supplyconsumption			= 0.8
+	fuelconsumption				= 0.8
+	distance					= 0.36
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_56				= 1
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 1500 }
+}
+# 1 - 1939 BC 11-12 inch '51 refit
+model = {
+	cost						= 4.9
+	buildtime 					= 1340
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 2
+	subdetectioncapability		= 4
+	visibility					= 80
+	seadefence					= 20
+	airdefence					= 20
+	seaattack					= 21
+	airattack					= 5
+	subattack					= 1
+	convoyattack					= 21
+	shorebombardment			= 12
+	transportcapability			= 0
+	range						= 12000
+	supplyconsumption			= 0.8
+	fuelconsumption				= 0.8
+	distance					= 0.36
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battlecruiser = 1 manpower = 1500 }
+}

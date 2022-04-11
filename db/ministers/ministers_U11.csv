@@ -1,0 +1,123 @@
+U11;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+870001;Head of State;Maurice Thorez;1933;1964;ST;Powerhungry Demagogue;High;M2011;X
+870002;Head of Government;Jacques Duclos;1933;1964;ST;Backroom Backstabber;High;M2012;X
+870003;Foreign Minister;Laurent Casanova;1933;1964;ST;Great Compromiser;Very High;M2064;X
+870004;Minister of Armament;George Lévy;1933;1964;ST;Administrative Genius;Very High;M2014;X
+870005;Minister of Security;Claudine Chomat;1933;1964;ST;Efficient Sociopath;Very High;M2118;X
+870006;Head of Military Intelligence;Jean-Marie Clamamus;1933;1964;ST;Industrial Specialist;Very High;M2120;X
+870007;Chief of Staff;Marcel Cachin;1933;1964;ST;School of Fire Support;Very High;M2017;X
+870008;Chief of Army;André Marty;1933;1964;ST;Guns and Butter Doctrine;Very High;M2018;X
+870009;Chief of Navy;André Marty;1933;1964;ST;Indirect Approach Doctrine;Very High;M2018;X
+870010;Chief of Air Force;Charles Tillon;1933;1964;ST;Army Aviation Doctrine;Very High;M2180;X
+870011;Head of State;Waldeck Rochet;1960;1964;LE;Insignificant Layman;High;M2016;X
+870012;Head of State;Marceau Pivert;1936;1959;LWR;Die-hard Reformer;High;U11-Marceau_Pivert;X
+870013;Head of State;Daniel Guérin;1955;1964;LWR;Benevolent Gentleman;High;U11-Daniel_Guerin;X
+870014;Head of State;Jacques Duclos;1948;1964;ST;Ruthless Powermonger;High;M2012;X
+870015;Head of State;Vincent Auriol;1933;1964;SD;Autocratic Charmer;High;5901;X
+870016;Head of State;Daniel Mayer;1933;1964;SD;Weary Stiffneck;High;M2023;X
+870017;Head of State;Comité de Salut Public;1933;1964;LWR;Insignificant Layman;Very High;U11-CdSP;X
+870018;Head of Government;Benoit Frachon;1933;1964;ST;Ambitious Union Boss;Very High;M2094;X
+870019;Head of Government;Marcel Cachin;1933;1964;ST;Silent Workhorse;High;M2017;X
+870020;Head of Government;Auguste Lecoeur;1944;1964;ST;Flamboyant Tough Guy;Very High;M2095;X
+870021;Head of Government;Georges Marchais;1960;1964;LE;Silent Workhorse;High;U11-Georges_Marchais;X
+870022;Head of Government;Robert Louzon;1936;1964;LWR;Ambitious Union Boss;High;U11-Robert_Louzon;X
+870023;Head of Government;Boris Souvarine;1936;1964;LWR;Flamboyant Tough Guy;Very High;U11-Boris_Souvarine;X
+870024;Head of Government;Léon Blum;1933;1964;SD;Naive Optimist;High;M2033;X
+870025;Head of Government;Felix Gouin;1933;1964;SD;Smiling Oilman;High;M2034;X
+870026;Head of Government;Paul Reynaud;1933;1964;SD;Political Protege;High;M2038;X
+870027;Head of Government;Paul Ramadier;1933;1964;SD;Ambitious Union Boss;High;M2035;X
+870028;Head of Government;Louis-Georges Mandel;1933;1964;SD;Backroom Backstabber;Medium;M2108;X
+870029;Head of Government;René Mayer;1933;1964;SD;Naive Optimist;High;M2221;X
+870030;Head of Government;Edgar Faure;1933;1964;SD;Backroom Backstabber;High;M2219;X
+870031;Head of Government;Comité de Salut Public;1933;1964;LWR;Happy Amateur;Very High;U11-CdSP;X
+870032;Head of Government;Maurice Thorez;1933;1964;ST;Backroom Backstabber;High;M2011;X
+870033;Foreign Minister;Marcel Gitton;1933;1964;ST;Apologetic Clerk;Very High;M2020;X
+870034;Foreign Minister;Marcel Cachin;1933;1964;ST;Biased Intellectual;Very High;M2017;X
+870035;Foreign Minister;Jacques Duclos;1933;1964;ST;Ideological Crusader;Very High;M2012;X
+870036;Foreign Minister;Missak Manouchian;1936;1964;LE;Biased Intellectual;Very High;U11-Missak_Manouchian;X
+870037;Foreign Minister;May Picqueray;1936;1964;LWR;Great Compromiser;Very High;U11-May_Picqueray;X
+870038;Foreign Minister;Jean-Paul Sarte;1950;1964;LWR;Biased Intellectual;Very High;U11-Jean-Paul_Sarte;X
+870039;Foreign Minister;Léon Blum;1933;1964;SD;Apologetic Clerk;Very High;M2033;X
+870040;Foreign Minister;Joseph Paul-Boncour;1933;1964;SD;Ideological Crusader;Medium;M2049;X
+870041;Foreign Minister;Pierre Comert;1933;1964;SD;The Cloak N Dagger Schemer;Medium;M2050;X
+870042;Foreign Minister;Georges Bonnet;1933;1964;SD;Iron Fisted Brute;Medium;M2053;X
+870043;Foreign Minister;Yvon Delbos;1933;1964;SD;Supporter of Friendly Relations;Medium;M2048;X
+870044;Foreign Minister;Paul Reynaud;1933;1964;SD;Ideological Crusader;Very High;M2038;X
+870045;Minister of Armament;Daniel Renoult;1933;1964;ST;Theoretical Scientist;Medium;M2096;X
+870046;Minister of Armament;Laurent Casenova;1933;1964;ST;Planned Economy Proponent;Very High;M2064;X
+870047;Minister of Armament;Auguste Lecoeur;1933;1964;ST;Military Entrepreneur;Very High;M2095;X
+870048;Minister of Armament;Jean Jerome;1933;1964;ST;Mixed Economy;Very High;M2093;X
+870049;Minister of Armament;Alfred Daul;1936;1964;LE;Planned Economy Proponent;Very High;U11-Alfred_Daul;X
+870050;Minister of Armament;André Malraux;1936;1964;LWR;Laissez-Faire Capitalist;Very High;U11-Andre_Malraux;X
+870052;Minister of Armament;Pierre Monatte;1936;1964;LWR;Mixed Economy;Very High;U11-Pierre_Monatte;X
+870053;Minister of Armament;Vincent Auriol;1933;1964;SD;Supporter of Devaluation;High;5901;X
+870054;Minister of Armament;Jean Louis Barthou;1933;1964;SD;Military Entrepreneur;Medium;M2069;X
+870055;Minister of Armament;Leon Jouhaux;1933;1964;SD;Strategic Air Proponent;Medium;M2070;X
+870056;Minister of Armament;Guy Mollet;1933;1964;SD;Keynesian Economy;Medium;M2071;X
+870057;Minister of Armament;André Le Troquer;1933;1964;SD;Resource Industrialist;Medium;M2072;X
+870058;Minister of Armament;Raoul Dautry;1933;1964;SD;Theoretical Scientist;High;M2073;X
+870059;Minister of Armament;Louis Loucheur;1933;1964;SD;Construction Magnate;Medium;M2074;X
+870060;Minister of Armament;Marcel Hoden;1933;1964;SD;Air Superiority Proponent;Medium;M2076;X
+870061;Minister of Armament;Georges Bonnet;1933;1964;SD;Opposer to Military Spending;Medium;M2053;X
+870062;Minister of Armament;René Mayer;1933;1964;SD;Tank Proponent;Medium;M2221;X
+870063;Minister of Armament;Paul Ramadier;1933;1964;SD;Resource Industrialist;Medium;M2035;X
+870064;Minister of Armament;Jules Moch;1933;1964;SD;Battle Fleet Proponent;Medium;M2104;X
+870065;Minister of Security;Lucien Micol;1933;1964;ST;Crime Fighter;Very High;M2015;X
+870066;Minister of Security;Henri Gourdeaux;1933;1964;ST;Silent Lawyer;Very High;M2119;X
+870067;Minister of Security;Maurice Thorez;1933;1964;ST;Prince of Terror;Very High;M2011;X
+870068;Minister of Security;Jean-Marie Clamamus;1933;1964;ST;Man of the People;Very High;M2120;X
+870069;Minister of Security;Anne-Marie Schell;1936;1964;LE;Secret Police Chief;Very High;U11-Anne-Marie_Schell;X
+870070;Minister of Security;Renée Lamberet;1936;1964;LWR;Media Magnate;Very High;U11-Renee_Lamberet;X
+870071;Minister of Security;Pierre Brossolette;1936;1964;LWR;Man of the People;Very High;U11-Pierre_Brossolette;X
+870072;Minister of Security;Marx Dormoy;1933;1964;SD;Opposer of the Far Right;Medium;M2005;X
+870073;Minister of Security;Julien Luchaire;1933;1964;SD;Efficient Sociopath;Medium;M2099;X
+870074;Minister of Security;Adrien Tixier;1933;1964;SD;Health and Safety;Medium;M2100;X
+870075;Minister of Security;Henri Bonnet;1933;1964;SD;Back Stabber;Medium;M2101;X
+870076;Minister of Security;Paul Ramadier;1933;1964;SD;Crime Fighter;Medium;M2035;X
+870077;Minister of Security;Jules Moch;1933;1964;SD;Man of the People;High;M2104;X
+870078;Minister of Security;Pierre Pené;1933;1964;SD;Silent Lawyer;Medium;M2105;X
+870079;Minister of Security;Henri Roy;1933;1964;SD;Man of the People;Medium;M2107;X
+870080;Minister of Security;Louis-Georges Mandel;1933;1964;SD;Crime Fighter;Low;M2108;X
+870081;Minister of Security;Jean Maillet;1933;1964;SD;Back Stabber;High;M2109;X
+870082;Minister of Security;Yvon Delbos;1933;1964;SD;Silent Lawyer;High;M2048;X
+870083;Minister of Security;Charles Brune;1933;1964;SD;Silent Lawyer;Medium;M2229;X
+870084;Head of Military Intelligence;Waldeck Rochet;1933;1964;ST;Dismal Enigma;High;M2016;X
+870085;Head of Military Intelligence;Henri Gourdeaux;1933;1964;ST;Logistics Specialist;High;M2119;X
+870086;Head of Military Intelligence;Gustave Guéhenneux;1933;1964;ST;Technical Specialist;Medium;M2141;X
+870087;Head of Military Intelligence;Anne-Marie Schell;1936;1964;LE;Political Specialist;Very High;U11-Anne-Marie_Schell;X
+870088;Head of Military Intelligence;Pierre Brossolette;1936;1964;LWR;Dismal Enigma;Very High;U11-Pierre_Brossolette;X
+870089;Head of Military Intelligence;Renée Lamberet;1936;1964;LWR;Political Specialist;Very High;U11-Renee_Lamberet;X
+870090;Head of Military Intelligence;Roger Salengro;1933;1964;SD;Industrial Specialist;Medium;M2123;X
+870091;Head of Military Intelligence;Felix Gouin;1933;1964;SD;Technical Specialist;Medium;M2034;X
+870092;Head of Military Intelligence;Daniel Mayer;1933;1964;SD;Logistics Specialist;Medium;M2023;X
+870093;Head of Military Intelligence;André Le Troquer;1933;1964;SD;Dismal Enigma;Medium;M2072;X
+870094;Head of Military Intelligence;Maurice Delage;1933;1964;SD;Technical Specialist;High;M2129;X
+870095;Head of Military Intelligence;Aimé Lepercq;1933;1964;SD;Industrial Specialist;Medium;M2130;X
+870096;Head of Military Intelligence;Joseph Paganon;1933;1964;SD;Political Specialist;Medium;M2006;X
+870097;Head of Military Intelligence;René Mayer;1933;1964;SD;Logistics Specialist;Medium;M2221;X
+870098;Head of Military Intelligence;Edgar Faure;1933;1964;SD;Dismal Enigma;Medium;M2219;X
+870099;Chief of Staff;Albert Ouzoulias;1936;1964;ST;Commando Doctrine Staff;Very High;U11-Albert_Ouzoulias;X
+870100;Chief of Staff;Pierre Georges;1944;1964;ST;School of Mass Combat;Very High;M2167;X
+870101;Chief of Staff;Roger Ginsburger;1936;1964;LE;School of Fire Support;Very High;U11-Pierre_Villon;X
+870102;Chief of Staff;Maurice Joyeux;1936;1964;LWR;School of Mass Combat;Very High;U11-Maurice_Joyeux;X
+870103;Chief of Staff;Maurice Gamelin;1933;1964;SD;Fortifications Supporter;Medium;5902;X
+870104;Chief of Army;Pierre Georges;1933;1964;ST;Decisive Battle Doctrine;Very High;M2167;X
+870105;Chief of Army;Henri Rol-Tanguy;1941;1964;ST;Doctrine of Autonomy;Very High;U11-Henri_Rol-Tanguy;X
+870106;Chief of Army;Maurice Kriegel-Valrimont;1936;1964;LE;Commando Doctrine Army;Very High;U11-Maurice_Kriegel-Valrimont;X
+870107;Chief of Army;Pierre Auguste Chardigny;1933;1964;SD;Elastic Defence Doctrine;Medium;M2098;X
+870108;Chief of Army;Maurice Gamelin;1933;1964;SD;Static Defense Supporter;Medium;5902;X
+870109;Chief of Navy;Charles Tillon;1933;1964;ST;Base Control Doctrine;Very High;M2180;X
+870110;Chief of Navy;Louis Pétri;1944;1964;ST;Indirect Approach Doctrine;Very High;U11-Louis_Petri;X
+870111;Chief of Navy;Jacques Piette;1944;1964;LE;Base Control Doctrine;Very High;U11-Jacques_Piette;X
+870112;Chief of Navy;Maurice Joyeux;1936;1964;LWR;Base Control Doctrine;Very High;U11-Maurice_Joyeux;X
+870113;Chief of Navy;Joseph Paul Boncour;1933;1964;SD;Base Control Doctrine;High;M2170;X
+870114;Chief of Navy;Jean Gout;1933;1964;SD;Power Projection Doctrine;High;M2171;X
+870115;Chief of Air Force;Marcel Gitton;1933;1964;ST;Air Superiority Doctrine;Medium;M2020;X
+870116;Chief of Air Force;Roland de la Poype;1948;1964;ST;Air Superiority Doctrine;Very High;U11-Roland_de_la_Poype;X
+870117;Chief of Air Force;Jacques Piette;1944;1964;LE;Vertical Envelopment Doctrine;Very High;U11-Jacques_Piette;X
+870118;Chief of Air Force;Maurice Joyeux;1936;1964;LWR;Vertical Envelopment Doctrine;Very High;U11-Maurice_Joyeux;X
+870119;Chief of Air Force;Victor Denain;1933;1964;SD;Carpet Bombing Doctrine;Medium;M2010;X
+870120;Chief of Air Force;Guy La Chambre;1933;1964;SD;Vertical Envelopment Doctrine;Medium;M2188;X
+870121;Chief of Air Force;Pierre Cot;1933;1964;SD;Army Aviation Doctrine;Medium;M2184;X
+870122;Chief of Air Force;Joseph Vuillemin;1933;1964;SD;Air Superiority Doctrine;Low;M2187;X

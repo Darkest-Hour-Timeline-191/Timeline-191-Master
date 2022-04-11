@@ -1,0 +1,68 @@
+allowed_brigades = b_04
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - 1943 M. CV-'51 Angled-Deck
+model = {
+	cost						= 8
+	buildtime 					= 1450
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 4
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 5
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 18
+	airdefence					= 23
+	seaattack					= 5
+	airattack					= 5
+	subattack					= 0
+	convoyattack					= 5
+	shorebombardment			= 1
+	transportcapability			= 0
+	range						= 19000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_80				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 4000 }
+}
+# 1 - 1943 M. CV-'51 A.-D. '61 refit
+model = {
+	cost						= 8.5
+	buildtime 					= 1520
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 5
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 16
+	airdefence					= 22
+	seaattack					= 6
+	airattack					= 6
+	subattack					= 1
+	convoyattack					= 6
+	shorebombardment			= 2
+	transportcapability			= 0
+	range						= 20000
+	supplyconsumption			= 3.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 5000 }
+}

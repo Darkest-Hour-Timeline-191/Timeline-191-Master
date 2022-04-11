@@ -1,0 +1,76 @@
+U76;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+1195001;Head of State;Lewis Valentine;1933;1964;SD;Die-hard Reformer;High;U76-Lewis_Valentine;X
+1195002;Head of Government;John Saunders Lewis;1933;1964;SD;Naive Optimist;High;8603;X
+1195003;Foreign Minister;Bertrand Russell;1933;1964;SD;Biased Intellectual;Very High;U76-Bertrand_Russell;X
+1195004;Minister of Armament;Ifor Davies;1933;1964;SD;Administrative Genius;Very High;U76-Ifor_Davies;X
+1195005;Minister of Security;Elizabeth Andrews;1933;1964;SD;Prince of Terror;Very High;U76-Elizabeth_Andrews;X
+1195006;Head of Military Intelligence;Jim Griffiths;1933;1964;SD;Political Specialist;Very High;U76-Jim_Griffiths;X
+1195007;Chief of Staff;Lewis Pugh Evans;1933;1964;ML;School of Psychology;Very High;8653;X
+1195008;Chief of Army;Lewis Pugh Evans;1933;1964;ML;Guns and Butter Doctrine;Very High;8653;X
+1195009;Chief of Navy;Sven Hansen;1933;1964;ML;Open Seas Doctrine;Very High;unknownminister;X
+1195010;Chief of Air Force;Lionel Rees;1933;1964;ML;Air Superiority Doctrine;Very High;8654;X
+1195011;Head of State;Arthur Horner;1933;1964;LE;Die-hard Reformer;High;M1076;X
+1195012;Head of Government;Idris Cox;1933;1964;LE;Ambitious Union Boss;High;U76-Idris_Cox;X
+1195013;Foreign Minister;T.E. Nicholas;1933;1964;LE;Apologetic Clerk;Very High;U76-Niclas_y_Glas;X
+1195014;Minister of Armament;Will Paynter;1933;1964;LE;Planned Economy Proponent;Very High;U76-Will_Paynter;X
+1195015;Minister of Security;Goronwy Rees;1933;1964;LE;Back Stabber;Very High;U76-Goronwy_Rees;X
+1195016;Head of Military Intelligence;Annie Powell;1933;1964;LE;Political Specialist;Very High;U76-Annie_Powell;X
+1195017;Chief of Staff;David Francis;1933;1964;LE;School of Mass Combat;Very High;U76-David_Francis;X
+1195018;Chief of Army;David Francis;1933;1964;LE;Decisive Battle Doctrine;Very High;U76-David_Francis;X
+1195019;Chief of Navy;David R. Llewellyn;1933;1964;LE;Base Control Doctrine;Very High;unknownminister;X
+1195020;Chief of Air Force;David R. Llewellyn;1933;1964;LE;Base Control Doctrine;Very High;unknownminister;X
+1195021;Head of State;H.M. Robert I Wittelsbach;1933;1956;SC;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
+1195022;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
+1195023;Head of State;H.M. James III FitzJames Stuart;1933;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
+1195024;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
+1195025;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
+1195026;Head of State;H.M. Edward VIII;1933;1973;ML;Autocratic Charmer;High;M1011;X
+1195027;Head of State;H.M. George VI;1933;1953;ML;Weary Stiffneck;High;M1033;X
+1195028;Head of State;H.M. Elizabeth II;1952;2012;ML;Weary Stiffneck;High;M1182;X
+1195029;Head of State;David Lloyd George;1933;1946;ML;Die-hard Reformer;Very High;8648;X
+1195030;Head of State;John Saunders Lewis;1964;1964;PA;Barking Buffoon;High;8603;X
+1195031;Head of State;James Henry Thomas;1933;1950;SD;Pig-headed Isolationist;Very High;8652;X
+1195032;Head of State;Gwynfor Evans;1949;1964;SD;Weary Stiffneck;High;U76-Gwynfor_Evans;X
+1195033;Head of State;Augustus John;1933;1962;LWR;Popular Figurehead;Very High;8601;X
+1195034;Head of State;R. S. Thomas;1950;1964;LWR;Pig-headed Isolationist;High;U76-R_S_Thomas;X
+1195035;Head of State;H.M. Robert I Wittelsbach;1933;1956;PA;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
+1195036;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
+1195037;Head of State;H.M. James III FitzJames Stuart;1933;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
+1195038;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
+1195039;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
+1195040;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
+1195041;Head of State;H.M. George VI;1933;1953;PA;Weary Stiffneck;High;M1033;X
+1195042;Head of State;H.M. Elizabeth II;1952;2012;PA;Weary Stiffneck;High;M1182;X
+1195043;Head of Government;Edward Jeffrey Hamm;1941;1964;FA;Ambitious Union Boss;Medium;M1093;X
+1195044;Head of Government;John Saunders Lewis;1933;1964;PA;Naive Optimist;High;8603;X
+1195045;Head of Government;Cuthbert Alport;1933;1964;SC;Political Protege;Very High;8649;X
+1195046;Head of Government;David Lloyd George;1933;1946;SL;Flamboyant Tough Guy;Very High;8648;X
+1195047;Head of Government;James Henry Thomas;1933;1950;SD;Ambitious Union Boss;Very High;8652;X
+1195048;Head of Government;Gwynfor Evans;1941;1964;SD;Naive Optimist;High;U76-Gwynfor_Evans;X
+1195049;Head of Government;David Rhys Grenfell;1933;1964;LWR;Ambitious Union Boss;Very High;8599;X
+1195050;Head of Government;Ithel Davies;1948;1964;LWR;Happy Amateur;High;U76-Ithel_Davies;X
+1195051;Foreign Minister;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195052;Foreign Minister;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195053;Foreign Minister;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195054;Minister of Armament;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195055;Minister of Armament;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195056;Minister of Armament;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195057;Minister of Security;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195058;Minister of Security;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195059;Minister of Security;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195060;Head of Military Intelligence;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195061;Head of Military Intelligence;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195062;Head of Military Intelligence;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195063;Chief of Staff;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195064;Chief of Staff;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195065;Chief of Staff;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195066;Chief of Army;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195067;Chief of Army;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195068;Chief of Army;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195069;Chief of Navy;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195070;Chief of Navy;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195071;Chief of Navy;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X
+1195072;Chief of Air Force;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+1195073;Chief of Air Force;Black Shadow;1933;1964;PA;Generic;Very High;unknownminister;X
+1195074;Chief of Air Force;Red Shadow;1933;1964;LE;Generic;Very High;unknownminister;X

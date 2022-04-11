@@ -1,0 +1,36 @@
+# MODEL_113_
+
+allowed_brigades = b_04
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 3 - Improved Carrier jet cag conversion (1937, avail 1945)
+model = {
+	cost						= 7.5
+	buildtime 					= 1340
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 24
+	airdefence					= 26
+	seaattack					= -2
+	convoyattack				= -2
+	subattack					= 0
+	airattack					= -1
+	shorebombardment			= -2
+	transportcapability			= 0
+	range						= 16000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	reinforce_time				= 0.4
+	reinforce_cost				= 0.6	
+	equipment = { carrier = 1 manpower = 3500 }
+}

@@ -1,0 +1,42 @@
+# 0 - Early VSTOL Aircraft
+model = {
+	cost 				= 1
+	buildtime	 		= 300
+	manpower 			= 0.1
+	suppression			= 2
+	softattack			= 13
+	hardattack			= 10
+	supplyconsumption 	= 1
+	fuelconsumption		= 2
+	upgrade_time_factor = 0.4
+	upgrade_cost_factor = 0.6
+	equipment = { manpower = 100 fighter = 32 }
+}
+# 1 - Basic VSTOL Aircraft
+model = {
+	cost 				= 1.25
+	buildtime	 		= 325
+	manpower 			= 0.1
+	suppression			= 2
+	softattack			= 14
+	hardattack			= 11
+	supplyconsumption 	= 1
+	fuelconsumption		= 2
+	upgrade_time_factor = 0.4
+	upgrade_cost_factor = 0.6
+	equipment = { manpower = 100 fighter = 32 }
+}
+# 2 - Improved VSTOL Aircraft
+model = {
+	cost 				= 1.25
+	buildtime	 		= 325
+	manpower 			= 0.1
+	suppression			= 2
+	softattack			= 14
+	hardattack			= 11
+	supplyconsumption 	= 1
+	fuelconsumption		= 2
+	upgrade_time_factor = 0.4
+	upgrade_cost_factor = 0.6
+	equipment = { manpower = 100 fighter = 32 }
+}

@@ -1,0 +1,108 @@
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_45 upgrade_time_factor = 0.5 upgrade_cost_factor = 0.45 }
+upgrade = { type = d_46 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+upgrade = { type = d_87 upgrade_time_factor = 0.75 upgrade_cost_factor = 0.75 }
+upgrade = { type = d_88 upgrade_time_factor = 0.5 upgrade_cost_factor = 0.42 }
+
+# 0 - 1915 BCL 15-16 inch
+model = {
+	cost						= 3.1
+	buildtime 					= 800
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 0.85
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 1
+	visibility					= 80
+	seadefence					= 35
+	airdefence					= 30
+	seaattack					= 20
+	airattack					= 1
+	subattack					= 1
+	convoyattack					= 20
+	shorebombardment			= 8
+	transportcapability			= 0
+	range						= 6000
+	supplyconsumption			= 0.6
+	fuelconsumption				= 0.8
+	distance					= 0.34
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_86				= 1
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 850 }
+}
+# 1 - 1915 BCL 15-16 inch '20 refit
+model = {
+	cost						= 3.3
+	buildtime 					= 1270
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 0.85
+	maxspeed					= 32
+	surfacedetectioncapability	= 2
+	airdetectioncapability		= 1
+	subdetectioncapability		= 1
+	visibility					= 80
+	seadefence					= 34
+	airdefence					= 29
+	seaattack					= 21
+	airattack					= 3
+	subattack					= 1
+	convoyattack					= 20
+	shorebombardment			= 8
+	transportcapability			= 0
+	range						= 7000
+	supplyconsumption			= 0.6
+	fuelconsumption				= 0.8
+	distance					= 0.34
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_86				= 2
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 850 }
+}
+# 2 - 1915 BCL 15-16 inch '34 refit
+model = {
+	cost						= 3.5
+	buildtime 					= 1290
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 0.85
+	maxspeed					= 33
+	surfacedetectioncapability	= 2
+	airdetectioncapability		= 1
+	subdetectioncapability		= 1
+	visibility					= 80
+	seadefence					= 33
+	airdefence					= 28
+	seaattack					= 22
+	airattack					= 4
+	subattack					= 1
+	convoyattack					= 22
+	shorebombardment			= 9
+	transportcapability			= 0
+	range						= 8000
+	supplyconsumption			= 0.6
+	fuelconsumption				= 0.8
+	distance					= 0.34
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 850 }
+}

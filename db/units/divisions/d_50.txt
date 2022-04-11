@@ -1,0 +1,38 @@
+# MODEL_90_
+
+allowed_brigades = b_01
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+upgrade = { type = d_51		upgrade_time_factor = 0.72	upgrade_cost_factor = 0.81 } #mid cag CV
+
+# 0 - Interwar Battlecruiser early carrier conversion (1920)
+model = {
+	cost						= 2.5
+	buildtime 					= 1100
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.6
+	maxspeed					= 31
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 2
+	visibility					= 100
+	seadefence					= 32
+	airdefence					= 30
+	seaattack					= 0
+	subattack					= 0
+	convoyattack				= 0
+	airattack					= 0
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 8000
+	supplyconsumption			= 0.9
+	fuelconsumption				= 1.0
+	distance					= 0.05
+	reinforce_time				= 0.35
+	reinforce_cost				= 0.55	
+	equipment = { carrier = 1 manpower = 1600 }
+}

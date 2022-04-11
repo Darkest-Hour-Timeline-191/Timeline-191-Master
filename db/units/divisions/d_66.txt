@@ -1,0 +1,104 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_67 upgrade_time_factor = 0.75 upgrade_cost_factor = 0.75 }
+upgrade = { type = d_68 upgrade_time_factor = 0.8 upgrade_cost_factor = 0.8 }
+upgrade = { type = d_69 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1956 BCN 11-12 inch
+model = {
+	cost						= 5
+	buildtime 					= 1470
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.5
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 3
+	subdetectioncapability		= 4
+	visibility					= 80
+	seadefence					= 22
+	airdefence					= 24
+	seaattack					= 22
+	airattack					= 6
+	subattack					= 1
+	convoyattack					= 22
+	shorebombardment			= 10
+	transportcapability			= 0
+	range						= 40000
+	supplyconsumption			= 2
+	fuelconsumption				= 0
+	distance					= 0.38
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_66				= 1
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 1500 }
+}
+# 1 - 1956 BCN 11-12 inch '61 refit
+model = {
+	cost						= 5.2
+	buildtime 					= 1490
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.5
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 4
+	visibility					= 80
+	seadefence					= 21
+	airdefence					= 20
+	seaattack					= 22
+	airattack					= 8
+	subattack					= 1
+	convoyattack					= 23
+	shorebombardment			= 11
+	transportcapability			= 0
+	range						= 40000
+	supplyconsumption			= 2
+	fuelconsumption				= 0
+	distance					= 0.38
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_66				= 2
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 1500 }
+}
+# 2 - 1956 BCN 11-12 inch '71 refit
+model = {
+	cost						= 5.4
+	buildtime 					= 1510
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.6
+	maxspeed					= 33
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 6
+	subdetectioncapability		= 4
+	visibility					= 80
+	seadefence					= 18
+	airdefence					= 18
+	seaattack					= 24
+	airattack					= 10
+	subattack					= 1
+	convoyattack					= 24
+	shorebombardment			= 14
+	transportcapability			= 0
+	range						= 80000
+	supplyconsumption			= 2
+	fuelconsumption				= 0
+	distance					= 0.38
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battlecruiser = 1 manpower = 1600 }
+}

@@ -1,0 +1,157 @@
+allowed_brigades = b_06
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - 1957 Nuclear Carrier
+model = {
+	cost						= 8.5
+	buildtime 					= 1560
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 5
+	maxspeed					= 34
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 5
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 14
+	airdefence					= 21
+	seaattack					= 6
+	airattack					= 6
+	subattack					= 1
+	convoyattack					= 6
+	shorebombardment			= 2
+	transportcapability			= 0
+	range						= 40000
+	supplyconsumption			= 3.5
+	fuelconsumption				= 0
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_83				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 5000 }
+}
+# 1 - 1957 Nuclear Carrier '63 refit
+model = {
+	cost						= 9
+	buildtime 					= 1580
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 6
+	maxspeed					= 34
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 6
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 12
+	airdefence					= 19
+	seaattack					= 7
+	airattack					= 7
+	subattack					= 2
+	convoyattack					= 7
+	shorebombardment			= 3
+	transportcapability			= 0
+	range						= 40000
+	supplyconsumption			= 4.5
+	fuelconsumption				= 0
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_83				= 2
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 6000 }
+}
+# 2 - 1957 Nuclear Carrier '71 refit
+model = {
+	cost						= 10
+	buildtime 					= 1600
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 6.5
+	maxspeed					= 34
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 7
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 10
+	airdefence					= 17
+	seaattack					= 8
+	airattack					= 8
+	subattack					= 3
+	convoyattack					= 8
+	shorebombardment			= 4
+	transportcapability			= 0
+	range						= 80000
+	supplyconsumption			= 5.5
+	fuelconsumption				= 0
+	distance					= 0.05
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 6500 }
+}
+# 3 - 1971 Nuclear Carrier 2nd Gen
+model = {
+	cost						= 12
+	buildtime 					= 1700
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 7.5
+	maxspeed					= 34
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 8
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 8
+	airdefence					= 12
+	seaattack					= 10
+	airattack					= 10
+	subattack					= 4
+	convoyattack					= 9
+	shorebombardment			= 6
+	transportcapability			= 0
+	range						= 160000
+	supplyconsumption			= 6.5
+	fuelconsumption				= 0
+	distance					= 0.05
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 7500 }
+}
+# 4 - 1971 Nuclear Carrier 2nd Gen '85 refit
+model = {
+	cost						= 13
+	buildtime 					= 1720
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 8
+	maxspeed					= 34
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 9
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 6
+	airdefence					= 10
+	seaattack					= 11
+	airattack					= 11
+	subattack					= 5
+	convoyattack					= 10
+	shorebombardment			= 7
+	transportcapability			= 0
+	range						= 160000
+	supplyconsumption			= 7.5
+	fuelconsumption				= 0
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 8000 }
+}

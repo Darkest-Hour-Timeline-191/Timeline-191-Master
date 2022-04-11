@@ -1,0 +1,36 @@
+# MODEL_116_
+
+allowed_brigades = b_04
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - Semi-Modern Carrier angled-deck jet cag conversion(1940, avail 1951)
+model = {
+	cost						= 8
+	buildtime 					= 1500
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 4
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 5
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 22
+	airdefence					= 24
+	seaattack					= 0
+	convoyattack				= 0
+	subattack					= 0
+	airattack					= 0
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 18000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2
+	distance					= 0.05
+	reinforce_time				= 0.4
+	reinforce_cost				= 0.6	
+	equipment = { carrier = 1 manpower = 4000 }
+}

@@ -1,0 +1,36 @@
+# MODEL_72_
+
+allowed_brigades = cag
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - Super Heavy Battleship carrier conversion (1937)
+model = {
+	cost						= 5.5
+	buildtime 					= 1470
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.7
+	maxspeed					= 28
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 18
+	airdefence					= 23
+	seaattack					= 5
+	airattack					= 6
+	subattack					= 0
+	convoyattack				= 5
+	shorebombardment			= 1
+	transportcapability			= 0
+	range						= 16000
+	supplyconsumption			= 2.5
+	fuelconsumption				= 2.0
+	distance					= 0.05
+	reinforce_time				= 0.4
+	reinforce_cost				= 0.6	
+	equipment = { carrier = 1 manpower = 3700 }
+}

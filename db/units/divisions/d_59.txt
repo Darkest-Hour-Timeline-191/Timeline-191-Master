@@ -1,0 +1,70 @@
+allowed_brigades = cag
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+upgrade = { type = d_60 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1939 BC to CV Conversion
+model = {
+	cost						= 5.5
+	buildtime 					= 1350
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.8
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 3
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 24
+	airdefence					= 26
+	seaattack					= 3
+	airattack					= 4
+	subattack					= 0
+	convoyattack					= 3
+	shorebombardment			= 1
+	transportcapability			= 0
+	range						= 12000
+	supplyconsumption			= 1.8
+	fuelconsumption				= 1.1
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_59				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 2800 }
+}
+# 1 - 1939 BC to CV '44 refit
+model = {
+	cost						= 6.5
+	buildtime 					= 1400
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 20
+	airdefence					= 24
+	seaattack					= 5
+	airattack					= 5
+	subattack					= 0
+	convoyattack					= 5
+	shorebombardment			= 1
+	transportcapability			= 0
+	range						= 14000
+	supplyconsumption			= 2.4
+	fuelconsumption				= 2.1
+	distance					= 0.05
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 3500 }
+}

@@ -1,0 +1,67 @@
+allowed_brigades = b_02
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+upgrade = { type = d_46 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1918 BC to CV Conversion
+model = {
+	cost						= 2.5
+	buildtime 					= 1000
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.6
+	maxspeed					= 30
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 1
+	visibility					= 90
+	seadefence					= 34
+	airdefence					= 34
+	seaattack					= 0
+	airattack					= 0
+	subattack					= 0
+	convoyattack					= 0
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 6000
+	supplyconsumption			= 0.9
+	fuelconsumption				= 1
+	distance					= 0.05
+	reinforce_time		= 0.35
+	reinforce_cost 		= 0.55
+	d_45				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 1600 }
+}
+# 1 - 1918 BC to CV '20 refit
+model = {
+	cost						= 2.5
+	buildtime 					= 1000
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.6
+	maxspeed					= 30
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 1
+	visibility					= 90
+	seadefence					= 33
+	airdefence					= 30
+	seaattack					= 0
+	airattack					= 0
+	subattack					= 0
+	convoyattack					= 0
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 6000
+	supplyconsumption			= 0.9
+	fuelconsumption				= 1
+	distance					= 0.05
+	reinforce_time		= 0.35
+	reinforce_cost 		= 0.55
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 1600 }
+}

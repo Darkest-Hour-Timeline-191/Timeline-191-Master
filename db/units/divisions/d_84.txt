@@ -1,0 +1,106 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 4
+
+upgrade = { type = d_85 upgrade_time_factor = 0.9 upgrade_cost_factor = 1.15 }
+upgrade = { type = d_50 upgrade_time_factor = 0.5 upgrade_cost_factor = 0.45 }
+upgrade = { type = d_51 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1928 PBB 11-inch
+model = {
+	cost						= 2.5
+	buildtime 					= 1160
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 0.6
+	maxspeed					= 26
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 2
+	visibility					= 70
+	seadefence					= 33
+	airdefence					= 27
+	seaattack					= 15
+	airattack					= 2
+	subattack					= 1
+	convoyattack					= 18
+	shorebombardment			= 6
+	transportcapability			= 0
+	range						= 19000
+	supplyconsumption			= 0.6
+	fuelconsumption				= 0.8
+	distance					= 0.31
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_84				= 1
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 600 }
+}
+# 1 - 1928 PBB 11-inch '34 refit
+model = {
+	cost						= 2.7
+	buildtime 					= 1180
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 0.6
+	maxspeed					= 27
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 2
+	visibility					= 70
+	seadefence					= 32
+	airdefence					= 26
+	seaattack					= 16
+	airattack					= 2
+	subattack					= 1
+	convoyattack					= 19
+	shorebombardment			= 6
+	transportcapability			= 0
+	range						= 19500
+	supplyconsumption			= 0.6
+	fuelconsumption				= 0.8
+	distance					= 0.31
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_84				= 2
+	upgrade_time_boost 	= no
+	equipment = { battlecruiser = 1 manpower = 600 }
+}
+# 2 - 1928 PBB 11-inch '39 refit
+model = {
+	cost						= 2.9
+	buildtime 					= 1200
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 0.6
+	maxspeed					= 28
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 2
+	visibility					= 70
+	seadefence					= 32
+	airdefence					= 24
+	seaattack					= 16
+	airattack					= 3
+	subattack					= 1
+	convoyattack					= 20
+	shorebombardment			= 6
+	transportcapability			= 0
+	range						= 20000
+	supplyconsumption			= 0.6
+	fuelconsumption				= 0.8
+	distance					= 0.31
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battlecruiser = 1 manpower = 600 }
+}

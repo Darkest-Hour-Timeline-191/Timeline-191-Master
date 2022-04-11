@@ -1,0 +1,41 @@
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = b_07
+max_allowed_brigades = 5
+
+upgrade = { type = d_45 upgrade_time_factor = 0.5 upgrade_cost_factor = 0.46 }
+upgrade = { type = d_46 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1917 BCL Hybrid '17 Conversion
+model = {
+	cost						= 2.5
+	buildtime 					= 800
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.2
+	maxspeed					= 30
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 1
+	subdetectioncapability		= 1
+	visibility					= 80
+	seadefence					= 35
+	airdefence					= 30
+	seaattack					= 8
+	airattack					= 1
+	subattack					= 1
+	convoyattack					= 6
+	shorebombardment			= 5
+	transportcapability			= 0
+	range						= 6000
+	supplyconsumption			= 0.8
+	fuelconsumption				= 1
+	distance					= 0.34
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battlecruiser = 1 manpower = 1200 }
+}

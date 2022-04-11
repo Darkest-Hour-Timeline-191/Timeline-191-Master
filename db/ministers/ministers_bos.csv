@@ -1,0 +1,32 @@
+BOS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+570001;Head of State;Hasan Zvizdic;1933;1964;NS;Stern Imperialist;High;M546001;X
+570002;Head of Government;Mehmed Alabegovic;1933;1964;NS;Silent Workhorse;High;M546002;X
+570003;Foreign Minister;Osman Kulenovic;1933;1964;NS;The Cloak N Dagger Schemer;High;M546003;X
+570004;Minister of Armament;Neshad Topcic;1933;1964;NS;Air to Ground Proponent;High;M546004;X
+570005;Minister of Security;Mohammed Hadzieffendic;1933;1964;NS;Crooked Kleptocrat;High;M546005;X
+570006;Head of Military Intelligence;Mohammed Hadzieffendic;1933;1964;NS;Political Specialist;High;M546005;X
+570007;Chief of Staff;Hakija Hadzic;1933;1954;NS;School of Fire Support;Medium;M546007;X
+570008;Chief of Army;Husejin Biscevic;1933;1964;NS;Commando Doctrine Army;Very High;L46065;X
+570009;Chief of Navy;Walther Kinzel;1933;1964;NS;Decisive Naval Battle Doctrine;Medium;M546009;X
+570010;Chief of Air Force;Slavomir Tomic;1933;1964;NS;Vertical Envelopment Doctrine;High;L46061;X
+570011;Head of State;Duro Pucar;1933;1980;LE;Resigned Generalissimo;Medium;9928;X
+570012;Head of Government;Duro Pucar;1933;1980;LE;Old General;Medium;9928;X
+570013;Foreign Minister;Rodoljub Colakovic;1933;1992;LE;Iron Fisted Brute;Medium;9927;X
+570014;Minister of Armament;Vlado Segrt;1933;1991;LE;Planned Economy Proponent;Medium;9929;X
+570015;Minister of Security;Vojislav Kecmanovic;1933;1964;LE;Health and Safety;Medium;unknownminister;X
+570016;Head of Military Intelligence;Rodoljub Colakovic;1933;1984;LE;Logistics Specialist;Medium;9927;X
+570017;Chief of Staff;Vlado Segrt;1933;1992;LE;School of Psychology;Medium;9929;X
+570018;Chief of Army;Rodoljub Colakovic;1933;1983;LE;Elastic Defence Doctrine;Medium;9927;X
+570019;Chief of Navy;Lazar Latinovic;1933;1964;LE;Base Control Doctrine;Medium;U27-Lazar_Latinovic;X
+570020;Chief of Air Force;Lazar Latinovic;1933;1964;LE;Army Aviation Doctrine;Medium;U27-Lazar_Latinovic;X
+570021;Head of State;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570022;Head of Government;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570023;Foreign Minister;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570024;Minister of Armament;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570025;Minister of Security;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570026;Head of Military Intelligence;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570027;Chief of Staff;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570028;Chief of Army;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570029;Chief of Navy;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X
+570030;Chief of Air Force;Blue Shadow;1933;1964;ML;Generic;Very High;unknownminister;X

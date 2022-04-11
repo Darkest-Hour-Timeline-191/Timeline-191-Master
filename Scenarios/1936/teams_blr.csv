@@ -1,0 +1,17 @@
+BLR;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+470012;Minsk Arsenal;T1912;3;1900;1970;mechanics;general_equipment;artillery;munitions;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470002;Baranovichi Aviation Repair Plant;T9701;4;1900;1970;aeronautics;aircraft_testing;general_equipment;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470013;Krupp-Ost;100089;6;1900;1970;industrial_engineering;munitions;mechanics;artillery;vehicle_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470004;Minsk Automobile Plant;T9703;5;1900;1970;mechanics;general_equipment;technical_efficiency;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470015;Siemens-Ost;100091;6;1900;1970;electronics;management;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470001;Belarussian State University;T9700;3;1900;1970;management;chemistry;mechanics;mathematics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470003;Gomel Radio Plant;T9702;4;1900;1970;electronics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470009;Semyon Kosberg;100612;5;1946;1965;aeronautics;technical_efficiency;electronics;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470008;Pavel Osipovich Sukhoi;100611;4;1933;1961;fighter_design;technical_efficiency;aeronautics;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470016;Junkers-Ost;100078;5;1933;1970;aeronautics;general_equipment;aircraft_testing;bomber_design;avionics;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470011;German Military Mission;T10401;5;1930;1970;large_unit_tactics;individual_courage;centralized_execution;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470017;Fedor von Bock;100565;6;1937;1972;training;centralized_execution;individual_courage;small_unit_tactics;combined_arms_focus;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470010;Stanislaw Bulak-Balachowicz;;4;1930;1970;individual_courage;small_unit_tactics;decentralized_execution;cavalry_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470014;Pavel Zhauryd;;3;1930;1964;large_unit_tactics;centralized_execution;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470006;Michal Vituška;T9709;3;1943;1970;infantry_focus;small_unit_tactics;decentralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+470007;Belarussian Air Force;T9710;2;1930;1970;bomber_tactics;piloting;centralized_execution;fighter_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

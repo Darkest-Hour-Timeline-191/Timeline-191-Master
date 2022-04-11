@@ -1,0 +1,18 @@
+QUE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+582001;Head of State;Maurice Duplessis;1933;1970;ML;Benevolent Gentleman;High;QUE - Maurice Duplessis;X
+582002;Head of Government;Médéric Martin;1920;1970;ML;Silent Workhorse;High;QUE - Médéric Martin;X
+582003;Foreign Minister;Maurice Duplessis;1933;1970;ML;Apologetic Clerk;High;QUE - Maurice Duplessis;X
+582004;Minister of Armament;Maurice Duplessis;1933;1970;ML;Administrative Genius;High;QUE - Maurice Duplessis;X
+582005;Minister of Security;Adélard Godbout;1933;1970;ML;Crime Fighter;Medium;M582002;X
+582006;Head of Military Intelligence;Jean Brillant;1933;1970;ML;Generic;High;QUE - Jean Brillant;X
+582007;Chief of Staff;Jean Brillant;1933;1970;ML;Generic;High;QUE - Jean Brillant;X
+582008;Chief of Army;Jean Brillant;1933;1970;ML;Generic;High;QUE - Jean Brillant;X
+582009;Chief of Navy;Under Army Command;1933;1970;PA;Generic;High;unknown;X
+582010;Chief of Air Force;Matilde Moisant;1920;1970;SC;Air Superiority Doctrine;Medium;QUE - Matilde Moisant;X
+582011;Foreign Minister;Georges Vanier;1920;1970;SC;General Staffer;Medium;M45170;X
+582012;Minister of Armament;Alphonse Moussette;1940;1970;SC;Resource Industrialist;High;QUE - Alphonse Moussette;X
+582013;Chief of Army;Paul Triquet;1941;1970;SC;Decisive Battle Doctrine;High;QUE - Paul Triquet;X
+582016;Minister of Armament;Jean Garand;1941;1970;SC;Military Entrepreneur;High;QUE - Jean_Garand;X
+582014;Head of State;Lionel Groulx;1933;1970;SC;Weary Stiffneck;High;QUE - Lionel Groulx;X
+582015;Foreign Minister;Lionel Groulx;1933;1970;SC;Generic;High;QUE - Lionel Groulx;X

@@ -1,0 +1,47 @@
+U30;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+965001;Head of State;Mihai I;1939;1964;SD;Insignificant Layman;High;M22011;X
+965002;Head of State;Constantin I. Parhon;1933;1964;ST;Ruthless Powermonger;High;M22038;X
+965003;Head of State;Petru Groza;1933;1964;ST;Powerhungry Demagogue;High;M22022;X
+965004;Head of Government;Iuliu Maniu;1933;1964;SD;Naive Optimist;High;M22055;X
+965005;Head of Government;Petru Groza;1945;1964;ST;Backroom Backstabber;High;M22022;X
+965006;Head of Government;Gheorghe Gheorghiu-Dej;1952;1964;ST;Political Protege;High;M22052;X
+965007;Foreign Minister;Constantin I. Parhon;1933;1964;ST;Great Compromiser;Very High;M22038;X
+965008;Foreign Minister;Gheorghe Tatarescu;1944;1964;LWR;Iron Fisted Brute;Medium;M22002;X
+965009;Foreign Minister;Ana Pauker;1947;1964;ST;Ideological Crusader;Very High;M22023;X
+965010;Foreign Minister;Simion Bughici;1952;1964;ST;Apologetic Clerk;Very High;M22163;X
+965011;Minister of Armament;Vasile Luca;1933;1964;ST;Administrative Genius;High;M22024;X
+965012;Minister of Security;Teohari Georgescu;1933;1964;ST;Back Stabber;High;M22025;X
+965013;Head of Military Intelligence;Demetre Jancovici;1933;1964;ST;Political Specialist;Medium;M22026;X
+965014;Head of Military Intelligence;Serghei Nicolau;1946;1964;ST;Technical Specialist;High;M22122;X
+965015;Chief of Staff;Mihail Lascar;1933;1964;LWR;School of Mass Combat;Medium;M22027;X
+965016;Chief of Army;Damian Rascu;1933;1964;LWR;Armoured Spearhead Doctrine;Medium;M22028;X
+965017;Chief of Navy;Gheorghe Iliesca;1933;1964;LWR;Power Projection Doctrine;Medium;M22029;X
+965018;Chief of Air Force;Emanoil Ionescu;1933;1964;LWR;Army Aviation Doctrine;Low;M22030;X
+965019;Head of State;Gheorghe Gheorghiu-Dej;1947;1966;ST;Benevolent Gentleman;High;M22052;X
+965020;Head of State;Gheorghe Apostol;1954;2011;ST;Benevolent Gentleman;High;M965101;X
+965021;Head of Government;Chivu Stoica;1955;1976;ST;Ambitious Union Boss;High;M965102;X
+965022;Head of Government;Ion Gheorghe Maurer;1961;2001;LE;Political Protege;High;M965103;X
+965023;Foreign Minister;Corneliu Manescu;1961;2001;LE;General Staffer;High;M965109;X
+965024;Minister of Armament;Leontin Salajan;1945;1964;ST;Military Entrepreneur;High;M965113;X
+965025;Minister of Armament;Ioan Ionita;1955;1988;LE;Infantry Proponent;High;M965114;X
+965026;Minister of Security;Gheorghe Pintilie;1948;1986;ST;Back Stabber;High;M965116;X
+965027;Minister of Security;Alexandru Nicolschi;1950;1993;ST;Efficient Sociopath;Medium;M965118;X
+965028;Minister of Security;Nicolae Doicaru;1959;1992;ST;Crooked Kleptocrat;Very High;M965120;X
+965029;Minister of Security;Nicolae Ceaucescu;1950;1964;ST;Secret Police Chief;Very High;M965105;X
+965030;Head of Military Intelligence;Gheorghe Pintilie;1948;1986;ST;Dismal Enigma;High;M965116;X
+965031;Head of Military Intelligence;Alexandru Nicolschi;1950;1993;ST;Dismal Enigma;Medium;M965118;X
+965032;Head of Military Intelligence;Nicolae Doicaru;1959;1992;ST;Logistics Specialist;Very High;M965120;X
+965033;Head of Military Intelligence;Nicolae Ceaucescu;1950;1964;ST;Dismal Enigma;Very High;M965105;X
+965034;Chief of Staff;Leontin Salajan;1945;1964;ST;School of Mass Combat;Very High;M965113;X
+965035;Chief of Staff;Ion Tutoveanu;1954;2007;LE;School of Psychology;Very High;M965128;X
+965036;Chief of Staff;Gheorghe Ion;1963;2010;ST;School of Mass Combat;Very High;M965132;X
+965037;Chief of Army;Leontin Salajan;1945;1964;ST;Decisive Battle Doctrine;Very High;M965113;X
+965038;Chief of Army;Ion Tutoveanu;1954;2007;LE;Elastic Defence Doctrine;Very High;M965128;X
+965039;Chief of Army;Gheorghe Ion;1963;2010;ST;Static Defence Doctrine;Very High;M965132;X
+965040;Chief of Navy;Leontin Salajan;1945;1964;ST;Indirect Approach Doctrine;Very High;M965113;X
+965041;Chief of Navy;Ion Tutoveanu;1954;2007;LE;Base Control Doctrine;Very High;M965128;X
+965042;Chief of Navy;Gheorghe Ion;1963;2010;ST;Open Seas Doctrine;Very High;M965132;X
+965043;Chief of Air Force;Leontin Salajan;1945;1964;ST;Air Superiority Doctrine;Very High;M965113;X
+965044;Chief of Air Force;Ion Tutoveanu;1954;2007;LE;Army Aviation Doctrine;Very High;M965128;X
+965045;Chief of Air Force;Gheorghe Ion;1963;2010;ST;Vertical Envelopment Doctrine;Very High;M965132;X

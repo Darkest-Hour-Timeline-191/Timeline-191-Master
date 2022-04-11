@@ -1,0 +1,68 @@
+allowed_brigades = cag
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - 1920 BB to CV '34 CAG
+model = {
+	cost						= 3
+	buildtime 					= 1080
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.7
+	maxspeed					= 28
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 2
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 31
+	airdefence					= 26
+	seaattack					= 0
+	airattack					= 3
+	subattack					= 0
+	convoyattack					= 0
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 10000
+	supplyconsumption			= 1.1
+	fuelconsumption				= 1
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_12				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 1700 }
+}
+# 1 - 1920 BB to CV '39 refit
+model = {
+	cost						= 3
+	buildtime 					= 1080
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 1.7
+	maxspeed					= 28
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 2
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 31
+	airdefence					= 26
+	seaattack					= 0
+	airattack					= 1
+	subattack					= 0
+	convoyattack					= 0
+	shorebombardment			= 0
+	transportcapability			= 0
+	range						= 10000
+	supplyconsumption			= 1.1
+	fuelconsumption				= 1
+	distance					= 0.05
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 1700 }
+}

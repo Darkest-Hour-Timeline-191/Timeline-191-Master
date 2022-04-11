@@ -1,0 +1,77 @@
+SCO;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+760001;Head of State;Harold Harington Balfour;1933;1964;ML;Barking Buffoon;High;M561001;X
+760002;Head of Government;John Stuart Lord Borthwick;1933;1964;ML;Silent Workhorse;High;M561002;X
+760003;Foreign Minister;Lucius Plantagenet Falkland;1933;1964;ML;Great Compromiser;High;M561003;X
+760004;Minister of Armament;James Fitzwarenne DeSpencer;1933;1964;ML;Battle Fleet Proponent;Medium;M561004;X
+760005;Minister of Security;Herbrand Earl de la Warr;1933;1964;ML;Back Stabber;Medium;M561005;X
+760006;Head of Military Intelligence;John Baron Kinross;1933;1964;ML;Dismal Enigma;Medium;M561006;X
+760007;Chief of Staff;Philip Maxwell Balfour;1933;1964;ML;School of Psychology;Medium;L1018;X
+760008;Chief of Army;S.T. Hakewill-Smith;1933;1964;ML;Elastic Defence Doctrine;Medium;L1152;X
+760009;Chief of Navy;T.L. Bruce-Fraser;1933;1964;ML;Open Seas Doctrine;Medium;L1328;X
+760010;Chief of Air Force;Owen Boyd;1933;1964;ML;Army Aviation Doctrine;Medium;L1418;X
+760011;Head of State;Charles III Lord Walgrave;1933;1964;PA;Benevolent Gentleman;High;M561011;X
+760012;Head of State;William Gallacher;1933;1964;LE;Powerhungry Demagogue;High;M561033;X
+760013;Head of Government;James Duke of Abercorn;1933;1964;PA;Backroom Backstabber;High;M561013;X
+760014;Head of Government;Christopher M. Grieve;1933;1964;LE;Backroom Backstabber;High;SCO-Hugh_MacDiarmid;X
+760015;Foreign Minister;Charles Duke of Gordon;1933;1964;PA;General Staffer;High;M561015;X
+760016;Foreign Minister;Archibald Ramsay;1943;1964;FA;Iron Fisted Brute;Medium;M1054;X
+760017;Foreign Minister;Donald Cardross Erskine;1933;1964;LWR;Iron Fisted Brute;High;M561016;X
+760018;Foreign Minister;Douglas Duke of Hamilton;1933;1964;PA;The Cloak N Dagger Schemer;High;M561037;X
+760019;Foreign Minister;Harry McShane;1933;1964;LE;Ideological Crusader;Very High;SCO-Harry_McShane;X
+760020;Minister of Armament;Ian Campbell Gray;1933;1964;PA;Resource Industrialist;Medium;M561017;X
+760021;Minister of Armament;Sorley MacLean;1933;1964;LE;Planned Economy Proponent;Very High;SCO-Sorley_MacLean;X
+760022;Minister of Armament;Peter Drummond MacDonald;1933;1964;SC;Military Entrepreneur;Medium;M561018;X
+760023;Minister of Armament;George Buchanan;1939;1964;SL;Resource Industrialist;High;M561031;X
+760023;Minister of Security;Charles Earl Breadalbane;1933;1964;PA;Man of the People;Medium;M561019;X
+760024;Minister of Security;Robert J. Stewart;1933;1964;LE;Secret Police Chief;Very High;SCO-Bob_Stewart;X
+760025;Minister of Security;James Moxton;1933;1964;SD;Silent Lawyer;High;M561034;X
+760026;Minister of Security;Malcolm MacDonald;1933;1964;SL;Compassionate Gentleman;High;M561020;X
+760027;Minister of Security;David Maxwell Fyfe;1941;1964;SC;Silent Lawyer;High;M1085;X
+760028;Head of Military Intelligence;Charles Earl of Southesk;1933;1964;PA;Logistics Specialist;Very High;M561021;X
+760029;Head of Military Intelligence;David Maxwell Fyfe;1941;1964;SC;Dismal Enigma;High;M1085;X
+760030;Head of Military Intelligence;Marie Carmichael Stopes;1933;1958;LWR;Technical Specialist;Medium;M561022;X
+760031;Head of Military Intelligence;Abe Moffatt;1933;1964;LE;Political Specialist;Very High;M1078;X
+760032;Chief of Staff;Charles Earl of Southesk;1933;1964;PA;School of Defence;Very High;M561021;X
+760033;Chief of Staff;Richard McCreery;1933;1964;LWR;School of Manoeuvre;Medium;L1216;X
+760034;Chief of Staff;Walter Montagu Douglas Scott;1942;1964;FA;School of Defence;High;6078;X
+760035;Chief of Staff;Peter Kerrigan;1933;1964;LE;School of Mass Combat;Very High;SCO-Peter_Kerrigan;X
+760036;Chief of Army;Andrew McCulloch;1933;1961;PA;Static Defence Doctrine;High;L1217;X
+760037;Chief of Army;Walter Kirke;1933;1949;LWR;Decisive Battle Doctrine;Medium;L1181;X
+760038;Chief of Army;James Maley;1933;1964;LE;Decisive Battle Doctrine;Very High;SCO-James_Maley;X
+760039;Chief of Navy;Geoffrey Layton;1933;1964;PA;Decisive Naval Battle Doctrine;Medium;L1364;X
+760040;Chief of Navy;Anthony Stokes;1933;1964;LWR;Indirect Approach Doctrine;Medium;L1391;X
+760041;Chief of Navy;Joseph Holland;1933;1964;LE;Decisive Naval Battle Doctrine;Very High;SCO-Joseph_Holland;X
+760042;Chief of Air Force;Perry Keene;1933;1964;PA;Naval Aviation Doctrine;Medium;L1453;X
+760043;Chief of Air Force;P.S. Sholto-Douglas;1933;1964;LWR;Carpet Bombing Doctrine;Medium;L1479;X
+760044;Chief of Air Force;Hugh Dowding;1933;1964;SL;Air Superiority Doctrine;High;L1435;X
+760045;Chief of Air Force;James Maley;1933;1964;LE;Army Aviation Doctrine;Very High;SCO-James_Maley;X
+760046;Head of State;H.M. Robert IV Wittelsbach;1933;1956;SC;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
+760047;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
+760048;Head of State;H.M. James IX FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
+760049;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
+760050;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
+760051;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
+760052;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
+760053;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
+760054;Head of State;Robert Gayre;1933;1964;NS;Powerhungry Demagogue;High;SCO-Robert_Gayre;X
+760055;Head of State;William Weir Gilmour;1964;1964;FA;Barking Buffoon;High;SCO-William_Gilmour;X
+760056;Head of State;Roland E. Muirhead;1933;1964;SD;Benevolent Gentleman;High;SCO-Roland_Muirhead;X
+760057;Head of State;Robert D. McIntyre;1950;1964;SD;Weary Stiffneck;High;SCO-Robert_McIntyre;X
+760058;Head of State;H.M. Robert IV Wittelsbach;1933;1956;PA;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
+760059;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
+760060;Head of State;H.M. James IX FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
+760061;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
+760062;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
+760063;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
+760064;Head of State;H.M. George VI;1933;1953;PA;Insignificant Layman;High;M1033;X
+760065;Head of State;H.M. Elizabeth II;1952;2012;PA;Weary Stiffneck;High;M1182;X
+760055;Head of Government;Robert Gayre;1933;1964;NS;Flamboyant Tough Guy;High;SCO-Robert_Gayre;X
+760056;Head of Government;William Weir Gilmour;1933;1964;FA;Happy Amateur;High;SCO-William_Gilmour;X
+760057;Head of Government;Ignatius R. Dunnachie;1933;1964;PA;Political Protege;High;M561014;X
+760066;Head of Government;Neil L.D. McLean;1944;1964;SC;Old General;High;SCO-Billy_McLean;X
+760067;Head of Government;William Whitelaw;1952;1964;ML;Backroom Backstabber;Medium;ENG-William_Whitelaw;X
+760068;Head of Government;Roland E. Muirhead;1933;1964;SD;Naive Optimist;High;SCO-Roland_Muirhead;X
+760069;Head of Government;Robert D. McIntyre;1950;1964;SD;Ambitious Union Boss;High;SCO-Robert_McIntyre;X
+760070;Head of Government;James Halliday;1955;1964;SD;Happy Amateur;High;SCO-Jimmy_Halliday;X
+760071;Head of Government;Agnes McLean;1955;1964;LWR;Naive Optimist;High;SCO-Agnes_McLean;X

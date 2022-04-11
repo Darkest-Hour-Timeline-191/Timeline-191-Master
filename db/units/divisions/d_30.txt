@@ -1,0 +1,135 @@
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_fire_controll_l
+allowed_brigades = naval_improved_hull_l
+allowed_brigades = naval_torpedoes_s
+allowed_brigades = floatplane
+max_allowed_brigades = 5
+
+upgrade = { type = d_35 upgrade_time_factor = 0.75 upgrade_cost_factor = 0.75 }
+upgrade = { type = d_31 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+
+# 0 - 1937 SHBB 18 inch
+model = {
+	cost						= 6.4
+	buildtime 					= 1670
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.8
+	maxspeed					= 27
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 2
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 13
+	airdefence					= 25
+	seaattack					= 29
+	airattack					= 3
+	subattack					= 1
+	convoyattack					= 28
+	shorebombardment			= 15
+	transportcapability			= 0
+	range						= 12000
+	supplyconsumption			= 1
+	fuelconsumption				= 1.5
+	distance					= 0.42
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_30				= 1
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 2800 }
+}
+# 1 - 1937 SHBB 18 inch '41 refit
+model = {
+	cost						= 6.6
+	buildtime 					= 1690
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3
+	maxspeed					= 28
+	surfacedetectioncapability	= 2
+	airdetectioncapability		= 3
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 10
+	airdefence					= 23
+	seaattack					= 30
+	airattack					= 4
+	subattack					= 1
+	convoyattack					= 30
+	shorebombardment			= 16
+	transportcapability			= 0
+	range						= 12500
+	supplyconsumption			= 1
+	fuelconsumption				= 1.5
+	distance					= 0.42
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_30				= 2
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 3000 }
+}
+# 2 - 1937 SHBB 18 inch '44 refit
+model = {
+	cost						= 7
+	buildtime 					= 1710
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.2
+	maxspeed					= 28
+	surfacedetectioncapability	= 2
+	airdetectioncapability		= 3
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 10
+	airdefence					= 18
+	seaattack					= 33
+	airattack					= 6
+	subattack					= 1
+	convoyattack					= 30
+	shorebombardment			= 18
+	transportcapability			= 0
+	range						= 13000
+	supplyconsumption			= 1
+	fuelconsumption				= 1.5
+	distance					= 0.42
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_30				= 3
+	upgrade_time_boost 	= no
+	equipment = { battleship = 1 manpower = 3200 }
+}
+# 3 - 1937 SHBB 18 inch '47 refit
+model = {
+	cost						= 7.5
+	buildtime 					= 1730
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3
+	maxspeed					= 28
+	surfacedetectioncapability	= 2
+	airdetectioncapability		= 4
+	subdetectioncapability		= 2
+	visibility					= 95
+	seadefence					= 6
+	airdefence					= 14
+	seaattack					= 36
+	airattack					= 10
+	subattack					= 1
+	convoyattack					= 30
+	shorebombardment			= 18
+	transportcapability			= 0
+	range						= 14000
+	supplyconsumption			= 1
+	fuelconsumption				= 1.5
+	distance					= 0.42
+	upgrade_time_factor = 0.8
+	upgrade_cost_factor = 0.6
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { battleship = 1 manpower = 3000 }
+}

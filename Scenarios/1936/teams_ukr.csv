@@ -1,0 +1,29 @@
+UKR;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+545018;Kyiv Arsenal;T8801;5;1910;1970;mechanics;artillery;technical_efficiency;electronics;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545008;Morozov Design Bureau;T14007;5;1928;1970;mechanics;artillery;vehicle_engineering;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545004;Panzerwerke Charkow;T3702;7;1927;1970;mechanics;artillery;technical_efficiency;electronics;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545001;Mykolayiv Shipyard;T3700;4;1900;1970;naval_engineering;electronics;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545002;Hostomel's'kyy Aviatsiynyy Zavod;T14001;5;1930;1970;aeronautics;bomber_design;general_equipment;mechanics;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545025;Heinkel Flugzeugwerke Ukraine;T2;7;1938;1970;aeronautics;bomber_design;general_equipment;rocketry;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545010;Kherson Aircraft Plant;T3714;5;1922;1970;aeronautics;bomber_design;munitions;technical_efficiency;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545003;Kalinin Design Bureau;T14002;6;1934;1970;aeronautics;fighter_design;aircraft_testing;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545005;Chornomors'kyy Sudnobudivnyy Zavod;T14004;5;1900;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545019;Minahropolityky ;;4;1900;1970;management;chemistry;technical_efficiency;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545006;Kharkivs'kyy Aviatsiynyy Instytut;T14005;6;1930;1970;aeronautics;management;technical_efficiency;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545020;Berdychivs'kyy Mashynnyy Zavod;;5;1930;1970;management;technical_efficiency;mechanics;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545021;Metalurhiynyy Zavod Azovstal;;5;1930;1970;management;technical_efficiency;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545022;DUPG;;7;1930;1970;management;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545023;Uranovyy Rudnyk Zhovti Vody;;4;1943;1970;nuclear_physics;nuclear_engineering;technical_efficiency;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545007;Kyyivs'kyy Universytet;T14006;3;1900;1970;management;chemistry;mechanics;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545009;Motor-Sich;T14008;5;1915;1970;mechanics;electronics;technical_efficiency;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545011;German Military Mission ;T10401;4;1900;1937;large_unit_tactics;infantry_focus;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545026;General Staff Academy;T10401;6;1937;1970;large_unit_tactics;combined_arms_focus;infantry_focus;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545014;Pavlo Shandruk;;4;1900;1979;large_unit_tactics;combined_arms_focus;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545015;Andriy Melnyk;;4;1900;1964;small_unit_tactics;infantry_focus;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545016;Symon Pelitura;;4;1900;1954;small_unit_tactics;infantry_focus;individual_courage;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545017;Helmuth von Pannwitz;;6;1939;1970;small_unit_tactics;decentralized_execution;individual_courage;combined_arms_focus;cavalry_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545028;Ivan Chernyakhovsky;;7;1943;1970;small_unit_tactics;decentralized_execution;combined_arms_focus;maneuver_tactics;blitzkrieg_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545012;Odessa State Maritime Academy;T14011;4;1930;1970;naval_training;seamanship;submarine_tactics;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545013;Luftwaffe Fliegerschule;T10402;4;1920;1937;centralized_execution;bomber_tactics;fighter_tactics;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545027;Kyiv Air Force Academy;T10402;6;1937;1970;centralized_execution;bomber_tactics;fighter_tactics;training;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+545024;Petro Ivanovych Franko;;3;1920;1970;training;centralized_execution;piloting;individual_courage;fighter_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

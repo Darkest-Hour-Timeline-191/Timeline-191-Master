@@ -1,0 +1,72 @@
+allowed_brigades = cag
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+upgrade = { type = d_75 upgrade_time_factor = 0.72 upgrade_cost_factor = 0.81 }
+upgrade = { type = d_76 upgrade_time_factor = 0.9 upgrade_cost_factor = 1.3 }
+upgrade = { type = d_77 upgrade_time_factor = 0.6 upgrade_cost_factor = 0.6 }
+
+# 0 - 1940 Semi-Modern Carrier
+model = {
+	cost						= 5.5
+	buildtime 					= 1320
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 2.8
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 3
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 25
+	airdefence					= 25
+	seaattack					= 3
+	airattack					= 4
+	subattack					= 0
+	convoyattack					= 3
+	shorebombardment			= 1
+	transportcapability			= 0
+	range						= 16000
+	supplyconsumption			= 1.7
+	fuelconsumption				= 1
+	distance					= 0.05
+	upgrade_time_factor = 0.25
+	upgrade_cost_factor = 0.25
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	d_74				= 1
+	upgrade_time_boost 	= no
+	equipment = { carrier = 1 manpower = 2800 }
+}
+# 1 - 1940 S.-M. CV 1943 refit
+model = {
+	cost						= 6.5
+	buildtime 					= 1260
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 23
+	airdefence					= 23
+	seaattack					= 4
+	airattack					= 5
+	subattack					= 0
+	convoyattack					= 4
+	shorebombardment			= 1
+	transportcapability			= 0
+	range						= 17000
+	supplyconsumption			= 2.3
+	fuelconsumption				= 2
+	distance					= 0.05
+	upgrade_time_factor = 0.5
+	upgrade_cost_factor = 0.5
+	reinforce_time		= 0.4
+	reinforce_cost 		= 0.6
+	equipment = { carrier = 1 manpower = 3500 }
+}

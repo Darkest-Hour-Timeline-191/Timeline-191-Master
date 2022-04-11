@@ -1,0 +1,36 @@
+# MODEL_105_
+
+allowed_brigades = b_04
+allowed_brigades = naval_anti_air_l
+allowed_brigades = naval_radar_l
+allowed_brigades = naval_improved_hull_l
+max_allowed_brigades = 4
+
+# 0 - Semi-Modern Battlecruiser jet carrier conversion (1944, avail 1945)
+model = {
+	cost						= 7.0
+	buildtime 					= 1450
+	defaultorganisation 		= 20
+	morale						= 30
+	manpower					= 3.5
+	maxspeed					= 32
+	surfacedetectioncapability	= 1
+	airdetectioncapability		= 4
+	subdetectioncapability		= 1
+	visibility					= 100
+	seadefence					= 22
+	airdefence					= 25
+	seaattack					= -5
+	subattack					= -6
+	convoyattack				= -3
+	airattack					= -5
+	shorebombardment			= -3
+	transportcapability			= 0
+	range						= 13000
+	supplyconsumption			= 3.0
+	fuelconsumption				= 2.8
+	distance					= 0.05
+	reinforce_time				= 0.4
+	reinforce_cost				= 0.6	
+	equipment = { carrier = 1 manpower = 3500 }
+}

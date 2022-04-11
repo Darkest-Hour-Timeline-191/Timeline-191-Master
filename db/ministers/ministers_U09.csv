@@ -1,0 +1,111 @@
+U09;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+860001;Head of State;S.K.u.K.M Franz Josef I;1900;1916;PA;Weary Old Emperor;Medium;3504;X
+860002;Head of State;S.K.u.K.M Karl I;1916;1964;PA;Die-hard Reformer;Medium;3510;X
+860003;Head of State;Maximilian Eugen von Österreich;1916;1952;PA;Benevolent Gentleman;Medium;3516;X
+860004;Head of Government;Alois Lexa von Aehrenthal;1900;1912;PA;Flamboyant Tough Guy;Medium;3494;X
+860005;Head of Government;Leopold Berchtold;1900;1942;PA;Backroom Backstabber;Medium;3514;X
+860006;Head of Government;Stephan Burián von Rajecz;1900;1922;PA;Silent Workhorse;Medium;3525;X
+860007;Head of Government;Ottokar Czernin;1900;1932;PA;Smiling Oilman;Medium;3521;X
+860008;Head of Government;Gyula Andrássy;1900;1929;PA;Naive Optimist;Medium;3508;X
+860009;Head of Government;Ludwig von Flotow;1900;1948;PA;Corporate Suit;Medium;3515;X
+860010;Foreign Minister;Alois Lexa von Aehrenthal;1900;1912;PA;Iron Fisted Brute;Medium;3494;X
+860011;Foreign Minister;Leopold Berchtold;1900;1942;PA;General Staffer;Medium;3514;X
+860012;Foreign Minister;Stephan Burián von Rajecz;1900;1922;PA;Ideological Crusader;Medium;3525;X
+860013;Foreign Minister;Ottokar Czernin;1900;1932;PA;Great Compromiser;Medium;3521;X
+860014;Foreign Minister;Gyula Andrássy;1900;1929;PA;Apologetic Clerk;Medium;3508;X
+860015;Foreign Minister;Ludwig von Flotow;1900;1948;PA;Biased Intellectual;Medium;3515;X
+860016;Minister of Armament;Stephan Burián von Rajecz;1900;1922;PA;Corrupt Kleptocrat;Medium;3525;X
+860017;Minister of Armament;Leon Bilinski;1900;1923;PA;Resource Industrialist;Medium;3513;X
+860018;Minister of Armament;Ernest von Koerber;1900;1919;PA;Theoretical Scientist;Medium;3502;X
+860019;Minister of Armament;Konrad zu Hohenlohe-Schillingsfürst;1900;1918;PA;Oil Baron;Medium;3512;X
+860020;Minister of Armament;Alexander Spitzmüller;1900;1953;PA;Steel Magnate;Medium;3491;X
+860021;Minister of Armament;Paul Robert Kuh-Chrobak;1900;1931;PA;Industrial Chemist;Medium;unknownminister;X
+860022;Minister of Armament;Franz Xaver von Schönaich;1900;1916;PA;Infantry Proponent;Medium;3506;X
+860023;Minister of Armament;Moritz von Auffenberg;1900;1928;PA;Tank Proponent;Medium;3519;X
+860024;Minister of Armament;Alexander von Krobatin;1900;1933;PA;Military Entrepreneur;Medium;3492;X
+860025;Minister of Armament;Rudolf Stöger-Steiner von Steinstätten;1900;1921;PA;Air to Ground Proponent;Medium;3524;X
+860026;Minister of Armament;Rudolf Montecuccoli;1900;1922;PA;Air to Sea Proponent;Medium;3523;X
+860027;Minister of Armament;Anton Haus;1900;1917;PA;Battle Fleet Proponent;Medium;3496;X
+860028;Minister of Armament;Karl Kailer von Kaltenfels;1900;1917;PA;Submarine Proponent;Medium;3511;X
+860029;Minister of Armament;Maximilian Njegovan;1900;1930;PA;Battle Fleet Proponent;Medium;3517;X
+860030;Minister of Armament;Franz von Holub;1900;1924;PA;Air to Sea Proponent;Medium;3505;X
+860031;Minister of Security;Richard von Bienerth-Schmerling;1900;1918;PA;Compassionate Gentleman;Medium;3522;X
+860032;Minister of Security;Guido von Haerdtl;1900;1928;PA;Man of the People;Medium;unknownminister;X
+860033;Minister of Security;Maximilian von Wickenburg;1900;1918;PA;Prince of Terror;Medium;unknownminister;X
+860034;Minister of Security;Karl Heinold von Udynski;1900;1943;PA;Crime Fighter;Medium;unknownminister;X
+860035;Minister of Security;Konrad zu Hohenlohe-Schillingsfürst;1900;1918;PA;Silent Lawyer;Medium;3512;X
+860036;Minister of Security;Erasmus von Handel;1900;1928;PA;Back Stabber;Medium;3501;X
+860037;Minister of Security;Edwin von Schwartzenau;1900;1926;PA;Efficient Sociopath;Medium;unknownminister;X
+860038;Minister of Security;Friedrich von Toggenburg;1900;1956;PA;Crooked Kleptocrat;Medium;unknownminister;X
+860039;Minister of Security;Edmund von Gayer;1900;1952;PA;Media Magnate;High;unknownminister;X
+860040;Head of Military Intelligence;Arthur Giesl von Gieslingen;1900;1937;PA;Industrial Specialist;Medium;3498;X
+860041;Head of Military Intelligence;Eugen Hordliczka;1900;1912;PA;Political Specialist;Medium;unknownminister;X
+860042;Head of Military Intelligence;August Urbanski von Ostrymiecz;1900;1945;PA;Logistics Specialist;Medium;9892;X
+860043;Head of Military Intelligence;Oskar von Hranilovic-Cvetassin;1900;1945;PA;Naval Intelligence Specialist;Medium;unknownminister;X
+860044;Head of Military Intelligence;Maximilian Ronge;1900;1953;PA;Technical Specialist;Medium;3518;X
+860045;Head of Military Intelligence;Alfred Redl;1900;1913;PA;Logistics Specialist;Medium;3493;X
+860046;Head of Military Intelligence;Andreas Figl;1900;1967;PA;Dismal Enigma;Medium;3495;X
+860047;Head of Military Intelligence;Gustav Hubka;1900;1962;PA;Industrial Specialist;Medium;unknownminister;X
+860048;Chief of Staff;Franz Conrad von Hötzendorf;1900;1925;PA;School of Fire Support;Medium;6517;X
+860049;Chief of Staff;Blasius Schemua;1900;1920;PA;School of Manoeuvre;Medium;3500;X
+860050;Chief of Staff;Arthur Arz von Straußenburg;1900;1935;PA;School of Defence;Medium;3497;X
+860051;Chief of Army;Arthur von Bolfras;1900;1922;PA;Guns and Butter Doctrine;Medium;3499;X
+860052;Chief of Army;Eduard von Paar;1900;1919;PA;Armoured Spearhead Doctrine;Medium;6640;X
+860053;Chief of Army;Franz Ferdinand von Österreich-Este;1900;1914;PA;Decisive Battle Doctrine;Medium;3503;X
+860054;Chief of Army;Friedrich von Österreich-Teschen;1900;1936;PA;Static Defence Doctrine;Medium;3507;X
+860055;Chief of Army;Karl I;1916;1922;PA;Elastic Defence Doctrine;Medium;3510;X
+860056;Chief of Army;Zdenko von Lobkowitz;1900;1933;PA;Commando Doctrine Army;Medium;3526;X
+860057;Chief of Navy;Rudolf Montecuccoli;1900;1922;PA;Base Control Doctrine;Medium;3523;X
+860058;Chief of Navy;Anton Haus;1900;1917;PA;Open Seas Doctrine;Medium;3496;X
+860059;Chief of Navy;Maximilian Njegovan;1900;1930;PA;Decisive Naval Battle Doctrine;Medium;3517;X
+860060;Chief of Navy;Miklós Horthy;1900;1957;PA;Power Projection Doctrine;Medium;3996;X
+860065;Chief of Air Force;Milan Emil Uzelac;1900;1954;PA;Carpet Bombing Doctrine;Medium;3527;X
+860066;Chief of Air Force;Joseph Ferdinand von Österreich-Toskana;1900;1942;PA;Air Superiority Doctrine;Medium;3509;X
+860067;Chief of Air Force;Otto Ellison von Nidlef;1900;1947;PA;Army Aviation Doctrine;Medium;3520;X
+860068;Head of State;S.K.u.K.M Karl I;1916;1964;SC;Die-hard Reformer;Medium;3510;X
+860069;Head of State;S.K.u.K.M Otto I;1941;1964;ML;Benevolent Gentleman;High;M21044;X
+860070;Head of Government;Kurt Schuschnigg;1933;1964;PA;Silent Workhorse;High;8594;X
+860071;Head of Government;Miklós Horthy de Nagybánya;1933;1957;PA;Old Admiral;High;M21001;X
+860072;Head of Government;Taras von Borodajkewycz;1948;1964;PA;Flamboyant Tough Guy;High;U09-Taras_von_Borodajkewycz;X
+860073;Head of Government;Leopold Figl;1933;1964;SC;Silent Workhorse;High;M23045;X
+860074;Head of Government;Zoltán Tildy;1948;1964;SC;Naive Optimist;High;M21011;X
+860075;Head of Government;Milan Hodza;1933;1945;ML;Naive Optimist;High;2380;X
+860076;Head of Government;Bedrich Homola;1944;1964;ML;Happy Amateur;High;M24047;X
+860077;Head of Government;Vladko Macek;1936;1964;SL;Happy Amateur;High;M30011;X
+860078;Head of Government;Mladen Lorkovic;1948;1964;SL;Backroom Backstabber;High;M30005;X
+860079;Head of Government;Karl Renner;1933;1951;SD;Ambitious Union Boss;High;M23021;X
+860080;Head of Government;Adolf Schärf;1949;1964;SD;Political Protege;High;M23022;X
+860081;Foreign Minister;Julius Raab;1933;1964;PA;Great Compromiser;High;8597;X
+860082;Foreign Minister;Karl Gruber;1933;1964;SC;Biased Intellectual;High;M23023;X
+860083;Foreign Minister;Endre Bajcsy-Zsilinszky;1933;1964;SC;Great Compromiser;Medium;M21074;X
+860084;Foreign Minister;Kamil Krofta;1933;1964;SL;The Cloak N Dagger Schemer;High;M24053;X
+860085;Foreign Minister;Adolf Schärf;1933;1964;SD;Biased Intellectual;High;M23022;X
+860086;Minister of Armament;Miklós Horthy de Nagybánya;1933;1956;PA;Air to Sea Proponent;High;M21001;X
+860087;Minister of Armament;Eduard Heilingsetzer;1948;1997;PA;Administrative Genius;High;AUS-Eduard_Heilingsetzer;X
+860088;Minister of Armament;Josef Dobretsberger;1933;1964;SC;Laissez-Faire Capitalist;High;M23069;X
+860089;Minister of Armament;Ján Masaryk;1933;1964;ML;Resource Industrialist;Very High;M24055;X
+860090;Minister of Armament;Béla Zsedényi;1933;1964;SL;Infantry Proponent;High;M21031;X
+860091;Minister of Armament;Károly Peyer;1933;1956;SD;Mixed Economy;Medium;M21045;X
+860092;Minister of Armament;Reszö Kastner;1949;1964;SD;Keynesian Economy;High;M21089;X
+860093;Minister of Security;Eduard Baar-Baarenfels;1933;1964;PA;Man of the People;Very High;8623;X
+860094;Minister of Security;Karl Tuppy;1933;1964;SC;Efficient Sociopath;Very High;M23077;X
+860095;Minister of Security;Zoltán Tildy;1938;1964;SC;Man of the People;High;M21011;X
+860096;Minister of Security;Ivan Subasic;1933;1964;ML;Silent Lawyer;High;M30012;X
+860097;Minister of Security;Ivan Derer;1933;1964;SL;Man of the People;Medium;M24005;X
+860098;Minister of Security;Jozsef Revay;1933;1964;SD;Crime Fighter;Medium;M21107;X
+860099;Head of Military Intelligence;Eduard Baar-Baarenfels;1933;1964;PA;Logistics Specialist;Very High;8623;X
+860100;Head of Military Intelligence;Karl Tuppy;1933;1964;SC;Political Specialist;Very High;M23077;X
+860101;Head of Military Intelligence;Zoltán Tildy;1938;1964;SC;Dismal Enigma;High;M21011;X
+860102;Head of Military Intelligence;Ivan Subasic;1933;1964;ML;Political Specialist;High;M30012;X
+860103;Head of Military Intelligence;Ivan Derer;1933;1964;SL;Logistics Specialist;Medium;M24005;X
+860104;Head of Military Intelligence;Jozsef Revay;1933;1964;SD;Industrial Specialist;Medium;M21107;X
+860105;Chief of Staff;Wilhelm Zehner;1933;1964;PA;School of Defence;Very High;8627;X
+860106;Chief of Staff;Alfred von Jansa;1933;1964;SC;School of Defence;Very High;M23007;X
+860107;Chief of Staff;Béla Miklós de Dalnók;1948;1964;ML;School of Psychology;Very High;M21059;X
+860108;Chief of Army;Wilhelm Zehner;1933;1964;PA;Static Defence Doctrine;Very High;8627;X
+860109;Chief of Army;Alfred von Jansa;1933;1964;SC;Decisive Battle Doctrine;Very High;M23007;X
+860110;Chief of Army;Béla Miklós de Dalnók;1948;1964;ML;Guns and Butter Doctrine;Very High;M21059;X
+860111;Chief of Navy;Miklós Horthy de Nagybánya;1933;1956;PA;Decisive Naval Battle Doctrine;High;M21001;X
+860112;Chief of Navy;Edgar Angeli;1933;1964;SC;Open Seas Doctrine;Very High;M30019;X
+860113;Chief of Air Force;Milan Emil Uzelac;1900;1954;SC;Carpet Bombing Doctrine;Medium;3527;X
