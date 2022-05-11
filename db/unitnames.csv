@@ -13393,6 +13393,7 @@ CSA;CL;CSS Wilmington
 CSA;CL;CSS Vicksburg
 CSA;CL;CSS Darlington
 CSA;CL;CSS Fredericksburg
+CSA;CL;CSS Stone Mountain
 CSA;CL;CSS Muskogee
 CSA;CL;CSS Jamestown
 CSA;CL;CSS Augusta
@@ -13440,11 +13441,12 @@ CSA;CV;CSS Jefferson Davis
 CSA;CV;CSS John C. Calhoun
 CSA;CV;CSS Thomas Jefferson
 CSA;CV;CSS Judah P. Benjamin
+CSA;CV;CSS Alexander H. Stephens
 CSA;CV;CSS James Madison
 CSA;CV;CSS James Monroe
 CSA;CV;CSS Patrick Henry
 CSA;CV;CSS John Tyler
-CSA;CV;CSS Sumter
+CSA;CV;CSS Fort Sumter
 CSA;CV;CSS Samuel Houston
 CSA;CV;CSS Stephen Austin
 CSA;CV;CSS David Burnet
@@ -18921,9 +18923,11 @@ ENG;BB;HMS Canada
 ENG;BB;HMS Nelson
 ENG;BB;HMS Rodney
 ENG;BC;HMS King George III
+ENG;BC;HMS Frances Drake
 ENG;BC;HMS Lightning
 ENG;BC;HMS Heroic
 ENG;BC;HMS Invincible
+ENG;BC;HMS Incomparable
 ENG;BC;HMS Indomitable
 ENG;BC;HMS Inflexible
 ENG;BC;HMS Indefatigable
@@ -18950,6 +18954,8 @@ ENG;CV;HMS Illustrious
 ENG;CV;HMS Victorious
 ENG;CV;HMS Greater Britannia
 ENG;CV;HMS Empire
+ENG;CV;HMS Executor
+ENG;CV;HMS Sovereign
 ENG;CV;HMS Formidable
 ENG;CV;HMS Indomitable
 ENG;CV;HMS Implacable
@@ -18958,6 +18964,7 @@ ENG;CV;HMS Imperial Glory
 ENG;CV;HMS Unicorn
 ENG;CV;HMS Eagle
 ENG;CV;HMS Audacious
+ENG;CV;HMS Habbakuk
 ENG;CV;HMS Malta
 ENG;CV;HMS Gibraltar
 ENG;CV;HMS New Zealand
@@ -18973,6 +18980,13 @@ ENG;CV;HMS Centaur
 ENG;CV;HMS Hermes
 ENG;CV;HMS Invincible
 ENG;CV;HMS Argus
+ENG;CV;HMS Queen Elizabeth
+ENG;CV;HMS Duke of Edinburgh
+ENG;CV;HMS Prince of Wales
+ENG;CV;HMS Princess Royal
+ENG;CV;HMS Duke Of Kent
+ENG;CV;HMS Iron Duke
+ENG;CV;HMS Anson
 ENG;27;HMS Argus
 ENG;27;HMS Eagle
 ENG;27;HMS Hermes
@@ -19036,6 +19050,7 @@ ENG;NS;HMS Thunderbolt
 ENG;NS;HMS Kronos
 ENG;NS;HMS Olympus
 ENG;NS;HMS Neptune
+ENG;NS;HMS Jupiter
 ENG;NS;HMS Odin
 ENG;NS;HMS Thor
 ENG;NS;HMS Asgard
@@ -22194,10 +22209,10 @@ FRA;CL;Primaguet
 FRA;CL;Duquesne
 FRA;CL;Tourville
 FRA;CL;Suffren
-FRA;CL;Foch
+FRA;CL;Marne
 FRA;CL;Dupleix
 FRA;CL;Pluton
-FRA;CL;Jeanne-d'Arc
+FRA;CL;Merveilleux
 FRA;CL;Algerié
 FRA;CL;Émile Bertin
 FRA;CL;La Galissonnière
@@ -31594,6 +31609,10 @@ ITA;CV;RN Sagittario
 ITA;CV;RN Traiano
 ITA;CV;RN Vespasiano
 ITA;CV;RN Adriano
+ITA;CV;RN Giulio Cesare
+ITA;CV;RN Ottaviano
+ITA;CV;RN Costantino
+ITA;CV;RN Valente
 ITA;27;RN Difensore
 ITA;27;RN Protettore
 ITA;27;RN Cacciatore
@@ -85650,6 +85669,7 @@ USA;CV;USS Theodore Roosevelt
 USA;CV;USS Alfred T. Mahan
 USA;CV;USS Samuel J. Tilden
 USA;CV;USS Quincy Adams
+USA;CV;USS James T. Kirk
 USA;CV;USS Eagle
 USA;CV;USS Falcon
 USA;CV;USS Hawk
@@ -85735,7 +85755,7 @@ USA;27;USS Rendova
 USA;27;USS Bairoka
 USA;27;USS Badoeng Strait
 USA;27;USS Saidor
-USA;27;USS Sicily
+USA;27;USS Smith's Point
 USA;27;USS Point Cruz
 USA;27;USS Mindoro
 USA;27;USS Rabaul
@@ -85911,6 +85931,7 @@ USA;CL;USS Manhattan
 USA;CL;USS Queens
 USA;CL;USS Bronx
 USA;CL;USS Staten Island
+USA;CL;USS Green Bay
 USA;CL;USS Dayton
 USA;CL;USS Cody
 USA;CL;USS Allentown
