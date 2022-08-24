@@ -1,6 +1,7 @@
 TEX;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
 780001;Head of State;James Burr V. Allred;1933;1964;PA;Ruthless Powermonger;High;M571001;X
+780029;Head of State;Wright Patman;1933;1964;PA;Benevolent Gentleman;High;TEX - Wright Patman;X
 780002;Head of Government;William Lee O'Daniel;1933;1964;PA;Political Protege;High;M571002;X
 780003;Foreign Minister;J.T. Renfrew;1933;1964;PA;The Cloak N Dagger Schemer;High;M571003;X
 780004;Minister of Armament;Jesse H. Jones;1933;1964;PA;Resource Industrialist;Medium;M571004;X
