@@ -13,8 +13,6 @@ province = {
 
 country = {
   tag                = LIB
-  puppet             = USA
-  control            = USA
   capital            = 992 # Monrovia
   manpower           = 100
   # Resource Reserves
@@ -26,8 +24,9 @@ country = {
   money          = 10
 
   diplomacy = {
-    relation = { tag = PHI value = 200 }
-    relation = { tag = USA value = 200 }
+    relation = { tag = CSA value = -100 }
+    relation = { tag = USA value = 100 }
+    relation = { tag = U89 value = 25 }
   }
 
   nationalprovinces      = { 992 2762 4476 4477 4478 }

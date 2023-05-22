@@ -66,7 +66,7 @@ economy = {
 # Wartime Manpower Multiplier (multiplied on the other)
 	0.30 #0.033
 # Daily retired Manpower - percentage of the current MP pool
-	0.0#0.000015 #0.0
+	0.0 #0.000015 #0.0
 # Trickle-back factor for manpower from losses in battle. (ie, how many are just wounded.)
 	0.15 # 0.2 # 0.35
 # Reinforcement Manpower Cost Factor
@@ -1260,7 +1260,7 @@ mod = {
 # Use new minister files format and End years for ministers; All minister files should have End Year column (after "Pool"); Pool should use absolute year (1936 instead of 36): 0 - Disabled, 1 - Enabled
 	1 #0
 # Enable Retirement Year for ministers (auto-retire ministers once the year is reached in-game); All minister files should have Retirement Year column (before "Ideology"); All years should be absolute (1936 instead of 36):  0 - Disabled, 1 - Enabled
-	0 #0
+	0 #1
 # Enable Retirement Year for leaders (auto-retire leaders once the year is reached in-game); All leader files should have Retirement Year column (after "End Year"); All years should be absolute (1936 instead of 36): 0 - Disabled, 1 - Enabled
 	0 #0
 # Load sprites from Moddir only. Setting this to 1 prevents reading of sprite files from the main game folder. 

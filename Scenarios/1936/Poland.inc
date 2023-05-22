@@ -24,6 +24,8 @@ province = { id = 7050 landfort = 2 } # Modlin
 
 country = {
   tag                = POL
+  puppet             = GER
+  control            = GER
   capital            = 485 # Warszawa
   manpower           = 200
   # Resource Reserves
@@ -564,51 +566,25 @@ country = {
     }
   }
 
-  navalunit = {
-    id       = { type = 18600 id = 63 }
-    name     = "Polska Flota Wojenna"
-    location = 306
-    base     = 306
-    division = {
-      id             = { type = 18600 id = 64 }
-      name           = "Flotylla Niszczycieli"
-      type           = destroyer
-      model          = 3
-      strength       = 40
-    }
-    division = {
-      id             = { type = 18600 id = 964 }
-      name           = "Flotylla Dozorowców"
-      type           = destroyer
-      model          = 0
-    }
-    division = {
-      id             = { type = 18600 id = 65 }
-      name           = "1 Flotylla Okretow Podwodnych"
-      type           = submarine
-      model          = 3
-    }
-  }
-
   airunit = { 
-    id       = { type = 18600 id = 66 }
+    id       = { type = 18600 id = 63 }
     name     = "Wojska Lotnicze"
     location = 485
     base     = 485
     division = {
-      id             = { type = 18600 id = 67 }
+      id             = { type = 18600 id = 64 }
       name           = "3 Korpus Lotnictwa Mysliwskiego"
       type           = interceptor
       model          = 7
     }
     division = {
-      id             = { type = 18600 id = 68 }
+      id             = { type = 18600 id = 65 }
       name           = "4 Korpus Lotnictwa Szturmowego"
       type           = interceptor
       model          = 7
     }
     division = {
-      id             = { type = 18600 id = 69 }
+      id             = { type = 18600 id = 66 }
       name           = "15 Dywizja Lotnictwa Bombowego"
       type           = tactical_bomber
       model          = 4

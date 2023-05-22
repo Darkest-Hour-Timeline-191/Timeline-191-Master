@@ -17,7 +17,10 @@ country = {
 
   diplomacy = {
     relation = { tag = GER value = 80 }
+    relation = { tag = SCH value = 150 }
+    relation = { tag = U09 value = 100 } # Austria-Hungary
   }
+
   SpyInfo                = { country = "U06" NumberOfSpies = 3 }
 
   nationalprovinces      = { 2273 }

@@ -4,6 +4,7 @@
 
 country = {
   tag                = U57
+  puppet             = FRA
   capital            = 2581 # Andorra la Vella
   manpower           = 100
   # Resource Reserves

@@ -1,115 +1,98 @@
 CSA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-600001;Head of State;Earl Kemps Long;1933;1964;SD;Benevolent Gentleman;High;CSA - Earl Kemp Long;X
-600069;Head of State;Huey Long;1933;1964;SD;Die-hard Reformer;High;CSA - Huey Long;X
-600078;Head of Government;Samuel E. Johnson Jr.;1933;1964;SL;Silent Workhorse;;CSA - Samuel_Ealy_Johnson_Jr;X
-600079;Head of Government;Hattie Caraway;1933;1964;SD;Silent Workhorse;;CSA - Hattie Caraway;X
-600080;Minister of Armament;Willie Stark;1933;1964;SD;Administrative Genius;;CSA - Willie Stark;X
-600052;Head of State;Jake Featherston;1933;1964;NS;The Snake;Very High;CSA-Jake Featherston;X
-600081;Head of Government;Jake Featherston;1933;1964;NS;Flamboyant Tough Guy;Very High;CSA-Jake Featherston;X
-600082;Chief of Army;Jake Featherston;1933;1964;NS;Guns and Butter Doctrine;Very High;CSA-Jake Featherston;X
-600055;Head of Government;Ferdinand Koenig;1933;1964;NS;Political Protege;Very High;CSA-Ferdinand Koenig;X
-600066;Head of Government;Don Partridge;1933;1964;NS;Generic;;CSA-Donald Partridge;X
-600067;Head of State;Don Partridge;1933;1964;NS;Generic;;CSA-Donald Partridge;X
-600056;Head of State;Ferdinand Koenig;1933;1964;NS;Generic;Very High;CSA-Ferdinand Koenig;X
-600059;Minister of Security;Ferdinand Koenig;1933;1964;NS;Efficient Sociopath;Very High;CSA-Ferdinand Koenig;X
-600060;Minister of Security;Jefferson Pinkard;1933;1964;NS;Prince of Terror;Very High;Jefferson Pinkard;X
-600061;Chief of Staff;Cyril Northcote;1933;1964;NS;School of Psychology;High;CSA - Cyril Northcote;X
-600063;Minister of Security;Saul Goldman;1933;1964;FA;Media Magnate;Very High;CSA - Saul Goldman;X
-600064;Head of State;Burton Michel;1933;1964;SC;Unpopular President;High;CSA-Burton Mitchel;X
-600062;Foreign Minister;Herbert Walker;1933;1964;PA;General Staffer;High;CSA - George Herbert Walker Sr;X
-600068;Foreign Minister;Anne Colleton;1933;1964;NS;Ideological Crusader;High;CSA - Anne Colleton;X
-600057;Chief of Staff;Nathan B. Forrest III;1933;1964;FA;Popular Military Leader;High;CSA - Nathan Bedford Forrest III;X
-600058;Head of State;Nathan B. Forrest III;1933;1964;FA;Resigned Generalissimo;High;CSA - Nathan Bedford Forrest III;X
-600053;Head of State;Willy Knight;1933;1964;FA;Ruthless Powermonger;High;CSA-Willy Knight;X
-600054;Head of Government;Willy Knight;1933;1964;FA;Flamboyant Tough Guy;High;CSA-Willy Knight;X
-600065;Foreign Minister;Richard B. Russel Jr.;1933;1964;FA;Ideological Crusader;;CSA - Richard B. Russell Jr.;X
-600070;Head of Military Intelligence;Clarence Potter;1933;1964;PA;Brilliant Spymaster;Very High;Clarence Potter;X
-600071;Head of Military Intelligence;Stanley McGillivray ;1933;1964;PA;Political Specialist;High;High;X
-600072;Head of Government;Hugo Black;1933;1964;SC;Silent Workhorse;High;CSA - Hugo Black;X
-600077;Head of State;Hugo Black;1933;1964;SC;Benevolent Gentleman;;CSA - Hugo Black;X
-600073;Head of State;Samuel Longstreet;1933;1964;SC;Benevolent Gentleman;High;High;X
-600002;Head of Government;Richard Webster Leche;1933;1964;SC;Old Lawyer;;CSA - Richard Leche;X
-600003;Foreign Minister;Ransome Judd Williams;1933;1964;SC;Respectable Compromiser;High;CSA - Ransome Judd Williams;X
-600004;Minister of Armament;Spessard Lindsay Holland;1933;1964;SC;Genius Organizer;High;CSA - Spessard Holland;X
-600083;Head of Government;Hiram Wesley Evans;1933;1964;NS;Backroom Backstabber;High;CSA - Hiram Wesley Evans;X
-600084;Head of State;Hiram Wesley Evans;1933;1964;NS;Barking Buffoon;Medium;CSA - Hiram Wesley Evans;X
-600005;Minister of Security;Paul Burney Johnson Sr.;1933;1964;SC;Crime Fighter;Medium;CSA - Paul Burney Johnson Sr;X
-600007;Chief of Staff;William S. Graves;1933;1964;SC;School of Psychology;;Medium;X
-600006;Head of Military Intelligence;Robert G. Cherry;1933;1964;SC;Political Specialist;;CSA - Robert Gregg Cherry;X
-600008;Chief of Army;Henry Jouett;1933;1964;SC;Elastic Defence Doctrine;High;CSA - Henry Jouett;X
-600009;Chief of Navy;Edward I. Bourne;1933;1964;SC;Open Seas Doctrine;;CSA - Edward I Bourne;X
-600010;Chief of Air Force;Kenneth Walker;1933;1964;SC;Army Aviation Doctrine;Very High;CSA - Kenneth Walker;X
-600011;Foreign Minister;Sam Houston Jones;1941;1964;SC;Apologetic Clerk;High;CSA - Sam Houston Jones;X
-600012;Foreign Minister;Clyde Roark Hoey;1942;1964;SC;Great Compromiser;Medium;CSA - Clyde Roark Hoey;X
-600013;Foreign Minister;Eugene Talmadge;1942;1964;PA;Iron Fisted Brute;;CSA - Eugene Talmadge;X
-600014;Foreign Minister;John C.B. Ehringhaus;1943;1964;SC;Respectable Compromiser;;CSA - John Ehringhaus;X
-600015;Foreign Minister;James Houston Davies;1945;1964;SC;General Staffer;;CSA - James Houston Davies;X
-600016;Foreign Minister;Chauncey Sparks;1945;1964;PA;Ideological Crusader;High;CSA - Chauncey Sparks;X
-600017;Minister of Armament;Harry Hill McAllister;1937;1964;SC;Administrative Genius;;CSA - Harry Hill McAllister;X
-600018;Minister of Armament;David Bibb Graves;1937;1964;PA;Administrative Genius;;CSA - David Bibb Graves;X
-600019;Minister of Armament;Carl Bailey;1938;1964;ML;Military Entrepreneur;;CSA - Carl Bailey;X
-600020;Minister of Armament;Junius M. Futrell;1932;1964;SL;Genius Organizer;;CSA - Junius Marion Futrell;X
-600021;Minister of Armament;Colgate W. Darden Jr.;1933;1964;SC;Laissez-Faire Capitalist;;CSA - Colgate Darden;X
-600022;Minister of Armament;Burnett Rhett Maybank;1940;1964;SD;Administrative Genius;;CSA - Burnet R Maybank;X
-600023;Minister of Armament;Frederick Preston Cone;1941;1964;SC;Resource Industrialist;High;CSA - Frederick Preston Cone;X
-600024;Minister of Armament;Jim Nance McCord;1933;1964;ML;Administrative Genius;;CSA - Jim Nance McCord;X
-600025;Minister of Armament;Olin DeWitt Johnston;1943;1964;PA;Corrupt Kleptocrat;;CSA - Olin DeWitt Johnston;X
-600026;Minister of Armament;Albert B. Chandler;1945;1964;SC;Genius Organizer;High;CSA - Albert B Chandler;X
-600027;Minister of Armament;David Sholtz;1946;1964;PA;Laissez-Faire Capitalist;;CSA - David Sholtz;X
-600028;Minister of Security;Frank Murray Dixon;1938;1964;SC;Compassionate Gentleman;;CSA - Frank Murray Dixon;X
-600029;Minister of Security;James H. Price;1939;1964;SD;Man of the People;;Medium;X
-600030;Minister of Security;Prentice Cooper;1941;1964;SC;Silent Lawyer;;Medium;X
-600085;Minister of Security;Eugene Bull Connor;1943;1964;FA;Efficient Sociopath;High;CSA - Bull Connor;X
-600031;Minister of Security;Millard Fillmore Caldwell Jr.;1943;1964;SC;Crime Fighter;;CSA - Millard Fillmore Caldwell Jr;X
-600032;Minister of Security;Lloyd Crow Stark;1943;1964;SC;Health and Safety;;CSA - Lloyd Crow Stark;X
-600033;Minister of Security;Joseph Melville Broughton;1944;1964;SC;Man of the People;;CSA - Melville Broughton;X
-600034;Minister of Security;Forrest C. Donnell;1945;1964;ML;Crime Fighter;;CSA - Forrest C Donnell;X
-600035;Head of Military Intelligence;Eurith Dickinson Rivers;1938;1964;PA;Political Specialist;;Medium;X
-600036;Head of Military Intelligence;Guy Brasfield Park;1940;1964;SC;Industrial Specialist;;Medium;X
-600037;Head of Military Intelligence;Gordon Weaver Browning;1942;1964;SC;Logistics Specialist;;Medium;X
-600038;Head of Military Intelligence;Benjamin Travis Laney;1944;1964;SC;Naval Intelligence Specialist;;Medium;X
-600039;Head of Military Intelligence;Homer M. Adkins;1945;1964;PA;Dismal Enigma;;CSA - Homer M Adkins;X
-600040;Chief of Staff;Dennis H. Murphree;1938;1964;SC;School of Defence;;CSA - Dennis Murphree;X
-600041;Chief of Staff;Roscoe Murray;1940;1964;SC;School of Fire Support;;CSA - Roscoe Murray;X
-600042;Chief of Staff;William W. Austin;1944;1964;SC;School of Psychology;;CSA - William W Austin;X
-600043;Chief of Army;John Polin;1940;1964;SC;Guns and Butter Doctrine;;Medium;X
-600044;Chief of Army;Fielding Lewis Wright;1941;1964;PA;Decisive Battle Doctrine;;CSA - Fielding Lewis Wright;X
-600045;Chief of Army;John J. Williams;1943;1964;SC;Decisive Battle Doctrine;;CSA - John J Williams;X
-600046;Chief of Navy;Harold Eisert;1940;1964;SC;Power Projection Doctrine;;CSA - Harold Eisert;X
-600047;Chief of Navy;Simeon Slavens Willis;1941;1964;SC;Open Seas Doctrine;;CSA - Simeon Willis;X
-600048;Chief of Navy;Richard Powers;1942;1964;SC;Base Control Doctrine;;CSA - Richard Powers;X
-600049;Chief of Air Force;Philip Ardery;1940;1964;SC;Carpet Bombing Doctrine;;CSA - Philip Ardery;X
-600050;Chief of Air Force;Thomas Lowry Bailey;1941;1964;SC;Army Aviation Doctrine;;CSA - Thomas Lowry Bailey;X
-600051;Chief of Air Force;John Faulkenberry;1943;1964;SC;Air Superiority Doctrine;;CSA - John Faulkenberry;X
-240002;Head of Government;John Nance Garner;1932;1942;ML;Silent Workhorse;;CSA - John Nance Garner;X
-600074;Head of State;John Nance Garner;1932;1942;ML;Benevolent Gentleman;;CSA - John Nance Garner;X
-240003;Head of State;Cordell Hull;1933;1946;ML;Die-hard Reformer;High;CSA - Cordell Hull;X
-240009;Chief of Navy;Claude A. Swanson;1933;1940;SL;Indirect Approach Doctrine;;CSA - Claude Augustus Swanson;X
-240029;Head of Government;Strom Thurmond;1944;1964;FA;Flamboyant Tough Guy;;CSA - Strom Thurmond;X
-240032;Minister of Armament;Dr. Samuel Green;1944;1950;FA;Genius Organizer;Very High;CSA - Dr Samuel Green;X
-240040;Foreign Minister;George C. Marshall;1947;1960;ML;Great Compromiser;;CSA - George C. Marshall;X
-240046;Minister of Armament;Lawrence Dennis;1930;1978;FA;Corrupt Kleptocrat;Very High;CSA - Lawrence Dennis;X
-240059;Minister of Armament;Kenneth C. Royall;1947;1972;PA;Infantry Proponent;;CSA - Kenneth C Royall;X
-240060;Minister of Armament;Daniel C. Roper;1933;1944;ML;Laissez-Faire Capitalist;Very High;CSA -Daniel C Roper;X
-240065;Minister of Armament;Frederick Vinson;1945;1954;SC;Administrative Genius;Very High;CSA - Frederick Vinson;X
-240067;Minister of Armament;Norman H. Davis;1922;1945;SC;Infantry Proponent;Very High;CSA - Norman H Davis;X
-240084;Minister of Security;Dr. Samuel Green;1940;1950;FA;Prince of Terror;High;CSA - Dr Samuel Green;X
-240085;Minister of Security;Samuel Roper;1944;1987;FA;Efficient Sociopath;;CSA - Samuel Roper;X
-240101;Head of Military Intelligence;Hiram Wesley  Evans;1933;1967;NS;Political Specialist;Very High;CSA - Hiram Wesley Evans;X
-240104;Chief of Staff;George C. Marshall;1939;1960;SC;School of Manoeuvre;Medium;CSA - George C Marshall;X
-240109;Chief of Army;George C. Marshall;1939;1960;SC;Guns and Butter Doctrine;Very High;CSA - George C Marshall;X
-240113;Chief of Army;William J. Simmons;1924;1945;FA;Undersecretary of War;High;CSA - William J Simmons;X
-240119;Chief of Navy;Chester W. Nimitz;1941;1967;SC;Open Seas Doctrine;Very High;CSA - Chester W Nimitz;X
-600075;Chief of Navy;Chester W. Nimitz;1941;1967;PA;Open Seas Doctrine;High;CSA - Chester W Nimitz;X
-240132;Chief of Air Force;Nathan B. Forrest III;1933;1964;FA;Army Aviation Doctrine;Very High;CSA - Nathan Bedford Forrest III;X
-240139;Chief of Air Force;Ira C. Eaker;1930;1988;PA;Carpet Bombing Doctrine;;CSA - Ira C Eaker;X
-240147;Head of Government;Lawrence Dennis;1933;1978;FA;Flamboyant Tough Guy;High;CSA - Lawrence Dennis;X
-240155;Chief of Staff;Joseph Lawton Collins;1940;1988;SC;School of Fire Support;;CSA - Joseph Lawton Collins;X
-240156;Chief of Army;Joseph Stilwell;1930;1947;PA;Innovative Offensive General;Very High;CSA - Joseph Stillwell;X
-240165;Minister of Security;Hugo Black;1937;1972;SC;Compassionate Gentleman;;CSA - Hugo Black;X
-240191;Chief of Army;Joseph Lawton Collins;1940;1988;SC;Decisive Battle Doctrine;;CSA - Joseph Lawton Collins;X
-240206;Foreign Minister;Strom Thurmond;1944;2004;FA;Ideological Crusader;Very High;CSA - Strom Thurmond;X
-240220;Chief of Army;Matthew B. Ridgway;1944;1956;SC;Guns and Butter Doctrine;High;CSA - Matthew B Ridgway;X
-240411;Chief of Army;George S. Patton;1924;1955;NS;Armoured Spearhead Doctrine;Very High;CSA - George S Patton;X
-600076;Chief of Staff;George S. Patton;1924;1955;NS;School of Manoeuvre;Very High;CSA - George S Patton;X
+600001;Head of State;Earl Kemps Long;1933;1964;SC;Popular Figurehead;High;M573001;X
+600002;Head of Government;Richard Webster Leche;1933;1964;SC;Naive Optimist;High;M573002;X
+600003;Foreign Minister;Ransome Judd Williams;1933;1964;SC;Apologetic Clerk;High;M573003;X
+600004;Minister of Armament;Spessard Lindsay Holland;1933;1964;SC;Air Superiority Proponent;Medium;M573004;X
+600005;Minister of Security;Paul Burney Johnson Sr.;1933;1964;SC;Silent Lawyer;Medium;M573005;X
+600006;Head of Military Intelligence;Robert G. Cherry;1933;1964;SC;Industrial Specialist;Medium;M573006;X
+600007;Chief of Staff;William S. Graves;1933;1964;SC;School of Mass Combat;Medium;M573007;X
+600008;Chief of Army;Jouett Henry;1921;1932;SC;Elastic Defence Doctrine;Medium;M573008;X
+600009;Chief of Navy;Edward I. Bourne;1933;1964;SC;Indirect Approach Doctrine;Medium;M573009;X
+600010;Chief of Air Force;Kenneth Walker;1933;1964;SC;Army Aviation Doctrine;Medium;M573010;X
+600011;Foreign Minister;Sam Houston Jones;1941;1964;SC;The Cloak N Dagger Schemer;High;M573011;X
+600012;Foreign Minister;Clyde Roark Hoey;1942;1964;SC;Biased Intellectual;High;M573012;X
+600013;Foreign Minister;Eugene Talmadge;1942;1964;SC;Iron Fisted Brute;High;M573013;X
+600014;Foreign Minister;John C.B. Ehringhaus;1943;1964;SC;General Staffer;High;M573014;X
+600015;Foreign Minister;James Houston Davies;1945;1964;SC;Ideological Crusader;High;M573015;X
+600016;Foreign Minister;Chauncey Sparks;1945;1964;SC;Great Compromiser;High;M573016;X
+600017;Minister of Armament;Harry Hill McAllister;1937;1964;SC;Infantry Proponent;Medium;M573017;X
+600018;Minister of Armament;David Bibb Graves;1937;1964;SC;laissez-faire capitalist;Medium;M573018;X
+600019;Minister of Armament;Carl Bailey;1938;1964;SC;Strategic Air Proponent;Medium;M573019;X
+600020;Minister of Armament;Junius M. Futtrell;1939;1964;SC;Resource Industrialist;Medium;M573020;X
+600021;Minister of Armament;Colgate W. Darden Jr.;1940;1964;SC;Administrative Genius;Medium;M573021;X
+600022;Minister of Armament;Burnett Rhett Maybank;1940;1964;SC;Air to Ground Proponent;Medium;M573022;X
+600023;Minister of Armament;Frederick Preston Cone;1941;1964;SC;Air to Sea Proponent;Medium;M573023;X
+600024;Minister of Armament;Jim Nance McCord;1942;1964;SC;Military Entrepreneur;Medium;M573024;X
+600025;Minister of Armament;Olin DeWitt Johnston;1943;1964;SC;Tank Proponent;Medium;M573025;X
+600026;Minister of Armament;Albert B. Chandler;1945;1964;SC;Battle Fleet Proponent;Medium;M573026;X
+600027;Minister of Armament;David Sholtz;1946;1964;SC;Submarine Proponent;Medium;M573027;X
+600028;Minister of Security;Frank Murray Dixon;1938;1964;SC;Back Stabber;Medium;M573028;X
+600029;Minister of Security;James H. Price;1939;1964;SC;Prince of Terror;Medium;M573029;X
+600030;Minister of Security;Prentice Cooper;1941;1964;SC;Crime Fighter;Medium;M573030;X
+600031;Minister of Security;Millard Fillmore Caldwell Jr.;1943;1964;SC;Man of the People;Medium;M573031;X
+600032;Minister of Security;Lloyd Crow Stark;1943;1964;SC;Efficient Sociopath;Medium;M573032;X
+600033;Minister of Security;Joseph Melville Broughton;1944;1964;SC;Compassionate Gentleman;Medium;M573033;X
+600034;Minister of Security;Forrester C. Donnell;1945;1964;SC;Crooked Kleptocrat;Medium;M573034;X
+600035;Head of Military Intelligence;Eurith Dickinson Rivers;1938;1964;SC;Political Specialist;Medium;M573035;X
+600036;Head of Military Intelligence;Guy Brasfield Park;1940;1964;SC;Dismal Enigma;Medium;M573036;X
+600037;Head of Military Intelligence;Gordon Weaver Browning;1942;1964;SC;Logistics Specialist;Medium;M573037;X
+600038;Head of Military Intelligence;Benjamin Travis Laney;1944;1964;SC;Naval Intelligence Specialist;Medium;M573038;X
+600039;Head of Military Intelligence;Homer M. Adkins;1945;1964;SC;Technical Specialist;Medium;M573039;X
+600040;Chief of Staff;Dennis J. Murphree;1938;1964;SC;School of Psychology;Medium;M573040;X
+600041;Chief of Staff;Roscoe Murray;1940;1964;SC;School of Fire Support;Medium;M573041;X
+600042;Chief of Staff;William W. Austin;1944;1964;SC;School of Manoeuvre;Medium;M573042;X
+600043;Chief of Army;John Polin;1940;1964;SC;Decisive Battle Doctrine;Medium;M573043;X
+600044;Chief of Army;Fielding Lewis Wright;1941;1964;SC;Guns and Butter Doctrine;Medium;M573044;X
+600045;Chief of Army;John J. Williams;1943;1964;SC;Armoured Spearhead Doctrine;Medium;M573045;X
+600046;Chief of Navy;Wat Tyler Cluverius;1930;1945;SC;Decisive Naval Battle Doctrine;Medium;CSA - Wat Tyler Cluverius;X
+600047;Chief of Navy;Simeon Slavens Willis;1941;1964;SC;Base Control Doctrine;Medium;M573047;X
+600048;Chief of Navy;Richard Powers;1942;1964;SC;Power Projection Doctrine;Medium;M573048;X
+600049;Chief of Air Force;Philip Ardery;1940;1964;SC;Carpet Bombing Doctrine;Medium;M573049;X
+600050;Chief of Air Force;Thomas Lowry Bailey;1941;1964;SC;Vertical Envelopment Doctrine;Medium;M573050;X
+600051;Chief of Air Force;John Faulkenberry;1943;1964;SC;Air Superiority Doctrine;Medium;M573051;X
+600052;Head of State;Jake Featherston;1933;1964;NS;The Snake;Very High;CSA - Jake Featherston;X
+600053;Head of State;Willy Knight;1933;1964;FA;Stern Imperialist;High;CSA-Willy Knight;X
+600054;Head of Government;Willy Knight;1933;1964;FA;Backroom Backstabber;High;CSA-Willy Knight;X
+600055;Head of Government;Ferdinand Koenig;1933;1964;NS;Flamboyant Tough Guy;Very High;Ferdinand Koenig;X
+600056;Head of State;Ferdinand Koenig;1933;1964;NS;Ruthless Powermonger;Very High;Ferdinand Koenig;X
+600057;Chief of Staff;Nathan B. Forrest III;1940;1964;PA;School of Manoeuvre;High;M6173;X
+600058;Head of State;Nathan B. Forrest III;1940;1964;PA;Resigned Generalissimo;High;M6173;X
+600059;Minister of Security;Ferdinand Koenig;1933;1964;NS;Efficient Sociopath;Very High;Ferdinand Koenig;X
+600060;Minister of Security;Jefferson Pinkard;1941;1964;NS;Prince of Terror;Very High;Jefferson Pinkard;X
+600061;Chief of Staff;Cyril Northcote;1940;1964;FA;School of Mass Combat;High;unknownminister;X
+600062;Foreign Minister;Herbert Walker;1933;1964;FA;Ideological Crusader;High;unknownminister;X
+600063;Minister of Security;Saul Goldman;1933;1964;FA;Media Magnate;Very High;unknownminister;X
+600064;Head of State;Burton Mitchel;1923;1934;SC;The Unpopular President;Very High;CSA-Burton Mitchel;X
+600065;Head of Government;Jonathan Jackson;1927;1964;SC;Naive Optimist;High;CSA - Jonathan Jackson;X
+600066;Foreign Minister;Richard B. Russell Jr.;1940;1964;FA;Apologetic Clerk;Very High;unknownminister;X
+600067;Head of Government;Don Partridge;1939;1964;NS;The Satisfied Puppet;High;unknownminister;X
+600068;Head of State;Don Partridge;1939;1964;NS;The Unprepared President;High;unknownminister;X
+600069;Foreign Minister;Anne Colleton;1933;1964;NS;The Cloak N Dagger Schemer;High;unknownminister;X
+600070;Head of State;Huey Long;1933;1964;SL;Die-hard Reformer;Undying;CSA - Huey Long;X
+600071;Head of Military Intelligence;Clarence Potter;1933;1964;PA;Logistics Specialist;High;Clarence Potter;X
+600072;Head of Military Intelligence;Stanley McGillivray;1933;1964;PA;Technical Specialist;High;unknownminister;X
+600073;Head of Government;Hugo Black;1933;1964;SC;Flamboyant Tough Guy;High;M6205;X
+600074;Head of State;Samuel Longstreet;1933;1964;SC;Benevolent Gentleman;High;CSA-Samuel Longstreet;X
+600075;Head of State;Hugo Black;1933;1964;SC;Benevolent Gentleman;High;M6205;X
+600076;Chief of Staff;George S. Patton;1934;1955;FA;School of Manoeuvre;Very High;L60294;X
+600077;Foreign Minister;George C. Wallace;1947;1980;PA;Ideological Crusader;High;CSA - George C Wallace;X
+600078;Head of Government;Samuel E. Johnson Jr.;1933;1964;ML;Silent Workhorse;High;CSA - Samuel_Ealy_Johnson_Jr.bmp;X
+600079;Head of Government;Hattie Caraway;1933;1964;SL;Happy Amateur;High;CSA - Hattie Caraway;X
+600080;Minister of Armament;Willie Stark;1933;1964;SL;Administrative Genius;High;CSA - Willie Stark;X
+600081;Chief of Army;Jeb Stuart Jr.;1918;1964;SC;Decisive Battle Doctrine;Very High;unknownminister;X
+600082;Head of Government;Jake Featherston;1933;1964;NS;Flamboyant Tough Guy;Very High;CSA - Jake Featherston;X
+600083;Chief of Army;Jake Featherston;1940;1964;NS;Guns and Butter Doctrine;Very High;CSA - Jake Featherston;X
+600084;Head of Government;George C. Wallace;1950;1978;PA;Flamboyant Tough Guy;High;CSA - George C Wallace;X
+600085;Chief of Air Force;Douglas Corrigan;1933;1964;SC;Air Superiority Doctrine;High;CSA - Douglas Corrigan;X
+600086;Chief of Air Force;Arthur A. Cunnigham;1930;1940;SC;Naval Aviation Doctrine;High;CSA - Alfred Cunningham;X
+600087;Minister of Security;Melvin Purvis;1934;1964;SC;Crime Fighter;Very High;CSA - Melvin Purvis;X
+600088;Minister of Security;John Johnston Parker;1933;1964;SL;Silent Lawyer;Very High;CSA - John Johnston Parker;X
+600089;Foreign Minister;Breckinridge Long;1933;1964;SC;Great Compromiser;High;CSA - Breckinridge Long;X
+600090;Chief of Army;T. J. J. Christian Sr.;1933;1964;SC;Elastic Defence Doctrine;Very High;CSA - Thomas Jonathan Jackson Christian Sr;X
+600091;Minister of Security;Park Trammell;1933;1937;SC;Compassionate Gentleman;Very High;CSA - Park Trammell;X
+600092;Head of State;Cordell Hull;1933;1964;SL;Die-hard Reformer;Very High;7374;X
+600093;Head of Government;Huey Long;1933;1964;SL;Flamboyant Tough Guy;Very High;U15 - Huey Long;X
+600094;Foreign Minister;William Dodd Sr.;1933;1964;SL;Biased Intellectual;High;unknownminister;X
+600095;Foreign Minister;Claude Pepper;1940;1964;SL;Ideological Crusader;High;unknownminister;X
+600096;Head of State;William English Walling;1933;1964;SD;Die-hard Reformer;Very High;CSA - William English Walling;X

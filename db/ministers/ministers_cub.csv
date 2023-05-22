@@ -40,7 +40,7 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85038;Foreign Minister;José Irrisari;1933;1964;LWR;Biased Intellectual;Very Low;M33023;X
 85039;Foreign Minister;Carlos Prio;1944;1964;LWR;Great Compromiser;Medium;M33004;X
 85040;Minister of Armament;Ezequiel Garcia Ensenat;1933;1964;ML;Administrative Genius;Medium;M33061;X
-85041;Minister of Armament;Miguel Gómez y Arias;1940;1964;ML;Laissez-Faire Capitalist;Medium;M33002;X
+85041;Minister of Armament;Miguel Gómez y Arias;1940;1964;ML;laissez-faire capitalist;Medium;M33002;X
 85042;Minister of Armament;Eduardo Chibas;1944;1964;ML;Theoretical Scientist;Low;M33013;X
 85043;Minister of Armament;Fulgencio Batista;1933;1964;SD;Corrupt Kleptocrat;Medium;M33034;X
 85044;Minister of Armament;José Orlando Ferrer;1937;1964;SD;Battle Fleet Proponent;Medium;M33065;X
@@ -74,7 +74,7 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85072;Head of Military Intelligence;Juan Valdéz Hilario;1946;1964;PA;Logistics Specialist;Medium;M33016;X
 85073;Head of Military Intelligence;Antonio G. Holmes;1933;1964;LWR;Dismal Enigma;Very Low;M33022;X
 85074;Head of Military Intelligence;Fidél Castro;1944;1964;LWR;Political Specialist;Very Low;M33095;X
-85075;Chief of Staff;Fulgencio Batista;1933;1964;SC;School of Mass Combat;Very High;M33097;X
+85075;Chief of Staff;Fulgencio Batista;1933;1964;SC;School of Mass Combat;Undying;M33097;X
 85076;Chief of Staff;Juan Blas Hernandez;1933;1964;LWR;School of Manoeuvre;Medium;M33027;X
 85077;Chief of Staff;Fidél Castro;1944;1964;LWR;School of Mass Combat;Very Low;M33095;X
 85078;Chief of Army;Fulgencio Batista;1933;1964;SC;Decisive Battle Doctrine;Undying;M33097;X
@@ -107,8 +107,8 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85105;Head of State;José Miguel Gómez;1914;1933;ML;Resigned Generalissimo;Very High;unknown;X
 85106;Minister of Security;Aurelio Hevia;1914;1933;ML;Crime Fighter;High;unknown;X
 85107;Minister of Security;Ricardo Lancís;1921;1933;SL;Prince of Terror;High;unknown;X
-85108;Minister of Security;Fidél Castro;1958;1964;LWR;Back Stabber;Low;6075;X
-85109;Head of Government;Fidél Castro;1959;1964;LWR;Flamboyant Tough Guy;Low;6075;X
-85110;Chief of Staff;Che Ernesto Guevara;1956;1964;LE;School of Psychology;Medium;6076;X
-85111;Foreign Minister;Che Ernesto Guevara;1959;1964;LE;Biased Intellectual;Medium;6076;X
-85112;Head of Military Intelligence;Che Ernesto Guevara;1960;1964;LE;Political Specialist;Medium;6076;X
+85108;Minister of Security;Fidél Castro;1958;1964;LWR;Back Stabber;low;6075;x
+85109;Head of Government;Fidél Castro;1959;1964;LWR;Flamboyant Tough Guy;low;6075;x
+85110;Chief of Staff;Che Ernesto Guevara;1956;1964;LE;school of psychology;medium;6076;x
+85111;Foreign Minister;Che Ernesto Guevara;1959;1964;LE;Biased Intellectual;medium;6076;x
+85112;Head of Military Intelligence;Che Ernesto Guevara;1960;1964;LE;Political Specialist;medium;6076;x

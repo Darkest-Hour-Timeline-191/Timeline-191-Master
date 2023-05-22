@@ -29,7 +29,7 @@ TUR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 45027;Minister of Armament;Kazim Özalp;1933;1964;SC;Military Entrepreneur;Medium;M12049;X
 45028;Minister of Armament;Tevfik Rüsta Aras;1939;1964;ML;Theoretical Scientist;Medium;M12050;X
 45029;Minister of Armament;Mehmet Günaltay;1940;1964;SC;Tank Proponent;Medium;M12051;X
-45030;Minister of Armament;Münir Bürsen;1946;1964;ML;Laissez-Faire Capitalist;Medium;M12052;X
+45030;Minister of Armament;Münir Bürsen;1946;1964;ML;laissez-faire capitalist;Medium;M12052;X
 45031;Minister of Armament;Mustafa Renda;1938;1964;ML;Military Entrepreneur;Medium;M12054;X
 45032;Minister of Security;Hüsnü Cakir;1943;1964;ML;Crooked Kleptocrat;Medium;M12056;X
 45033;Minister of Security;Hilmi Uran;1944;1964;ML;Crime Fighter;Medium;M12057;X
@@ -85,5 +85,5 @@ TUR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 45083;Minister of Armament;Samet Agaoglu;1950;1964;ML;Theoretical Scientist;Medium;M12093;X
 45084;Minister of Armament;Fatim Rüstü Zorlu;1952;1964;ML;Administrative Genius;Medium;M12094;X
 45085;Minister of Security;Refik Koraltan;1950;1964;ML;Silent Lawyer;Medium;M12095;X
-45086;Head of Government;Alparslan Tuerkes;1941;1964;NS;Ambitious Union Boss;Medium;M12018;X
-45087;Minister of Security;Alparslan Tuerkes;1939;1964;NS;Prince of Terror;Medium;M12018;X
+45086;Head of Government;Alparslan Tuerkes;1941;1964;NS;Ambitious Union Boss;medium;M12018;x
+45087;Minister of Security;Alparslan Tuerkes;1939;1964;NS;Prince of Terror;medium;M12018;x

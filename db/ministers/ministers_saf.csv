@@ -1,5 +1,5 @@
-SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
+SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
 425001;Head of State;G.H.H. Villiers Lord Clarendon;1931;1964;ML;Stern Imperialist;High;M70001;X
 425002;Head of Government;James Hertzog;1933;1964;SC;Old General;High;M70002;X
 425003;Foreign Minister;James Hertzog;1933;1964;SC;General Staffer;Very High;M70002;X
@@ -8,7 +8,7 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 425006;Head of Military Intelligence;Jan C. Smuts;1933;1949;ML;Logistics Specialist;Medium;M70005;X
 425007;Chief of Staff;Pierre van Ryneveld;1933;1964;ML;School of Manoeuvre;Very High;M70007;X
 425008;Chief of Army;Pierre van Ryneveld;1943;1964;ML;Elastic Defence Doctrine;Very High;M70007;X
-425009;Chief of Navy;Pierre van Ryneveld;1933;1949;ML;Indirect Approach Doctrine;Very High;M70007;X
+425009;Chief of Navy;Pierre van Ryneveld;1933;1949;ML;Decisive Naval Battle Doctrine;Very High;M70007;X
 425010;Chief of Air Force;Pierre van Ryneveld;1933;1964;ML;Air Superiority Doctrine;Very High;M70007;X
 425011;Head of State;G.H.H. Villiers Lord Clarendon;1931;1964;PA;Stern Imperialist;High;M70001;X
 425012;Head of State;Sir Patrick Duncan;1937;1964;ML;Autocratic Charmer;High;M70023;X
@@ -72,27 +72,27 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 425070;Minister of Security;T.E. Dönges;1938;1964;SC;Prince of Terror;Very High;M70059;X
 425071;Minister of Security;Jozua F. Naude;1958;1964;SC;Compassionate Gentleman;High;M70076;X
 425072;Minister of Security;Johannes de Klerk;1961;1964;SC;Silent Lawyer;High;M70102;X
-425073;Minister of Security;D. F. Malan;1938;1958;SC;Crime Fighter;High;M70029;X
+425073;Minister of Security;D. F. Malan;1938;1958;1958;SC;Crime Fighter;High;M70029;X
 425074;Minister of Security;Hendrik F. Verwoerd;1941;1964;SC;Efficient Sociopath;High;M70055;X
 425075;Minister of Security;J. G. Strijdom;1940;1964;SC;Back Stabber;Very High;M70041;X
 425076;Minister of Security;C. F. Stallard;1938;1964;ML;Silent Lawyer;High;M70058;X
 425077;Minister of Security;T.E. Dönges;1938;1964;PA;Prince of Terror;Very High;M70059;X
 425078;Minister of Security;Jozua F. Naude;1958;1964;PA;Man of the People;High;M70076;X
 425079;Minister of Security;Johannes de Klerk;1961;1964;PA;Silent Lawyer;High;M70102;X
-425080;Minister of Security;D. F. Malan;1938;1958;PA;Crime Fighter;High;M70029;X
+425080;Minister of Security;D. F. Malan;1938;1958;1958;PA;Crime Fighter;High;M70029;X
 425081;Minister of Security;Hendrik F. Verwoerd;1941;1964;PA;Efficient Sociopath;High;M70055;X
 425082;Minister of Security;J. G. Strijdom;1940;1964;PA;Back Stabber;Very High;M70041;X
 425083;Head of Military Intelligence;T.E. Dönges;1938;1964;SC;Political Specialist;Very High;M70059;X
 425084;Head of Military Intelligence;Jozua F. Naude;1958;1964;SC;Dismal Enigma;High;M70076;X
 425085;Head of Military Intelligence;Johannes de Klerk;1961;1964;SC;Technical Specialist;High;M70102;X
-425086;Head of Military Intelligence;D. F. Malan;1938;1958;SC;Political Specialist;High;M70029;X
+425086;Head of Military Intelligence;D. F. Malan;1938;1958;1958;SC;Political Specialist;High;M70029;X
 425087;Head of Military Intelligence;Hendrik F. Verwoerd;1941;1964;SC;Logistics Specialist;High;M70055;X
 425088;Head of Military Intelligence;J. G. Strijdom;1940;1964;SC;Dismal Enigma;Very High;M70041;X
 425089;Head of Military Intelligence;C. F. Stallard;1938;1964;ML;Political Specialist;High;M70058;X
 425090;Head of Military Intelligence;T.E. Dönges;1938;1964;PA;Political Specialist;Very High;M70059;X
 425091;Head of Military Intelligence;Jozua F. Naude;1958;1964;PA;Dismal Enigma;High;M70076;X
 425092;Head of Military Intelligence;Johannes de Klerk;1961;1964;PA;Technical Specialist;High;M70102;X
-425093;Head of Military Intelligence;D. F. Malan;1938;1958;PA;Political Specialist;High;M70029;X
+425093;Head of Military Intelligence;D. F. Malan;1938;1958;1958;PA;Political Specialist;High;M70029;X
 425094;Head of Military Intelligence;Hendrik F. Verwoerd;1941;1964;PA;Logistics Specialist;High;M70055;X
 425095;Head of Military Intelligence;J. G. Strijdom;1940;1964;PA;Dismal Enigma;Very High;M70041;X
 425096;Chief of Staff;Leonard Beyers;1940;1964;SC;School of Defence;Medium;M70072;X
@@ -138,7 +138,7 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 425136;Chief of Air Force;Jimmy T. Durrant;1947;1964;ML;Air Superiority Doctrine;High;L450057;X
 425137;Chief of Air Force;Stephen Melville;1953;1964;SC;Air Superiority Doctrine;High;L450050;X
 425138;Chief of Air Force;Barend Viljoen;1956;1964;SC;Vertical Envelopment Doctrine;High;L450058;X
-425139;Chief of Air Force;Hector Daniel;1937;1953;PA;Air Superiority Doctrine;High;L450054;X
+425139;Chief of Air Force;Hector Daniel;1937;1953;1953;PA;Air Superiority Doctrine;High;L450054;X
 425140;Chief of Air Force;John Holthouse;1939;1964;PA;Army Aviation Doctrine;High;L450055;X
 425141;Chief of Air Force;Christoffel Venter;1940;1964;PA;Vertical Envelopment Doctrine;Very High;M70084;X
 425142;Chief of Air Force;Harold Willmott;1945;1964;PA;Carpet Bombing Doctrine;High;L450056;X
@@ -164,11 +164,11 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 425162;Minister of Security;Christiaan De Wet;1914;1933;FA;Prince of Terror;Very High;3097;X
 425163;Head of Military Intelligence;Theodorus Truter;1914;1933;ML;Political Specialist;Very High;3098;X
 425164;Head of Military Intelligence;Christiaan De Wet;1914;1933;FA;Logistics Specialist;Very High;3097;X
-425165;Chief of Staff;Jan Smuts;1914;1933;ML;School of Fire Support;Very High;3092;X
-425166;Chief of Staff;Henry Lukin;1914;1933;SC;School of Defence;Very High;3091;X
-425167;Chief of Staff;John Collyer;1917;1933;ML;School of Psychology;Very High;3090;X
-425168;Chief of Staff;Andries Brink;1920;1933;ML;School of Defence;Very High;3089;X
-425169;Chief of Staff;Christiaan Beyers;1914;1933;FA;School of Mass Combat;Very High;3093;X
+425165;Chief of Staff;Jan Smuts;1914;1933;ML;School of Fire Support;Undying;3092;X
+425166;Chief of Staff;Henry Lukin;1914;1933;SC;School of Defence;Undying;3091;X
+425167;Chief of Staff;John Collyer;1917;1933;ML;School of Psychology;Undying;3090;X
+425168;Chief of Staff;Andries Brink;1920;1933;ML;School of Defence;Undying;3089;X
+425169;Chief of Staff;Christiaan Beyers;1914;1933;FA;School of Mass Combat;Undying;3093;X
 425170;Chief of Army;Jan Smuts;1914;1933;ML;Decisive Battle Doctrine;Low;3092;X
 425171;Chief of Army;Henry Lukin;1914;1933;SC;Static Defence Doctrine;Low;3091;X
 425172;Chief of Army;John Collyer;1917;1933;ML;Elastic Defence Doctrine;Low;3090;X

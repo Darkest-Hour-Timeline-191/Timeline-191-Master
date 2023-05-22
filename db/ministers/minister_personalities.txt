@@ -11,8 +11,8 @@
 #	  all(default) / ForeignMinister / ArmamentMinister / MinisterOfSecurity / MinisterOfIntelligence
 #         / ChiefOfStaff / ChiefOfArmy /ChiefOfAir / ChiefOfNavy / HeadOfState / HeadOfGovernment
 #	  / generic (used as default if no personality is found for a minister; Should be only one such entry)
-# value	- (optional) how valuable is a minister with such personality. 
-#	  Used to help AI in choosing best assassination target and also best minister for the government (optional - misc.txt).
+# value	- (optional) how valuable is a miniser with such personality. 
+#	  Used to help AI in chosing best assassination target and also best minister for the government (optional - misc.txt).
 # 	  Use integer numbers: -1 = never assassinate; 0 = autocalc the value; else use value
 #	  If no value is specified the engine will calculate it based on that trait's bonuses/penalties.
 #	  NOTE: You can see current calculated values in "savedebug.txt" after game start
@@ -32,7 +32,7 @@
 #	  production - modifiers to production (sliders). 
 #			which = production ( default ) / consumer / supplies / reinforcement / upgrading
 #			when = national ( default) / non_national ; only for production!
-#			value = (-)x.xxxx - Positive values are bonuses for supplies and production, negative - for the rest.
+#			value = (-)x.xxxx - Positive values are bonuses for supplies, negative - for the rest.
 #
 #	  resource - modifiers to resource. Positive values are good
 #			which = all (default) / oil / energy / metal / rare_materials / money
@@ -123,7 +123,7 @@
 #			which = all (default) / land (used also for air)/ navy (used also for convoys) / production (used also for research);
 #			value = (-)X - Valid values [ -10 to 10 ] (Decrease/Increase reports accuracy)
 #
-#	  intelligence_network - modifiers on intelligence network effectiveness (when) and intelligence network cost/maintenance (which)
+#	  intelligence_network - modifiers on intelligence network effectiveness and (when) and intelligence network cost/maintenance (which)
 #				NOTE: Use Only one at a time!!!
 #			which = all (default - overrides "when" in case no "when" is specified)/ increase_intelligence_founding 
 #				/ decrease_intelligence_founding / daily_maintenance
@@ -161,7 +161,7 @@
 #			when = war / peace / all (default)
 #			value = x.xxxx
 #
-# value - modifier's value. Should be different from 0
+# Value - modifier's value. Should be different from 0
 #
 
 ### Generic minister personality ###
@@ -1405,15 +1405,17 @@
 		desc		= DPERSONALITY_SPEER
 		position	= ArmamentMinister
 		value		= 0
-		command		= { type = production which = production value = 0.0700 }
+		command		= { type = production which = production value = 0.0750 }
 		command		= { type = production which = consumer value = -0.1000 }
 		command		= { type = resource which = energy value = 0.1000 }
 		command		= { type = resource which = metal value = 0.1000 }
 		command		= { type = resource which = rare_materials value = 0.1000 }
-		command		= { type = production which = production when = non_national value = 0.0300 }
-		command		= { type = populationgrowth when = non_national value = 0.0300 }
+		command		= { type = production which = production when = non_national value = 0.0750 }
+		command		= { type = populationgrowth when = non_national value = 0.0750 }
 		command		= { type = dissent value = 0.1000 }
 		command		= { type = stockpile value = 0.1000 }
+
+
 	}
 	minister =  { 
 		trait		= "Local tyrant"
@@ -3009,8 +3011,100 @@
 		desc		= DPERSONALITY_DOUBLE_AGENT
 		position	= MinisterOfIntelligence
 		value		= 0
-	    command		= { type = intelligence_chances which = minister_assassination when = national value = 2 }
+	    	command		= { type = intelligence_chances which = minister_assassination when = national value = 2 }
 		command		= { type = intelligence_chances which = smear_campaign when = national value = 2 }
 		command		= { type = intelligence_network when = all value = -5 }
 		command		= { type = intelligence_report which = production value = -1 }
     }
+
+####### Custom for the Timeline 191 mod #######
+
+	minister =  { 
+		trait		= "The Snake"
+		id			= 188
+		name		= NPERSONALITY_THESNAKE
+		desc		= DPERSONALITY_THESNAKE
+		position	= headofstate
+		value		= 0
+		command		= { type = production which = production when = non_national value = -0.1000 }
+		command		= { type = populationgrowth value = 0.1000 }
+		command		= { type = unit when = morale value = 0.1000 }
+		command		= { type = unit when = speed value = 0.1000 }
+		command		= { type = dissent value = -0.1000 }
+		command		= { type = diplomacy_chances which = alliance when = dictatorships value = 25 }
+		command		= { type = diplomacy_chances which = alliance when = democracies value = -15 }
+		command		= { type = diplomacy_chances which = influence_nation value = 10 }
+ 		command		= { type = leader_skill value = -0.0500 }
+		command		= { type = belligerence which = peace value = -0.4000 } 
+		command		= { type = belligerence which = war value = 0.2000 }
+		command		= { type = stockpile value = 0.1000 }
+	}	
+	 minister =  {
+	    trait		= "The Unpopular President"
+        	id			= 189
+		name		= NPERSONALITY_UNPOPULAR_PRESIDENT
+	    	desc		= DPERSONALITY_UNPOPULAR_PRESIDENT
+		position	= headofstate
+		value		= 0
+		command		= { type = dissent value = 0.0500 }
+		command		= { type = populationgrowth value = -0.0300 }
+		command		= { type = stockpile which = all when = peace value = 0.0500 }
+		command		= { type = production which = production value = -0.0300 }
+		command		= { type = production which = consumer value = 0.0500 }
+		command		= { type = belligerence which = peace value = -0.5000 }
+		command		= { type = belligerence which = declare_war value = 0.3000 }
+		command 	= { type = unit when = morale value = -0.0500 }
+	}
+	 minister =  {
+	    trait		= "The Satisfied Puppet"
+        	id			= 190
+		name		= NPERSONALITY_THESATISFIEDPUPPET
+	    	desc		= DPERSONALITY_THESATISFIEDPUPPET
+		position	= headofgovernment
+		value		= 0
+		command		= { type = dissent value = 0.0500 }
+		command		= { type = populationgrowth value = -0.0300 }
+		command		= { type = stockpile which = all when = peace value = 0.0500 }
+		command		= { type = production which = production value = -0.0300 }
+		command		= { type = production which = consumer value =-0.0500 }
+		command		= { type = province which = ic value = -0.0200 }
+		}
+
+	 minister =  {
+	    trait		= "The Unprepared President"
+        	id			= 191
+		name		= NPERSONALITY_UNPREPAREDPRESIDENT
+	    	desc		= DPERSONALITY_UNPREPAREDPRESIDENT
+		position	= headofstate
+		value		= 0
+		command		= { type = dissent value = 0.0500 }
+		command		= { type = populationgrowth value = -0.0300 }
+		command		= { type = stockpile which = all when = peace value = 0.0500 }
+		command		= { type = production which = production value = -0.0300 }
+		command		= { type = production which = consumer value = 0.0500 }
+		command		= { type = belligerence which = peace value = -0.5000 }
+		command		= { type = belligerence which = declare_war value = 0.3000 }
+		command 	= { type = unit when = morale value = -0.0500 }
+		}
+		
+			 minister =  {
+	    trait		= "The Ruthless Opportunist"
+        	id			= 192
+		name		= NPERSONALITY_THERUTHLESSOPPORTUNIST
+	    	desc		= DPERSONALITY_THERUTHLESSOPPORTUNIST
+		position	= headofstate
+		value		= 0
+		command 	= { type = diplomacy_chances which = influence_nation when = close_government_type value = 5 }
+        	command 	= { type = diplomacy_chances which = alliance when = close_government_type value = 5 }
+		command		= { type = diplomacy_cost when = democracies value = 0.1500 }
+		command 	= { type = diplomacy_chances which = influence_nation when = democracies value = -10 }
+		command 	= { type = diplomacy_chances which = alliance when = democracies value = -25 }
+		command		= { type = dissent value = 0.1000 }
+		command		= { type = unit which = land value = -0.0800 }
+		command		= { type = unit which = air value = -0.0400 }
+		command		= { type = unit which = navy value = -0.0400 }
+		command		= { type = production which = consumer value = 0.1500 }
+		command 	= { type = production which = supplies value = 0.1500 }
+		command		= { type = unit when = organisation value = 0.0400 }
+		command		= { type = unit when = morale value = 0.0400 }
+}

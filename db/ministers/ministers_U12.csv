@@ -1,93 +1,93 @@
-U12;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
-875001;Head of State;Harry Pollitt;1933;1962;ST;Ruthless Powermonger;High;M1022;X
-875002;Head of Government;Rajani Palme Dutt;1933;1964;ST;Political Protege;Very High;M1023;X
-875003;Foreign Minister;D.N. Pritt;1933;1964;ST;Apologetic Clerk;Very High;M1057;X
-875004;Minister of Armament;Leslie Solley;1933;1964;ST;Planned Economy Proponent;Very High;M1075;X
-875005;Minister of Security;Kim Philby;1933;1964;ST;Secret Police Chief;Very High;M1025;X
-875006;Head of Military Intelligence;Anthony Blunt;1933;1964;ST;Political Specialist;Very High;M1026;X
-875007;Chief of Staff;Tom Wintringham;1933;1964;ST;School of Mass Combat;Very High;M1027;X
-875008;Chief of Army;Bill Alexander;1933;1964;ST;Static Defence Doctrine;Very High;M1028;X
-875009;Chief of Navy;Fred Copeman;1933;1964;ST;Indirect Approach Doctrine;Very High;M1029;X
-875010;Chief of Air Force;John Strachey;1933;1964;ST;Carpet Bombing Doctrine;Very High;M1030;X
-875011;Head of State;Rajani Palme Dutt;1955;1964;ST;Powerhungry Demagogue;Very High;M1023;X
-875012;Head of State;Arthur Horner;1933;1964;LE;Benevolent Gentleman;High;M1076;X
-875013;Head of State;John Gollan;1955;1964;LE;Weary Stiffneck;Very High;U12-John_Gollan;X
-875014;Head of State;Emanuel Shinwell;1933;1964;LWR;Popular Figurehead;Very High;M1185;X
-875015;Head of State;H.M. Edward VIII;1933;1964;SD;Autocratic Charmer;Low;M1011;X
-875016;Head of State;H.M. George VI;1933;1954;SD;Benevolent Gentleman;Low;M1033;X
-875017;Head of State;H.M. Elizabeth II;1933;1964;SD;Popular Figurehead;High;M1182;X
-875018;Head of Government;Harry Pollitt;1933;1964;ST;Ambitious Union Boss;High;M1022;X
-875019;Head of Government;John Gollan;1941;1964;LE;Silent Workhorse;Very High;U12-John_Gollan;X
-875020;Head of Government;George Matthews;1949;1964;LE;Happy Amateur;Very High;U12-George_Matthews;X
-875021;Head of Government;Bill Alexander;1955;1964;ST;Old General;High;M1028;X
-875022;Head of Government;Thomas Evan Nicholas;1936;1964;LWR;Flamboyant Tough Guy;High;U76-Niclas_y_Glas;X
-875023;Head of Government;David Lloyd George;1933;1946;LWR;Naive Optimist;Very High;M1160;X
-875024;Head of Government;Clement Attlee;1933;1964;LWR;Silent Workhorse;High;3818;X
-875025;Head of Government;Hugh Gaitskell;1933;1964;LWR;Naive Optimist;Very High;M1194;X
-875026;Head of Government;Harold Wilson;1958;1964;LE;Ambitious Union Boss;Very High;M1195;X
-875027;Head of Government;Eric Blair;1936;1950;SD;Naive Optimist;Medium;ENG-Eric_Blair;X
-875028;Foreign Minister;Rajani Palme Dutt;1933;1964;ST;Biased Intellectual;Very High;M1023;X
-875029;Foreign Minister;Ian Mikardo;1933;1964;LE;Ideological Crusader;Very High;M1059;X
-875030;Foreign Minister;Phil Piratin;1933;1964;LE;The Cloak N Dagger Schemer;Very High;M1056;X
-875031;Foreign Minister;Dave Springhall;1933;1964;LE;Iron Fisted Brute;Very High;M1058;X
-875032;Foreign Minister;Oliver Brown;1936;1964;LWR;Ideological Crusader;Very High;SCO-Oliver_Brown;X
-875033;Foreign Minister;Ernest Bevin;1933;1964;LWR;The Cloak N Dagger Schemer;High;3820;X
-875034;Foreign Minister;Herbert Morrison;1933;1964;LWR;Biased Intellectual;High;3821;X
-875035;Foreign Minister;Archibald Sinclair;1933;1964;LWR;Great Compromiser;High;M1161;X
-875036;Foreign Minister;Alfred Robens;1933;1964;LWR;Apologetic Clerk;Very High;M1199;X
-875037;Foreign Minister;Aneurin Bevan;1933;1964;LWR;Ideological Crusader;Very High;M1021;X
-875038;Foreign Minister;Denis Healey;1933;1964;LWR;Iron Fisted Brute;Very High;M1201;X
-875039;Foreign Minister;Harold Wilson;1933;1964;LE;Ideological Crusader;Very High;M1195;X
-875040;Foreign Minister;Patrick Gordon Walker;1933;1964;LWR;Apologetic Clerk;Medium;M1203;X
-875041;Foreign Minister;A.J.P. Taylor;1944;1964;LWR;Biased Intellectual;Very High;M1073;X
-875042;Foreign Minister;J. B. Priestley;1936;1964;SD;The Cloak N Dagger Schemer;High;ENG-J_B_Priestly;X
-875043;Minister of Armament;Jack Gaster;1933;1964;ST;Submarine Proponent;Very High;M1077;X
-875044;Minister of Armament;William Rust;1933;1964;ST;Infantry Proponent;Very High;M1079;X
-875045;Minister of Armament;Arthur Horner;1933;1964;LE;Planned Economy Proponent;Very High;M1076;X
-875046;Minister of Armament;Stafford Cripps;1933;1964;LE;Mixed Economy;Very High;M1024;X
-875047;Minister of Armament;Abe Moffatt;1933;1964;LE;Tank Proponent;Very High;M1078;X
-875048;Minister of Armament;Konnie Zilliacus;1933;1964;LE;Air Superiority Proponent;Very High;M1080;X
-875049;Minister of Armament;James L. Jones;1944;1964;LWR;Corrupt Kleptocrat;Very High;U12-Jack_Jones;X
-875050;Minister of Armament;Hugh Dalton;1933;1964;LWR;Resource Industrialist;Medium;M1065;X
-875051;Minister of Armament;Clement Attlee;1933;1964;LWR;Keynesian Economy;Medium;3818;X
-875052;Minister of Armament;Stafford Cripps;1933;1964;LWR;Air to Ground Proponent;Medium;M1024;X
-875053;Minister of Armament;Albert V. Alexander;1933;1964;LWR;Resource Industrialist;Medium;M1184;X
-875054;Minister of Armament;Emanuel Shinwell;1933;1964;LWR;Mixed Economy;Very High;M1185;X
-875055;Minister of Armament;Harold Wilson;1933;1964;LE;Administrative Genius;Very High;M1195;X
-875056;Minister of Armament;Denis Healey;1933;1964;LWR;Resource Industrialist;Medium;M1201;X
-875057;Minister of Armament;Victor Rothschild;1936;1964;SD;Corrupt Kleptocrat;High;ENG-Victor_Rothschild;X
-875058;Minister of Security;Violet Lansbury;1933;1964;ST;Prince of Terror;Very High;M1095;X
-875059;Minister of Security;Lester Hutchinson;1933;1964;ST;Back Stabber;Very High;M1096;X
-875060;Minister of Security;Arthur Horner;1933;1964;LE;Health and Safety;Very High;M1076;X
-875061;Minister of Security;John Platts-Mills;1933;1964;LE;Silent Lawyer;Very High;M1097;X
-875062;Minister of Security;Christopher M. Grieve;1933;1964;LWR;Back Stabber;Very High;SCO-Hugh_MacDiarmid;X
-875063;Minister of Security;Sydney Silvermann;1933;1964;LWR;Man of the People;Very High;M1098;X
-875064;Minister of Security;James Chuter Ede;1933;1964;LWR;Prince of Terror;Very High;M1089;X
-875065;Minister of Security;Herbert Morrison;1933;1964;LWR;Man of the People;Very High;3821;X
-875066;Minister of Security;Barbara Castle;1933;1964;LWR;Crime Fighter;Very High;M1099;X
-875067;Minister of Security;Patrick Gordon Walker;1933;1964;LWR;Silent Lawyer;High;M1203;X
-875068;Minister of Security;Frank Pakenham;1933;1964;LWR;Man of the People;High;M1216;X
-875069;Minister of Security;Leo Amery;1933;1964;LWR;Crime Fighter;High;M1162;X
-875070;Head of Military Intelligence;Christopher Hill;1933;1964;ST;Naval Intelligence Specialist;Very High;M1112;X
-875071;Head of Military Intelligence;Kim Philby;1933;1964;ST;Technical Specialist;Very High;M1105;X
-875072;Head of Military Intelligence;William Gallacher;1933;1964;LE;Industrial Specialist;Very High;M1111;X
-875073;Head of Military Intelligence;Ness Edwards;1936;1964;LWR;Industrial Specialist;Very High;U76-Ness_Edwards;X
-875074;Head of Military Intelligence;Brendan Bracken;1933;1964;LWR;Political Specialist;Very High;M1087;X
-875075;Head of Military Intelligence;Aneurin Bevan;1933;1961;LWR;Dismal Enigma;Very High;M1021;X
-875076;Head of Military Intelligence;James Callaghan;1933;1964;LWR;Industrial Specialist;Very High;M1222;X
-875077;Head of Military Intelligence;Fenner Brockway;1936;1964;SD;Dismal Enigma;Medium;ENG-Fenner_Brockway;X
-875078;Chief of Staff;Bill Alexander;1941;1964;ST;Static Defence Doctrine;Very High;M1028;X
-875079;Chief of Staff;Peter Kerrigan;1933;1964;LE;School of Mass Combat;Very High;SCO-Peter_Kerrigan;X
-875080;Chief of Staff;Lionel Ismay;1933;1964;LWR;School of Fire Support;Very High;3829;X
-875081;Chief of Staff;Archibald Nye;1933;1964;LWR;School of Mass Combat;Very High;M1122;X
-875082;Chief of Staff;Bernard Montgomery;1933;1964;SD;School of Manoeuvre;Medium;M1123;X
-875083;Chief of Army;James Maley;1933;1964;LE;Decisive Battle Doctrine;Very High;SCO-James_Maley;X
-875084;Chief of Army;Miles Dempsey;1944;1964;SD;Armoured Spearhead Doctrine;Medium;L1099;X
-875085;Chief of Navy;Harry Pollitt;1933;1961;ST;Decisive Naval Battle Doctrine;Very High;M1022;X
-875086;Chief of Navy;Joseph Holland;1933;1964;LE;Decisive Naval Battle Doctrine;Very High;SCO-Joseph_Holland;X
-875087;Chief of Air Force;James Maley;1933;1964;LE;Army Aviation Doctrine;Very High;SCO-James_Maley;X
-875088;Chief of Air Force;Hugh Dowding;1933;1964;LWR;Air Superiority Doctrine;Very High;L1435;X
-875089;Chief of Air Force;Arthur Harris;1941;1964;LWR;Carpet Bombing Doctrine;Very High;L1447;X
-875089;Chief of Air Force;William Wedgwood Benn;1933;1961;SD;Air Superiority Doctrine;High;9403;X
-875090;Chief of Air Force;William Sholto Douglas;1933;1964;SD;Air Superiority Doctrine;High;L1479;X
+U12;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+875001;Head of State;Harry Pollitt;1933;1962;1999;ST;Ruthless Powermonger;High;M1022;X
+875002;Head of Government;Rajani Palme Dutt;1933;1964;1999;ST;Political Protege;Very High;M1023;X
+875003;Foreign Minister;D.N. Pritt;1933;1964;1999;ST;Apologetic Clerk;Very High;M1057;X
+875004;Minister of Armament;Leslie Solley;1933;1964;1999;ST;Planned Economy Proponent;Very High;M1075;X
+875005;Minister of Security;Kim Philby;1933;1964;1999;ST;Secret Police Chief;Very High;M1025;X
+875006;Head of Military Intelligence;Anthony Blunt;1933;1964;1999;ST;Political Specialist;Very High;M1026;X
+875007;Chief of Staff;Tom Wintringham;1933;1964;1999;ST;School of Mass Combat;Very High;M1027;X
+875008;Chief of Army;Bill Alexander;1933;1964;1999;ST;Static Defence Doctrine;Very High;M1028;X
+875009;Chief of Navy;Fred Copeman;1933;1964;1999;ST;Indirect Approach Doctrine;Very High;M1029;X
+875010;Chief of Air Force;John Strachey;1933;1964;1999;ST;Carpet Bombing Doctrine;Very High;M1030;X
+875011;Head of State;Rajani Palme Dutt;1955;1964;1999;ST;Powerhungry Demagogue;Very High;M1023;X
+875012;Head of State;Arthur Horner;1933;1964;1999;LE;Benevolent Gentleman;High;M1076;X
+875013;Head of State;John Gollan;1955;1964;1999;LE;Weary Stiffneck;Very High;U12-John_Gollan;X
+875014;Head of State;Emanuel Shinwell;1933;1964;1999;LWR;Popular Figurehead;Very High;M1185;X
+875015;Head of State;H.M. Edward VIII;1933;1964;1999;SD;Autocratic Charmer;Low;M1011;X
+875016;Head of State;H.M. George VI;1933;1954;1999;SD;Benevolent Gentleman;Low;M1033;X
+875017;Head of State;H.M. Elizabeth II;1933;1964;1999;SD;Popular Figurehead;High;M1182;X
+875018;Head of Government;Harry Pollitt;1933;1964;1999;ST;Ambitious Union Boss;High;M1022;X
+875019;Head of Government;John Gollan;1941;1964;1999;LE;Silent Workhorse;Very High;U12-John_Gollan;X
+875020;Head of Government;George Matthews;1949;1964;1999;LE;Happy Amateur;Very High;U12-George_Matthews;X
+875021;Head of Government;Bill Alexander;1955;1964;1999;ST;Old General;High;M1028;X
+875022;Head of Government;Thomas Evan Nicholas;1936;1964;1999;LWR;Flamboyant Tough Guy;High;U76-Niclas_y_Glas;X
+875023;Head of Government;David Lloyd George;1933;1946;1999;LWR;Naive Optimist;Very High;M1160;X
+875024;Head of Government;Clement Attlee;1933;1964;1999;LWR;Silent Workhorse;High;3818;X
+875025;Head of Government;Hugh Gaitskell;1933;1964;1999;LWR;Naive Optimist;Very High;M1194;X
+875026;Head of Government;Harold Wilson;1958;1964;1999;LE;Ambitious Union Boss;Very High;M1195;X
+875027;Head of Government;Eric Blair;1936;1950;1999;SD;Naive Optimist;Medium;ENG-Eric_Blair;X
+875028;Foreign Minister;Rajani Palme Dutt;1933;1964;1999;ST;Biased Intellectual;Very High;M1023;X
+875029;Foreign Minister;Ian Mikardo;1933;1964;1999;LE;Ideological Crusader;Very High;M1059;X
+875030;Foreign Minister;Phil Piratin;1933;1964;1999;LE;The Cloak N Dagger Schemer;Very High;M1056;X
+875031;Foreign Minister;Dave Springhall;1933;1964;1999;LE;Iron Fisted Brute;Very High;M1058;X
+875032;Foreign Minister;Oliver Brown;1936;1964;1999;LWR;Ideological Crusader;Very High;SCO-Oliver_Brown;X
+875033;Foreign Minister;Ernest Bevin;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;3820;X
+875034;Foreign Minister;Herbert Morrison;1933;1964;1999;LWR;Biased Intellectual;High;3821;X
+875035;Foreign Minister;Archibald Sinclair;1933;1964;1999;LWR;Great Compromiser;High;M1161;X
+875036;Foreign Minister;Alfred Robens;1933;1964;1999;LWR;Apologetic Clerk;Very High;M1199;X
+875037;Foreign Minister;Aneurin Bevan;1933;1964;1999;LWR;Ideological Crusader;Very High;M1021;X
+875038;Foreign Minister;Denis Healey;1933;1964;1999;LWR;Iron Fisted Brute;Very High;M1201;X
+875039;Foreign Minister;Harold Wilson;1933;1964;1999;LE;Ideological Crusader;Very High;M1195;X
+875040;Foreign Minister;Patrick Gordon Walker;1933;1964;1999;LWR;Apologetic Clerk;Medium;M1203;X
+875041;Foreign Minister;A.J.P. Taylor;1944;1964;1999;LWR;Biased Intellectual;Very High;M1073;X
+875042;Foreign Minister;J. B. Priestley;1936;1964;1999;SD;The Cloak N Dagger Schemer;High;ENG-J_B_Priestly;X
+875043;Minister of Armament;Jack Gaster;1933;1964;1999;ST;Submarine Proponent;Very High;M1077;X
+875044;Minister of Armament;William Rust;1933;1964;1999;ST;Infantry Proponent;Very High;M1079;X
+875045;Minister of Armament;Arthur Horner;1933;1964;1999;LE;Planned Economy Proponent;Very High;M1076;X
+875046;Minister of Armament;Stafford Cripps;1933;1964;1999;LE;Mixed Economy;Very High;M1024;X
+875047;Minister of Armament;Abe Moffatt;1933;1964;1999;LE;Tank Proponent;Very High;M1078;X
+875048;Minister of Armament;Konnie Zilliacus;1933;1964;1999;LE;Air Superiority Proponent;Very High;M1080;X
+875049;Minister of Armament;James L. Jones;1944;1964;1999;LWR;Corrupt Kleptocrat;Very High;U12-Jack_Jones;X
+875050;Minister of Armament;Hugh Dalton;1933;1964;1999;LWR;Resource Industrialist;Medium;M1065;X
+875051;Minister of Armament;Clement Attlee;1933;1964;1999;LWR;Keynesian Economy;Medium;3818;X
+875052;Minister of Armament;Stafford Cripps;1933;1964;1999;LWR;Air to Ground Proponent;Medium;M1024;X
+875053;Minister of Armament;Albert V. Alexander;1933;1964;1999;LWR;Resource Industrialist;Medium;M1184;X
+875054;Minister of Armament;Emanuel Shinwell;1933;1964;1999;LWR;Mixed Economy;Very High;M1185;X
+875055;Minister of Armament;Harold Wilson;1933;1964;1999;LE;Administrative Genius;Very High;M1195;X
+875056;Minister of Armament;Denis Healey;1933;1964;1999;LWR;Resource Industrialist;Medium;M1201;X
+875057;Minister of Armament;Victor Rothschild;1936;1964;1999;SD;Corrupt Kleptocrat;High;ENG-Victor_Rothschild;X
+875058;Minister of Security;Violet Lansbury;1933;1964;1999;ST;Prince of Terror;Very High;M1095;X
+875059;Minister of Security;Lester Hutchinson;1933;1964;1999;ST;Back Stabber;Very High;M1096;X
+875060;Minister of Security;Arthur Horner;1933;1964;1999;LE;Health and Safety;Very High;M1076;X
+875061;Minister of Security;John Platts-Mills;1933;1964;1999;LE;Silent Lawyer;Very High;M1097;X
+875062;Minister of Security;Christopher M. Grieve;1933;1964;1999;LWR;Back Stabber;Very High;SCO-Hugh_MacDiarmid;X
+875063;Minister of Security;Sydney Silvermann;1933;1964;1999;LWR;Man of the People;Very High;M1098;X
+875064;Minister of Security;James Chuter Ede;1933;1964;1999;LWR;Prince of Terror;Very High;M1089;X
+875065;Minister of Security;Herbert Morrison;1933;1964;1999;LWR;Man of the People;Very High;3821;X
+875066;Minister of Security;Barbara Castle;1933;1964;1999;LWR;Crime Fighter;Very High;M1099;X
+875067;Minister of Security;Patrick Gordon Walker;1933;1964;1999;LWR;Silent Lawyer;High;M1203;X
+875068;Minister of Security;Frank Pakenham;1933;1964;1999;LWR;Man of the People;High;M1216;X
+875069;Minister of Security;Leo Amery;1933;1964;1999;LWR;Crime Fighter;High;M1162;X
+875070;Head of Military Intelligence;Christopher Hill;1933;1964;1999;ST;Naval Intelligence Specialist;Very High;M1112;X
+875071;Head of Military Intelligence;Kim Philby;1933;1964;1999;ST;Technical Specialist;Very High;M1105;X
+875072;Head of Military Intelligence;William Gallacher;1933;1964;1999;LE;Industrial Specialist;Very High;M1111;X
+875073;Head of Military Intelligence;Ness Edwards;1936;1964;1999;LWR;Industrial Specialist;Very High;U76-Ness_Edwards;X
+875074;Head of Military Intelligence;Brendan Bracken;1933;1964;1999;LWR;Political Specialist;Very High;M1087;X
+875075;Head of Military Intelligence;Aneurin Bevan;1933;1961;1999;LWR;Dismal Enigma;Very High;M1021;X
+875076;Head of Military Intelligence;James Callaghan;1933;1964;1999;LWR;Industrial Specialist;Very High;M1222;X
+875077;Head of Military Intelligence;Fenner Brockway;1936;1964;1999;SD;Dismal Enigma;Medium;ENG-Fenner_Brockway;X
+875078;Chief of Staff;Bill Alexander;1941;1964;1999;ST;Static Defence Doctrine;Very High;M1028;X
+875079;Chief of Staff;Peter Kerrigan;1933;1964;1999;LE;School of Mass Combat;Very High;SCO-Peter_Kerrigan;X
+875080;Chief of Staff;Lionel Ismay;1933;1964;1999;LWR;School of Fire Support;Very High;3829;X
+875081;Chief of Staff;Archibald Nye;1933;1964;1999;LWR;School of Mass Combat;Very High;M1122;X
+875082;Chief of Staff;Bernard Montgomery;1933;1964;1999;SD;School of Manoeuvre;Medium;M1123;X
+875083;Chief of Army;James Maley;1933;1964;1999;LE;Decisive Battle Doctrine;Very High;SCO-James_Maley;X
+875084;Chief of Army;Miles Dempsey;1944;1964;1964;SD;Armoured Spearhead Doctrine;Medium;L1099;X
+875085;Chief of Navy;Harry Pollitt;1933;1961;1999;ST;Decisive Naval Battle Doctrine;Very High;M1022;X
+875086;Chief of Navy;Joseph Holland;1933;1964;1999;LE;Decisive Naval Battle Doctrine;Very High;SCO-Joseph_Holland;X
+875087;Chief of Air Force;James Maley;1933;1964;1999;LE;Army Aviation Doctrine;Very High;SCO-James_Maley;X
+875088;Chief of Air Force;Hugh Dowding;1933;1964;1964;LWR;Air Superiority Doctrine;Very High;L1435;X
+875089;Chief of Air Force;Arthur Harris;1941;1964;1964;LWR;Carpet Bombing Doctrine;Very High;L1447;X
+875089;Chief of Air Force;William Wedgwood Benn;1933;1961;1961;SD;Air Superiority Doctrine;High;9403;X
+875090;Chief of Air Force;William Sholto Douglas;1933;1964;1999;SD;Air Superiority Doctrine;High;L1479;X

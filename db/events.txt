@@ -13,3 +13,14 @@ event = "db\events\AI\AI_research.txt"
 # Mods placeholder
 
 event = "db\events\Mods.txt"
+
+event = "db\events\Germany.txt"
+
+event = "db\events\USA defeat.txt"
+
+event = "db\events\Asia flavour.txt"
+event = "db\events\Europe flavour.txt"
+event = "db\events\North America flavour.txt"
+event = "db\events\South America flavour.txt"
+
+event = "db\events\death_events.txt"

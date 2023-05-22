@@ -1,0 +1,151 @@
+### ID range 1200 - ?
+
+event = {
+	id = 1200
+	random = no
+	country = U09
+	style = 2
+	picture = "olympics"
+
+	trigger = {
+		atwar = no
+		}
+
+	name = "1936 Winter Olympics"
+	desc = "The IV Olympic Winter Games were inaugurated in Budweis, Austria-Hungary on February 6th 1936. They were heavily sponsored by the Budweis beer brewery, which is located in the same city."
+
+	date = { day = 6 month = february year = 1936 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = money value = 50 }
+		command = { type = dissent value = -3 }
+		}
+	}
+
+event = {
+	id = 1201
+	random = no
+	country = HOL
+	style = 2
+	picture = "astronomy"
+
+	name = "Gerrit Kuiper discovers planet Pluto!"
+	desc = "It had long been speculated that a ninth planet of the Solar System, also known as 'Planet X', lied beyond the orbit of Neptune. On March 1st 1934, Dutch astronomer Gerrit Kuiper announced that he and his assistants had discovered the elusive and distant planet by carefully comparing pictures taken on different dates. The discovery came as a disappointment to many other astronomers, who had dreamed of finding it themselves first. The planet received the name 'Pluto' after the Roman god of the underworld."
+
+	date = { day = 0 month = march year = 1934 }
+
+	action = {
+		name = ACTION_NAME_GREAT
+		command = { type = dissent value = -1 }
+		}
+	}
+
+event = {
+	id = 1202
+	random = no
+	country = ENG
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		atwar = no
+		}
+
+	name = "The Ulster Division"
+	desc = "One of the more influential people of the Loyalist refugees from Ulster in the United Kingdom was Leopold Canning, Baron Garvagh. Born a Londonderry noble, he'd served as a pilot in the Balkans in the Great War, and afterwards had been involved in the creation of a far-right political party. Another one of his creations was a small-ish paramilitary force by the name of Ulster Division, manned by volunteers. In April 1934, the force requested that they be granted royal assent as part of the British Army."
+
+	date = { day = 0 month = april year = 1934 }
+
+	action_a = {
+		ai_chance = 34
+		name = "Refuse the offer entirely"
+		command = { type = dissent value = -1 }
+		}
+	action_b = {
+		ai_chance = 33
+		name = "Take the men, but disperse them in separate units"
+		command = { type = money value = -5 }
+		command = { type = supplies value = -50 }
+		command = { type = manpowerpool value = 8 }
+		}
+	action_c = {
+		ai_chance = 33
+		name = "Establish the unit"
+		command = { type = add_corps which = "Ulster Division" value = land when = 10989 where = 3038 } # Canning as leader, in Liverpool
+		command = { type = add_division which = "Ulster Division" value = infantry when = 3 where = -55 }
+		command = { type = dissent value = 1 }
+		}
+	}
+
+# 1940 Winter and Summer Olympics, if they are held
+
+event = {
+	id = 1203
+	random = no
+	country = NOR
+	style = 2
+	picture = "olympics"
+
+	trigger = {
+		NOT = {
+			war = { country = FRA country = GER }
+			war = { country = RUS country = GER }
+			atwar = yes
+		}
+	}
+
+	name = "1940 Winter Olympics"
+	desc = "The V Olympic Winter Games were inaugurated in Lillehammer, Norway on the 3rd of February in 1940."
+
+	date = { day = 6 month = february year = 1940 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = relation which = ENG value = 5 }
+		command = { type = relation which = FRA value = 5 }
+		command = { type = relation which = GER value = 5 }
+		command = { type = relation which = U09 value = 5 }
+		command = { type = relation which = ITA value = 5 }
+		command = { type = relation which = USA value = 5 }
+		command = { type = relation which = CSA value = 5 }
+		command = { type = relation which = SWE value = 10 }
+		command = { type = money value = 50 }
+		command = { type = dissent value = -3 }
+		}
+	}
+
+event = {
+	id = 1204
+	random = no
+	country = SWE
+	style = 2
+	picture = "olympics"
+
+	trigger = {
+		NOT = {
+			war = { country = FRA country = GER }
+			war = { country = RUS country = GER }
+			atwar = yes
+		}
+	}
+
+	name = "1940 Summer Olympics"
+	desc = "Stockholm hosted the 1940 Summer Olympics."
+
+	date = { day = 6 month = february year = 1940 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = relation which = ENG value = 5 }
+		command = { type = relation which = FRA value = 5 }
+		command = { type = relation which = GER value = 5 }
+		command = { type = relation which = U09 value = 5 }
+		command = { type = relation which = ITA value = 5 }
+		command = { type = relation which = USA value = 5 }
+		command = { type = relation which = CSA value = 5 }
+		command = { type = relation which = NOR value = 10 }
+		command = { type = money value = 100 }
+		command = { type = dissent value = -3 }
+		}
+	}

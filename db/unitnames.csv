@@ -6266,8 +6266,8 @@ CAL;HQ;5th Western States Army
 CAL;HQ;6th Western States Army
 CAL;HQ;7th Western States Army
 CAL;HQ;8th Western States Army
-CAL;Inf;1st Western States Infantry Division
-CAL;Inf;2nd Western States Infantry Division
+CAL;Inf;1st Infantry Division 'Gold Rush'
+CAL;Inf;2nd Infantry Division 'Rough and Ready'
 CAL;Inf;3rd Western States Infantry Division
 CAL;Inf;4th Western States Infantry Division
 CAL;Inf;5th Western States Infantry Division
@@ -6316,20 +6316,21 @@ CAL;Cav;7th Western States Cavalry Division
 CAL;Cav;8th Western States Cavalry Division
 CAL;Cav;9th Western States Cavalry Division
 CAL;Cav;10th Western States Cavalry Division
-CAL;Mot;1st Western States Infantry Division
-CAL;Mot;2nd Western States Infantry Division
-CAL;Mot;3rd Western States Infantry Division
-CAL;Mot;1st Western States Infantry Division
-CAL;Mot;2nd Western States Infantry Division
+CAL;Mot;1st Infantry Division 'Gold Rush'
+CAL;Mot;2nd Infantry Division 'Rough and Ready'
 CAL;Mot;3rd Western States Infantry Division
 CAL;Mot;4th Western States Infantry Division
 CAL;Mot;5th Western States Infantry Division
 CAL;Mot;6th Western States Infantry Division
-CAL;Mec;1st Western States Infantry Division
-CAL;Mec;2nd Western States Infantry Division
-CAL;Mec;3rd Western States Infantry Division
-CAL;Mec;1st Western States Infantry Division
-CAL;Mec;2nd Western States Infantry Division
+CAL;Mot;7th Western States Infantry Division
+CAL;Mot;8th Western States Infantry Division
+CAL;Mot;9th Western States Infantry Division
+CAL;Mot;10th Western States Infantry Division
+CAL;Mot;11th Western States Infantry Division
+CAL;Mot;12th Western States Infantry Division
+CAL;Mot;13th Western States Infantry Division
+CAL;Mec;1st Infantry Division 'Gold Rush'
+CAL;Mec;2nd Infantry Division 'Rough and Ready'
 CAL;Mec;3rd Western States Infantry Division
 CAL;Mec;4th Western States Infantry Division
 CAL;Mec;5th Western States Infantry Division
@@ -6338,6 +6339,9 @@ CAL;Mec;7th Western States Infantry Division
 CAL;Mec;8th Western States Infantry Division
 CAL;Mec;9th Western States Infantry Division
 CAL;Mec;10th Western States Infantry Division
+CAL;Mec;11th Western States Infantry Division
+CAL;Mec;12th Western States Infantry Division
+CAL;Mec;13th Western States Infantry Division
 CAL;L ARM;1st Western States Armoured Division
 CAL;L ARM;2nd Western States Armoured Division
 CAL;L ARM;3rd Western States Armoured Division
@@ -6395,36 +6399,36 @@ CAL;Mtn;8th Western States Mountain Division
 CAL;Mtn;10th Western States Mountain Division
 CAL;Mtn;11th Western States Mountain Division
 CAL;Mtn;12th Western States Mountain Division
-CAL;Mil;1st Infantry Division
-CAL;Mil;2nd Infantry Division
-CAL;Mil;3rd Infantry Division
-CAL;Mil;4th Infantry Division
-CAL;Mil;5th Infantry Division
-CAL;Mil;6th Infantry Division
-CAL;Mil;7th Infantry Division
-CAL;Mil;8th Infantry Division
-CAL;Mil;9th Infantry Division
-CAL;Mil;10th Infantry Division
-CAL;Mil;11th Infantry Division
-CAL;Mil;12th Infantry Division
-CAL;Mil;13th Infantry Division
-CAL;Mil;14th Infantry Division
-CAL;Mil;15th Infantry Division
-CAL;Mil;16th Infantry Division
-CAL;Mil;17th Infantry Division
-CAL;Mil;18th Infantry Division
-CAL;Mil;19th Infantry Division
-CAL;Mil;20th Infantry Division
-CAL;Mil;21st Infantry Division
-CAL;Mil;22nd Infantry Division
-CAL;Mil;23rd Infantry Division
-CAL;Mil;24th Infantry Division
-CAL;Mil;25th Infantry Division
-CAL;Mil;26th Infantry Division
-CAL;Mil;27th Infantry Division
-CAL;Mil;28th Infantry Division
-CAL;Mil;29th Infantry Division
-CAL;Mil;30th Infantry Division
+CAL;Mil;1st Infantry Division 'Gold Rush'
+CAL;Mil;2nd Infantry Division 'Rough and Ready'
+CAL;Mil;3rd Western States Infantry Division
+CAL;Mil;4th Western States Infantry Division
+CAL;Mil;5th Western States Infantry Division
+CAL;Mil;6th Western States Infantry Division
+CAL;Mil;7th Western States Infantry Division
+CAL;Mil;8th Western States Infantry Division
+CAL;Mil;9th Western States Infantry Division
+CAL;Mil;10th Western States Infantry Division
+CAL;Mil;11th Western States Infantry Division
+CAL;Mil;12th Western States Infantry Division
+CAL;Mil;13th Western States Infantry Division
+CAL;Mil;14th Western States Infantry Division
+CAL;Mil;15th Western States Infantry Division
+CAL;Mil;16th Western States Infantry Division
+CAL;Mil;17th Western States Infantry Division
+CAL;Mil;18th Western States Infantry Division
+CAL;Mil;19th Western States Infantry Division
+CAL;Mil;20th Western States Infantry Division
+CAL;Mil;21st Western States Infantry Division
+CAL;Mil;22nd Western States Infantry Division
+CAL;Mil;23rd Western States Infantry Division
+CAL;Mil;24th Western States Infantry Division
+CAL;Mil;25th Western States Infantry Division
+CAL;Mil;26th Western States Infantry Division
+CAL;Mil;27th Western States Infantry Division
+CAL;Mil;28th Western States Infantry Division
+CAL;Mil;29th Western States Infantry Division
+CAL;Mil;30th Western States Infantry Division
 CAL;Fig;No.1 Group CAF
 CAL;Fig;No.2 Group CAF
 CAL;Fig;No.3 Group CAF
@@ -6565,27 +6569,29 @@ CAL;CA;WSS Los Angeles
 CAL;CA;WSS Oakland
 CAL;CA;WSS Walla Walla
 CAL;CA;WSS Fresno
-CAL;CA;WSS Sacremento
+CAL;CA;WSS Sacramento
 CAL;CA;WSS Bakersfield
 CAL;CA;WSS Salem
 CAL;CA;WSS Eugene
 CAL;CA;WSS Gresham
 CAL;CA;WSS Spokane
 CAL;CA;WSS Tacoma
-CAL;CA;WSS Vancouver
+CAL;CA;WSS Eureka
+CAL;CA;WSS Santa Rosa
 CAL;CL;WSS Anaheim
 CAL;CL;WSS Los Angeles
 CAL;CL;WSS Oakland
 CAL;CL;WSS Walla Walla
 CAL;CL;WSS Fresno
-CAL;CL;WSS Sacremento
+CAL;CL;WSS Sacramento
 CAL;CL;WSS Bakersfield
 CAL;CL;WSS Salem
 CAL;CL;WSS Eugene
 CAL;CL;WSS Gresham
 CAL;CL;WSS Spokane
 CAL;CL;WSS Tacoma
-CAL;CL;WSS Vancouver
+CAL;CL;WSS Eureka
+CAL;CL;WSS Santa Rosa
 CAL;CV;WSS Los Angeles
 CAL;CV;WSS Portland
 CAL;CV;WSS Seattle
@@ -6598,54 +6604,74 @@ CAL;CV;WSS Sacramento
 CAL;CV;WSS Oakland
 CAL;CV;WSS Santa Ana
 CAL;CV;WSS Anaheim
-CAL;27;Del Norte County
-CAL;27;Humboldt County
-CAL;27;Mendocino County
-CAL;27;Marin County
-CAL;27;Sonoma County
-CAL;27;Contra Costa County
-CAL;27;Solano County
-CAL;27;Alameda County
-CAL;27;Monterey County
-CAL;27;San Luis Obispo County
-CAL;27;Santa Barbara County
-CAL;27;Ventura County
-CAL;27;Orange County
-CAL;27;San Mateo County
-CAL;31;Del Norte County
-CAL;31;Humboldt County
-CAL;31;Mendocino County
-CAL;31;Marin County
-CAL;31;Sonoma County
-CAL;31;Contra Costa County
-CAL;31;Solano County
-CAL;31;Alameda County
-CAL;31;Monterey County
-CAL;31;San Luis Obispo County
-CAL;31;Santa Barbara County
+CAL;27;WSS Del Norte County
+CAL;27;WSS Humboldt County
+CAL;27;WSS Mendocino County
+CAL;27;WSS Marin County
+CAL;27;WSS Sonoma County
+CAL;27;WSS Contra Costa County
+CAL;27;WSS Solano County
+CAL;27;WSS Alameda County
+CAL;27;WSS Monterey County
+CAL;27;WSS San Luis Obispo County
+CAL;27;WSS Santa Barbara County
+CAL;27;WSS Ventura County
+CAL;27;WSS Orange County
+CAL;27;WSS San Mateo County
+CAL;31;WSS Del Norte County
+CAL;31;WSS Humboldt County
+CAL;31;WSS Mendocino County
+CAL;31;WSS Marin County
+CAL;31;WSS Sonoma County
+CAL;31;WSS Contra Costa County
+CAL;31;WSS Solano County
+CAL;31;WSS Alameda County
+CAL;31;WSS Monterey County
+CAL;31;WSS San Luis Obispo County
+CAL;31;WSS Santa Barbara County
 CAL;31;Ventura County
 CAL;31;Orange County
 CAL;31;San Mateo County
-CAL;DD;1st Western States Destroyer Division
-CAL;DD;2nd Western States Destroyer Division
-CAL;DD;3rd Western States Destroyer Division
-CAL;DD;4th Western States Destroyer Division
-CAL;DD;5th Western States Destroyer Division
-CAL;DD;6th Western States Destroyer Division
-CAL;DD;7th Western States Destroyer Division
-CAL;DD;8th Western States Destroyer Division
-CAL;DD;9th Western States Destroyer Division
-CAL;DD;10th Western States Destroyer Division
-CAL;SS;1st Western States Submarine Division
-CAL;SS;2nd Western States Submarine Division
-CAL;SS;3rd Western States Submarine Division
-CAL;SS;4th Western States Submarine Division
-CAL;SS;5th Western States Submarine Division
-CAL;SS;6th Western States Submarine Division
-CAL;SS;7th Western States Submarine Division
-CAL;SS;8th Western States Submarine Division
-CAL;SS;9th Western States Submarine Division
-CAL;SS;10th Western States Submarine Division
+CAL;DD;Destroyer Division 1
+CAL;DD;Destroyer Division 2
+CAL;DD;Destroyer Division 3
+CAL;DD;Destroyer Division 4
+CAL;DD;Destroyer Division 5
+CAL;DD;Destroyer Division 6
+CAL;DD;Destroyer Division 7
+CAL;DD;Destroyer Division 8
+CAL;DD;Destroyer Division 9
+CAL;DD;Destroyer Division 10
+CAL;DD;Destroyer Division 11
+CAL;DD;Destroyer Division 12
+CAL;DD;Destroyer Division 13
+CAL;DD;Destroyer Division 14
+CAL;DD;Destroyer Division 15
+CAL;DD;Destroyer Division 16
+CAL;DD;Destroyer Division 17
+CAL;DD;Destroyer Division 18
+CAL;DD;Destroyer Division 19
+CAL;DD;Destroyer Division 20
+CAL;SS;Submarine Division 1
+CAL;SS;Submarine Division 2
+CAL;SS;Submarine Division 3
+CAL;SS;Submarine Division 4
+CAL;SS;Submarine Division 5
+CAL;SS;Submarine Division 6
+CAL;SS;Submarine Division 7
+CAL;SS;Submarine Division 8
+CAL;SS;Submarine Division 9
+CAL;SS;Submarine Division 10
+CAL;SS;Submarine Division 11
+CAL;SS;Submarine Division 12
+CAL;SS;Submarine Division 13
+CAL;SS;Submarine Division 14
+CAL;SS;Submarine Division 15
+CAL;SS;Submarine Division 16
+CAL;SS;Submarine Division 17
+CAL;SS;Submarine Division 18
+CAL;SS;Submarine Division 19
+CAL;SS;Submarine Division 20
 CAL;TP;1st Western States Transport Division
 CAL;TP;2nd Western States Transport Division
 CAL;TP;3rd Western States Transport Division
@@ -6656,6 +6682,10 @@ CAL;TP;7th Western States Transport Division
 CAL;TP;8th Western States Transport Division
 CAL;TP;9th Western States Transport Division
 CAL;TP;10th Western States Transport Division
+CAL;NS;WSS Seth Kinman
+CAL;NS;WSS Emperor Norton
+CAL;NS;WSS Lillie Coit
+CAL;NS;WSS Jack London
 CAM;HQ;1. Armee Kamerunische
 CAM;HQ;2. Armee Kamerunische
 CAM;HQ;3. Armee Kamerunische
@@ -12198,9 +12228,17 @@ CRO;27;HRM Mljet
 CRO;31;HRM Mostar
 CRO;31;HRM Ogulin
 CRO;31;HRM Mljet
+CSA;HQ;Army of Northern Virginia
 CSA;HQ;Army of Central Virginia
+CSA;HQ;Army of Kentucky
 CSA;HQ;Army of Mississippi
 CSA;HQ;Army of the West
+CSA;HQ;Army of the Shenandoah
+CSA;HQ;Army of Central Kentucky
+CSA;HQ;Army of the Kanawha
+CSA;HQ;Army of Arizona
+CSA;HQ;Army of West Texas
+CSA;HQ;Army of Trans-Mississippi
 CSA;HQ;Confederate Exp. Force
 CSA;HQ;5th CS Army
 CSA;HQ;6th CS Army
@@ -12208,7 +12246,7 @@ CSA;HQ;7th CS Army
 CSA;HQ;8th CS Army
 CSA;HQ;9th CS Army
 CSA;HQ;10th CS Army
-CSA;HQ 12th CS Army
+CSA;HQ;12th CS Army
 CSA;HQ;13th CS Army
 CSA;HQ;14th CS Army
 CSA;HQ;15th CS Army
@@ -12274,8 +12312,8 @@ CSA;Inf;59th 'Louisiana' Division
 CSA;Inf;60th 'C.A. Evans' Division
 CSA;Inf;61st 'Arizona' Division
 CSA;Inf;62nd 'Taliaferro' Division
-CSA;Inf;63rd Confederate Infantry Division
-CSA;Inf;64th Confederate Infantry Division
+CSA;Inf;63rd 'McGruder' Division
+CSA;Inf;64th 'Rhoodie' Division
 CSA;Inf;65th Confederate Infantry Division
 CSA;Inf;66th Confederate Infantry Division
 CSA;Inf;67th Confederate Infantry Division
@@ -12469,7 +12507,7 @@ CSA;Mot;8th 'Beauregard' Division
 CSA;Mot;9th 'E.K. Smith' Division
 CSA;Mot;10th 'Dixie' Division
 CSA;Mot;11th 'Breckinridge' Division
-CSA;Mot;12th 'Magruder' Division
+CSA;Mot;12th 'Rivington Rifles' Division
 CSA;Mot;13th 'Buckner' Division
 CSA;Mot;14th 'Polk' Division
 CSA;Mot;15th 'A.P. Hill' Division
@@ -12520,8 +12558,8 @@ CSA;Mot;59th 'Louisiana' Division
 CSA;Mot;60th 'C.A. Evans' Division
 CSA;Mot;61st 'Arizona' Division
 CSA;Mot;62nd 'Taliaferro' Division
-CSA;Mot;63rd Confederate Infantry Division
-CSA;Mot;64th Confederate Infantry Division
+CSA;Mot;63rd 'McGruder' Division
+CSA;Mec;64th 'Rhoodie' Division
 CSA;Mot;65th Confederate Infantry Division
 CSA;Mot;66th Confederate Infantry Division
 CSA;Mot;67th Confederate Infantry Division
@@ -12619,7 +12657,7 @@ CSA;Mec;8th 'Beauregard' Division
 CSA;Mec;9th 'E.K. Smith' Division
 CSA;Mec;10th 'Dixie' Division
 CSA;Mec;11th 'Breckinridge' Division
-CSA;Mec;12th 'Magruder' Division
+CSA;Mec;12th 'Rivington Rifles' Division
 CSA;Mec;13th 'Buckner' Division
 CSA;Mec;14th 'Polk' Division
 CSA;Mec;15th 'A.P. Hill' Division
@@ -12670,8 +12708,8 @@ CSA;Mec;59th 'Louisiana' Division
 CSA;Mec;60th 'C.A. Evans' Division
 CSA;Mec;61st 'Arizona' Division
 CSA;Mec;62nd 'Taliaferro' Division
-CSA;Mec;63rd Confederate Infantry Division
-CSA;Mec;64th Confederate Infantry Division
+CSA;Mec;63rd 'McGruder' Division
+CSA;Mec;64th 'Rhoodie' Division
 CSA;Mec;65th Confederate Infantry Division
 CSA;Mec;66th Confederate Infantry Division
 CSA;Mec;67th Confederate Infantry Division
@@ -12819,10 +12857,10 @@ CSA;Par;18th Confederate Airborne Division
 CSA;Par;19th Confederate Airborne Division
 CSA;Par;20th Confederate Airborne Division
 CSA;Mar;1st CS Marine 'Lejeune' Div.
-CSA;Mar;2nd CS Marine Division
-CSA;Mar;3rd CS Marine Division
-CSA;Mar;4th CS Marine Division
-CSA;Mar;5th CS Marine Division
+CSA;Mar;2nd CS Marine 'Swamp Fox' Division
+CSA;Mar;3rd CS Marine 'Cottonmouth' Division
+CSA;Mar;4th CS Marine 'Snapper' Division
+CSA;Mar;5th CS Marine 'Gator' Division
 CSA;Mar;6th CS Marine Division
 CSA;Mar;7th CS Marine Division
 CSA;Mar;8th CS Marine Division
@@ -13321,13 +13359,16 @@ CSA;BC;CSS Appalachia
 CSA;BC;CSS Palmetto State
 CSA;BC;CSS Albemarle
 CSA;BC;CSS Chicora
+CSA;BC;CSS Raphael Semmes
 CSA;BC;CSS Baltic
-CSA;BC;CSS Artic
+CSA;BC;CSS Mediterranean
+CSA;BC;CSS Arctic
 CSA;BC;CSS Neuse
 CSA;BC;CSS Phoenix
 CSA;BC;CSS Stonewall
 CSA;BC;CSS Rappahannock
 CSA;BC;CSS Patrick Henry
+CSA;BC;CSS Peyton Randolph
 CSA;BC;CSS Rob Roy
 CSA;BC;CSS Defiance
 CSA;BC;CSS Dreadnaught
@@ -13357,18 +13398,21 @@ CSA;CA;CSS Okmulgee
 CSA;CA;CSS Wewoka
 CSA;CA;CSS Oak Ridge
 CSA;CA;CSS Jacksonville
+CSA;CA;CSS Gainesville
 CSA;CA;CSS Charleston
 CSA;CA;CSS Charlottesville
+CSA;CA;CSS Winchester
 CSA;CA;CSS Havana
 CSA;CA;CSS Murfreesboro
 CSA;CA;CSS Rome
 CSA;CA;CSS Charlotte
-CSA;CA;CSS Tallahassee
-CSA;CA;CSS Florida
+CSA;CA;CSS Bessemer
+CSA;CA;CSS St Petersburg
 CSA;CA;CSS Gulfport
 CSA;CA;CSS Athens
 CSA;CA;CSS Louisville
 CSA;CA;CSS Springfield
+CSA;CA;CSS Shelbyville
 CSA;CA;CSS Arlington
 CSA;CA;CSS Statesville
 CSA;CA;CSS Johnson City
@@ -13389,29 +13433,33 @@ CSA;CL;CSS Arlin
 CSA;CL;CSS New Bern
 CSA;CL;CSS Norfolk
 CSA;CL;CSS Paducah
+CSA;CL;CSS Yuma
 CSA;CL;CSS Wilmington
 CSA;CL;CSS Vicksburg
+CSA;CL;CSS Perry
 CSA;CL;CSS Darlington
 CSA;CL;CSS Fredericksburg
-CSA;CL;CSS Stone Mountain
 CSA;CL;CSS Muskogee
 CSA;CL;CSS Jamestown
+CSA;CL;CSS Willamsburg
 CSA;CL;CSS Augusta
 CSA;CL;CSS Columbus
 CSA;CL;CSS Macon
 CSA;CL;CSS Newport News
 CSA;CL;CSS Dallas
+CSA;CL;CSS Pulaski
 CSA;CL;CSS Birmingham
 CSA;CL;CSS Miami
 CSA;CL;CSS Galveston
 CSA;CL;CSS Big Lick
 CSA;CL;CSS Chattanooga
 CSA;CL;CSS Selma
+CSA;CL;CSS Albany
 CSA;CL;CSS Louisville
 CSA;CL;CSS Alexandria
 CSA;CL;CSS Petersburg
-CSA;CL;CSS Wheeling
-CSA;CL;CSS Tucson
+CSA;CL;CSS Murfreesboro
+CSA;CL;CSS Thibodaux
 CSA;CL;CSS Corpus Christi
 CSA;CL;CSS Orlando
 CSA;CL;CSS Lubbock
@@ -13422,33 +13470,44 @@ CSA;CL;CSS El Paso
 CSA;CL;CSS Tampa
 CSA;CL;CSS Greensboro
 CSA;CL;CSS Knoxville
+CSA;CL;CSS Double Springs
 CSA;CL;CSS Jacksonville
+CSA;CL;CSS New Montgomery
 CSA;CL;CSS Huntington
 CSA;CL;CSS Fairfax
 CSA;CL;CSS Ardmore
-CSA;CL;CSS San Juan
+CSA;CL;CSS Santa Clara
+CSA;CL;CSS Dade
+CSA;CL;CSS Jonesboro
+CSA;CL;CSS Lawton
+CSA;CL;CSS Mesilla
+CSA;CL;CSS Parish Creek
 CSA;CV;CSS Camp Hill
 CSA;CV;CSS Manassas
 CSA;CV;CSS Shenandoah Valley
 CSA;CV;CSS Hampton Roads
 CSA;CV;CSS Alamo
 CSA;CV;CSS San Jacinto
-CSA;CV;CSS Sharpsburg
+CSA;CV;CSS Harpers Ferry
 CSA;CV;CSS Shiloh
 CSA;CV;CSS Perryville
 CSA;CV;CSS George Washington
 CSA;CV;CSS Jefferson Davis
 CSA;CV;CSS John C. Calhoun
+CSA;CV;CSS Stephen Mallory
 CSA;CV;CSS Thomas Jefferson
 CSA;CV;CSS Judah P. Benjamin
-CSA;CV;CSS Alexander H. Stephens
 CSA;CV;CSS James Madison
 CSA;CV;CSS James Monroe
 CSA;CV;CSS Patrick Henry
+CSA;CV;CSS Peyton Randolph
 CSA;CV;CSS John Tyler
-CSA;CV;CSS Fort Sumter
-CSA;CV;CSS Samuel Houston
-CSA;CV;CSS Stephen Austin
+CSA;CV;CSS Franklin Buchanan
+CSA;CV;CSS Josiah Tattnall
+CSA;CV;CSS David Crockett
+CSA;CV;CSS James Bowie
+CSA;CV;CSS William B. Travis
+CSA;CV;CSS Stephen F. Austin
 CSA;CV;CSS David Burnet
 CSA;27;CSS Raider
 CSA;27;CSS Hunter
@@ -13502,6 +13561,86 @@ CSA;31;CSS Lark
 CSA;31;CSS Wren
 CSA;31;CSS Condor
 CSA;31;CSS Flamingo
+CSA;46;CSS Franklin Buchanan
+CSA;46;CSS John H. Towers
+CSA;46;CSS David F. Sellers
+CSA;46;CSS Josiah Tattnall III
+CSA;46;CSS Robert P. Briscoe
+CSA;46;CSS William G. Leftwich
+CSA;46;CSS James I. Waddle
+CSA;46;CSS Edward W. Eberle
+CSA;46;CSS Raphael Semmes
+CSA;46;CSS Richard E. Byrd
+CSA;46;CSS David R. Ray
+CSA;46;CSS Aaron S. Merrill
+CSA;46;CSS Gerald Boyd
+CSA;46;CSS James W. Cooke
+CSA;46;CSS William F. Lynch
+CSA;46;CSS French Forrest
+CSA;46;CSS Samuel Barron
+CSA;46;CSS William L. Maury
+CSA;46;CSS Charles E. Linn
+CSA;46;CSS John R. Tucker
+CSA;46;CSS Isaac N. Brown
+CSA;46;CSS Sydney S. Lee
+CSA;46;CSS Duncan N. Ingraham
+CSA;46;CSS John Wilkinson
+CSA;46;CSS Thomas J. Page
+CSA;46;CSS Thomas E. Hogg
+CSA;46;CSS Richard L. Page
+CSA;46;CSS John T. Wood
+CSA;46;CSS George N. Hollins
+CSA;46;CSS Clifton R. Breckinridge
+CSA;46;CSS Washington Duke
+CSA;46;CSS Joseph J. Cook
+CSA;46;CSS George Minor
+CSA;46;CSS William W.J Kelly
+CSA;46;CSS Thomas B. Huger
+CSA;46;CSS William T. Glassell
+CSA;46;CSS David P. McCorkle
+CSA;46;CSS William H. Parker
+CSA;46;CSS James R. Randall
+CSA;46;CSS Charles M. Morris
+CSA;46;CSS Joseph  N. Barney
+CSA;46;CSS George W. Gift
+CSA;46;CSS William A. Webb
+CSA;46;CSS Charles C. Simms
+CSA;46;CSS James D. Johnston
+CSA;46;CSS Leonidas R. Smith
+CSA;46;CSS Catsby R. Jones
+CSA;46;CSS John N. Maffitt  
+CSA;46;CSS John. M Brooke
+CSA;47;CSS Cary T. Grayson
+CSA;47;CSS Claude A. Swanson
+CSA;47;CSS John W. Thomason
+CSA;47;CSS Alfred A. Cunningham
+CSA;47;CSS Edwin A. Anderson
+CSA;47;CSS Henry A. Wiley
+CSA;47;CSS Robert H. Smith
+CSA;47;CSS Washington L. Capps
+CSA;47;CSS Victor Blue
+CSA;47;CSS Duncan Ingraham
+CSA;47;CSS David W. Taylor
+CSA;47;CSS John H. Furse
+CSA;47;CSS Alexander J. Luthor
+CSA;47;CSS Matthew F. Maury
+CSA;47;CSS Richard L. Page
+CSA;47;CSS John D. Edwards
+CSA;47;CSS William L. Herndon
+CSA;47;CSS Charles L. Ausburne
+CSA;47;CSS George H. Yarborough 
+CSA;47;CSS Osmond Ingram
+CSA;47;CSS Hilary P. Jones
+CSA;47;CSS Edward W. Eberle
+CSA;47;CSS Frank R. King
+CSA;47;CSS Lewis Hancock
+CSA;47;CSS Leonard F. Mason
+CSA;47;CSS David B. Noa
+CSA;47;CSS Newman K. Perry
+CSA;47;CSS John T. Melvin
+CSA;47;CSS Thomas E Zellars
+CSA;47;CSS John D. Henley
+CSA;47;CSS Robert Henley
 CSA;DD;1st Destroyer Division
 CSA;DD;2nd Destroyer Division
 CSA;DD;3rd Destroyer Division
@@ -13582,6 +13721,76 @@ CSA;SS;27th Submarine Division
 CSA;SS;28th Submarine Division
 CSA;SS;29th Submarine Division
 CSA;SS;30th Submarine Division
+CSA;SS;31st Submarine Division
+CSA;SS;32nd Submarine Division
+CSA;SS;33rd Submarine Division
+CSA;SS;34th Submarine Division
+CSA;SS;35th Submarine Division
+CSA;SS;36th Submarine Division
+CSA;SS;37th Submarine Division
+CSA;SS;38th Submarine Division
+CSA;SS;39th Submarine Division
+CSA;SS;40th Submarine Division
+CSA;SS;41st Submarine Division
+CSA;SS;42nd Submarine Division
+CSA;SS;43rd Submarine Division
+CSA;SS;44th Submarine Division
+CSA;SS;45th Submarine Division
+CSA;SS;46th Submarine Division
+CSA;SS;47th Submarine Division
+CSA;SS;48th Submarine Division
+CSA;SS;49th Submarine Division
+CSA;SS;50th Submarine Division
+CSA;SS;51st Submarine Division
+CSA;SS;52nd Submarine Division
+CSA;SS;53rd Submarine Division
+CSA;SS;54th Submarine Division
+CSA;SS;55th Submarine Division
+CSA;SS;56th Submarine Division
+CSA;SS;57th Submarine Division
+CSA;SS;58th Submarine Division
+CSA;SS;59th Submarine Division
+CSA;SS;60th Submarine Division
+CSA;SS;61st Submarine Division
+CSA;SS;62nd Submarine Division
+CSA;SS;63rd Submarine Division
+CSA;SS;64th Submarine Division
+CSA;SS;65th Submarine Division
+CSA;SS;66th Submarine Division
+CSA;SS;67th Submarine Division
+CSA;SS;68th Submarine Division
+CSA;SS;69th Submarine Division
+CSA;SS;70th Submarine Division
+CSA;SS;71st Submarine Division
+CSA;SS;72nd Submarine Division
+CSA;SS;73rd Submarine Division
+CSA;SS;74th Submarine Division
+CSA;SS;75th Submarine Division
+CSA;SS;76th Submarine Division
+CSA;SS;77th Submarine Division
+CSA;SS;78th Submarine Division
+CSA;SS;79th Submarine Division
+CSA;SS;80th Submarine Division
+CSA;SS;81st Submarine Division
+CSA;SS;82nd Submarine Division
+CSA;SS;83rd Submarine Division
+CSA;SS;84th Submarine Division
+CSA;SS;85th Submarine Division
+CSA;SS;86th Submarine Division
+CSA;SS;87th Submarine Division
+CSA;SS;88th Submarine Division
+CSA;SS;89th Submarine Division
+CSA;SS;90th Submarine Division
+CSA;SS;91st Submarine Division
+CSA;SS;92nd Submarine Division
+CSA;SS;93rd Submarine Division
+CSA;SS;94th Submarine Division
+CSA;SS;95th Submarine Division
+CSA;SS;96th Submarine Division
+CSA;SS;97th Submarine Division
+CSA;SS;98th Submarine Division
+CSA;SS;99th Submarine Division
+CSA;SS;100th Submarine Division
 CSA;TP;'Admiral' Flotilla
 CSA;TP;'Beauregard' Flotilla
 CSA;TP;'Capitol' Flotilla
@@ -13623,8 +13832,36 @@ CSA;TP;27th Transport Flotilla
 CSA;TP;28th Transport Flotilla
 CSA;TP;29th Transport Flotilla
 CSA;TP;30th Transport Flotilla
+CSA;29;CSS Horace L. Hunley
+CSA;29;CSS George E. Dixon
+CSA;29;CSS Irvine S. Bulloch
+CSA;29;CSS James D. Bulloch
+CSA;29;CSS John M. Kell
+CSA;29;CSS Great White
+CSA;29;CSS Hammerhead
+CSA;29;CSS Mako
+CSA;29;CSS Catfish
+CSA;29;CSS Bass
+CSA;29;CSS Gar
+CSA;29;CSS Pickeral
+CSA;29;CSS Sawfish
+CSA;29;CSS Manta
+CSA;29;CSS Bowfin
+CSA;29;CSS Drum
+CSA;29;CSS Flathead
+CSA;29;CSS Sturgeon
+CSA;29;CSS Alligator
+CSA;29;CSS Crocodile
+CSA;29;CSS Snapper
+CSA;29;CSS Pike
+CSA;29;CSS Muskallunge
+CSA;29;CSS Stingray
 CSA;NS;CSS Horace L. Hunley
 CSA;NS;CSS George E. Dixon
+CSA;NS;CSS Irvine S. Bulloch
+CSA;NS;CSS James D. Bulloch
+CSA;NS;CSS John M. Kell
+CSA;NS;CSS Pioneer
 CSA;NS;CSS Kraken
 CSA;NS;CSS Bonefish
 CSA;NS;CSS Alligator
@@ -13644,6 +13881,7 @@ CSA;NS;CSS Thresher
 CSA;NS;CSS Seal
 CSA;NS;CSS Lionfish
 CSA;NS;CSS Tautog
+CSA;NS;CSS Flathead
 CSA;NS;CSS Gato
 CSA;NS;CSS Stingray
 CSA;NS;CSS Manta
@@ -18869,6 +19107,7 @@ ENG;Trp;No.196 Military Transport Group
 ENG;Trp;No.197 Military Transport Group
 ENG;Trp;No.198 Military Transport Group
 ENG;Trp;No.199 Military Transport Group
+ENG;Trp;No.200 Military Transport Group
 ENG;BB;HMS King George V
 ENG;BB;HMS Prince of Wales
 ENG;BB;HMS Duke of York
@@ -18880,7 +19119,6 @@ ENG;BB;HMS Conqueror
 ENG;BB;HMS Thunderer
 ENG;BB;HMS Vanguard
 ENG;BB;HMS King Richard I
-ENG;BB;HMS King William I
 ENG;BB;HMS Jellicoe
 ENG;BB;HMS Beatty
 ENG;BB;HMS St. George
@@ -18922,15 +19160,12 @@ ENG;BB;HMS Erin
 ENG;BB;HMS Canada
 ENG;BB;HMS Nelson
 ENG;BB;HMS Rodney
-ENG;BC;HMS King George III
-ENG;BC;HMS Frances Drake
-ENG;BC;HMS Lightning
-ENG;BC;HMS Heroic
 ENG;BC;HMS Invincible
-ENG;BC;HMS Incomparable
 ENG;BC;HMS Indomitable
 ENG;BC;HMS Inflexible
 ENG;BC;HMS Indefatigable
+ENG;BC;HMS King George III
+ENG;BC;HMS Queen Charlotte
 ENG;BC;HMS Liger
 ENG;BC;HMS Tigon
 ENG;BC;HMS Lion
@@ -18954,21 +19189,17 @@ ENG;CV;HMS Illustrious
 ENG;CV;HMS Victorious
 ENG;CV;HMS Greater Britannia
 ENG;CV;HMS Empire
-ENG;CV;HMS Executor
-ENG;CV;HMS Sovereign
+ENG;CV;HMS Endurance
 ENG;CV;HMS Formidable
 ENG;CV;HMS Indomitable
 ENG;CV;HMS Implacable
 ENG;CV;HMS Indefatigable
-ENG;CV;HMS Imperial Glory
 ENG;CV;HMS Unicorn
 ENG;CV;HMS Eagle
 ENG;CV;HMS Audacious
-ENG;CV;HMS Habbakuk
 ENG;CV;HMS Malta
 ENG;CV;HMS Gibraltar
 ENG;CV;HMS New Zealand
-ENG;CV;HMS Australia
 ENG;CV;HMS Africa
 ENG;CV;HMS Albion
 ENG;CV;HMS England
@@ -18980,13 +19211,6 @@ ENG;CV;HMS Centaur
 ENG;CV;HMS Hermes
 ENG;CV;HMS Invincible
 ENG;CV;HMS Argus
-ENG;CV;HMS Queen Elizabeth
-ENG;CV;HMS Duke of Edinburgh
-ENG;CV;HMS Prince of Wales
-ENG;CV;HMS Princess Royal
-ENG;CV;HMS Duke Of Kent
-ENG;CV;HMS Iron Duke
-ENG;CV;HMS Anson
 ENG;27;HMS Argus
 ENG;27;HMS Eagle
 ENG;27;HMS Hermes
@@ -19038,24 +19262,18 @@ ENG;27;HMS Pretoria Castle
 ENG;NS;HMS Dreadnought
 ENG;NS;HMS Valiant
 ENG;NS;HMS Warspite
-ENG;NS;HMS Winston Churchill
-ENG;NS;HMS Oswald Mosley
+ENG;NS;HMS Churchill
+ENG;NS;HMS Brunel
 ENG;NS;HMS Conqueror
 ENG;NS;HMS Valiant
 ENG;NS;HMS Poseidon
 ENG;NS;HMS Zeus
-ENG;NS;HMS Aries
-ENG;NS;HMS Athenia
-ENG;NS;HMS Thunderbolt
-ENG;NS;HMS Kronos
 ENG;NS;HMS Olympus
 ENG;NS;HMS Neptune
-ENG;NS;HMS Jupiter
 ENG;NS;HMS Odin
 ENG;NS;HMS Thor
 ENG;NS;HMS Asgard
 ENG;NS;HMS Mjolnir
-ENG;NS;HMS Titan
 ENG;NS;HMS Courageous
 ENG;NS;HMS Superb
 ENG;NS;HMS Swiftsure
@@ -19082,6 +19300,22 @@ ENG;NS;HMS Agincourt
 ENG;NS;HMS Achilles
 ENG;NS;HMS Ajax
 ENG;NS;HMS Audacity
+ENG;29;HMS Heroic
+ENG;29;HMS Determined
+ENG;29;HMS Incomparable
+ENG;29;HMS Sidon
+ENG;29;HMS Seawolf
+ENG;29;HMS Agamemnon
+ENG;29;HMS Crusader
+ENG;29;HMS Templar
+ENG;29;HMS Hospitaller
+ENG;29;HMS Thunderbolt
+ENG;29;HMS Olympus
+ENG;29;HMS Poseidon
+ENG;29;HMS Zeus
+ENG;29;HMS Aries
+ENG;29;HMS Athena
+ENG;29;HMS Lightning
 ENG;31;HMS Unicorn
 ENG;31;HMS Colossus
 ENG;31;HMS Glory
@@ -19103,9 +19337,7 @@ ENG;31;HMS Powerful
 ENG;31;HMS Hercules
 ENG;31;HMS Leviathan
 ENG;31;HMS Centaur
-ENG;31;HMS Crusader
-ENG;31;HMS Templar
-ENG;31;HMS Hospitaller
+ENG;31;HMS Albion
 ENG;31;HMS Bulwark
 ENG;31;HMS Arrogant
 ENG;31;HMS Monmouth
@@ -19123,9 +19355,6 @@ ENG;CA;HMS Essex
 ENG;CA;HMS Lancashire
 ENG;CA;HMS Wiltshire
 ENG;CA;HMS Cavendish
-ENG;CA;HMS Oxford
-ENG;CA;HMS Stamford Bridge
-ENG;CA;HMS Hastings
 ENG;CA;HMS Hawkins
 ENG;CA;HMS Raleigh
 ENG;CA;HMS Frobisher
@@ -19134,18 +19363,12 @@ ENG;CA;HMS Kent
 ENG;CA;HMS Berwick
 ENG;CA;HMS Cornwall
 ENG;CA;HMS Cumberland
-ENG;CA;HMS Fort William
-ENG;CA;HMS Dumfries
 ENG;CA;HMS Suffolk
-ENG;CA;HMS Canterbury
 ENG;CA;HMS London
 ENG;CA;HMS Devonshire
 ENG;CA;HMS Sussex
-ENG;CA;HMS Swansea
-ENG;CA;HMS Cumbria
 ENG;CA;HMS Shropshire
 ENG;CA;HMS Norfolk
-ENG;CA;HMS Falkirk
 ENG;CA;HMS Dorsetshire
 ENG;CA;HMS York
 ENG;CA;HMS Exeter
@@ -19267,6 +19490,125 @@ ENG;CL;HMS Amphion
 ENG;CL;HMS Phaeton
 ENG;CL;HMS Arethusa
 ENG;CL;HMS Galatea
+ENG;46;HMS Daring
+ENG;46;HMS Disdain
+ENG;46;HMS Danae
+ENG;46;HMS Diamond
+ENG;46;HMS Desire
+ENG;46;HMS Diana
+ENG;46;HMS Druid
+ENG;46;HMS Duchess
+ENG;46;HMS Claymore
+ENG;46;HMS Battleaxe
+ENG;46;HMS Longbow
+ENG;46;HMS Crossbow
+ENG;46;HMS Cutlass
+ENG;46;HMS Dagger
+ENG;46;HMS Tomahawk
+ENG;46;HMS Scorpion
+ENG;46;HMS Broadsword
+ENG;46;HMS Musket
+ENG;46;HMS Lance
+ENG;46;HMS Rapier
+ENG;46;HMS Dirk
+ENG;46;HMS Halberd
+ENG;46;HMS Spear
+ENG;46;HMS Pike
+ENG;46;HMS Shield
+ENG;46;HMS Poniard
+ENG;46;HMS Grenade
+ENG;46;HMS Rifle
+ENG;46;HMS Gladius
+ENG;46;HMS Javelin
+ENG;46;HMS Howitzer
+ENG;46;HMS Cannon
+ENG;46;HMS War Hammer
+ENG;46;HMS Culverin
+ENG;46;HMS Carronade
+ENG;46;HMS Petard
+ENG;46;HMS Dauntless
+ENG;46;HMS Excellent
+ENG;46;HMS Endeavour
+ENG;46;HMS Redemption
+ENG;46;HMS Defiance
+ENG;46;HMS Determination
+ENG;46;HMS Perseverance
+ENG;46;HMS Boadicea
+ENG;46;HMS Bruiser
+ENG;46;HMS Brilliant
+ENG;46;HMS Vengeful
+ENG;46;HMS Vendictive
+ENG;46;HMS Vendetta
+ENG;46;HMS Crusader
+ENG;46;HMS Hunter
+ENG;46;HMS Chaser
+ENG;46;HMS Pursuer
+ENG;46;HMS Puncher
+ENG;46;HMS Punisher
+ENG;46;HMS Boxer
+ENG;46;HMS Charger
+ENG;46;HMS Vigilante
+ENG;46;HMS Enforcer
+ENG;46;HMS Protector
+ENG;46;HMS Guardian
+ENG;46;HMS Vindicator
+ENG;46;HMS Swordsman
+ENG;46;HMS Raider
+ENG;46;HMS Templar
+ENG;46;HMS Justice
+ENG;46;HMS Nike
+ENG;46;HMS Thunderchild
+ENG;46;HMS Bulldog
+ENG;46;HMS Express
+ENG;46;HMS Javelin
+ENG;46;HMS Kimberley
+ENG;46;HMS Ladysmith
+ENG;46;HMS Poplar Grove
+ENG;46;HMS Bladensburg
+ENG;46;HMS Queenston Heights
+ENG;46;HMS Belmont
+ENG;47;HMS Defender
+ENG;47;HMS Protector
+ENG;47;HMS Guardian
+ENG;47;HMS Sentry
+ENG;47;HMS Lookout
+ENG;47;HMS Vanquisher
+ENG;47;HMS Valor
+ENG;47;HMS Vega
+ENG;47;HMS Victor
+ENG;47;HMS Vindictive
+ENG;47;HMS Ravager
+ENG;47;HMS Conflict
+ENG;47;HMS Charger
+ENG;47;HMS Teazer
+ENG;47;HMS Wizard
+ENG;47;HMS Cerberus
+ENG;47;HMS Gallant
+ENG;47;HMS Gauntlet
+ENG;47;HMS Guernsey
+ENG;47;HMS Greyhound
+ENG;47;HMS Grafton
+ENG;47;HMS Barfleur
+ENG;47;HMS Saintes
+ENG;47;HMS St. Kitts
+ENG;47;HMS Armada
+ENG;47;HMS Solebay
+ENG;47;HMS Camperdown
+ENG;47;HMS Cape Finisterre
+ENG;47;HMS Hougue
+ENG;47;HMS Lagos
+ENG;47;HMS Gabbard
+ENG;47;HMS Gravelines
+ENG;47;HMS Sluys
+ENG;47;HMS Cádiz
+ENG;47;HMS St. James
+ENG;47;HMS Vigo Bay
+ENG;47;HMS Aisne
+ENG;47;HMS Albuera
+ENG;47;HMS Corunna
+ENG;47;HMS Malplaquet
+ENG;47;HMS San Domingo
+ENG;47;HMS St. Lucia
 ENG;DD;Destroyer Division 1
 ENG;DD;Destroyer Division 2
 ENG;DD;Destroyer Division 3
@@ -22057,166 +22399,216 @@ FRA;Trp;7e Groupe de Transport Aérien
 FRA;Trp;8e Groupe de Transport Aérien
 FRA;Trp;9e Groupe de Transport Aérien
 FRA;Trp;10e Groupe de Transport Aérien
-FRA;BB;Richelieu
-FRA;BB;Jean-Bart
-FRA;BB;Clemenceau
-FRA;BB;Gascoigne
-FRA;BB;Condorcet
-FRA;BB;Danton
-FRA;BB;Diderot
-FRA;BB;Mirabeau
-FRA;BB;Vergniaud
-FRA;BB;Voltaire
-FRA;BB;Courbet
-FRA;BB;France
-FRA;BB;Napoleon I
-FRA;BB;Paris
-FRA;BB;Bretagne
-FRA;BB;Lorraine
-FRA;BB;Provence
-FRA;BB;Normandie
-FRA;BB;Flandre
-FRA;BB;Languedoc
-FRA;BB;Duquesne
-FRA;BB;Lille
-FRA;BB;Lyon
-FRA;BB;Tourville
-FRA;BC;Strasbourg
-FRA;BC;Gille
-FRA;BC;Durand-Viel
-FRA;BC;Dunkerque
-FRA;CV;Joseph Joffre
-FRA;CV;Painlevé
-FRA;CV;Dixmude
-FRA;CV;Arromanches
-FRA;CV;Lafayette
-FRA;CV;Bois-Belleau
-FRA;CV;Georges Clemenceau
-FRA;CV;Ferdinand Foch
-FRA;CV;Charlemagne
-FRA;CV;Jeanne-d'Arc
-FRA;CV;Roi Philippe IV
-FRA;CV;Béarn
-FRA;CV;Foudre
-FRA;CV;Commandant-Teste
-FRA;27;Liberte
-FRA;27;Lancier
-FRA;27;Epeiste
-FRA;27;Lafayette
-FRA;27;Hache de Guerre
-FRA;27;Piqueman
-FRA;27;Chasseur
-FRA;27;Tireur d'Dlite
-FRA;27;Defenseur
-FRA;27;Protecteur
-FRA;27;Attaquant
-FRA;27;Cavalier
-FRA;27;Gardien
-FRA;27;Boxeur
-FRA;27;Perforateur
-FRA;27;Croise
-FRA;27;Templier
-FRA;27;Roi
-FRA;27;Reine
-FRA;27;Regle
-FRA;27;Empereur
-FRA;27;Imperatrice
-FRA;27;Sagittaire
-FRA;NS;Surcouf
-FRA;NS;Narval
-FRA;NS;Marsouin
-FRA;NS;Dauphin
-FRA;NS;Requin
-FRA;NS;Espadon
-FRA;NS;Morse
-FRA;NS;Arethuse
-FRA;NS;Argonaute
-FRA;NS;Amazone
-FRA;NS;Ariane
-FRA;NS;Daphne
-FRA;NS;Diane
-FRA;NS;Doris
-FRA;NS;Flore
-FRA;NS;Galatee
-FRA;NS;Minerve
-FRA;NS;Junon
-FRA;NS;Venus
-FRA;NS;Psyche
-FRA;NS;Sirene
-FRA;NS;Rubis
-FRA;NS;Saphir
-FRA;NS;Casabianca
-FRA;NS;Émeraude
-FRA;NS;Perle
-FRA;NS;Amethyste 
-FRA;NS;Diamant
-FRA;NS;Turquoise
-FRA;NS;Bourgogne
-FRA;NS;Provence
-FRA;NS;Bretagne
-FRA;31;Corbeau
-FRA;31;Aigle
-FRA;31;Faucon
-FRA;31;Buse
-FRA;31;Vautour
-FRA;31;Raphael Sorel
-FRA;31;Jules Vedrines
-FRA;31;Hubert Latham
-FRA;31;Louis Bleriot
-FRA;31;Henri Farman
-FRA;31;Armand Deperdussin
-FRA;31;Louis Paulhan
-FRA;CA;St-Louis
-FRA;CA;Dupuy-de-Lome
-FRA;CA;Amiral-Charner
-FRA;CA;Bruix
-FRA;CA;Chanzy
-FRA;CA;Latouche-Tréville
-FRA;CA;Pothuau
-FRA;CA;Dupetit-Thouars
-FRA;CA;Gueydon
-FRA;CA;Montcalm
-FRA;CA;Desaix
-FRA;CA;Dupleix
-FRA;CA;Kléber
-FRA;CA;Amiral-Aube
-FRA;CA;Condé
-FRA;CA;Gloire
-FRA;CA;Marseillaise
-FRA;CA;Léon-Gambetta
-FRA;CA;Jules-Ferry
-FRA;CA;Victor-Hugo
-FRA;CA;Jules-Michelet
-FRA;CA;Ernest-Renan
-FRA;CA;Edgar-Quinet
-FRA;CA;Waldeck-Rousseau
-FRA;CL;Marseillaise
-FRA;CL;Gloire
-FRA;CL;Montcalm
-FRA;CL;Georges-Leygues
-FRA;CL;De-Grasse
-FRA;CL;Chateaurenault
-FRA;CL;Guichen
-FRA;CL;Colbert
-FRA;CL;Colmar
-FRA;CL;Mulhouse
-FRA;CL;Strasbourg
-FRA;CL;Metz
-FRA;CL;Thionville
-FRA;CL;Duguay Trouin
-FRA;CL;Lamotte-Picquet
-FRA;CL;Primaguet
-FRA;CL;Duquesne
-FRA;CL;Tourville
-FRA;CL;Suffren
-FRA;CL;Marne
-FRA;CL;Dupleix
-FRA;CL;Pluton
-FRA;CL;Merveilleux
-FRA;CL;Algerié
-FRA;CL;Émile Bertin
-FRA;CL;La Galissonnière
-FRA;CL;Jean-de-Vienne
+FRA;BB;NMF Roi Louis IX
+FRA;BB;NMF Roi Clovis I
+FRA;BB;NMF Roi Louis XVI
+FRA;BB;NMF Roi Philip IV
+FRA;BB;NMF Roi Louis VIII
+FRA;BB;NMF Roi Philip V
+FRA;BB;NMF Richelieu
+FRA;BB;NMF Jean-Bart
+FRA;BB;NMF Louis XII
+FRA;BB;NMF Déroulède
+FRA;BB;NMF Gascoigne
+FRA;BB;NMF Condorcet
+FRA;BB;NMF Danton
+FRA;BB;NMF Diderot
+FRA;BB;NMF Mirabeau
+FRA;BB;NMF Vergniaud
+FRA;BB;NMF Roi Louis IX
+FRA;BB;NMF Roi Charles VI
+FRA;BB;NMF Courbet
+FRA;BB;NMF France
+FRA;BB;NMF Pétain
+FRA;BB;NMF Paris
+FRA;BB;NMF Bretagne
+FRA;BB;NMF Lorraine
+FRA;BB;NMF Provence
+FRA;BB;NMF Normandie
+FRA;BB;NMF Flandre
+FRA;BB;NMF Languedoc
+FRA;BB;NMF Duquesne
+FRA;BB;NMF Lille
+FRA;BB;NMF Lyon
+FRA;BB;NMF Tourville
+FRA;BC;NMF Jeanne-d'Arc
+FRA;BC;NMF Adrien l'Hermite
+FRA;BC;NMF Gloire
+FRA;BC;NMF Francisca
+FRA;BC;NMF De-Grasse
+FRA;BC;NMF Durand-Viel
+FRA;BC;NMF Dunkerque
+FRA;BC;NMF De Winter
+FRA;BC;NMF Bergeret
+FRA;BC;NMF Baudoin
+FRA;BC;NMF Lahalle
+FRA;BC;NMF Gravière
+FRA;CV;NMF Charlemagne
+FRA;CV;NMF Nungesser
+FRA;CV;NMF Guynemer
+FRA;CV;NMF Fonck
+FRA;CV;NMF Joffre
+FRA;CV;NMF Painlevé
+FRA;CV;NMF Dixmude
+FRA;CV;NMF Arromanches
+FRA;CV;NMF Lafayette
+FRA;CV;NMF Bois-Belleau
+FRA;CV;NMF Déroulède
+FRA;CV;NMF Foch
+FRA;CV;NMF Jeanne-d'Arc
+FRA;CV;NMF Verdun
+FRA;CV;NMF Béarn
+FRA;CV;NMF Foudre
+FRA;CV;NMF Commandant-Teste
+FRA;27;NMF Aigle
+FRA;27;NMF Faucon
+FRA;27;NMF Corbeau
+FRA;27;NMF Chouette
+FRA;27;NMF Vautour
+FRA;27;NMF Buse
+FRA;27;NMF Rouge-Gorge
+FRA;27;NMF Moineau
+FRA;27;NMF Perdrix
+FRA;27;NMF Faisane
+FRA;27;NMF Oie
+FRA;27;NMF Le Coutil
+FRA;27;NMF Eider
+FRA;27;NMF Flamant
+FRA;27;NMF Pélican
+FRA;27;NMF Guêpe
+FRA;27;NMF Frelon
+FRA;31;NMF Béarn
+FRA;31;NMF Dixmude
+FRA;31;NMF Commandant-Teste
+FRA;31;NMF Triomphante
+FRA;31;NMF Représailles
+FRA;31;NMF La Revanche
+FRA;31;NMF Vengeur
+FRA;31;NMF Auger
+FRA;31;NMF Chavannes
+FRA;31;NMF Moissinac
+FRA;31;NMF Santelli
+FRA;31;NMF Costes
+FRA;31;NMF Gerard
+FRA;CA;NMF St-Louis
+FRA;CA;NMF Dupuy-de-Lome
+FRA;CA;NMF Amiral-Charner
+FRA;CA;NMF Bruix
+FRA;CA;NMF Chanzy
+FRA;CA;NMF Latouche-Tréville
+FRA;CA;NMF Pothuau
+FRA;CA;NMF Dupetit-Thouars
+FRA;CA;NMF Gueydon
+FRA;CA;NMF Montcalm
+FRA;CA;NMF Desaix
+FRA;CA;NMF Dupleix
+FRA;CA;NMF Kléber
+FRA;CA;NMF Amiral-Aube
+FRA;CA;NMF Condé
+FRA;CA;NMF Gloire
+FRA;CA;NMF Marseillaise
+FRA;CA;NMF Léon-Gambetta
+FRA;CA;NMF Jules-Ferry
+FRA;CA;NMF Victor-Hugo
+FRA;CA;NMF Jules-Michelet
+FRA;CA;NMF Ernest-Renan
+FRA;CA;NMF Edgar-Quinet
+FRA;CA;NMF Waldeck-Rousseau
+FRA;CL;NMF Marseillaise
+FRA;CL;NMF Gloire
+FRA;CL;NMF Montcalm
+FRA;CL;NMF Georges-Leygues
+FRA;CL;NMF De-Grasse
+FRA;CL;NMF Chateaurenault
+FRA;CL;NMF Guichen
+FRA;CL;NMF Colbert
+FRA;CL;NMF Colmar
+FRA;CL;NMF Mulhouse
+FRA;CL;NMF Strasbourg
+FRA;CL;NMF Metz
+FRA;CL;NMF Thionville
+FRA;CL;NMF Duguay Trouin
+FRA;CL;NMF Lamotte-Picquet
+FRA;CL;NMF Primaguet
+FRA;CL;NMF Duquesne
+FRA;CL;NMF Tourville
+FRA;CL;NMF Suffren
+FRA;CL;NMF Foch
+FRA;CL;NMF Dupleix
+FRA;CL;NMF Pluton
+FRA;CL;NMF Jeanne-d'Arc
+FRA;CL;NMF Algerié
+FRA;CL;NMF Émile Bertin
+FRA;CL;NMF La Galissonnière
+FRA;CL;NMF Jean-de-Vienne
+FRA;29;NMF Surcouf
+FRA;29;NMF Grassin
+FRA;29;NMF Souville
+FRA;29;NMF Martel
+FRA;29;NMF Moulac
+FRA;29;NMF Aury
+FRA;29;NMF Volta
+FRA;29;NMF Kraken
+FRA;29;NMF Hydre
+FRA;29;NMF Argonaute
+FRA;29;NMF Daphné
+FRA;29;NMF Diane
+FRA;29;NMF Casabianca
+FRA;29;NMF Vengeur
+FRA;29;NMF Morse
+FRA;29;NMF Dauphine
+FRA;NS;NMF Surcouf
+FRA;NS;NMF Redoutable
+FRA;NS;NMF Effroyable
+FRA;NS;NMF Indomptable
+FRA;NS;NMF Tonnant
+FRA;NS;NMF Rubis
+FRA;NS;NMF Saphir 
+FRA;NS;NMF Émeraude 
+FRA;NS;NMF Améthyste
+FRA;NS;NMF Perle 
+FRA;NS;NMF Turquoise
+FRA;NS;NMF Diamant
+FRA;NS;NMF Suffren
+FRA;NS;NMF Duguay-Trouin
+FRA;NS;NMF Tourville
+FRA;NS;NMF De-Grasse
+FRA;NS;NMF Casabianca
+FRA;NS;NMF Bourgogne
+FRA;NS;NMF Provence
+FRA;NS;NMF Bretagne
+FRA;46;NMF Suffren
+FRA;46;NMF Duquesne
+FRA;46;NMF Duguay-Trouin
+FRA;46;NMF La Fayette
+FRA;46;NMF Guépratte
+FRA;46;NMF Jauréguiberry
+FRA;46;NMF Aconit
+FRA;46;NMF Fleuret
+FRA;46;NMF Massue
+FRA;46;NMF Hache
+FRA;46;NMF Obusier
+FRA;46;NMF Tromblon
+FRA;46;NMF Stylet
+FRA;46;NMF Cognée
+FRA;46;NMF Mortier
+FRA;46;NMF Trident
+FRA;46;NMF Poignard
+FRA;46;NMF Glaive
+FRA;46;NMF Hussard
+FRA;46;NMF Spahi
+FRA;46;NMF Tirailleur
+FRA;46;NMF Voltigeur
+FRA;46;NMF Chasseur
+FRA;46;NMF Cavalier
+FRA;46;NMF Actée
+FRA;46;NMF Bouclier
+FRA;46;NMF Boutefeu
+FRA;46;NMF Capitaine Mehl
+FRA;46;NMF Cimeterre
+FRA;46;NMF Commandant Bory
+FRA;46;NMF Commandant Rivière
+FRA;46;NMF Dague
 FRA;DD;1ère Flottille de Contre-torpilleurs
 FRA;DD;2e Flottille de Contre-torpilleurs
 FRA;DD;3e Flottille de Contre-torpilleurs
@@ -25768,6 +26160,93 @@ GER;NS;U-2097
 GER;NS;U-2098
 GER;NS;U-2099
 GER;NS;U-2100
+GER;46;SMS Günther Lütjens
+GER;46;SMS Werner Mölders
+GER;46;SMS Schleswig-Holstein
+GER;46;SMS Leberecht Maas
+GER;46;SMS Georg Thiele
+GER;46;SMS Max Schultz
+GER;46;SMS Richard Beitzen
+GER;46;SMS Gunther Stark
+GER;46;SMS Schleswig-Holstein
+GER;46;SMS Paul Jacobi
+GER;46;SMS Theodor Riedel
+GER;46;SMS Hermann Schoemann
+GER;46;SMS Bruno Heinemann
+GER;46;SMS Wolfgang Zenker
+GER;46;SMS Hans Lody
+GER;46;SMS Bernd von Arnim
+GER;46;SMS Erich Koellner
+GER;46;SMS Hans Gruber
+GER;46;SMS Friedrich Ihn
+GER;46;SMS Erich Steinbrinck
+GER;46;SMS Friedrich Eckoldt
+GER;46;SMS Diether von Roeder
+GER;46;SMS Hans Lüdemann
+GER;46;SMS Hermann Künne
+GER;46;SMS Karl Galster
+GER;46;SMS Wilhelm Heidkamp
+GER;46;SMS Anton Schmitt
+GER;46;SMS Simon Gruber
+GER;46;SMS Gustav von Hoffman
+GER;46;SMS Gustav Bachmann
+GER;46;SMS Paul Behncken
+GER;46;SMS Georg Alexander von Müller
+GER;46;SMS Ludwig von Schröder
+GER;46;SMS William Michaelis
+GER;46;SMS Franz von Hipper
+GER;46;SMS Maximilian von Spee
+GER;46;SMS Reinhard Scheer
+GER;46;SMS Wolfgang Zenker
+GER;46;SMS Henning von Holtzendorff
+GER;46;SMS Bayern
+GER;46;SMS Kiel
+GER;46;SMS Hamburg
+GER;46;SMS Hessen
+GER;46;SMS Königsberg
+GER;46;SMS Bremen
+GER;46;SMS Wilhelmshaven
+GER;46;SMS Rostock
+GER;47;SMS Posten
+GER;47;SMS Wächter
+GER;47;SMS Schutz
+GER;47;SMS Schwert
+GER;47;SMS Schild
+GER;47;SMS Speer
+GER;47;SMS Lanze
+GER;47;SMS Hellebarde
+GER;47;SMS Streitaxt
+GER;47;SMS Entermesser
+GER;47;SMS Kriegshammer
+GER;47;SMS Armbrust
+GER;47;SMS Langbogen
+GER;47;SMS Trebuchet
+GER;47;SMS Keule
+GER;47;SMS Muskete
+GER;47;SMS Gewehr
+GER;47;SMS Bajonett
+GER;47;SMS Kanone
+GER;47;SMS Granatwerfer
+GER;47;SMS Boxerin
+GER;47;SMS Bluter
+GER;47;SMS Jäger
+GER;47;SMS Verfolger
+GER;47;SMS Heroisch
+GER;47;SMS Heldenhaft
+GER;47;SMS Heldenmütig
+GER;47;SMS Spartanisch
+GER;47;SMS Leoniadas
+GER;47;SMS Scharfschütze
+GER;47;SMS Heckenschütze
+GER;47;SMS Schwarzer Ritter
+GER;47;SMS Bogenschütze
+GER;47;SMS Schwertkämpfer
+GER;47;SMS Grenadier
+GER;47;SMS Verteidiger
+GER;47;SMS Achtung
+GER;47;SMS Zänker
+GER;47;SMS Kaperschiff
+GER;47;SMS Schütze
 GER;DD;1. Zerstörergeschwader
 GER;DD;2. Zerstörergeschwader
 GER;DD;3. Zerstörergeschwader
@@ -25962,125 +26441,6 @@ GER;SS;97. Unterseebootsflottille
 GER;SS;98. Unterseebootsflottille
 GER;SS;99. Unterseebootsflottille
 GER;SS;100. Unterseebootsflottille
-GER;29;U-222
-GER;29;U-333
-GER;29;U-444
-GER;29;U-555
-GER;29;U-666
-GER;29;U-777
-GER;29;U-888
-GER;29;U-999
-GER;29;U-1000
-GER;29;U-1100
-GER;29;U-1200
-GER;29;U-1300
-GER;29;U-1400
-GER;29;U-1500
-GER;29;U-1600
-GER;29;U-1700
-GER;29;U-1800
-GER;29;U-1900
-GER;29;U-2000
-GER;29;U-2001
-GER;29;U-2002
-GER;29;U-2003
-GER;29;U-2004
-GER;29;U-2005
-GER;29;U-2006
-GER;29;U-2007
-GER;29;U-2008
-GER;29;U-2009
-GER;29;U-2010
-GER;29;U-2011
-GER;29;U-2012
-GER;29;U-2013
-GER;29;U-2014
-GER;29;U-2015
-GER;29;U-2016
-GER;29;U-2017
-GER;29;U-2018
-GER;29;U-2019
-GER;29;U-2020
-GER;29;U-2021
-GER;29;U-2022
-GER;29;U-2023
-GER;29;U-2024
-GER;29;U-2025
-GER;29;U-2026
-GER;29;U-2027
-GER;29;U-2028
-GER;29;U-2029
-GER;29;U-2030
-GER;29;U-2031
-GER;29;U-2032
-GER;29;U-2033
-GER;29;U-2034
-GER;29;U-2035
-GER;29;U-2036
-GER;29;U-2037
-GER;29;U-2038
-GER;29;U-2039
-GER;29;U-2040
-GER;29;U-2041
-GER;29;U-2042
-GER;29;U-2043
-GER;29;U-2044
-GER;29;U-2045
-GER;29;U-2046
-GER;29;U-2047
-GER;29;U-2048
-GER;29;U-2049
-GER;29;U-2050
-GER;29;U-2051
-GER;29;U-2052
-GER;29;U-2053
-GER;29;U-2054
-GER;29;U-2055
-GER;29;U-2056
-GER;29;U-2057
-GER;29;U-2058
-GER;29;U-2059
-GER;29;U-2060
-GER;29;U-2061
-GER;29;U-2062
-GER;29;U-2063
-GER;29;U-2064
-GER;29;U-2065
-GER;29;U-2066
-GER;29;U-2067
-GER;29;U-2068
-GER;29;U-2069
-GER;29;U-2070
-GER;29;U-2071
-GER;29;U-2072
-GER;29;U-2073
-GER;29;U-2074
-GER;29;U-2075
-GER;29;U-2076
-GER;29;U-2077
-GER;29;U-2078
-GER;29;U-2079
-GER;29;U-2080
-GER;29;U-2081
-GER;29;U-2082
-GER;29;U-2083
-GER;29;U-2084
-GER;29;U-2085
-GER;29;U-2086
-GER;29;U-2087
-GER;29;U-2088
-GER;29;U-2089
-GER;29;U-2090
-GER;29;U-2091
-GER;29;U-2092
-GER;29;U-2093
-GER;29;U-2094
-GER;29;U-2095
-GER;29;U-2096
-GER;29;U-2097
-GER;29;U-2098
-GER;29;U-2099
-GER;29;U-2100
 GER;TP;1. Truppentransporterflottille
 GER;TP;2. Truppentransporterflottille
 GER;TP;3. Truppentransporterflottille
@@ -31586,6 +31946,12 @@ ITA;BB;RN Italia
 ITA;BB;RN Vittorio Veneto
 ITA;BB;RN Roma
 ITA;BB;RN Impero
+ITA;BB;RN Sicilia
+ITA;BB;RN Re Vittorio Emanuele II
+ITA;BB;RN Re Umberto I
+ITA;BB;RN Carlo Magno
+ITA;BB;RN Guglielmo II di Sicilia
+ITA;BB;RN Giacomo il Giusto
 ITA;BB;RN Francesco Caracciolo
 ITA;BB;RN Cristoforo Colombo
 ITA;BB;RN Marcantonio Colonna
@@ -31601,46 +31967,105 @@ ITA;BC;RN La Spezia
 ITA;BC;RN Genova
 ITA;BC;RN Milano
 ITA;BC;RN Venezia
+ITA;BC;RN Messina
+ITA;BC;RN Siracusa
+ITA;BC;RN Palermo
+ITA;BC;RN Verona
+ITA;BC;RN Bologna
+ITA;BC;RN Naples
+ITA;BC;RN Firenze
+ITA;BC;RN Ravenna
+ITA;BC;RN Trieste
+ITA;BC;RN Bari
+ITA;BC;RN Turin
+ITA;CV;RN Vespasiano
+ITA;CV;RN Augusto
+ITA;CV;RN Traiano
+ITA;CV;RN Costantino
+ITA;CV;RN Testardo
+ITA;CV;RN Maggioriano
+ITA;CV;RN Caracalla
+ITA;CV;RN Settimio Severo
+ITA;CV;RN Domiziano
+ITA;CV;RN Nervo
+ITA;CV;RN Adriano
+ITA;CV;RN Pio
+ITA;CV;RN Aurelio
+ITA;CV;RN Sagittario
 ITA;CV;RN Aquila
 ITA;CV;RN Sparviero
 ITA;CV;RN Europa
 ITA;CV;RN Falco
+ITA;CV;RN Gufo
 ITA;CV;RN Sagittario
-ITA;CV;RN Traiano
-ITA;CV;RN Vespasiano
-ITA;CV;RN Adriano
-ITA;CV;RN Giulio Cesare
-ITA;CV;RN Ottaviano
-ITA;CV;RN Costantino
-ITA;CV;RN Valente
-ITA;27;RN Difensore
-ITA;27;RN Protettore
-ITA;27;RN Cacciatore
+ITA;27;RN Aquila
+ITA;27;RN Sparviero
+ITA;27;RN Corvo
+ITA;27;RN Gufo
+ITA;27;RN Pellicano
+ITA;27;RN Avvoltoio
+ITA;27;RN Poiana
+ITA;27;RN Merla
 ITA;27;RN Spadaccino
-ITA;27;RN Arciere
+ITA;27;RN Perforatore
+ITA;27;RN Crociato
 ITA;27;RN Cacciatore
-ITA;27;RN Pugile
-ITA;27;RN Picchiere
+ITA;27;RN Eroico
+ITA;27;RN Redenzione
 ITA;27;RN Lanciere
-ITA;27;RN Custode
-ITA;27;RN Determinazione
-ITA;27;RN Risoluzione
-ITA;27;RN Mazzer
-ITA;27;RN Gladiatore
-ITA;31;RN Guerriero
-ITA;31;RN Crociato
-ITA;31;RN Templare
-ITA;31;RN Centurione
-ITA;31;RN Papias
+ITA;27;RN Predatore
+ITA;27;RN Arciere
+ITA;27;RN Cecchino
+ITA;27;RN Giustizia
+ITA;31;RN Lucius Regillus
 ITA;31;RN Marcius Agrippa
-ITA;31;RN Cornelius Fuscus
-ITA;31;RN Lucius Tarius Rufus
+ITA;31;RN Plinio il Vecchio
 ITA;31;RN Marcus Lurius
+ITA;31;RN Gaius Duilius
+ITA;31;RN Cornelius Fuscus
+ITA;31;RN Bonosus
+ITA;31;RN Gaius Duilius
+ITA;31;RN Claudius Apollinaris
+ITA;31;RN Sextus Pompey
+ITA;31;RN Aquila
+ITA;31;RN Sparviero
+ITA;31;RN Europa
+ITA;31;RN Sagittario
+ITA;31;RN Gufo
+ITA;31;RN Corvo
+ITA;31;RN Pellicano
+ITA;31;RN Avvoltoio
+ITA;31;RN Poiana
+ITA;31;RN Merla
 ITA;CA;RN Marco Polo
 ITA;CA;RN Carlo Alberto
 ITA;CA;RN Vettor Pisani
 ITA;CA;RN Francesco Ferruccio
 ITA;CA;RN Giuseppe Garibaldi
+ITA;CA;RN Amerigo Vespucci
+ITA;CA;RN Conte Verde
+ITA;CA;RN Vittorio Bottego
+ITA;CA;RN Attilio Gatti
+ITA;CA;RN Luigi D'Albertis
+ITA;CA;RN Formidabile
+ITA;CA;RN Conquistatore
+ITA;CA;RN Parma
+ITA;CA;RN Etna
+ITA;CA;RN Vesuvio
+ITA;CA;RN Stromboli
+ITA;CA;RN Ettore Fieramosca
+ITA;CA;RN Dogali
+ITA;CA;RN Piemonte
+ITA;CA;RN Umbria
+ITA;CA;RN Lombardia
+ITA;CA;RN Elba
+ITA;CA;RN Liguria
+ITA;CA;RN Puglia
+ITA;CA;RN Liguria
+ITA;CA;RN Calabria
+ITA;CA;RN Libia
+ITA;CA;RN Nino Bixio
+ITA;CA;RN Quarto
 ITA;CA;RN Varese
 ITA;CA;RN Pisa
 ITA;CA;RN Amalfi
@@ -31653,6 +32078,8 @@ ITA;CA;RN Gorizia
 ITA;CA;RN Pola
 ITA;CA;RN Zara
 ITA;CA;RN Bolzano
+ITA;CA;RN Campania
+ITA;CA;RN Basilicata
 ITA;CL;RN Duca degli Abruzzi
 ITA;CL;RN Giuseppe Garibaldi
 ITA;CL;RN Costanzo Ciano
@@ -31662,6 +32089,17 @@ ITA;CL;RN Caio Mario
 ITA;CL;RN Claudio Druso
 ITA;CL;RN Claudio Tiberio
 ITA;CL;RN Cornelio Silla
+ITA;CL;RN Pietro Micca
+ITA;CL;RN Tripoli
+ITA;CL;RN Goito
+ITA;CL;RN Monzambano
+ITA;CL;RN Montebello
+ITA;CL;RN Confienza
+ITA;CL;RN Folgore
+ITA;CL;RN Saetta
+ITA;CL;RN Caio Mario
+ITA;CL;RN Claudio Druso
+ITA;CL;RN Claudio Tiberio
 ITA;CL;RN Giulio Germanico
 ITA;CL;RN Ottaviano Augusto
 ITA;CL;RN Paolo Emilio
@@ -31669,6 +32107,26 @@ ITA;CL;RN Pompeo Magno
 ITA;CL;RN Scipione Africano
 ITA;CL;RN Ulpio Traiano
 ITA;CL;RN Vipsiano Agrippa
+ITA;CL;RN Partenope
+ITA;CL;RN Minerva
+ITA;CL;RN Euridice
+ITA;CL;RN Urania
+ITA;CL;RN Iride
+ITA;CL;RN Aretusa
+ITA;CL;RN Caprera
+ITA;CL;RN Calatafimi
+ITA;CL;RN Agordat
+ITA;CL;RN Coatit
+ITA;CL;RN Alberto da Giussano
+ITA;CL;RN Alberico da Barbiano
+ITA;CL;RN Bartolomeo Colleoni
+ITA;CL;RN Giovanni dalle Bande Nere
+ITA;CL;RN Luigi Cardorna
+ITA;CL;RN Armando Diaz
+ITA;CL;RN Raimondo Montecuccoli
+ITA;CL;RN Muzio Attendolo
+ITA;CL;RN Duca d'Aosta
+ITA;CL;RN Eugenio di Savoia
 ITA;CL;RN Etna
 ITA;CL;RN Vesuvio
 ITA;CL;RN Elba
@@ -31687,16 +32145,6 @@ ITA;CL;RN Marsala
 ITA;CL;RN Brindisi
 ITA;CL;RN Ancona
 ITA;CL;RN Bari
-ITA;CL;RN Alberto da Giussano
-ITA;CL;RN Alberico da Barbiano
-ITA;CL;RN Bartolomeo Colleoni
-ITA;CL;RN Giovanni dalle Bande Nere
-ITA;CL;RN Luigi Cardorna
-ITA;CL;RN Armando Diaz
-ITA;CL;RN Raimondo Montecuccoli
-ITA;CL;RN Muzio Attendolo
-ITA;CL;RN Duca d'Aosta
-ITA;CL;RN Eugenio di Savoia
 ITA;DD;1a Flottiglia Torpediniere
 ITA;DD;2a Flottiglia Torpediniere
 ITA;DD;3a Flottiglia Torpediniere
@@ -32014,6 +32462,24 @@ ITA;TP;97o Squadrone Trasporti
 ITA;TP;98o Squadrone Trasporti
 ITA;TP;99o Squadrone Trasporti
 ITA;TP;100o Squadrone Trasporti
+ITA;NS;RN Argonauta
+ITA;NS;RN Medusa
+ITA;NS;RN Nettuno
+ITA;NS;RN Scirè
+ITA;NS;RN Marte
+ITA;NS;RN Giove
+ITA;NS;RN Jalea
+ITA;NS;RN Serpente
+ITA;NS;RN Barbarigo
+ITA;NS;RN Marcello
+ITA;NS;RN Glauco
+ITA;NS;RN Otaria
+ITA;NS;RN Argo
+ITA;NS;RN Velella
+ITA;NS;RN Alpino Bagnolini
+ITA;NS;RN Reginaldo Giuliani
+ITA;NS;RN Primo Longobardo
+ITA;NS;RN Salvatore Pelosi
 JOR;HQ;1st Jordanian Army
 JOR;HQ;2nd Jordanian Army
 JOR;HQ;3rd Jordanian Army
@@ -33195,7 +33661,6 @@ JAP;BC;IJN Hiei
 JAP;BC;IJN Haruna
 JAP;BC;IJN Kirishima
 JAP;BC;IJN Amagi
-JAP;BC;IJN Kanto
 JAP;BC;IJN Akagi
 JAP;BC;IJN Atago
 JAP;BC;IJN Takao
@@ -33210,7 +33675,6 @@ JAP;CV;IJN Hiyo
 JAP;CV;IJN Taiho
 JAP;CV;IJN Kiryu
 JAP;CV;IJN Unryu
-JAP;CV;IJN Kokuryu
 JAP;CV;IJN Amagi
 JAP;CV;IJN Katsuragi
 JAP;CV;IJN Kasagi
@@ -33219,8 +33683,6 @@ JAP;CV;IJN Ikoma
 JAP;CV;IJN Shinano
 JAP;CV;IJN Hosho
 JAP;CV;IJN Ryujo
-JAP;CV;IJN Meiji
-JAP;CV;IJN Taisho
 JAP;CV;IJN Showa
 JAP;CV;IJN Chitose
 JAP;CV;IJN Chiyoda
@@ -33240,15 +33702,46 @@ JAP;27;IJN Chuyo
 JAP;27;IJN Kaiyo
 JAP;27;IJN Shinyo
 JAP;27;IJN Kobayashi Maru
+JAP;27;IJN Kagayaki Maru
 JAP;27;IJN Shimane Maru
 JAP;27;IJN Otakisan Maru
 JAP;27;IJN Daiju Maru
 JAP;27;IJN Taisha Maru
-JAP;27;IJN Asuka Maru
-JAP;27;IJN Tokai Maru
-JAP;27;IJN Yuriko Maru
-JAP;27;IJN Noshiro Maru
-JAP;27;IJN Nichioh Maru
+JAP;27;IJN Komorebi Maru
+JAP;29;I-400
+JAP;29;I-401
+JAP;29;I-402
+JAP;29;I-403
+JAP;29;I-404
+JAP;29;I-405
+JAP;29;I-406
+JAP;29;I-407
+JAP;29;I-408
+JAP;29;I-409
+JAP;29;I-410
+JAP;29;I-411
+JAP;29;I-412
+JAP;29;I-413
+JAP;29;I-414
+JAP;29;I-415
+JAP;29;I-416
+JAP;29;I-417
+JAP;29;I-419
+JAP;29;I-420
+JAP;29;I-421
+JAP;29;I-422
+JAP;29;I-423
+JAP;29;I-424
+JAP;29;I-425
+JAP;29;I-426
+JAP;29;I-427
+JAP;29;I-428
+JAP;29;I-429
+JAP;29;I-430
+JAP;NS;I-1
+JAP;NS;I-2
+JAP;NS;I-3
+JAP;NS;I-4
 JAP;NS;I-5
 JAP;NS;I-6
 JAP;NS;I-7
@@ -33294,8 +33787,8 @@ JAP;NS;I-402
 JAP;NS;I-403
 JAP;NS;I-404
 JAP;NS;I-405
-JAP;NS;I-15
-JAP;NS;I-1
+JAP;NS;I-406
+JAP;NS;I-407
 JAP;31;IJN Ryujo
 JAP;31;IJN Zuiho
 JAP;31;IJN Shoho
@@ -33303,12 +33796,9 @@ JAP;31;IJN Ryuho
 JAP;31;IJN Chitose
 JAP;31;IJN Chiyoda
 JAP;31;IJN Ibuki
-JAP;31;IJN Togo
-JAP;31;IJN Tsushima
 JAP;31;IJN Ryu
 JAP;31;IJN Katana
 JAP;31;IJN Hayabusa
-JAP;31;IJN Mirai
 JAP;31;IJN Taiyo
 JAP;31;IJN Unyo
 JAP;31;IJN Chuyo
@@ -33318,31 +33808,21 @@ JAP;CA;IJN Chikuma
 JAP;CA;IJN Furutaka
 JAP;CA;IJN Kako
 JAP;CA;IJN Aoba
-JAP;CA;IJN Tekari
 JAP;CA;IJN Kinugasa
 JAP;CA;IJN Nachi
-JAP;CA;IJN Asahi
 JAP;CA;IJN Haguro
-JAP;CA;IJN Matsuda
 JAP;CA;IJN Myoko
 JAP;CA;IJN Ashigara
 JAP;CA;IJN Takao
 JAP;CA;IJN Atago
 JAP;CA;IJN Maya
+JAP;CA;IJN Chokai
 JAP;CA;IJN Mishima
 JAP;CA;IJN Kazama
-JAP;CA;IJN Fuji
-JAP;CA;IJN Azumaya
-JAP;CA;IJN Yake
-JAP;CA;IJN Tokyo
-JAP;CA;IJN Yokohama
-JAP;CA;IJN Osaka
-JAP;CA;IJN Sapporo
-JAP;CA;IJN Warusawa
-JAP;CA;IJN Tengu
-JAP;CA;IJN Nyu
-JAP;CA;IJN Chokai
-JAP;CA;IJN Haku
+JAP;CA;IJN Ezo
+JAP;CA;IJN Osore
+JAP;CA;IJN Rishiri
+JAP;CA;IJN Taisei
 JAP;CA;IJN Aso
 JAP;CA;IJN Tsugaru
 JAP;CA;IJN Soya
@@ -33373,9 +33853,6 @@ JAP;CL;IJN Abukuma
 JAP;CL;IJN Naka
 JAP;CL;IJN Sendai
 JAP;CL;IJN Satsuma
-JAP;CL;IJN Ayase
-JAP;CL;IJN Minase
-JAP;CL;IJN Otonase
 JAP;CL;IJN Jintsu
 JAP;CL;IJN Kako
 JAP;CL;IJN Yubari
@@ -33387,10 +33864,89 @@ JAP;CL;IJN Kashii
 JAP;CL;IJN Kashiwara
 JAP;CL;IJN Ioshima
 JAP;CL;IJN Yasoshima
-JAP;CL;IJN Agano
-JAP;CL;IJN Noshiro
-JAP;CL;IJN Yahagi
-JAP;CL;IJN Sakawa
+JAP;46;IJN Amatsukaze
+JAP;46;IJN Tachikaze
+JAP;46;IJN Asakaze
+JAP;46;IJN Sawakaze
+JAP;46;IJN Hatakaze
+JAP;46;IJN Shimakaze
+JAP;46;IJN Shiratsuyu
+JAP;46;IJN Ayanami
+JAP;46;IJN Okinami
+JAP;46;IJN Onami 
+JAP;46;IJN Hokaze
+JAP;46;IJN Nara
+JAP;46;IJN Wakaba
+JAP;46;IJN Mutsuki
+JAP;46;IJN Kisaragi
+JAP;46;IJN Yayoi
+JAP;46;IJN Uzuki
+JAP;46;IJN Satsuki
+JAP;46;IJN Minazuki
+JAP;46;IJN Fumizuki
+JAP;46;IJN Nagatsuki
+JAP;46;IJN Hayate 
+JAP;46;IJN Nire
+JAP;46;IJN Oboro
+JAP;46;IJN Yudachi
+JAP;46;IJN Umikaze
+JAP;46;IJN Kawakaze
+JAP;46;IJN Kasumi
+JAP;46;IJN Mirai
+JAP;46;IJN Sakura
+JAP;46;IJN Tachibana
+JAP;46;IJN Kawakaze
+JAP;46;IJN Tanikaze
+JAP;46;IJN Shiranui 
+JAP;46;IJN Isokaze
+JAP;46;IJN Nowaki
+JAP;46;IJN Arashi
+JAP;46;IJN Hagikaze
+JAP;46;IJN Takanami
+JAP;46;IJN Kiyonami
+JAP;46;IJN Fujinami
+JAP;46;IJN Makinami
+JAP;46;IJN Yugumo
+JAP;46;IJN Hayasame
+JAP;46;IJN Wakashio 
+JAP;46;IJN Akishio
+JAP;46;IJN Kiyokaze
+JAP;47;IJN Amagiri
+JAP;47;IJN Kamikaze
+JAP;47;IJN Asakaze
+JAP;47;IJN Harukaze
+JAP;47;IJN Matsukaze
+JAP;47;IJN Hatakaze
+JAP;47;IJN Oite
+JAP;47;IJN Hayate
+JAP;47;IJN Asanagi
+JAP;47;IJN Yunagi
+JAP;47;IJN Yamagumo
+JAP;47;IJN Natsugumo
+JAP;47;IJN Kasumi
+JAP;47;IJN Asashio
+JAP;47;IJN Oshio
+JAP;47;IJN Michishio
+JAP;47;IJN Arashio
+JAP;47;IJN Minegumo
+JAP;47;IJN Arare
+JAP;47;IJN Momo
+JAP;47;IJN Matsu
+JAP;47;IJN Take
+JAP;47;IJN Ume
+JAP;47;IJN Kuwa
+JAP;47;IJN Kiri
+JAP;47;IJN Sugi
+JAP;47;IJN Maki
+JAP;47;IJN Momi
+JAP;47;IJN Kashi
+JAP;47;IJN Yaezakura
+JAP;47;IJN Kaya
+JAP;47;IJN Yadake
+JAP;47;IJN Madake
+JAP;47;IJN Yanagi
+JAP;47;IJN Tsubaki
+JAP;47;IJN Kaede
 JAP;DD;Dai 1 Kuchikutai
 JAP;DD;Dai 2 Kuchikutai
 JAP;DD;Dai 3 Kuchikutai
@@ -33691,60 +34247,6 @@ JAP;TP;Dai 97 Yusotai
 JAP;TP;Dai 98 Yusotai
 JAP;TP;Dai 99 Yusotai
 JAP;TP;Dai 100 Yusotai
-JAP;29;I-400
-JAP;29;I-401
-JAP;29;I-402
-JAP;29;I-403
-JAP;29;I-404
-JAP;29;I-405
-JAP;29;I-406
-JAP;29;I-407
-JAP;29;I-408
-JAP;29;I-408
-JAP;29;I-409
-JAP;29;I-410
-JAP;29;I-411
-JAP;29;I-412
-JAP;29;I-413
-JAP;29;I-414
-JAP;29;I-415
-JAP;29;I-416
-JAP;29;I-417
-JAP;29;I-418
-JAP;29;I-418
-JAP;29;I-419
-JAP;29;I-420
-JAP;29;I-1000
-JAP;29;I-1001
-JAP;29;I-1002
-JAP;29;I-1003
-JAP;29;I-1004
-JAP;29;I-1005
-JAP;29;I-1006
-JAP;29;I-1007
-JAP;29;I-1008
-JAP;29;I-1009
-JAP;29;I-1010
-JAP;29;I-1011
-JAP;29;I-1012
-JAP;29;I-1013
-JAP;29;I-1014
-JAP;29;I-1015
-JAP;29;I-1016
-JAP;29;I-1017
-JAP;29;I-1018
-JAP;29;I-1019
-JAP;29;I-1020
-JAP;29;I-1021
-JAP;29;I-1022
-JAP;29;I-1023
-JAP;29;I-1024
-JAP;29;I-1025
-JAP;29;I-1026
-JAP;29;I-1027
-JAP;29;I-1028
-JAP;29;I-1029
-JAP;29;I-1030
 KAZ;HQ;1st Army
 KAZ;HQ;2nd Army
 KAZ;HQ;3rd Army
@@ -34721,26 +35223,23 @@ KOR;Trp;No.7 Group ROKAF
 KOR;Trp;No.8 Group ROKAF
 KOR;Trp;No.9 Group ROKAF
 KOR;Trp;No.10 Group ROKAF
-KOR;BB;Independence
-KOR;BB;Freedom
-KOR;BB;Liberty
-KOR;BB;Victory
-KOR;BC;Independence
-KOR;BC;Freedom
-KOR;BC;Liberty
-KOR;BC;Victory
-KOR;CA;Independence
-KOR;CA;Freedom
-KOR;CA;Liberty
-KOR;CA;Victory
-KOR;CL;Independence
-KOR;CL;Freedom
-KOR;CL;Liberty
-KOR;CL;Victory
-KOR;CV;Independence
-KOR;CV;Freedom
-KOR;CV;Liberty
-KOR;CV;Victory
+KOR;BB;Geobukseon
+KOR;BB;Chollima
+KOR;BB;Bulgasari
+KOR;BC;Geobukseon
+KOR;BC;Chollima
+KOR;BC;Bulgasari
+KOR;CA;Doksuri
+KOR;CA;Mae
+KOR;CA;Gongjak
+KOR;CA;Baekjo
+KOR;CL;Sangeo
+KOR;CL;Gaori
+KOR;CL;Muneo
+KOR;CL;Gorae
+KOR;CV;Geobukseon
+KOR;CV;Chollima
+KOR;CV;Bulgasari
 KOR;DD;1st ROK Destroyer Division
 KOR;DD;2nd ROK Destroyer Division
 KOR;DD;3rd ROK Destroyer Division
@@ -38664,7 +39163,7 @@ MEX;BB;ARM Montezuma
 MEX;BC;ARM Juarez
 MEX;BC;ARM Ciudad de México
 MEX;BC;ARM Montezuma
-MEX;CV;ARM República de México
+MEX;CV;ARM Imperio Mexicano
 MEX;CV;ARM Xochichapal
 MEX;CV;ARM Cauhtemoc
 MEX;27;ARM Allende
@@ -38680,7 +39179,7 @@ MEX;31;ARM Mina
 MEX;31;ARM Bravo
 MEX;31;ARM Galeana
 MEX;CA;ARM Guadalajara
-MEX;CA;ARM Pancho Villa
+MEX;CA;ARM Veracruz
 MEX;CA;ARM Río Lobo
 MEX;CA;ARM Merida
 MEX;CA;ARM Monterrey
@@ -38690,7 +39189,7 @@ MEX;CA;ARM Río del Norte
 MEX;CA;ARM Chiapas
 MEX;CA;ARM Chuela
 MEX;CL;ARM Guadalajara
-MEX;CL;ARM Pancho Villa
+MEX;CL;ARM Veracruz
 MEX;CL;ARM Río Lobo
 MEX;CL;ARM Merida
 MEX;CL;ARM Monterrey
@@ -44652,7 +45151,7 @@ POL;BB;ORP Mazowieckie
 POL;BB;ORP Kujawsko-Pomorskie
 POL;BB;ORP Lubelskie
 POL;BB;ORP Lódzkie
-POL;BB;ORP Ma?opolskie
+POL;BB;ORP Malopolskie
 POL;BB;ORP Podkarpackie
 POL;BB;ORP Podlaskie
 POL;BB;ORP Slaskie
@@ -45421,26 +45920,23 @@ PRK;Trp;No.7 Group DPRKAF
 PRK;Trp;No.8 Group DPRKAF
 PRK;Trp;No.9 Group DPRKAF
 PRK;Trp;No.10 Group DPRKAF
-PRK;BB;Independence
-PRK;BB;Freedom
-PRK;BB;Liberty
-PRK;BB;Victory
-PRK;BC;Independence
-PRK;BC;Freedom
-PRK;BC;Liberty
-PRK;BC;Victory
-PRK;CA;Independence
-PRK;CA;Freedom
-PRK;CA;Liberty
-PRK;CA;Victory
-PRK;CL;Independence
-PRK;CL;Freedom
-PRK;CL;Liberty
-PRK;CL;Victory
-PRK;CV;Independence
-PRK;CV;Freedom
-PRK;CV;Liberty
-PRK;CV;Victory
+PRK;BB;Neukdae
+PRK;BB;Gom
+PRK;BB;Yeou
+PRK;BC;Neukdae
+PRK;BC;Gom
+PRK;BC;Yeou
+PRK;CA;Doksuri
+PRK;CA;Mae
+PRK;CA;Gongjak
+PRK;CA;Baekjo
+PRK;CL;Sangeo
+PRK;CL;Gaori
+PRK;CL;Muneo
+PRK;CL;Gorae
+PRK;CV;Geobukseon
+PRK;CV;Chollima
+PRK;CV;Bulgasari
 PRK;DD;1st DPRK Destroyer Division
 PRK;DD;2nd DPRK Destroyer Division
 PRK;DD;3rd DPRK Destroyer Division
@@ -46846,90 +47342,91 @@ RSI;Trp;171o Gruppo Trasporti
 RSI;Trp;172o Gruppo Trasporti
 RSI;Trp;173o Gruppo Trasporti
 RSI;Trp;174o Gruppo Trasporti
-RSI;BB;RM Littorio
-RSI;BB;RM Vittorio Veneto
-RSI;BB;RM Roma
-RSI;BB;RM Impero
-RSI;BB;RM Francesco Caracciolo
-RSI;BB;RM Cristoforo Colombo
-RSI;BB;RM Marcantonio Colonna
-RSI;BB;RM Francesco Morosini
-RSI;BB;RM Dante Alighieri
-RSI;BB;RM Giulio Cesare
-RSI;BB;RM Leonardo Da Vinci
-RSI;BB;RM Conte Di Cavour
-RSI;BB;RM Andrea Doria
-RSI;BB;RM Caio Duilio
-RSI;BC;RM Taranto
-RSI;BC;RM La Spezia
-RSI;BC;RM Genova
-RSI;BC;RM Milano
-RSI;CV;RM Aquila
-RSI;CV;RM Sparviero
-RSI;CV;RM Europa
-RSI;CV;RM Falco
-RSI;CV;RM Sagittario
-RSI;CA;RM Marco Polo
-RSI;CA;RM Carlo Alberto
-RSI;CA;RM Vettor Pisani
-RSI;CA;RM Francesco Ferruccio
-RSI;CA;RM Giuseppe Garibaldi
-RSI;CA;RM Varese
-RSI;CA;RM Pisa
-RSI;CA;RM Amalfi
-RSI;CA;RM San Giorgo
-RSI;CA;RM San Marco
-RSI;CA;RM Trento
-RSI;CA;RM Trieste
-RSI;CA;RM Fiume
-RSI;CA;RM Gorizia
-RSI;CA;RM Pola
-RSI;CA;RM Zara
-RSI;CA;RM Bolzano
-RSI;CL;RM Duca degli Abruzzi
-RSI;CL;RM Giuseppe Garibaldi
-RSI;CL;RM Costanzo Ciano
-RSI;CL;RM Venezia
-RSI;CL;RM Attilio Regolo
-RSI;CL;RM Caio Mario
-RSI;CL;RM Claudio Druso
-RSI;CL;RM Claudio Tiberio
-RSI;CL;RM Cornelio Silla
-RSI;CL;RM Giulio Germanico
-RSI;CL;RM Ottaviano Augusto
-RSI;CL;RM Paolo Emilio
-RSI;CL;RM Pompeo Magno
-RSI;CL;RM Scipione Africano
-RSI;CL;RM Ulpio Traiano
-RSI;CL;RM Vipsiano Agrippa
-RSI;CL;RM Etna
-RSI;CL;RM Vesuvio
-RSI;CL;RM Elba
-RSI;CL;RM Etruria
-RSI;CL;RM Liguria
-RSI;CL;RM Lombardia
-RSI;CL;RM Puglia
-RSI;CL;RM Umbria
-RSI;CL;RM Calabria
-RSI;CL;RM Libia
-RSI;CL;RM Campania
-RSI;CL;RM Basilicata
-RSI;CL;RM Quarto
-RSI;CL;RM Nino Bixio
-RSI;CL;RM Marsala
-RSI;CL;RM Brindisi
-RSI;CL;RM Ancona
-RSI;CL;RM Bari
-RSI;CL;RM Alberto da Giussano
-RSI;CL;RM Alberico da Barbiano
-RSI;CL;RM Bartolomeo Colleoni
-RSI;CL;RM Giovanni dalle Bande Nere
-RSI;CL;RM Luigi Cardorna
-RSI;CL;RM Armando Diaz
-RSI;CL;RM Raimondo Montecuccoli
-RSI;CL;RM Muzio Attendolo
-RSI;CL;RM Duca d'Aosta
-RSI;CL;RM Eugenio di Savoia
+RSI;BB;NSL Littorio
+RSI;BB;NSL Italia
+RSI;BB;NSL Vittorio Veneto
+RSI;BB;NSL Roma
+RSI;BB;NSL Impero
+RSI;BB;NSL Francesco Caracciolo
+RSI;BB;NSL Cristoforo Colombo
+RSI;BB;NSL Marcantonio Colonna
+RSI;BB;NSL Francesco Morosini
+RSI;BB;NSL Dante Alighieri
+RSI;BB;NSL Giulio Cesare
+RSI;BB;NSL Leonardo Da Vinci
+RSI;BB;NSL Conte Di Cavour
+RSI;BB;NSL Andrea Doria
+RSI;BB;NSL Caio Duilio
+RSI;BC;NSL Taranto
+RSI;BC;NSL La Spezia
+RSI;BC;NSL Genova
+RSI;BC;NSL Milano
+RSI;CV;NSL Aquila
+RSI;CV;NSL Sparviero
+RSI;CV;NSL Europa
+RSI;CV;NSL Falco
+RSI;CV;NSL Sagittario
+RSI;CA;NSL Marco Polo
+RSI;CA;NSL Carlo Alberto
+RSI;CA;NSL Vettor Pisani
+RSI;CA;NSL Francesco Ferruccio
+RSI;CA;NSL Giuseppe Garibaldi
+RSI;CA;NSL Varese
+RSI;CA;NSL Pisa
+RSI;CA;NSL Amalfi
+RSI;CA;NSL San Giorgo
+RSI;CA;NSL San Marco
+RSI;CA;NSL Trento
+RSI;CA;NSL Trieste
+RSI;CA;NSL Fiume
+RSI;CA;NSL Gorizia
+RSI;CA;NSL Pola
+RSI;CA;NSL Zara
+RSI;CA;NSL Bolzano
+RSI;CL;NSL Duca degli Abruzzi
+RSI;CL;NSL Giuseppe Garibaldi
+RSI;CL;NSL Costanzo Ciano
+RSI;CL;NSL Venezia
+RSI;CL;NSL Attilio Regolo
+RSI;CL;NSL Caio Mario
+RSI;CL;NSL Claudio Druso
+RSI;CL;NSL Claudio Tiberio
+RSI;CL;NSL Cornelio Silla
+RSI;CL;NSL Giulio Germanico
+RSI;CL;NSL Ottaviano Augusto
+RSI;CL;NSL Paolo Emilio
+RSI;CL;NSL Pompeo Magno
+RSI;CL;NSL Scipione Africano
+RSI;CL;NSL Ulpio Traiano
+RSI;CL;NSL Vipsiano Agrippa
+RSI;CL;NSL Etna
+RSI;CL;NSL Vesuvio
+RSI;CL;NSL Elba
+RSI;CL;NSL Etruria
+RSI;CL;NSL Liguria
+RSI;CL;NSL Lombardia
+RSI;CL;NSL Puglia
+RSI;CL;NSL Umbria
+RSI;CL;NSL Calabria
+RSI;CL;NSL Libia
+RSI;CL;NSL Campania
+RSI;CL;NSL Basilicata
+RSI;CL;NSL Quarto
+RSI;CL;NSL Nino Bixio
+RSI;CL;NSL Marsala
+RSI;CL;NSL Brindisi
+RSI;CL;NSL Ancona
+RSI;CL;NSL Bari
+RSI;CL;NSL Alberto da Giussano
+RSI;CL;NSL Alberico da Barbiano
+RSI;CL;NSL Bartolomeo Colleoni
+RSI;CL;NSL Giovanni dalle Bande Nere
+RSI;CL;NSL Luigi Cardorna
+RSI;CL;NSL ANSLando Diaz
+RSI;CL;NSL Raimondo Montecuccoli
+RSI;CL;NSL Muzio Attendolo
+RSI;CL;NSL Duca d'Aosta
+RSI;CL;NSL Eugenio di Savoia
 RSI;DD;1a Flottiglia Torpediniere
 RSI;DD;2a Flottiglia Torpediniere
 RSI;DD;3a Flottiglia Torpediniere
@@ -49415,7 +49912,7 @@ RUS;Trp;7-y Transp. Aviaotryad
 RUS;Trp;8-y Transp. Aviaotryad
 RUS;Trp;9-y Transp. Aviaotryad
 RUS;Trp;10-y Transp. Aviaotryad
-RUS;BB;Imperator Petr I
+RUS;BB;Imperator Petr Velikiy
 RUS;BB;Imperatritsa Ekaterina II
 RUS;BB;Imperator Alexander II
 RUS;BB;Imperatritsa Yelizaveta
@@ -49431,10 +49928,12 @@ RUS;BB;Chesma
 RUS;BB;Sinop
 RUS;BB;Ioann Grozny
 RUS;BB;Tsesarevich
+RUS;BB;Upor
 RUS;BB;Imperator Nikolay II
-RUS;BB;Imperator Peter II
-RUS;BB;Imperator Peter III
+RUS;BB;Imperator Petr II
+RUS;BB;Imperator Petr III
 RUS;BC;Svobodnaya Rossiya
+RUS;BC;Aleksandr Nevsky
 RUS;BC;General Alekseev
 RUS;BC;General Kornilov
 RUS;BC;General Dukhonin
@@ -49456,15 +49955,12 @@ RUS;BC;Kniaz Igor
 RUS;BC;Kniaz Svytoslav
 RUS;BC;Svyatoi Vladimir
 RUS;BC;Ilya Prorok
-RUS;BC;Georgiy Pobenosets
-RUS;CA;Kronstadt
-RUS;CA;Sankt-Peterburg
-RUS;CA;Odessa
-RUS;CA;Revel
+RUS;BC;Georgiy Pobenoset
 RUS;CA;Admiral Spiridov
 RUS;CA;Simferopol
 RUS;CA;Admiral Seniavin
 RUS;CA;Admiral Lazarev
+RUS;CA;Admiral Kolchak
 RUS;CA;Admiral Greig
 RUS;CA;Admiral Kruzenstern
 RUS;CA;Admiral Bellinsgauzen
@@ -49478,6 +49974,10 @@ RUS;CA;General Barklay-de-Tolli
 RUS;CA;General Raevsky
 RUS;CA;General Uvarov
 RUS;CA;General Dokhturov
+RUS;CA;Kronstadt
+RUS;CA;Petrograd
+RUS;CA;Odessa
+RUS;CA;Revel
 RUS;CA;Okhotsk
 RUS;CA;Vladivostok
 RUS;CA;General Skobelev
@@ -49489,10 +49989,27 @@ RUS;CL;Druzhinnik
 RUS;CL;Voevoda
 RUS;CL;Latnik
 RUS;CL;Varyag
-RUS;CL;Helsingfors
+RUS;CL;Gelsingfors
 RUS;CL;Svyatoi Boris
 RUS;CL;Svyatoi Gleb
 RUS;CL;Muraviev-Amursky
+RUS;CL;Tsaritsyn 
+RUS;CL;Kazan
+RUS;CL;Saratov
+RUS;CL;Sebastopol
+RUS;CL;Azov
+RUS;CL;Arkhangelsk
+RUS;CL;Yalta
+RUS;CL;Pevek
+RUS;CL;Feodosiya
+RUS;CL;Nakhodka
+RUS;CL;Yekaterinoslav
+RUS;CL;Novgorod
+RUS;CL;Ofo
+RUS;CL;Smolensk
+RUS;CL;Tula
+RUS;CL;Voronezh
+RUS;CL;Ryazan
 RUS;CV;Nikolay Zhukovsky
 RUS;CV;Alexander Mozhaysky
 RUS;CV;Petr Nesterov
@@ -49501,6 +50018,8 @@ RUS;CV;Ilya Muromets
 RUS;CV;Svyatogor
 RUS;CV;Moskva
 RUS;CV;Ivan III
+RUS;CV;Admiral Tsanev	
+RUS;CV;Admiral Kolchak
 RUS;CV;Ioann Kalita
 RUS;CV;Daniil Moskovsky
 RUS;CV;Yuri Dolgorukiy
@@ -49620,6 +50139,86 @@ RUS;29;Losos
 RUS;29;Forel
 RUS;29;Bas
 RUS;29;Sovsem
+RUS;46;Buinyi
+RUS;46;Boikiy
+RUS;46;Burnyi
+RUS;46;Chuda
+RUS;46;Dub
+RUS;46;Zavtra
+RUS;46;Groznyi
+RUS;46;Zhivoy
+RUS;46;Zorkiy
+RUS;46;Metkiy
+RUS;46;Tviordyi
+RUS;46;Kapitan Yurasovskiy
+RUS;46;Vnimatelnyi
+RUS;46;Trevozhnyi
+RUS;46;Liogkiy
+RUS;46;Ispolnitelnyi
+RUS;46;Letuchiy
+RUS;46;Moshchnyi
+RUS;46;Iskusnyi
+RUS;46;Zvonkiy
+RUS;46;Gromkiy
+RUS;46;Bravyi
+RUS;46;Derzkiy
+RUS;46;Kapitan Saken
+RUS;46;Novik
+RUS;46;Pylkiy
+RUS;46;Grom
+RUS;46;Orfey
+RUS;46;Letun
+RUS;46;Azard
+RUS;46;Markin
+RUS;46;Voiskovoy
+RUS;46;Okhotnik
+RUS;46;Liogkiy
+RUS;46;Molodetskiy
+RUS;46;Ispolnitelnyi
+RUS;46;Likhoy 
+RUS;46;Liogkiy
+RUS;46;Boevoi
+RUS;46;Ispolnitelnyi
+RUS;46;Letuchiy
+RUS;46;Vnimatelnyi
+RUS;46;Storozhevoy
+RUS;46;Emir Bukharskiy
+RUS;46;Dobrovolets
+RUS;46;Pogranichnik
+RUS;47;Budusheye
+RUS;47;Boyky
+RUS;47;Alexei Shostakov
+RUS;47;Kit
+RUS;47;Losos
+RUS;47;Kasatka
+RUS;47;Bezuprechnyi
+RUS;47;Chizh
+RUS;47;Pitomnik
+RUS;47;Chaplya
+RUS;47;Kaniak
+RUS;47;Umely
+RUS;47;Bodryi
+RUS;47;Blestyashchiy
+RUS;47;Vidnyi
+RUS;47;Granat
+RUS;47;Svabodny
+RUS;47;Groznyi
+RUS;47;Molodetskiy
+RUS;47;Liogkiy
+RUS;47;Letuchiy
+RUS;47;Vnushitelnyi
+RUS;47;Finn
+RUS;47;Amurets
+RUS;47;Pitomnik
+RUS;47;Ussuriets 
+RUS;47;Gaidamak
+RUS;47;Vsadnik
+RUS;47;Razyashchiy
+RUS;47;Dobrovolets 
+RUS;47;Nikanor
+RUS;47;Moskvityanin
+RUS;47;Storozhevoy
+RUS;47;Vnimatelnyi
 RUS;DD;1. Flotiliya Esmintsev
 RUS;DD;2. Flotiliya Esmintsev
 RUS;DD;3. Flotiliya Esmintsev
@@ -61962,6 +62561,7 @@ TEX;CA;TNS Houston
 TEX;CA;TNS Austin
 TEX;CA;TNS Galveston
 TEX;CA;TNS Amarillo
+TEX;CA;TNS Southfork
 TEX;CA;TNS Velasco
 TEX;CA;TNS El Paso
 TEX;CA;TNS Borger
@@ -61983,7 +62583,7 @@ TEX;CV;TNS Grass Fight
 TEX;31;TNS James S. Hogg
 TEX;31;TNS Richard Coke
 TEX;31;TNS Francis R. Lubbock
-TEX;31;TNS Willaim P. Hobby
+TEX;31;TNS William P. Hobby
 TEX;31;TNS James E. Ferguson
 TEX;31;TNS Richard B. Hubbard
 TEX;27;TNS Red River
@@ -62011,6 +62611,7 @@ TEX;29;TNS Seawolf
 TEX;29;TNS Gato
 TEX;29;TNS Carp
 TEX;29;TNS Trout
+TEX;29;TNS Flathead
 TEX;NS;TNS Nautilus
 TEX;NS;TNS Hunter
 TEX;NS;TNS Great White
@@ -62027,6 +62628,7 @@ TEX;NS;TNS Seawolf
 TEX;NS;TNS Gato
 TEX;NS;TNS Carp
 TEX;NS;TNS Trout
+TEX;NS;TNS Flathead
 TEX;DD;1st Texan Destroyer Flotilla
 TEX;DD;2nd Texan Destroyer Flotilla
 TEX;DD;3rd Texan Destroyer Flotilla
@@ -65794,6 +66396,384 @@ U04;TP;96e Flottille de Convois
 U04;TP;97e Flottille de Convois
 U04;TP;98e Flottille de Convois
 U04;TP;99e Flottille de Convois
+U07;HQ;1st Hawaiian Army
+U07;HQ;2nd Hawaiian Army
+U07;HQ;3rd Hawaiian Army
+U07;HQ;4th Hawaiian Army
+U07;HQ;5th Hawaiian Army
+U07;Inf;1st Infantry Division
+U07;Inf;2nd Infantry Division
+U07;Inf;3rd Infantry Division
+U07;Inf;4th Infantry Division
+U07;Inf;5th Infantry Division
+U07;Inf;6th Infantry Division
+U07;Inf;7th Infantry Division
+U07;Inf;8th Infantry Division
+U07;Inf;9th Infantry Division
+U07;Inf;10th Infantry Division
+U07;Inf;11th Infantry Division
+U07;Inf;12th Infantry Division
+U07;Inf;13th Infantry Division
+U07;Inf;14th Infantry Division
+U07;Inf;15th Infantry Division
+U07;Inf;16th Infantry Division
+U07;Inf;17th Infantry Division
+U07;Inf;18th Infantry Division
+U07;Inf;19th Infantry Division
+U07;Inf;20th Infantry Division
+U07;Inf;21st Infantry Division
+U07;Inf;22nd Infantry Division
+U07;Inf;23rd Infantry Division
+U07;Inf;24th Infantry Division
+U07;Inf;25th Infantry Division
+U07;Inf;26th Infantry Division
+U07;Inf;27th Infantry Division
+U07;Inf;28th Infantry Division
+U07;Inf;29th Infantry Division
+U07;Inf;30th Infantry Division
+U07;Gar;1st Infantry Division
+U07;Gar;2nd Infantry Division
+U07;Gar;3rd Infantry Division
+U07;Gar;4th Infantry Division
+U07;Gar;5th Infantry Division
+U07;Gar;6th Infantry Division
+U07;Gar;7th Infantry Division
+U07;Gar;8th Infantry Division
+U07;Gar;9th Infantry Division
+U07;Gar;10th Infantry Division
+U07;Gar;11th Infantry Division
+U07;Gar;12th Infantry Division
+U07;Gar;13th Infantry Division
+U07;Gar;14th Infantry Division
+U07;Gar;15th Infantry Division
+U07;Gar;16th Infantry Division
+U07;Gar;17th Infantry Division
+U07;Gar;18th Infantry Division
+U07;Gar;19th Infantry Division
+U07;Gar;20th Infantry Division
+U07;Gar;21st Infantry Division
+U07;Gar;22nd Infantry Division
+U07;Gar;23rd Infantry Division
+U07;Gar;24th Infantry Division
+U07;Gar;25th Infantry Division
+U07;Gar;26th Infantry Division
+U07;Gar;27th Infantry Division
+U07;Gar;28th Infantry Division
+U07;Gar;29th Infantry Division
+U07;Gar;30th Infantry Division
+U07;Cav;1st Hawaiian Cavalry Division
+U07;Cav;2nd Hawaiian Cavalry Division
+U07;Cav;3rd Hawaiian Cavalry Division
+U07;Cav;4th Hawaiian Cavalry Division
+U07;Cav;5th Hawaiian Cavalry Division
+U07;Cav;6th Hawaiian Cavalry Division
+U07;Cav;7th Hawaiian Cavalry Division
+U07;Cav;8th Hawaiian Cavalry Division
+U07;Cav;9th Hawaiian Cavalry Division
+U07;Cav;10th Hawaiian Cavalry Division
+U07;Mot;1st Infantry Division
+U07;Mot;2nd Infantry Division
+U07;Mot;3rd Infantry Division
+U07;Mot;4th Infantry Division
+U07;Mot;5th Infantry Division
+U07;Mot;6th Infantry Division
+U07;Mot;7th Infantry Division
+U07;Mot;8th Infantry Division
+U07;Mot;9th Infantry Division
+U07;Mot;10th Infantry Division
+U07;Mot;11th Infantry Division
+U07;Mot;12th Infantry Division
+U07;Mot;13th Infantry Division
+U07;Mot;14th Infantry Division
+U07;Mot;15th Infantry Division
+U07;Mot;16th Infantry Division
+U07;Mot;17th Infantry Division
+U07;Mot;18th Infantry Division
+U07;Mot;19th Infantry Division
+U07;Mot;20th Infantry Division
+U07;Mot;21st Infantry Division
+U07;Mot;22nd Infantry Division
+U07;Mot;23rd Infantry Division
+U07;Mot;24th Infantry Division
+U07;Mot;25th Infantry Division
+U07;Mot;26th Infantry Division
+U07;Mot;27th Infantry Division
+U07;Mot;28th Infantry Division
+U07;Mot;29th Infantry Division
+U07;Mot;30th Infantry Division
+U07;Mec;1st Infantry Division
+U07;Mec;2nd Infantry Division
+U07;Mec;3rd Infantry Division
+U07;Mec;4th Infantry Division
+U07;Mec;5th Infantry Division
+U07;Mec;6th Infantry Division
+U07;Mec;7th Infantry Division
+U07;Mec;8th Infantry Division
+U07;Mec;9th Infantry Division
+U07;Mec;10th Infantry Division
+U07;Mec;11th Infantry Division
+U07;Mec;12th Infantry Division
+U07;Mec;13th Infantry Division
+U07;Mec;14th Infantry Division
+U07;Mec;15th Infantry Division
+U07;Mec;16th Infantry Division
+U07;Mec;17th Infantry Division
+U07;Mec;18th Infantry Division
+U07;Mec;19th Infantry Division
+U07;Mec;20th Infantry Division
+U07;Mec;21st Infantry Division
+U07;Mec;22nd Infantry Division
+U07;Mec;23rd Infantry Division
+U07;Mec;24th Infantry Division
+U07;Mec;25th Infantry Division
+U07;Mec;26th Infantry Division
+U07;Mec;27th Infantry Division
+U07;Mec;28th Infantry Division
+U07;Mec;29th Infantry Division
+U07;Mec;30th Infantry Division
+U07;Mar;1st Marine Division
+U07;Mar;2nd Marine Division
+U07;Mar;3rd Marine Division
+U07;Mar;4th Marine Division
+U07;Mar;5th Marine Division
+U07;Mar;6th Marine Division
+U07;Mar;7th Marine Division
+U07;Mar;8th Marine Division
+U07;Mar;9th Marine Division
+U07;Mar;10th Marine Division
+U07;Mar;11th Marine Division
+U07;Mar;12th Marine Division
+U07;Mar;13th Marine Division
+U07;Mar;14th Marine Division
+U07;Mar;15th Marine Division
+U07;Mar;16th Marine Division
+U07;Mar;17th Marine Division
+U07;Mar;18th Marine Division
+U07;Mar;19th Marine Division
+U07;Mar;20th Marine Division
+U07;Mar;21st Marine Division
+U07;Mar;22nd Marine Division
+U07;Mar;23rd Marine Division
+U07;Mar;24th Marine Division
+U07;Mar;25th Marine Division
+U07;Mar;26th Marine Division
+U07;Mar;27th Marine Division
+U07;Mar;28th Marine Division
+U07;Mar;29th Marine Division
+U07;Mar;30th Marine Division
+U07;Par;1st Airborne Division
+U07;Par;2nd Airborne Division
+U07;Par;3rd Airborne Division
+U07;Par;4th Airborne Division
+U07;Par;5th Airborne Division
+U07;Par;6th Airborne Division
+U07;Par;7th Airborne Division
+U07;Par;8th Airborne Division
+U07;Par;9th Airborne Division
+U07;Par;10th Airborne Division
+U07;Par;11th Airborne Division
+U07;Par;12th Airborne Division
+U07;Par;13th Airborne Division
+U07;Par;14th Airborne Division
+U07;Par;15th Airborne Division
+U07;Par;16th Airborne Division
+U07;Par;17th Airborne Division
+U07;Par;18th Airborne Division
+U07;Par;19th Airborne Division
+U07;Par;20th Airborne Division
+U07;Par;21st Airborne Division
+U07;Par;22nd Airborne Division
+U07;Par;23rd Airborne Division
+U07;Par;24th Airborne Division
+U07;Par;25th Airborne Division
+U07;Par;26th Airborne Division
+U07;Par;27th Airborne Division
+U07;Par;28th Airborne Division
+U07;Par;29th Airborne Division
+U07;Par;30th Airborne Division
+U07;Mil;1st Infantry Division
+U07;Mil;2nd Infantry Division
+U07;Mil;3rd Infantry Division
+U07;Mil;4th Infantry Division
+U07;Mil;5th Infantry Division
+U07;Mil;6th Infantry Division
+U07;Mil;7th Infantry Division
+U07;Mil;8th Infantry Division
+U07;Mil;9th Infantry Division
+U07;Mil;10th Infantry Division
+U07;Mil;11th Infantry Division
+U07;Mil;12th Infantry Division
+U07;Mil;13th Infantry Division
+U07;Mil;14th Infantry Division
+U07;Mil;15th Infantry Division
+U07;Mil;16th Infantry Division
+U07;Mil;17th Infantry Division
+U07;Mil;18th Infantry Division
+U07;Mil;19th Infantry Division
+U07;Mil;20th Infantry Division
+U07;Mil;21st Infantry Division
+U07;Mil;22nd Infantry Division
+U07;Mil;23rd Infantry Division
+U07;Mil;24th Infantry Division
+U07;Mil;25th Infantry Division
+U07;Mil;26th Infantry Division
+U07;Mil;27th Infantry Division
+U07;Mil;28th Infantry Division
+U07;Mil;29th Infantry Division
+U07;Mil;30th Infantry Division
+U07;Fig;No.1 Group HAF
+U07;Fig;No.2 Group HAF
+U07;Fig;No.3 Group HAF
+U07;Fig;No.4 Group HAF
+U07;Fig;No.5 Group HAF
+U07;Fig;No.7 Group HAF
+U07;Fig;No.8 Group HAF
+U07;Fig;No.9 Group HAF
+U07;Fig;No.10 Group HAF
+U07;Fig;No.11 Group HAF
+U07;Fig;No.12 Group HAF
+U07;Fig;No.13 Group HAF
+U07;Fig;No.14 Group HAF
+U07;Fig;No.15 Group HAF
+U07;Fig;No.16 Group HAF
+U07;Fig;No.17 Group HAF
+U07;Fig;No.18 Group HAF
+U07;Fig;No.19 Group HAF
+U07;Fig;No.20 Group HAF
+U07;Int F;No.1 Group HAF
+U07;Int F;No.2 Group HAF
+U07;Int F;No.3 Group HAF
+U07;Int F;No.4 Group HAF
+U07;Int F;No.5 Group HAF
+U07;Int F;No.7 Group HAF
+U07;Int F;No.8 Group HAF
+U07;Int F;No.9 Group HAF
+U07;Int F;No.10 Group HAF
+U07;Int F;No.11 Group HAF
+U07;Int F;No.12 Group HAF
+U07;Int F;No.13 Group HAF
+U07;Int F;No.14 Group HAF
+U07;Int F;No.15 Group HAF
+U07;Int F;No.16 Group HAF
+U07;Int F;No.17 Group HAF
+U07;Int F;No.18 Group HAF
+U07;Int F;No.19 Group HAF
+U07;Int F;No.20 Group HAF
+U07;Str;No.1 Group HAF
+U07;Str;No.2 Group HAF
+U07;Str;No.6 Group HAF
+U07;Str;No.3 Group HAF
+U07;Str;No.4 Group HAF
+U07;Str;No.7 Group HAF
+U07;Str;No.8 Group HAF
+U07;Str;No.9 Group HAF
+U07;Str;No.10 Group HAF
+U07;Str;No.11 Group HAF
+U07;Str;No.12 Group HAF
+U07;Str;No.13 Group HAF
+U07;Str;No.14 Group HAF
+U07;Str;No.15 Group HAF
+U07;Str;No.16 Group HAF
+U07;Str;No.17 Group HAF
+U07;Str;No.18 Group HAF
+U07;Str;No.19 Group HAF
+U07;Str;No.20 Group HAF
+U07;Tac;No.1 Group HAF
+U07;Tac;No.2 Group HAF
+U07;Tac;No.6 Group HAF
+U07;Tac;No.3 Group HAF
+U07;Tac;No.4 Group HAF
+U07;Tac;No.7 Group HAF
+U07;Tac;No.8 Group HAF
+U07;Tac;No.9 Group HAF
+U07;Tac;No.10 Group HAF
+U07;Tac;No.11 Group HAF
+U07;Tac;No.12 Group HAF
+U07;Tac;No.13 Group HAF
+U07;Tac;No.14 Group HAF
+U07;Tac;No.15 Group HAF
+U07;Tac;No.16 Group HAF
+U07;Tac;No.17 Group HAF
+U07;Tac;No.18 Group HAF
+U07;Tac;No.19 Group HAF
+U07;Tac;No.20 Group HAF
+U07;CAS;No.1 Group HAF
+U07;CAS;No.2 Group HAF
+U07;CAS;No.6 Group HAF
+U07;CAS;No.3 Group HAF
+U07;CAS;No.4 Group HAF
+U07;CAS;No.7 Group HAF
+U07;CAS;No.8 Group HAF
+U07;CAS;No.9 Group HAF
+U07;CAS;No.10 Group HAF
+U07;CAS;No.11 Group HAF
+U07;CAS;No.12 Group HAF
+U07;CAS;No.13 Group HAF
+U07;CAS;No.14 Group HAF
+U07;CAS;No.15 Group HAF
+U07;CAS;No.16 Group HAF
+U07;CAS;No.17 Group HAF
+U07;CAS;No.18 Group HAF
+U07;CAS;No.19 Group HAF
+U07;CAS;No.20 Group HAF
+U07;Nav;No.1 Group HAF
+U07;Nav;No.2 Group HAF
+U07;Nav;No.3 Group HAF
+U07;Nav;No.4 Group HAF
+U07;Nav;No.5 Group HAF
+U07;Nav;No.7 Group HAF
+U07;Nav;No.8 Group HAF
+U07;Nav;No.9 Group HAF
+U07;Nav;No.10 Group HAF
+U07;Trp;No.1 Group HAF
+U07;Trp;No.2 Group HAF
+U07;Trp;No.3 Group HAF
+U07;Trp;No.4 Group HAF
+U07;Trp;No.5 Group HAF
+U07;Trp;No.7 Group HAF
+U07;Trp;No.8 Group HAF
+U07;Trp;No.9 Group HAF
+U07;Trp;No.10 Group HAF
+U07;BB;Kamehameha
+U07;BB;Kalakaua
+U07;BB;Lili'uokalani
+U07;BB;Kaumuali'i
+U07;BC;Kamehameha
+U07;BC;Kalakaua
+U07;BC;Lili'uokalani
+U07;BC;Kaumuali'i
+U07;CV;Laniakea
+U07;27;Laniakea
+U07;31;Laniakea
+U07;CA;Hilo
+U07;CA;Honolulu
+U07;CA;Hanapepe
+U07;CL;Hilo
+U07;CL;Honolulu
+U07;CL;Hanapepe
+U07;46;Hilo
+U07;46;Honolulu
+U07;46;Hanapepe
+U07;DD;Destroyer Division 1
+U07;DD;Destroyer Division 2
+U07;DD;Destroyer Division 3
+U07;DD;Destroyer Division 4
+U07;DD;Destroyer Division 5
+U07;DD;Destroyer Division 6
+U07;DD;Destroyer Division 7
+U07;DD;Destroyer Division 8
+U07;DD;Destroyer Division 9
+U07;DD;Destroyer Division 10
+U07;SS;Submarine Division 1
+U07;SS;Submarine Division 2
+U07;SS;Submarine Division 3
+U07;SS;Submarine Division 4
+U07;SS;Submarine Division 5
+U07;SS;Submarine Division 6
+U07;SS;Submarine Division 7
+U07;SS;Submarine Division 8
+U07;SS;Submarine Division 9
+U07;SS;Submarine Division 10
 U08;HQ;1. Armee
 U08;HQ;2. Armee
 U08;HQ;3. Armee
@@ -74233,380 +75213,109 @@ U14;Trp;182o Gruppo Trasporti
 U14;Trp;183o Gruppo Trasporti
 U14;Trp;184o Gruppo Trasporti
 U14;Trp;185o Gruppo Trasporti
-U15;27;NRP Principe Real
-U15;27;NRP Rainha de Portugal
-U15;27;NRP Afonso de Albuquerque
-U15;27;NRP Infante de Pedro
-U15;27;NRP Medusa
-U15;27;NRP Maria Primeira
-U15;27;NRP St Sebastiao
-U15;31;NRP Principe Real
-U15;31;NRP Rainha de Portugal
-U15;31;NRP Afonso de Albuquerque
-U15;31;NRP Infante de Pedro
-U15;31;NRP Medusa
-U15;31;NRP Maria Primeira
-U15;31;NRP St Sebastiao
-U15;Arm;1o Batalhão Blindar
-U15;Arm;2o Batalhão Blindar
-U15;Arm;3o Batalhão Blindar
-U15;Arm;4o Batalhão Blindar
-U15;Arm;5o Batalhão Blindar
-U15;Arm;6o Batalhão Blindar
-U15;Arm;7o Batalhão Blindar
-U15;Arm;8o Batalhão Blindar
-U15;Arm;9o Batalhão Blindar
-U15;Arm;10o Batalhão Blindar
-U15;Arm;11o Batalhão Blindar
-U15;Arm;12o Batalhão Blindar
-U15;Arm;13o Batalhão Blindar
-U15;Arm;14o Batalhão Blindar
-U15;Arm;15o Batalhão Blindar
-U15;BB;NRP Lisboa
-U15;BB;NRP Porto
-U15;BB;NRP Novo Estado
-U15;BC;NRP Lisboa
-U15;BC;NRP Porto
-U15;BC;NRP Novo Estado
-U15;CA;NRP Matosinhos
-U15;CA;NRP Vila Nova de Gaia
-U15;CA;NRP Mira
-U15;CA;NRP Figueira da Foz
-U15;CA;NRP Marinha Granda
-U15;CA;NRP Nazaré
-U15;CAS;1o Avião de Bomb. de Mergulho
-U15;CAS;2o Avião de Bomb. de Mergulho
-U15;CAS;3o Avião de Bomb. de Mergulho
-U15;CAS;4o Avião de Bomb. de Mergulho
-U15;CAS;5o Avião de Bomb. de Mergulho
-U15;CAS;6o Avião de Bomb. de Mergulho
-U15;CAS;7o Avião de Bomb. de Mergulho
-U15;CAS;8o Avião de Bomb. de Mergulho
-U15;CAS;9o Avião de Bomb. de Mergulho
-U15;CAS;10o Avião de Bomb. de Mergulho
-U15;Cav;1o Batalhão de Cavalaria
-U15;Cav;2o Batalhão de Cavalaria
-U15;Cav;3o Batalhão de Cavalaria
-U15;Cav;4o Batalhão de Cavalaria
-U15;Cav;5o Batalhão de Cavalaria
-U15;Cav;6o Batalhão de Cavalaria
-U15;Cav;7o Batalhão de Cavalaria
-U15;Cav;8o Batalhão de Cavalaria
-U15;Cav;9o Batalhão de Cavalaria
-U15;Cav;10o Batalhão de Cavalaria
-U15;Cav;11o Batalhão de Cavalaria
-U15;Cav;12o Batalhão de Cavalaria
-U15;Cav;13o Batalhão de Cavalaria
-U15;Cav;14o Batalhão de Cavalaria
-U15;Cav;15o Batalhão de Cavalaria
-U15;CL;NRP Matosinhos
-U15;CL;NRP Vila Nova de Gaia
-U15;CL;NRP Mira
-U15;CL;NRP Figueira da Foz
-U15;CL;NRP Marinha Granda
-U15;CL;NRP Nazare
-U15;CV;NRP Amadora
-U15;CV;NRP Estoril
-U15;DD;Douro Flotilha
-U15;DD;Viana do Castello Flotilha
-U15;DD;Minho Flotilha
-U15;DD;Braga Flotilha
-U15;DD;Trás os Montés Flotilha
-U15;DD;Braganca Flotilha
-U15;DD;Beira Flotilha
-U15;DD;Guarda Flotilha
-U15;DD;Litoral Flotilha
-U15;DD;Beira Baixa Flotilha
-U15;DD;Castelo Branco Flotilha
-U15;DD;Santarem Flotilha
-U15;DD;Evora Flotilha
-U15;DD;Alentejo Flotilha
-U15;DD;Algarve Flotilha
-U15;Fig;1o Agrupa de Caças
-U15;Fig;2o Agrupa de Caças
-U15;Fig;3o Agrupa de Caças
-U15;Fig;4o Agrupa de Caças
-U15;Fig;5o Agrupa de Caças
-U15;Fig;6o Agrupa de Caças
-U15;Fig;7o Agrupa de Caças
-U15;Fig;8o Agrupa de Caças
-U15;Fig;9o Agrupa de Caças
-U15;Fig;10o Agrupa de Caças
-U15;Fig;11o Agrupa de Caças
-U15;Fig;12o Agrupa de Caças
-U15;Fig;13o Agrupa de Caças
-U15;Fig;14o Agrupa de Caças
-U15;Fig;15o Agrupa de Caças
-U15;Gar;1o Batalhão de Infantaria
-U15;Gar;2o Batalhão de Infantaria
-U15;Gar;3o Batalhão de Infantaria
-U15;Gar;4o Batalhão de Infantaria
-U15;Gar;5o Batalhão de Infantaria
-U15;Gar;6o Batalhão de Infantaria
-U15;Gar;7o Batalhão de Infantaria
-U15;Gar;8o Batalhão de Infantaria
-U15;Gar;9o Batalhão de Infantaria
-U15;Gar;10o Batalhão de Infantaria
-U15;Gar;11o Batalhão de Infantaria
-U15;Gar;12o Batalhão de Infantaria
-U15;Gar;13o Batalhão de Infantaria
-U15;Gar;14o Batalhão de Infantaria
-U15;Gar;15o Batalhão de Infantaria
-U15;Gar;16o Batalhão de Infantaria
-U15;Gar;17o Batalhão de Infantaria
-U15;Gar;18o Batalhão de Infantaria
-U15;Gar;19o Batalhão de Infantaria
-U15;Gar;20o Batalhão de Infantaria
-U15;Gar;21o Batalhão de Infantaria
-U15;Gar;22o Batalhão de Infantaria
-U15;Gar;23o Batalhão de Infantaria
-U15;Gar;24o Batalhão de Infantaria
-U15;Gar;25o Batalhão de Infantaria
-U15;Gar;26o Batalhão de Infantaria
-U15;Gar;27o Batalhão de Infantaria
-U15;Gar;28o Batalhão de Infantaria
-U15;Gar;29o Batalhão de Infantaria
-U15;Gar;30o Batalhão de Infantaria
-U15;HQ;1o Exército do Portugal
-U15;HQ;2o Exército do Portugal
-U15;HQ;3o Exército do Portugal
-U15;HQ;4o Exército do Portugal
-U15;HQ;5o Exército do Portugal
-U15;HQ;6o Exército do Portugal
-U15;HQ;7o Exército do Portugal
-U15;HQ;8o Exército do Portugal
-U15;HQ;9o Exército do Portugal
-U15;HQ;10o Exército do Portugal
-U15;Inf;1o Batalhão de Infantaria
-U15;Inf;2o Batalhão de Infantaria
-U15;Inf;3o Batalhão de Infantaria
-U15;Inf;4o Batalhão de Infantaria
-U15;Inf;5o Batalhão de Infantaria
-U15;Inf;6o Batalhão de Infantaria
-U15;Inf;7o Batalhão de Infantaria
-U15;Inf;8o Batalhão de Infantaria
-U15;Inf;9o Batalhão de Infantaria
-U15;Inf;10o Batalhão de Infantaria
-U15;Inf;11o Batalhão de Infantaria
-U15;Inf;12o Batalhão de Infantaria
-U15;Inf;13o Batalhão de Infantaria
-U15;Inf;14o Batalhão de Infantaria
-U15;Inf;15o Batalhão de Infantaria
-U15;Inf;16o Batalhão de Infantaria
-U15;Inf;17o Batalhão de Infantaria
-U15;Inf;18o Batalhão de Infantaria
-U15;Inf;19o Batalhão de Infantaria
-U15;Inf;20o Batalhão de Infantaria
-U15;Inf;21o Batalhão de Infantaria
-U15;Inf;22o Batalhão de Infantaria
-U15;Inf;23o Batalhão de Infantaria
-U15;Inf;24o Batalhão de Infantaria
-U15;Inf;25o Batalhão de Infantaria
-U15;Inf;26o Batalhão de Infantaria
-U15;Inf;27o Batalhão de Infantaria
-U15;Inf;28o Batalhão de Infantaria
-U15;Inf;29o Batalhão de Infantaria
-U15;Inf;30o Batalhão de Infantaria
-U15;Int F;1o Agrupa de Caças
-U15;Int F;2o Agrupa de Caças
-U15;Int F;3o Agrupa de Caças
-U15;Int F;4o Agrupa de Caças
-U15;Int F;5o Agrupa de Caças
-U15;Int F;6o Agrupa de Caças
-U15;Int F;7o Agrupa de Caças
-U15;Int F;8o Agrupa de Caças
-U15;Int F;9o Agrupa de Caças
-U15;Int F;10o Agrupa de Caças
-U15;Int F;11o Agrupa de Caças
-U15;Int F;12o Agrupa de Caças
-U15;Int F;13o Agrupa de Caças
-U15;Int F;14o Agrupa de Caças
-U15;Int F;15o Agrupa de Caças
-U15;L ARM;1o Batalhão Blindar
-U15;L ARM;2o Batalhão Blindar
-U15;L ARM;3o Batalhão Blindar
-U15;L ARM;4o Batalhão Blindar
-U15;L ARM;5o Batalhão Blindar
-U15;L ARM;6o Batalhão Blindar
-U15;L ARM;7o Batalhão Blindar
-U15;L ARM;8o Batalhão Blindar
-U15;L ARM;9o Batalhão Blindar
-U15;L ARM;10o Batalhão Blindar
-U15;L ARM;11o Batalhão Blindar
-U15;L ARM;12o Batalhão Blindar
-U15;L ARM;13o Batalhão Blindar
-U15;L ARM;14o Batalhão Blindar
-U15;L ARM;15o Batalhão Blindar
-U15;Mar;1o Batalhão de Inf. do Marinha
-U15;Mar;2o Batalhão de Inf. do Marinha
-U15;Mar;3o Batalhão de Inf. do Marinha
-U15;Mar;4o Batalhão de Inf. do Marinha
-U15;Mar;5o Batalhão de Inf. do Marinha
-U15;Mar;6o Batalhão de Inf. do Marinha
-U15;Mar;7o Batalhão de Inf. do Marinha
-U15;Mar;8o Batalhão de Inf. do Marinha
-U15;Mar;9o Batalhão de Inf. do Marinha
-U15;Mar;10o Batalhão de Inf. do Marinha
-U15;Mec;1o Batalhão de Inf. Mecanizada
-U15;Mec;2o Batalhão de Inf. Mecanizada
-U15;Mec;3o Batalhão de Inf. Mecanizada
-U15;Mec;4o Batalhão de Inf. Mecanizada
-U15;Mec;5o Batalhão de Inf. Mecanizada
-U15;Mec;6o Batalhão de Inf. Mecanizada
-U15;Mec;7o Batalhão de Inf. Mecanizada
-U15;Mec;8o Batalhão de Inf. Mecanizada
-U15;Mec;9o Batalhão de Inf. Mecanizada
-U15;Mec;10o Batalhão de Inf. Mecanizada
-U15;Mec;11o Batalhão de Inf. Mecanizada
-U15;Mec;12o Batalhão de Inf. Mecanizada
-U15;Mec;13o Batalhão de Inf. Mecanizada
-U15;Mec;14o Batalhão de Inf. Mecanizada
-U15;Mec;15o Batalhão de Inf. Mecanizada
-U15;Mil;1o Ligeira de Intervencão
-U15;Mil;2o Ligeira de Intervencão
-U15;Mil;3o Ligeira de Intervencão
-U15;Mil;4o Ligeira de Intervencão
-U15;Mil;5o Ligeira de Intervencão
-U15;Mil;6o Ligeira de Intervencão
-U15;Mil;7o Ligeira de Intervencão
-U15;Mil;8o Ligeira de Intervencão
-U15;Mil;9o Ligeira de Intervencão
-U15;Mil;10o Ligeira de Intervencão
-U15;Mil;11o Ligeira de Intervencão
-U15;Mil;12o Ligeira de Intervencão
-U15;Mil;13o Ligeira de Intervencão
-U15;Mil;14o Ligeira de Intervencão
-U15;Mil;15o Ligeira de Intervencão
-U15;Mil;16o Ligeira de Intervencão
-U15;Mil;17o Ligeira de Intervencão
-U15;Mil;18o Ligeira de Intervencão
-U15;Mil;19o Ligeira de Intervencão
-U15;Mil;20o Ligeira de Intervencão
-U15;Mot;1o Batalhão de Inf. em Caminhões
-U15;Mot;2o Batalhão de Inf. em Caminhões
-U15;Mot;3o Batalhão de Inf. em Caminhões
-U15;Mot;4o Batalhão de Inf. em Caminhões
-U15;Mot;5o Batalhão de Inf. em Caminhões
-U15;Mot;6o Batalhão de Inf. em Caminhões
-U15;Mot;7o Batalhão de Inf. em Caminhões
-U15;Mot;8o Batalhão de Inf. em Caminhões
-U15;Mot;9o Batalhão de Inf. em Caminhões
-U15;Mot;10o Batalhão de Inf. em Caminhões
-U15;Mot;11o Batalhão de Inf. em Caminhões
-U15;Mot;12o Batalhão de Inf. em Caminhões
-U15;Mot;13o Batalhão de Inf. em Caminhões
-U15;Mot;14o Batalhão de Inf. em Caminhões
-U15;Mot;15o Batalhão de Inf. em Caminhões
-U15;Mtn;1o Batalhão de Montanha
-U15;Mtn;2o Batalhão de Montanha
-U15;Mtn;3o Batalhão de Montanha
-U15;Mtn;4o Batalhão de Montanha
-U15;Mtn;5o Batalhão de Montanha
-U15;Mtn;6o Batalhão de Montanha
-U15;Mtn;7o Batalhão de Montanha
-U15;Mtn;8o Batalhão de Montanha
-U15;Mtn;9o Batalhão de Montanha
-U15;Mtn;10o Batalhão de Montanha
-U15;Mtn;11o Batalhão de Montanha
-U15;Mtn;12o Batalhão de Montanha
-U15;Mtn;13o Batalhão de Montanha
-U15;Mtn;14o Batalhão de Montanha
-U15;Mtn;15o Batalhão de Montanha
-U15;Nav;1o Avião de Bombardeiro do Marinha
-U15;Nav;2o Avião de Bombardeiro do Marinha
-U15;Nav;3o Avião de Bombardeiro do Marinha
-U15;Nav;4o Avião de Bombardeiro do Marinha
-U15;Nav;5o Avião de Bombardeiro do Marinha
-U15;Nav;6o Avião de Bombardeiro do Marinha
-U15;Nav;7o Avião de Bombardeiro do Marinha
-U15;Nav;8o Avião de Bombardeiro do Marinha
-U15;Nav;9o Avião de Bombardeiro do Marinha
-U15;Nav;10o Avião de Bombardeiro do Marinha
-U15;Nav;11o Avião de Bombardeiro do Marinha
-U15;Nav;12o Avião de Bombardeiro do Marinha
-U15;Nav;13o Avião de Bombardeiro do Marinha
-U15;Nav;14o Avião de Bombardeiro do Marinha
-U15;Nav;15o Avião de Bombardeiro do Marinha
-U15;Nav;1o Avião de Bombardeiro Torpedear
-U15;Nav;2o Avião de Bombardeiro Torpedear
-U15;Nav;3o Avião de Bombardeiro Torpedear
-U15;Nav;4o Avião de Bombardeiro Torpedear
-U15;Nav;5o Avião de Bombardeiro Torpedear
-U15;Nav;6o Avião de Bombardeiro Torpedear
-U15;Nav;7o Avião de Bombardeiro Torpedear
-U15;Nav;8o Avião de Bombardeiro Torpedear
-U15;Nav;9o Avião de Bombardeiro Torpedear
-U15;Nav;10o Avião de Bombardeiro Torpedear
-U15;Par;1o Batalhão de Paraquedista
-U15;Par;2o Batalhão de Paraquedista
-U15;Par;3o Batalhão de Paraquedista
-U15;Par;4o Batalhão de Paraquedista
-U15;Par;5o Batalhão de Paraquedista
-U15;Par;6o Batalhão de Paraquedista
-U15;Par;7o Batalhão de Paraquedista
-U15;Par;8o Batalhão de Paraquedista
-U15;Par;9o Batalhão de Paraquedista
-U15;Par;10o Batalhão de Paraquedista
-U15;SS;1o Flotilha de Submarino
-U15;SS;2o Flotilha de Submarino
-U15;SS;3o Flotilha de Submarino
-U15;SS;4o Flotilha de Submarino
-U15;SS;5o Flotilha de Submarino
-U15;SS;6o Flotilha de Submarino
-U15;SS;7o Flotilha de Submarino
-U15;SS;8o Flotilha de Submarino
-U15;SS;9o Flotilha de Submarino
-U15;SS;10o Flotilha de Submarino
-U15;SS;11o Flotilha de Submarino
-U15;SS;12o Flotilha de Submarino
-U15;SS;13o Flotilha de Submarino
-U15;SS;14o Flotilha de Submarino
-U15;SS;15o Flotilha de Submarino
-U15;Str;1o Avião de Bombardeiro Estratégico
-U15;Str;2o Avião de Bombardeiro Estratégico
-U15;Str;3o Avião de Bombardeiro Estratégico
-U15;Str;4o Avião de Bombardeiro Estratégico
-U15;Str;5o Avião de Bombardeiro Estratégico
-U15;Str;6o Avião de Bombardeiro Estratégico
-U15;Str;7o Avião de Bombardeiro Estratégico
-U15;Str;8o Avião de Bombardeiro Estratégico
-U15;Str;9o Avião de Bombardeiro Estratégico
-U15;Str;10o Avião de Bombardeiro Estratégico
-U15;Tac;1o Avião de Bombardeiro Tático
-U15;Tac;2o Avião de Bombardeiro Tático
-U15;Tac;3o Avião de Bombardeiro Tático
-U15;Tac;4o Avião de Bombardeiro Tático
-U15;Tac;5o Avião de Bombardeiro Tático
-U15;Tac;6o Avião de Bombardeiro Tático
-U15;Tac;7o Avião de Bombardeiro Tático
-U15;Tac;8o Avião de Bombardeiro Tático
-U15;Tac;9o Avião de Bombardeiro Tático
-U15;Tac;10o Avião de Bombardeiro Tático
-U15;Tac;11o Avião de Bombardeiro Tático
-U15;Tac;12o Avião de Bombardeiro Tático
-U15;Tac;13o Avião de Bombardeiro Tático
-U15;Tac;14o Avião de Bombardeiro Tático
-U15;Tac;15o Avião de Bombardeiro Tático
-U15;TP;1o Flotilha de Navio de Transporte
-U15;TP;2o Flotilha de Navio de Transporte
-U15;TP;3o Flotilha de Navio de Transporte
-U15;TP;4o Flotilha de Navio de Transporte
-U15;TP;5o Flotilha de Navio de Transporte
-U15;TP;6o Flotilha de Navio de Transporte
-U15;TP;7o Flotilha de Navio de Transporte
-U15;TP;8o Flotilha de Navio de Transporte
-U15;TP;9o Flotilha de Navio de Transporte
-U15;TP;10o Flotilha de Navio de Transporte
-U15;TP;11o Flotilha de Navio de Transporte
-U15;TP;12o Flotilha de Navio de Transporte
-U15;TP;13o Flotilha de Navio de Transporte
-U15;TP;14o Flotilha de Navio de Transporte
-U15;TP;15o Flotilha de Navio de Transporte
-U15;Trp;1o Avião de Transporte
-U15;Trp;2o Avião de Transporte
-U15;Trp;3o Avião de Transporte
-U15;Trp;4o Avião de Transporte
-U15;Trp;5o Avião de Transporte
+U15;Inf;1st Infantry Division 'Cossacks'
+U15;Inf;2nd Infantry Division 'Skullcrushers'
+U15;Inf;3rd Infantry Division 'Kingfish's Finest'
+U15;Inf;4th Infantry Division 'Bayou Rangers'
+U15;Inf;5th Infantry Division 'Spirit of 1815'
+U15;Inf;6th Infantry Division 'Les Cajuns'
+U15;Inf;7th Infantry Division 'White Camelia'
+U15;Inf;8th Infantry Division
+U15;Inf;9th Infantry Division
+U15;Inf;10th Infantry Division
+U15;Gar;1st Infantry Division 'Cossacks'
+U15;Gar;2nd Infantry Division 'Skullcrushers'
+U15;Gar;3rd Infantry Division 'Kingfish's Finest'
+U15;Gar;4th Infantry Division 'Bayou Rangers'
+U15;Gar;5th Infantry Division 'Spirit of 1815'
+U15;Gar;6th Infantry Division 'Les Cajuns'
+U15;Gar;7th Infantry Division 'White Camelia'
+U15;Gar;8th Infantry Division
+U15;Gar;9th Infantry Division
+U15;Gar;10th Infantry Division
+U15;Cav;1st Cavalry Division
+U15;Cav;2nd Cavalry Division
+U15;Cav;3rd Cavalry Division
+U15;Cav;4th Cavalry Division
+U15;Cav;5th Cavalry Division
+U15;Cav;6th Cavalry Division
+U15;Cav;7th Cavalry Division
+U15;Cav;8th Cavalry Division
+U15;Cav;9th Cavalry Division
+U15;Cav;10th Cavalry Division
+U15;Mot;1st Infantry Division 'Cossacks'
+U15;Mot;2nd Infantry Division 'Skullcrushers'
+U15;Mot;3rd Infantry Division 'Kingfish's Finest'
+U15;Mot;4th Infantry Division 'Bayou Rangers'
+U15;Mot;5th Infantry Division 'Spirit of 1815'
+U15;Mot;6th Infantry Division 'Les Cajuns'
+U15;Mot;7th Infantry Division 'White Camelia'
+U15;Mot;8th Infantry Division
+U15;Mot;9th Infantry Division
+U15;Mot;10th Infantry Division
+U15;Mec;1st Infantry Division 'Cossacks'
+U15;Mec;2nd Infantry Division 'Skullcrushers'
+U15;Mec;3rd Infantry Division 'Kingfish's Finest'
+U15;Mec;4th Infantry Division 'Bayou Rangers'
+U15;Mec;5th Infantry Division 'Spirit of 1815'
+U15;Mec;6th Infantry Division 'Les Cajuns'
+U15;Mec;7th Infantry Division 'White Camelia'
+U15;Mec;8th Infantry Division
+U15;Mec;9th Infantry Division
+U15;Mec;10th Infantry Division
+U15;Mil;1st Infantry Division 'Cossacks'
+U15;Mil;2nd Infantry Division 'Skullcrushers'
+U15;Mil;3rd Infantry Division 'Kingfish's Finest'
+U15;Mil;4th Infantry Division 'Bayou Rangers'
+U15;Mil;5th Infantry Division 'Spirit of 1815'
+U15;Mil;6th Infantry Division 'Les Cajuns'
+U15;Mil;7th Infantry Division 'White Camelia'
+U15;Mil;8th Infantry Division
+U15;Mil;9th Infantry Division
+U15;Mil;10th Infantry Division
+U15;Fig;1st LA Fighter Wing
+U15;Fig;2nd LA Fighter Wing
+U15;Fig;3rd LA Fighter Wing
+U15;Fig;4th LA Fighter Wing
+U15;Fig;5th LA Fighter Wing
+U15;Fig;6th LA Fighter Wing
+U15;Int F;1st LA Fighter Wing
+U15;Int F;2nd LA Fighter Wing
+U15;Int F;3rd LA Fighter Wing
+U15;Int F;4th LA Fighter Wing
+U15;Int F;5th LA Fighter Wing
+U15;Int F;6th LA Fighter Wing
+U15;50;Louisiana Aero Club
+U15;BB;New Orleans
+U15;BB;Baton Rouge
+U15;BB;Shreveport
+U15;BB;Alexandria
+U15;BC;New Orleans
+U15;BC;Baton Rouge
+U15;BC;Shreveport
+U15;BC;Alexandria
+U15;CA;New Orleans
+U15;CA;Baton Rouge
+U15;CA;Shreveport
+U15;CA;Alexandria
+U15;CL;New Orleans
+U15;CL;Baton Rouge
+U15;CL;Shreveport
+U15;CL;Alexandria
+U15;DD;Destroyer Division 1
+U15;DD;Destroyer Division 2
+U15;DD;Destroyer Division 3
+U15;DD;Destroyer Division 4
+U15;DD;Destroyer Division 5
+U15;45;1st Frigate Squadron
+U15;45;2nd Frigate Squadron
+U15;45;3rd Frigate Squadron
+U15;45;4th Frigate Squadron
+U15;45;5th Frigate Squadron
+U15;46;New Orleans
+U15;46;Baton Rouge
+U15;46;Shreveport
+U15;46;Alexandria
 U17;27;BNS Aster
 U17;27;BNS Bellis
 U17;27;BNS Crocus
@@ -75116,6 +75825,7 @@ U18;Mec;7. Schnelledivision
 U18;Mec;8. Schnelledivision
 U18;Mec;9. Schnelledivision
 U18;Mec;10. Schnelledivision
+U18;Mil;Welfenlegion
 U18;Mil;1. Landesschützendivision
 U18;Mil;2. Landesschützendivision
 U18;Mil;3. Landesschützendivision
@@ -75215,6 +75925,14 @@ U18;Trp;Transport Fliegerdivision 7
 U18;Trp;Transport Fliegerdivision 8
 U18;Trp;Transport Fliegerdivision 9
 U18;Trp;Transport Fliegerdivision 10
+U18;BB;SMS Arentschildt
+U18;BB;SMS König Georg V
+U18;BB;SMS Windthorst
+U18;BB;SMS Von der Decken
+U18;CA;SMS Celle
+U18;CA;SMS Bremerhaven
+U18;CA;SMS Göttingen
+U18;CA;SMS Braunschweig
 U19;27;KNM Uredd
 U19;27;KNM Ula
 U19;27;KNM Utsira
@@ -80419,6 +81137,11 @@ U35;Trp;Grupo n.7 de Transporte
 U35;Trp;Grupo n.8 de Transporte
 U35;Trp;Grupo n.9 de Transporte
 U35;Trp;Grupo n.10 de Transporte
+U56;BB;Immacolata Concezione
+U56;BC;Immacolata Concezione
+U56;CA;Immacolata Concezione
+U56;CL;Immacolata Concezione
+U56;CV;Immacolata Concezione
 U57;HQ;Cuartel General 1er Ejército
 U57;HQ;Cuartel General 2o Ejército
 U57;HQ;Cuartel General 3er Ejército
@@ -82697,12 +83420,29 @@ U72;TP;12th NVPN Transport Flotilla
 U72;TP;13th NVPN Transport Flotilla
 U72;TP;14th NVPN Transport Flotilla
 U72;TP;15th NVPN Transport Flotilla
+U89;HQ;Jamaican Army
+U89;Inf;1st Infantry Division
+U89;Inf;2nd Infantry Division
+U89;Gar;1st Infantry Division
+U89;Gar;2nd Infantry Division
+U89;Mil;1st Infantry Division
+U89;Mil;2nd Infantry Division
+U89;BB;Samuel Sharpe
+U89;BB;Paul Bogle
+U89;BC;Samuel Sharpe
+U89;BC;Paul Bogle
+U89;CA;Samuel Sharpe
+U89;CA;Paul Bogle
+U89;CL;Samuel Sharpe
+U89;CL;Paul Bogle
+U89;CV;Samuel Sharpe
+U89;CV;Paul Bogle
 UKR;HQ;1. Ukrayina Armiya
 UKR;HQ;2. Ukrayina Armiya
 UKR;HQ;3. Ukrayina Armiya
 UKR;HQ;4. Ukrayina Armiya
 UKR;HQ;5. Ukrayina Armiya
-UKR;Inf;1. 'Ukrayina ' Strelk. Div.
+UKR;Inf;1. 'Ukrayina' Strelk. Div.
 UKR;Inf;2. 'Kievskaya' Strelk. Div.
 UKR;Inf;3. 'Dnepropetrov.' Strelk.
 UKR;Inf;10. Ukrayina Strelkovaya Diviziya
@@ -83513,6 +84253,10 @@ USA;HQ;7th Army
 USA;HQ;8th Army
 USA;HQ;9th Army
 USA;HQ;10th Army
+USA;HQ;11th Army
+USA;HQ;12th Army
+USA;HQ;13th Army
+USA;HQ;14th Army
 USA;HQ;15th Army
 USA;HQ;1st Airborne Army
 USA;HQ;6th Army Group
@@ -83521,7 +84265,7 @@ USA;HQ;15th Army Group
 USA;Inf;1st Infantry Division 'Big Red One'
 USA;Inf;2nd Infantry Division 'Indianhead'
 USA;Inf;3rd Infantry Division 'Rock of the Mississippi'
-USA;Inf;44th Infantry Division
+USA;Inf;44th Infantry Division 'Guardians of the Potomac'
 USA;Inf;6th Infantry Division 'Sightseeing Sixth'
 USA;Inf;5th Infantry Division 'Red Devils'
 USA;Inf;4th Infantry Division 'Ivy'
@@ -84101,7 +84845,7 @@ USA;Gar;397th Infantry Division
 USA;Gar;398th Infantry Division
 USA;Gar;399th Infantry Division
 USA;Cav;1st Cavalry Division 'First Team'
-USA;Cav;2nd Cavalry Division (Colored)
+USA;Cav;2nd Cavalry Division
 USA;Cav;3rd Cavalry Division
 USA;Cav;21st Cavalry Division
 USA;Cav;22nd Cavalry Division
@@ -84122,8 +84866,8 @@ USA;Cav;29th Cavalry Division
 USA;Cav;30th Cavalry Division
 USA;Mec;1st Infantry Division 'Big Red One'
 USA;Mec;2nd Infantry Division 'Indianhead'
-USA;Mec;3rd Infantry Division 'Rock of the Marne'
-USA;Mec;44th Infantry Division
+USA;Mec;3rd Infantry Division 'Rock of the Mississippi'
+USA;Mec;44th Infantry Division 'Guardians of the Potomac'
 USA;Mec;6th Infantry Division 'Sightseeing Sixth'
 USA;Mec;5th Infantry Division 'Red Devils'
 USA;Mec;4th Infantry Division 'Ivy'
@@ -84505,7 +85249,7 @@ USA;Mec;399th Infantry Division
 USA;Mot;1st Infantry Division 'Big Red One'
 USA;Mot;2nd Infantry Division 'Indianhead'
 USA;Mot;3rd Infantry Division 'Rock of the Mississippi'
-USA;Mot;44th Infantry Division
+USA;Mot;44th Infantry Division 'Guardians of the Potomac'
 USA;Mot;6th Infantry Division 'Sightseeing Sixth'
 USA;Mot;5th Infantry Division 'Red Devils'
 USA;Mot;4th Infantry Division 'Ivy'
@@ -84887,7 +85631,7 @@ USA;Mot;399th Infantry Division
 USA;L ARM;1st Armored Division 'Old Ironsides'
 USA;L ARM;2nd Armored Division 'Hell on Wheels'
 USA;L ARM;3rd Armored Division 'Spearhead'
-USA;L ARM;4th Armored Division
+USA;L ARM;4th Armored Division 'Barrel Roll'
 USA;L ARM;5th Armored Division 'Victory'
 USA;L ARM;6th Armored Division 'Super Sixth'
 USA;L ARM;7th Armored Division 'Lucky Seventh'
@@ -84900,7 +85644,7 @@ USA;L ARM;13th Armored Division 'Black Cat'
 USA;L ARM;14th Armored Division 'Liberator'
 USA;L ARM;16th Armored Division 'Armadillo'
 USA;L ARM;20th Armored Division 'Armoraiders'
-USA;L ARM;15th Armored Division
+USA;L ARM;15th Armored Division 'Iron Hammers
 USA;L ARM;27th Armored Division 'Empire'
 USA;L ARM;30th Armored Division 'Volunteers'
 USA;L ARM;40th Armored Division 'Grizzly'
@@ -84934,7 +85678,7 @@ USA;L ARM;74th Armored Division
 USA;Arm;1st Armored Division 'Old Ironsides'
 USA;Arm;2nd Armored Division 'Hell on Wheels'
 USA;Arm;3rd Armored Division 'Spearhead'
-USA;Arm;4th Armored Division
+USA;Arm;4th Armored Division 'Barrel Roll'
 USA;Arm;5th Armored Division 'Victory'
 USA;Arm;6th Armored Division 'Super Sixth'
 USA;Arm;7th Armored Division 'Lucky Seventh'
@@ -84947,7 +85691,7 @@ USA;Arm;13th Armored Division 'Black Cat'
 USA;Arm;14th Armored Division 'Liberator'
 USA;Arm;16th Armored Division 'Armadillo'
 USA;Arm;20th Armored Division 'Armoraiders'
-USA;Arm;15th Armored Division
+USA;Arm;15th Armored Division 'Iron Hammers'
 USA;Arm;27th Armored Division 'Empire'
 USA;Arm;30th Armored Division 'Volunteers'
 USA;Arm;40th Armored Division 'Grizzly'
@@ -85079,13 +85823,13 @@ USA;Mtn;288th Mountain Division
 USA;Mil;238th '1776' Division
 USA;Mil;365th 'Patriot' Division
 USA;Mil;183rd 'Harlem' Division
-USA;Mil;160th 'Freedom!' Division
+USA;Mil;160th 'Union!' Division
 USA;Mil;240th 'Minuteman' Division
 USA;Mil;128th 'Brooklyn' Division
 USA;Mil;226th 'Alamo' Division
 USA;Mil;239th 'Detroit' Division
 USA;Mil;131th 'Lincoln' Division
-USA;Mil;185th 'Ragin' Cajuns' Division
+USA;Mil;185th 'All American' Division
 USA;Mil;168th 'Lady Liberty' Division
 USA;Mil;248th 'Jayhawkers' Division
 USA;Mil;229th 'Philadelphia' Division
@@ -85107,7 +85851,7 @@ USA;Mil;5th California Marine
 USA;Mil;6th Pennsylvania Militia
 USA;Mil;7th Illinois Militia
 USA;Mil;8th Ohio Militia
-USA;Mil;9th Texas Militia
+USA;Mil;9th Houston Militia
 USA;Mil;10th Michigan Militia
 USA;Mil;11th Massachusetts Militia
 USA;Mil;12th Missouri Militia
@@ -85620,7 +86364,7 @@ USA;BC;USS Warren
 USA;BC;USS Trumbull
 USA;BC;USS Congress
 USA;BC;USS Justice
-USA;BC;USS Potomac
+USA;BC;USS Samoa
 USA;BC;USS Lexington
 USA;BC;USS Constellation
 USA;BC;USS Saratoga
@@ -85628,8 +86372,7 @@ USA;BC;USS Ranger
 USA;BC;USS Constitution
 USA;BC;USS United States
 USA;BC;USS Sandwich Islands
-USA;CV;USS Remembrance 
-USA;CV;USS Sandwich Islands
+USA;CV;USS Pearl Harbor
 USA;CV;USS Vengeance
 USA;CV;USS Lexington
 USA;CV;USS Concord
@@ -85637,14 +86380,19 @@ USA;CV;USS Saratoga
 USA;CV;USS Ranger
 USA;CV;USS Yorktown
 USA;CV;USS Enterprise
+USA;CV;USS Remembrance
+USA;CV;USS Sandwich Islands
 USA;CV;USS Wasp
 USA;CV;USS Hornet
 USA;CV;USS Essex
 USA;CV;USS Intrepid
+USA;CV;USS Ethan Allen
+USA;CV;USS Paul Revere
 USA;CV;USS Benjamin Franklin
 USA;CV;USS Ticonderoga
-USA;CV;USS Randolph
+USA;CV;USS Breed's Hill
 USA;CV;USS Bunker Hill
+USA;CV;USS Dorchester Heights
 USA;CV;USS John Hancock
 USA;CV;USS Bennington
 USA;CV;USS Bon Homme Richard
@@ -85656,9 +86404,8 @@ USA;CV;USS Three Navies
 USA;CV;USS Shangri-La
 USA;CV;USS Lake Champlain
 USA;CV;USS Midway
-USA;CV;USS Alfed E. Smith
+USA;CV;USS Alfred E. Smith
 USA;CV;USS Patriot
-USA;CV;USS Pearl Harbor
 USA;CV;USS United States
 USA;CV;USS Forrestal
 USA;CV;USS Saratoga
@@ -85669,7 +86416,7 @@ USA;CV;USS Theodore Roosevelt
 USA;CV;USS Alfred T. Mahan
 USA;CV;USS Samuel J. Tilden
 USA;CV;USS Quincy Adams
-USA;CV;USS James T. Kirk
+USA;CV;USS Upton Sinclair
 USA;CV;USS Eagle
 USA;CV;USS Falcon
 USA;CV;USS Hawk
@@ -85693,30 +86440,30 @@ USA;27;USS Suwannee
 USA;27;USS Chenango
 USA;27;USS Santee
 USA;27;USS Charger
-USA;27;USS Casablanca
+USA;27;USS Veracruz
 USA;27;USS Liscome Bay
-USA;27;USS Anzio
-USA;27;USS Corregidor
+USA;27;USS Palo Alto
+USA;27;USS Mora
 USA;27;USS Mission Bay
-USA;27;USS Guadalcanal
-USA;27;USS Manila Bay
+USA;27;USS Chelsea Creek
+USA;27;USS Philippi
 USA;27;USS Natoma Bay
 USA;27;USS Fort Drum
 USA;27;USS Tripoli
 USA;27;USS Wake Island
 USA;27;USS White Plains
-USA;27;USS Solomons
+USA;27;USS Punta Sombrero
 USA;27;USS Kalinin Bay
 USA;27;USS Kasaan Bay
 USA;27;USS Fanshaw Bay
 USA;27;USS Kitkun Bay
-USA;27;USS Tulagi
+USA;27;USS Manzanillo
 USA;27;USS Gambier Bay
 USA;27;USS Nehenta Bay
 USA;27;USS Hoggatt Bay
 USA;27;USS Kadasahan Bay
-USA;27;USS Marcus Island
-USA;27;USS Savo Island
+USA;27;USS Sequalteplan
+USA;27;USS Todos Santos
 USA;27;USS Ommaney Bay
 USA;27;USS Petrof Bay
 USA;27;USS Rudyerd Bay
@@ -85726,49 +86473,49 @@ USA;27;USS Shamrock Bay
 USA;27;USS Shipley Bay
 USA;27;USS Sitkoh Bay
 USA;27;USS Steamer Bay
-USA;27;USS Cape Esperance
+USA;27;USS Lake Erie
 USA;27;USS Takanis Bay
 USA;27;USS Thetis Bay
-USA;27;USS Makassar Strait
+USA;27;USS Ivy Mountain
 USA;27;USS Windham Bay
-USA;27;USS Makin Island
-USA;27;USS Lunga Point
+USA;27;USS Middle Creek
+USA;27;USS Great Bridge
 USA;27;USS Bismarck Sea
 USA;27;USS Salamaua
-USA;27;USS Hollandia
-USA;27;USS Kwajalein
-USA;27;USS Admiralty Islands
-USA;27;USS Bougainville
-USA;27;USS Matanikau
-USA;27;USS Attu
-USA;27;USS Roi
-USA;27;USS Munda
+USA;27;USS Rich Mountain
+USA;27;USS Whitefish Bay
+USA;27;USS Sunset Bay
+USA;27;USS Batchawana Bay
+USA;27;USS Goulais Bay
+USA;27;USS Fort St. Jean
+USA;27;USS Saint-Pierre
+USA;27;USS Kettle Creek
 USA;27;USS Commencement Bay
-USA;27;USS Gilbert Islands
-USA;27;USS Kula Gulf
+USA;27;USS Sullivan's Island
+USA;27;USS Geary
 USA;27;USS Cape Gloucester
 USA;27;USS Salerno Bay
 USA;27;USS Vella Gulf
 USA;27;USS Siboney
 USA;27;USS Puget Sound
-USA;27;USS Rendova
-USA;27;USS Bairoka
+USA;27;USS San José del Cabo
+USA;27;USS Puebla
 USA;27;USS Badoeng Strait
 USA;27;USS Saidor
-USA;27;USS Smith's Point
+USA;27;USS Point Lookout
 USA;27;USS Point Cruz
-USA;27;USS Mindoro
-USA;27;USS Rabaul
-USA;27;USS Palau
-USA;27;USS Tinian
-USA;27;USS Bastogne
-USA;27;USS Eniwetok
-USA;27;USS Lingayen
-USA;27;USS Okinawa
-USA;27;USS Iwo Jima
-USA;27;USS Inchon
-USA;27;USS Tarawa
-USA;27;USS Peleliu
+USA;27;USS Mill Springs
+USA;27;USS La Paz
+USA;27;USS Matamoros
+USA;27;USS Guaymas
+USA;27;USS Edgar's Lane
+USA;27;USS Roanoke Island
+USA;27;USS Fort Donelson
+USA;27;USS White Marsh
+USA;27;USS Red Bank
+USA;27;USS Plattsburgh
+USA;27;USS Fort Henry
+USA;27;USS Bemis Heights
 USA;NS;USS Nautilus
 USA;NS;USS Turtle
 USA;NS;USS Seawolf
@@ -85850,17 +86597,37 @@ USA;NS;USS Bass
 USA;NS;USS Perch
 USA;NS;USS Lionfish
 USA;NS;USS Rockfish
+USA;29;USS Barracuda
+USA;29;USS Bass
+USA;29;USS Bonito
+USA;29;USS Greyback
+USA;29;USS Growler
+USA;29;USS Halibut
+USA;29;USS Triton
+USA;29;USS Sailfish
+USA;29;USS Albacore
+USA;29;USS Dolphin
+USA;29;USS Mackeral
+USA;29;USS Marlin
+USA;29;USS Darter
+USA;29;USS Salmon
+USA;29;USS Steelhead
+USA;29;USS Pike
 USA;31;USS Independence
 USA;31;USS Princeton
+USA;31;USS Chapultepec
 USA;31;USS Teton River
 USA;31;USS Fort McHenry
 USA;31;USS Valley Forge
+USA;31;USS Friedrich von Steuben
 USA;31;USS Liberty
+USA;31;USS Patriot
 USA;31;USS Cowpens
 USA;31;USS Monterey
 USA;31;USS Langley
 USA;31;USS Cabot
 USA;31;USS Reliant
+USA;31;USS Defiant
 USA;31;USS Oahu
 USA;31;USS Wright
 USA;31;USS North Point
@@ -85872,7 +86639,7 @@ USA;31;USS Thames
 USA;31;USS Caulk's Field
 USA;31;USS La Guaira
 USA;31;USS Fayal
-USA;31;USS Chapultepec
+USA;31;USS Barbet
 USA;31;USS Puebla
 USA;31;USS Atlixco
 USA;31;USS Veracruz
@@ -85882,7 +86649,7 @@ USA;31;USS Huamantla
 USA;CA;USS Grand Rapids
 USA;CA;USS Philadelphia
 USA;CA;USS New York City
-USA;CA;USS Salt Lake City
+USA;CA;USS Annapolis
 USA;CA;USS Northampton
 USA;CA;USS Chester
 USA;CA;USS Louisville
@@ -85894,6 +86661,7 @@ USA;CA;USS Indianapolis
 USA;CA;USS Trenton
 USA;CA;USS Astoria
 USA;CA;USS Minneapolis
+USA;CA;USS St Paul
 USA;CA;USS Springfield
 USA;CA;USS Quincy
 USA;CA;USS Vincennes
@@ -85901,10 +86669,9 @@ USA;CA;USS San Francisco
 USA;CA;USS Wichita
 USA;CA;USS Baltimore
 USA;CA;USS Boston
-USA;CA;USS Prinz Eugen
 USA;CA;USS Quincy
 USA;CA;USS Pittsburgh
-USA;CA;USS St Paul
+USA;CA;USS Pierre
 USA;CA;USS Bremerton
 USA;CA;USS Columbus
 USA;CA;USS Fall River
@@ -85914,6 +86681,7 @@ USA;CA;USS Helena
 USA;CA;USS Oregon City
 USA;CA;USS Albany
 USA;CA;USS Toledo
+USA;CA;USS Erie
 USA;CA;USS Rochester
 USA;CA;USS Cambridge
 USA;CA;USS Bridgeport
@@ -85931,23 +86699,22 @@ USA;CL;USS Manhattan
 USA;CL;USS Queens
 USA;CL;USS Bronx
 USA;CL;USS Staten Island
-USA;CL;USS Green Bay
 USA;CL;USS Dayton
 USA;CL;USS Cody
 USA;CL;USS Allentown
 USA;CL;USS Seattle
 USA;CL;USS Yellowstone
 USA;CL;USS Greenwich
-USA;CL;USS Wood
-USA;CL;USS Custer
+USA;CL;USS Woodstown
+USA;CL;USS Bar Harbor
 USA;CL;USS Phoenix
 USA;CL;USS Boise
 USA;CL;USS St Louis
 USA;CL;USS Helena
-USA;CL;USS Sherman 
+USA;CL;USS Johnstown 
 USA;CL;USS Portland
 USA;CL;USS San Diego
-USA;CL;USS Honolulu
+USA;CL;USS Dover
 USA;CL;USS Oakland
 USA;CL;USS Cleveland
 USA;CL;USS Columbia
@@ -85959,7 +86726,7 @@ USA;CL;USS Douglass
 USA;CL;USS Perry
 USA;CL;USS Jones
 USA;CL;USS Decatur
-USA;CL;USS New London
+USA;CL;USS Willmington
 USA;CL;USS Flint
 USA;CL;USS Vincennes
 USA;CL;USS Pasadena
@@ -85986,7 +86753,7 @@ USA;CL;USS Worcester
 USA;CL;USS Mayo
 USA;CL;USS Eugene
 USA;CL;USS New Haven
-USA;CL;USS Scott
+USA;CL;USS Scottsdale
 USA;CL;USS Buffalo
 USA;CL;USS Youngstown
 USA;CL;USS Newark
@@ -85998,13 +86765,129 @@ USA;CL;USS Gary
 USA;CL;USS Omaha
 USA;CL;USS Milwaukee
 USA;CL;USS Detroit
-USA;CL;USS Funston
+USA;CL;USS Deer Point
 USA;CL;USS Camden
 USA;CL;USS Cincinnati
 USA;CL;USS Anderson
 USA;CL;USS Trenton
 USA;CL;USS Marblehead
-USA;CL;USS Johnson
+USA;CL;USS Johnsonville
+USA;46;USS Charles F. Adams
+USA;46;USS Edward E. Gyatt
+USA;46;USS John King
+USA;46;USS James Lawrence
+USA;46;USS Claude V. Ricketts
+USA;46;USS Joshua Barney
+USA;46;USS Josephus Daniels
+USA;46;USS Henry B. Wilson
+USA;46;USS Lynde D. McCormick
+USA;46;USS William T. Sampson
+USA;46;USS Samuel S. Robinson
+USA;46;USS William R. Hoel
+USA;46;USS Joseph Strauss 
+USA;46;USS Louis M. Goldsborough
+USA;46;USS Edward L. Cochrane
+USA;46;USS Benjamin Stoddert 
+USA;46;USS Samuel Carsten
+USA;46;USS Raymond A. Spruance
+USA;46;USS Paul F. Foster
+USA;46;USS Thomas C. Kinkaid
+USA;46;USS Henry K. Hewitt
+USA;46;USS Christopher Pike
+USA;46;USS Arthur J. Elliot II
+USA;46;USS Arthur W. Radford
+USA;46;USS Carl J. Peterson
+USA;46;USS Wayne M. Caron
+USA;46;USS Jesse B. Oldendorf
+USA;46;USS John Young
+USA;46;USS John Rodgers
+USA;46;USS Jeremiah O'Brien 
+USA;46;USS Felix B. Stump
+USA;46;USS Richard L. Conolly
+USA;46;USS Frederick Moosbrugger 
+USA;46;USS James Nicholson
+USA;46;USS William B. Cushing
+USA;46;USS Harry W. Hill
+USA;46;USS Presley O'Bannon
+USA;46;USS Jonathan Thorn
+USA;46;USS Morton Deyo
+USA;46;USS Royal E. Ingersoll
+USA;46;USS James Fife
+USA;46;USS Oliver Hazard Perry
+USA;46;USS William T. Sampson
+USA;46;USS Samuel S. Robinson
+USA;46;USS Frank J. Fletcher
+USA;46;USS Robert W. Hayler
+USA;46;USS Isaac C. Kidd
+USA;46;USS Daniel J. Callaghan
+USA;46;USS Norman N. Scott 
+USA;46;USS Theodore E. Chandler
+USA;46;USS David Farragut
+USA;46;USS John. L. Worden
+USA;46;USS Hugh Rodman
+USA;46;USS Samuel B. Roberts
+USA;46;USS John V. Johnston
+USA;46;USS Reuben James
+USA;46;USS John Pope
+USA;46;USS Henry A. Clemson
+USA;46;USS Richard Dale
+USA;46;USS Arleigh Burke
+USA;46;USS John Barry
+USA;46;USS Edward C. Benfold
+USA;46;USS Robert B. Carney
+USA;46;USS Darrell S. Cole
+USA;46;USS Curtis Wilbur
+USA;46;USS William C. Fitzgerald
+USA;46;USS John Paul Jones
+USA;46;USS George Dewey
+USA;46;USS Forrest Sherman
+USA;46;USS James B. Stockdale
+USA;46;USS Jason Dunham
+USA;46;USS William P. Lawrence
+USA;46;USS William F. Halsey
+USA;46;USS Nathan James
+USA;47;USS John Ericsson
+USA;47;USS Charles Wilkes
+USA;47;USS Thomas A. Edison
+USA;47;USS Ralph Earle
+USA;47;USS Howard Stark
+USA;47;USS Augustus C. Ludlow
+USA;47;USS Melancthon B. Woolsey
+USA;47;USS Allen M. Sumner
+USA;47;USS Bartlett Laffey
+USA;47;USS Jonathan Meredith
+USA;47;USS John Trippe
+USA;47;USS James Buck
+USA;47;USS William S. Bush
+USA;47;USS James R. Caldwell
+USA;47;USS Anthony E. Stark
+USA;47;USS Harold Jordan
+USA;47;USS Nathan E. Cook
+USA;47;USS Richard Dale
+USA;47;USS John R. Monaghan
+USA;47;USS Samuel W. Bryant
+USA;47;USS Charles F. Hughes
+USA;47;USS William V. Pratt
+USA;47;USS Albert W. Grant
+USA;47;USS Aaron Ward
+USA;47;USS Thomas E. Fraser
+USA;47;USS William H. Allen
+USA;47;USS John Manley
+USA;47;USS Joseph A. Gainard
+USA;47;USS John S. Blue
+USA;47;USS William B. Cushing
+USA;47;USS Nobile E. Irwin
+USA;47;USS Reigart B. Lowry
+USA;47;USS Charles J. Badger
+USA;47;USS Samuel Chew
+USA;47;USS Fred T. Berry
+USA;47;USS Tunis Craven
+USA;47;USS George Belknap
+USA;47;USS David Conner
+USA;47;USS Richard J. Gatling
+USA;47;USS John A. Bole
+USA;47;USS John G. Morrison
+USA;47;USS Elisha K. Kane 
 USA;DD;Destroyer Division 1
 USA;DD;Destroyer Division 2
 USA;DD;Destroyer Division 3
@@ -86207,7 +87090,7 @@ USA;SS;Submarine Division 99
 USA;SS;Submarine Division 100
 USA;TP;Abner Doubleday Flotilla
 USA;TP;Charles Dawes Flotilla
-USA;TP;William B. Travis Flotilla
+USA;TP;Newton Knight Flotilla
 USA;TP;Peter Stuyvesant Flotilla
 USA;TP;Leonard Wood Flotilla
 USA;TP;Casimir Pulaski Flotilla
@@ -86227,6 +87110,7 @@ USA;TP;George A. Custer Flotilla
 USA;TP;August Belmont Flotilla
 USA;TP;Emily Dickinson Flotilla
 USA;TP;Molly Pitcher Flotilla
+USA;TP;Julia Ward Howe Flotilla
 USA;TP;Antonin Dvorak Flotilla
 USA;TP;Upton Sinclair Flotilla
 USA;TP;Alexander J. Dallas Flotilla
@@ -86348,7 +87232,6 @@ USA;TP;Henry Van Dyke Flotilla
 USA;TP;James Manning Flotilla
 USA;TP;Henry Clay Flotilla
 USA;TP;Meriwether Lewis Flotilla
-USA;TP;William Clark Flotilla
 USA;TP;1st Transport Flotilla
 USA;TP;2nd Transport Flotilla
 USA;TP;3rd Transport Flotilla

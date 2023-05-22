@@ -1,0 +1,41 @@
+# ID range 2500 - ?
+
+event = {
+	id = 2500
+	random = no
+	country = GER
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		government = democratic # 
+		atwar = no # 
+		}
+
+	name = "German parliamentary election, 1934"
+	desc = "The German parliamentary election of 1934 was the second in which the Great Depression played a major role. The last election had seen the parliament unable to form a government, and Emperor Wilhelm II had appointed an apolitical figure instead in the form of Otto Meissner. With him utterly disinterested in staying Chancellor any longer, the three blocks competing for votes were on roughly equal footing with each other when the election day arrived on June 15th 1934."
+
+	date = { day = 15 month = june year = 1934 }
+
+	action_a = {
+		ai_chance = 1
+		name = "Conservative coalition government"
+		command = { type = dissent value = -1 }
+		}
+	action_b = {
+		ai_chance = 1
+		name = "Centrist coalition government"
+		command = { type = dissent value = 1 }	
+		}
+	action_c = {
+		ai_chance = 98
+		name = "Social Democratic Party government"
+		command = { type = headofstate which = 269 } # Wilhelm II (SL version)
+		command = { type = headofgovernment which = 271 } # Carl Severing
+		command = { type = foreignminister which = 272 } # Otto Wels
+		command = { type = ministerofsecurity which = 273 } # Gustav Radbruch
+		command = { type = set_domestic which = political_left value = 8 }
+		command = { type = change_policy which = freedom value = 1 }
+		command = { type = dissent value = 3 }	
+		}
+	}

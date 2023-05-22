@@ -25,7 +25,7 @@ BRA;Brazil;Brйsil;Brasile;Brasil;Brasilien;Brazylia;;Бразилия;;;X
 BRU;Brunei;Brunei;Brunei;Brunei;Brunei;Brunei;;Бруней;;;x
 BUL;Bulgaria;Bulgarie;Bulgaria;Bulgaria;Bulgarien;Buіgaria;;Болгария;;;X
 BUR;Burma;Birmanie;Birmania;Birmania;Burma;Birma;;Бирма;;;X
-CAL;California;Californie;California;California;Kalifornien;Kalifornia;;Калифорния;;;X
+CAL;Western States of America;Californie;California;California;Westliche Staaten von Amerika;Kalifornia;;Калифорния;;;X
 CAM;Cameroon;Cameroun;Camerun;Camerъn;Kamerun;Kamerun;;Камерун;;;X
 CAN;Canada;Canada;Canada;Canadб;Kanada;Kanada;;Канада;;;X
 CGX;Kwangsi;Kwangsi;Kwangsi;Kwangsi;Kwangsi;Kwangsi;;Клика Гуанси;;;X
@@ -37,7 +37,7 @@ COL;Colombia;Colombie;Colombia;Colombia;Kolumbien;Kolumbia;;Колумбия;;;X
 CON;Congo;Congo;Congo;El Congo;Kongo;Kongo;;Конго;;;X
 COS;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Kostaryka;;Коста-Рика;;;X
 CRO;Croatia;Croatie;Croazia;Croacia;Kroatien;Chorwacja;;Хорватия;;;X
-CSA;Confederate States ;Etats confйdйrйs;Stati Confederati;Estados Confederados;Konfцderierte Staaten;Konfederacja;;Конфедеративные штаты;;;X
+CSA;Confederate States;Etats confйdйrйs;Stati Confederati;Estados Confederados;Konfцderierte Staaten;Konfederacja;;Конфедеративные штаты;;;X
 CSX;Shansi;Shansi;Shansi;Shansi;Shansi;Shansi;;Шаньси;;;X
 CUB;Cuba;Cuba;Cuba;Cuba;Kuba;Kuba;;Куба;;;X
 CXB;Ma;Ma;Ma;Ma;Ma;Ma;;Северозап. земли Ма;;;X
@@ -122,7 +122,7 @@ POR;Portugal;Portugal;Portogallo;Portugal;Portugal;Portugalia;;Португалия;;;X
 PRI;Archangelsk Government;Gouvernement d'Archangelsk;Governo di Archangelsk;Primorsk;Primorsk;Archangielsk;;Приморье;;;X
 PRK;People's Republic of Korea;Rйpublique Populaire de Corйe;Repubblica popolare di Corea;Repъblica Popular de Corea;Volksrepublik Korea;KRLD;;Народная Республика Корея;;;X
 PRU;Peru;Pйrou;Perщ;Perъ;Peru;Peru;;Перу;;;X
-QUE;Republic of Quebec;Quйbec;Quebec;Quйbec;Quebec;Quebec;;Квебек;;;X
+QUE;Quebec;Quйbec;Quebec;Quйbec;Quebec;Quebec;;Квебек;;;X
 RHO;Rhodesia and Nyasaland;Rhodйsie et Nyassaland;Rhodesia e Nyasaland;Rhodesia y Nyasaland;Rhodesien und Njassaland;Rodezja i Niasa;Rodйsias e Niassalвndia;Родезия и Ньясаленда;;;X
 ROM;Romania;Roumanie;Romania;Rumania;Rumдnien;Rumunia;;Румыния;;;X
 RSI;Italian Social Republic;Rйpublique Sociale Italienne;Repubblica Sociale Italiana;Repъblica Socialista Italiana;Italienische Sozialrepublik;Wіoska Republika Socjalna;;Итальянская Соц. Респ.;;;X
@@ -174,18 +174,18 @@ U03;Indochinese Union;Union Indochinoise;Unione Indocinese;Indochinese Union;Ind
 U04;French Mandate for Syria and the Lebanon;Mandat Franзais en Syrie;Mandato francese della Siria;;Franzцsiches Mandat fьr Syrien;Francuski Mandat Syrii i Libanu;;Французский мандат Сирии и Ливана;;;X
 U05;Sikang;Sikang;Sikang;Sikang;Sikang;Sikang;;;;;X
 U06;Free City of Danzig;Ville Libre de Dantzig;Cittа Libera di Danzica;;Freie Stadt Danzig;Wolne Miasto Gdaсsk;;Свободный город Данциг;;;X
-#U07;The Programers Republic;La Rйpublique des Programmeurs;The Programers Republic;;The Programers Republic;Republika Programistуw;;Республика Программистов;;;X
+U07;Hawaii;Hawaii;Hawaii;;Hawaii;Hawaii;;Hawaii;;;X
 U08;Germany;Allemagne;Germania;Alemania;Deutsches Reich;Niemcy;;Германия;;;X
 U09;Austria-Hungary;Autriche-Hongrie;Austria-Ungheria;;Цsterreich-Ungarn;Austro-Wкgry;;Австро-Венгрия;;;X
-U10;Dutch Socialist Union;Union Socialiste Hollandaise;Unione Socialista Olandese;;Niederlдndische Sozialistische Union;Holenderski Zwi№zek Socjalistyczny;;Голландский Социалистический Союз;;;X
+U10;Deseret;Deseret;Deseret;Deseret;Deseret;Deseret;;Deseret;;;X
 U11;People's Republic of France;Rйpublique Populaire de France;Repubblica Popolare Francese;;Volksrepublik Frankreich;Francuska Republika Ludowa;;Французская Народная Республика;;;X
 U12;English Republic;Rйpublique d'Angleterre;Repubblica d'Inghilterra;;Englische Republik;Republika Angielska;;Английская Республика;;;X
 U13;Hungarian Socialist Republic;Rйpublique Socialiste de Hongrie;Repubblica Socialista d'Ungheria;;Ungarische Sozialistische Republik;Wкgierska Republika Socjalistyczna;;Венгерская Социалистическая Республика;;;X
 U14;Italian Union;Union Italienne;Unione Italiana;;Italienische Union;Zwi№zek Wіoski;;Итальянский Союз;;;X
-U15;Socialist Republic of Portugal;Rйpublique Socialiste du Portugal;Repubblica Socialista del Portogallo;;Sozialistische Republik Portugal;Portugalska Republika Socjalistyczna;;Португальская Социалистическая Республика;;;X
+U15;Louisiana;Rйpublique Socialiste du Portugal;Repubblica Socialista del Portogallo;;Sozialistische Republik Portugal;Portugalska Republika Socjalistyczna;;Португальская Социалистическая Республика;;;X
 U16;Austrian Democratic Republic;Rйpublique Dйmocratique d'Autriche;Repubblica Democratica Austriaca;;Цsterreichsche Demokratische Republik;Austriacka Republika Demokratyczna;;Австрийская Демократическая Республика;;;X
 U17;People's Republic of Belgium;Rйpublique Populaire de Belgique;Repubblica Popolare del Belgio;;Volksrepublik Belgien;Belgijska Republika Ludowa;;Бельгийская Народная Республика;;;X
-U18;Luxembourg;Luxembourg;Lussemburgo;;Luxemburg;Luksemburg;;Люксембург;;;X
+U18;Hanover;Hanovre;Lussemburgo;;Hannover;Luksemburg;;Люксембург;;;X
 U19;People's Republic of Norway;Rйpublique Populaire de Norvиge;Repubblica Popolare di Norvegia;;Volksrepublik Norwegen;Norweska Republika Ludowa;;Норвежская Народная Республика;;;X
 U20;Finnish Democratic Republic;Rйpublique Dйmocratique de Finlande;Repubblica Democratica Finlandese;;Finnische Demokratische Republik;Fiсska Republika Demokratyczna;;Финская Демократическая Республика;;;X
 U21;Swedish Socialist Union;Union Socialiste de Suиde;Unione Socialista Svedese;;Schwedische Sozialistische Union;Szwedzki Zwi№zek Socjalistyczny;;Шведский Социалистический Союз;;;X
@@ -580,7 +580,7 @@ AREA_OESTERBOTTEN;Oesterbotten;Oesterbotten;Oesterbotten;Oesterbotten;Цsterbotte
 AREA_OESTRA_SVEALAND;Oestra Svealand;Oestra Svealand;Oestra Svealand;Svealand oriental;Ostsvealand;Wschodni Svealand;;Восточный Свеаланд;;;X
 AREA_OEVRE_NORRLAND;Oevre Norrland;Oevre Norrland;Oevre Norrland;Norrland septentrional;Obernorrland;Oevre Norrland;;Внешний Норланд;;;X
 AREA_OHIO;Ohio;Ohio;Ohio;Ohio;Ohio;Ohio;;Огайо;;;X
-AREA_OKLAHOMA;Oklahoma;Oklahoma;Oklahoma;Oklahoma;Oklahoma;Oklahoma;;Оклахома;;;X
+AREA_OKLAHOMA;Sequoyah;Sequoyah;Sequoyah;Sequoyah;Sequoyah;Sequoyah;;Оклахома;;;X
 AREA_OMSK;Omsk;Omsk;Omsk;Omsk;Omsk;Omsk;;Омск;;;X
 AREA_ONTARIO;Ontario;Ontario;Ontario;Ontario;Ontario;Ontario;;Онтарио;;;X
 AREA_ORAN;Oran;Oran;Oran;Orбn;Oran;Oran;;Оран;;;X

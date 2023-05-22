@@ -1,12 +1,11 @@
 U28;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
 955001;Head of State;Omer Nishani;1933;1964;ST;Resigned Generalissimo;High;M32032;X
 955002;Head of State;Sejfulla Malëshova;1945;1964;ST;Popular Figurehead;High;M32050;X
 955003;Head of State;Enver Hoxha;1945;1964;ST;Ruthless Powermonger;High;M32051;X
 955004;Head of Government;Omer Nishani;1933;1964;ST;Silent Workhorse;High;M32032;X
 955005;Head of Government;Sejfulla Malëshova;1942;1964;ST;Naive Optimist;High;M32050;X
-955006;Head of Government;Enver Hoxha;1944;1964;ST;Local Tyrant;High;M32051;X
-955007;Foreign Minister;Omer Nishani;1933;1964;ST;Ideological Crusader;Very High;M32032;X
+955006;Head of Government;Enver Hoxha;1944;1964;ST;Local tyrant;High;M32051;X
+955007;Foreign Minister;Omer Nishani;1933;1964;ST;Ideological Crusader;Undying;M32032;X
 955008;Foreign Minister;Hassan Shqabi;1942;1964;ST;Iron Fisted Brute;High;M32077;X
 955009;Foreign Minister;Essad Pacha;1870;1964;ST;Apologetic Clerk;Medium;M32036;X
 955010;Minister of Armament;Essad Pacha;1870;1964;ST;Corrupt Kleptocrat;Medium;M32036;X

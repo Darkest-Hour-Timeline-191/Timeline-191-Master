@@ -1,5 +1,5 @@
-AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
+AST;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
 225001;Head of State;Isaac Alfred Isaacs;1933;1964;SC;Stern Imperialist;High;M56001;X
 225002;Head of Government;Joseph A. Lyons;1933;1964;SC;Flamboyant Tough Guy;High;M56002;X
 225003;Foreign Minister;George F. Pearce;1933;1964;SC;Great Compromiser;High;M56003;X
@@ -172,7 +172,7 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225171;Chief of Air Force;William Anderson;1940;1947;SC;Naval Aviation Doctrine;High;9738;X
 225172;Chief of Air Force;Donald Hardman;1947;1958;SC;Air Superiority Doctrine;High;9739;X
 225173;Chief of Air Force;John McCauley;1954;1958;SC;Air Superiority Doctrine;High;9740;X
-225174;Chief of Air Force;Frederick Scherger;1957;1962;SC;Naval Aviation Doctrine;High;9741;X
+225174;Chief of Air Force;Frederick Scherger;1957;1962;SC;Army Aviation Doctrine;High;9741;X
 225175;Chief of Air Force;Valston Hancock;1961;1966;SC;Naval Aviation Doctrine;High;9742;X
 225176;Chief of Air Force;William Anderson;1940;1947;PA;Naval Aviation Doctrine;High;9738;X
 225177;Chief of Air Force;Donald Hardman;1947;1958;PA;Air Superiority Doctrine;High;9739;X
@@ -182,7 +182,7 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225181;Head of State;Ronald Munro Ferguson;1914;1933;ML;Stern Imperialist;High;8016;X
 225182;Head of State;Thomas Denman;1914;1933;ML;Stern Imperialist;High;2190;X
 225183;Head of State;Henry Forster;1920;1933;ML;Popular Figurehead;High;unknownminister;X
-225184;Head of State;H.M. George V;1910;1933;SC;Benevolent Gentleman;High;2474;X
+225184;Head of State;H.M. George V;1910;1933;SC;Benevolent Gentleman;Medium;2474;X
 225185;Head of Government;Joseph Cook;1914;1933;ML;Silent Workhorse;High;2188;X
 225186;Head of Government;Andrew Fisher;1914;1933;SL;Ambitious Union Boss;Medium;2192;X
 225187;Head of Government;Billy Hughes;1914;1933;ML;Flamboyant Tough Guy;Medium;2187;X
@@ -203,11 +203,11 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225202;Head of Military Intelligence;John Lavarack;1929;1947;SC;Political Specialist;High;M56008;X
 225203;Head of Military Intelligence;Blue Shadow;1914;1933;ML;Generic;Very High;unknownminister;X
 225204;Chief of Staff;Joseph Gordon;1914;1933;ML;School of Mass Combat;Undying;2179;X
-225205;Chief of Staff;Gordon Legge;1914;1933;ML;School of Manoeuvre;Very High;2180;X
-225206;Chief of Staff;Godfrey Irving;1915;1933;ML;School of Fire Support;Very High;9743;X
-225207;Chief of Staff;Sir Brudenell White;1920;1933;ML;School of Psychology;Very High;2181;X
-225208;Chief of Staff;Sir Harry Chauvel;1923;1933;ML;School of Manoeuvre;Very High;2182;X
-225209;Chief of Staff;Julius Bruche;1930;1936;ML;School of Mass Combat;High;unknownminister;X
+225205;Chief of Staff;Gordon Legge;1914;1933;ML;School of Manoeuvre;Undying;2180;X
+225206;Chief of Staff;Godfrey Irving;1915;1933;ML;School of Fire Support;Undying;9743;X
+225207;Chief of Staff;Sir Brudenell White;1920;1933;ML;School of Psychology;Undying;2181;X
+225208;Chief of Staff;Sir Harry Chauvel;1923;1933;ML;School of Manoeuvre;Undying;2182;X
+225209;Chief of Staff;Julius Bruche;1930;1936;SC;School of Fire Support;Very High;9295;X
 225210;Chief of Army;Joseph Gordon;1914;1933;ML;Decisive Battle Doctrine;Low;2179;X
 225211;Chief of Army;Gordon Legge;1914;1933;ML;Elastic Defence Doctrine;Low;2180;X
 225212;Chief of Army;William Throsby Bridges;1914;1933;ML;Decisive Battle Doctrine;Medium;9744;X
@@ -215,10 +215,10 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225214;Chief of Army;Sir Brudenell White;1920;1933;ML;Elastic Defence Doctrine;Low;2181;X
 225215;Chief of Army;Sir Harry Chauvel;1923;1933;ML;Decisive Battle Doctrine;Low;2182;X
 225216;Chief of Navy;W.R. Creswell;1914;1933;ML;Decisive Naval Battle Doctrine;Very High;2183;X
-225217;Chief of Navy;George Hyde;1931;1937;ML;Power Projection Doctrine;High;unknownminister;X
+225217;Chief of Navy;George Hyde;1931;1937;SC;Decisive Naval Battle Doctrine;High;9736;X
 225218;Chief of Air Force;Henry Petre;1914;1919;ML;Air Superiority Doctrine;High;8014;X
 225219;Chief of Air Force;Eric Harrison;1914;1933;ML;Air Superiority Doctrine;High;8015;X
-225220;Head of State;H.M. George V;1933;1937;PA;Weary Stiffneck;High;3748;X
+225220;Head of State;H.M. George V;1933;1937;PA;Stern Imperialist;High;3748;X
 225221;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
 225222;Head of State;H.M. George VI;1933;1953;PA;Benevolent Gentleman;High;M1033;X
 225223;Head of State;H.M. Elizabeth II;1952;2012;PA;Popular Figurehead;High;M1182;X
@@ -243,3 +243,4 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225242;Head of Government;P. R. Stephensen;1933;1964;NS;Happy Amateur;High;AST-Percy_Stephensen;X
 225243;Head of Government;Alexander Rud Mills;1941;1964;NS;Backroom Backstabber;Medium;AST-Alexander_Rud_Mills;X
 225244;Head of Government;Henry Gullet;1948;1964;PA;Flamboyant Tough Guy;High;AST-Jo_Gullet;X
+225245;Minister of Armament;Essington Lewis;1933;1964;SC;Administrative Genius;High;AST - Essington Lewis;X

@@ -1049,8 +1049,7 @@ HOL = {
 	}
 	min = 1	
 	extra = {  }
-	capital =  47
-	regular_id = U10	
+	capital =  47	
 }
 HON = {
 	date = { day = 1 month = january year = 1000 }
@@ -1381,8 +1380,7 @@ LUX = {
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 71 70 3172 }
 	extra = {  }
-	capital =  71
-	regular_id = U18	
+	capital =  71	
 }
 MAD = {
 	date = { day = 1 month = january year = 1000 }
@@ -1768,8 +1766,7 @@ POR = {
 	}
 	min = 1	
 	extra = {  }
-	capital =  336
-	regular_id = U15	
+	capital =  336	
 }
 PRI = { # Archangelsk Government
 	date = { day = 1 month = january year = 1000 }
@@ -2678,7 +2675,7 @@ U04 = {  # Francuski Mandat Syrii i Libanu
 	capital = 1792  
 }
 
-U06 = {  # WM Gdañsk
+U06 = {  # Free City of Danzig
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 303 }
@@ -2686,18 +2683,27 @@ U06 = {  # WM Gdañsk
 	capital = 303 
 }
 
+U07 = {  # Hawaii
+	date = { day = 1 month = january year = 1000 }
+	expirydate = { day = 29 month = december year = 3000 }
+	minimum = { 658 659 660 663 7242 }
+	min = 1
+	extra = {  }
+	capital = 658
+}
+
 U08 = { # Niemcy - I Wojna Œwiatowa
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
-66  67  74  75  76  80  81  82  83  84  85  86  87  88  
+66 67 74  75  76  80  81  82  83  84  85  86  87  88  
 89  90  296 297 298 299 300 301 302 304 308 309 310 311 312 313
 314 315 374 375 376 473 482 510 73  316 
 223 1779 1810 1811 1400 1623 1595
 1405 546 547 1014 970 989 1018 1016 1015
 303 2606 533 532 486 2381 2292 2597 1904 2370
 2627 2647
-3238	3239	3240	3241	3242	3243	3244	3245	3246	
+3238	3239 3240	3241	3242	3243	3244	3245	3246	
 3247	3248	3249	3250	3251	3252	3253	3254	3255	
 3256	3257	3258	3259	3260	3261
 3216 3214 3215 2273 373 377 1408 462 461 3217 460 2329 463 2328 2327 465 464 467 53 466 3262 471 472 3376 3375
@@ -2711,7 +2717,7 @@ U08 = { # Niemcy - I Wojna Œwiatowa
 	claims = { 91 71 72 371 470 3228 469 1888 468 3229 475 474 3263 483 3264 208 307 3265 306 6560 2628 2296 7122 }
 	capital =  300
 }
-U09 = { # Austro-Wêgry
+U09 = { # Austria-Hungary
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
@@ -2727,17 +2733,18 @@ U09 = { # Austro-Wêgry
 	}
 	capital =  463
 }
-U10 = { # Kom. Holandia
+U10 = { # State of Deseret
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
-		47 78 79 77 46 48 1019 49 1082 7191 7043
+		733 6157 6158 6159 6159 6160 6161 6162 6163 6164 6215 6139 6138 6140
 	}
 	min = 1	
-	extra = {  }
-	capital =  47
-	regular_id = HOL
-	intrinsic_gov_type = leninist
+	extra = { 6173 6172 708 706 6170 6142}
+	claims = {  }
+	capital =  733
+	regular_id = USA
+	
 }
 U11 = { # Kom. Francja
  date = { day = 1 month = january year = 1000 }
@@ -2797,20 +2804,17 @@ U14 = { # Kom. W³ochy
 	regular_id = ITA
 	intrinsic_gov_type = leninist
 }
-U15 = { # Kom. Portugalia
+U15 = { # Louisiana
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
-		336 335 337 344 345 1867 1563 1163 965 3206 3207 3208 3209 3210 3211 3212 1036 6492
-		7166 7167 7258 7257
+		679 680 681 682 6272 6273 6274 6275 6276 6277 
 	}
 	min = 1	
 	extra = {  }
-	capital =  336
-	regular_id = POR
-	intrinsic_gov_type = leninist	
+	capital = 6274
 }
-U16 = { # Kom. Austria
+U16 = { # Communist Austria
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 463 373 377 460 461 462 464 465 2327 2328 2329 3217 3375 3376 7040 }
@@ -2821,7 +2825,7 @@ U16 = { # Kom. Austria
 	regular_id = AUS
 	intrinsic_gov_type = leninist
 }
-U17 = { # Kom. Belgia
+U17 = { # Communist Belgium
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 51 45 50 52 65 68 69 70 2292 7044 }
@@ -2831,16 +2835,15 @@ U17 = { # Kom. Belgia
 	regular_id = BEL
 	intrinsic_gov_type = leninist	
 }
-U18 = { # Kom. Luksemburg
+U18 = { # Hanover
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 71 }
-	extra = {  }
-	capital =  71
-	regular_id = LUX
-	intrinsic_gov_type = leninist	
+	minimum = { 80 86 87 88 2381 3254 3255 3256 3257 7183 7186 }
+	extra = { 7184 }
+	capital =  86
+	intrinsic_gov_type = social_conservative	
 }
-U19 = { # Kom. Norwegia
+U19 = { # Communist Norway
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
@@ -2854,7 +2857,7 @@ U19 = { # Kom. Norwegia
 	regular_id = NOR
 	intrinsic_gov_type = leninist
 }
-U20 = { # Kom. Finlandia
+U20 = { # Communist Finland
 	date = { day = 1 month = january year = 1936 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {

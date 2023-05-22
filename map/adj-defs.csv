@@ -1,5 +1,10 @@
 From;To;Type;Through;Comment
 
+889;888;Impassable;0;#
+889;4287;Impassable;0;#
+889;4288;Impassable;0;#
+889;4289;Impassable;0;#
+
 294;93;Sea;290;# Kobenhavn-Malmo
 294;293;Sea;290;# Kobenhavn-Odense
 120;293;Sea;290;# Arhus-Odense

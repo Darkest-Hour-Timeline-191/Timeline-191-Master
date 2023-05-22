@@ -1,0 +1,2 @@
+
+-- teams_pak.csv must not exceed ID 725501, as tech_u37.csv (Hyderabad) begins there!

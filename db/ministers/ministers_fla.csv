@@ -1,7 +1,7 @@
 FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-650001;Head of State;Staf de Clercq;1933;1964;NS;Powerhungry Demagogue;High;M15033;X
-650002;Head of Government;Staf de Clercq;1933;1964;NS;Flamboyant Tough Guy;High;M15033;X
+650001;Head of State;Staf de Clercq;1933;1964;NS;Powerhungry Demagogue;NA;M15033;X
+650002;Head of Government;Staf de Clercq;1933;1964;NS;Flamboyant Tough Guy;NA;M15033;X
 650003;Foreign Minister;Staf de Clercq;1933;1964;NS;Biased Intellectual;Very High;M15033;X
 650004;Minister of Armament;Hendrik de Man;1933;1964;PA;Administrative Genius;Very High;M15056;X
 650005;Minister of Security;Jan Timmermans;1933;1964;NS;Man of the People;Very High;M15117;X
@@ -46,8 +46,8 @@ FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 650044;Head of Government;Dr. Schulze;1940;1964;NS;Flamboyant Tough Guy;Very High;M510070;X
 650045;Head of Government;Frans Daels;1938;1964;FA;Flamboyant Tough Guy;Very High;M510035;X
 650046;Head of Government;Gottlob Berger;1940;1964;NS;Old General;Very High;M510027;X
-650047;Head of Government;Hendrik J. Elias;1942;1964;FA;Political Protege;High;M15039;X
-650048;Head of Government;Jef van de Wiele;1940;1964;NS;Backroom Backstabber;High;M15011;X
+650047;Head of Government;Hendrik J. Elias;1942;1964;FA;Political Protege;NA;M15039;X
+650048;Head of Government;Jef van de Wiele;1940;1964;NS;Backroom Backstabber;NA;M15011;X
 650049;Head of Government;Jeroom Leuridan;1937;1964;NS;Ambitious Union Boss;Very High;M510058;X
 650050;Head of Government;Lucien Rijckeboer;1941;1964;NS;Happy Amateur;Very High;M510065;X
 650051;Head of Government;Piet Wijndaele;1937;1964;FA;Naive Optimist;Very High;M510091;X
@@ -63,8 +63,8 @@ FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 650061;Head of State;Alexander von Falkenhausen;1940;1964;NS;Resigned Generalissimo;Very High;M510086;X
 650062;Head of State;Dr. Schulze;1940;1964;NS;Barking Buffoon;Very High;M510070;X
 650063;Head of State;Gottlob Berger;1940;1964;NS;Powerhungry Demagogue;Very High;M510027;X
-650064;Head of State;Hendrik J. Elias;1942;1964;FA;Stern Imperialist;High;M15039;X
-650065;Head of State;Jef van de Wiele;1940;1964;NS;Powerhungry Demagogue;High;M15011;X
+650064;Head of State;Hendrik J. Elias;1942;1964;FA;Stern Imperialist;NA;M15039;X
+650065;Head of State;Jef van de Wiele;1940;1964;NS;Powerhungry Demagogue;NA;M15011;X
 650066;Minister of Armament;Alfons Wachtelaer;1942;1964;NS;Infantry Proponent;Very High;M510089;X
 650067;Minister of Armament;Edgard Delvo;1933;1964;NS;Resource Industrialist;Very High;M510042;X
 650068;Minister of Armament;Fritz-Jan Hendriks;1939;1964;FA;Administrative Genius;Very High;M510043;X
@@ -73,8 +73,8 @@ FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 650071;Minister of Armament;Joris Fassotte;1933;1964;NS;Military Entrepreneur;Very High;M15057;X
 650072;Minister of Armament;Jos Henskens;1939;1964;NS;Infantry Proponent;Very High;M510044;X
 650073;Minister of Armament;Marcel Mannaerts;1940;1964;FA;Resource Industrialist;Very High;M510060;X
-650074;Minister of Armament;Piet Wijndaele;1937;1964;FA;Laissez-Faire Capitalist;Very High;M510091;X
-650075;Minister of Armament;Victor Leemans;1938;1964;FA;Laissez-Faire Capitalist;Very High;M510055;X
+650074;Minister of Armament;Piet Wijndaele;1937;1964;FA;laissez-faire capitalist;Very High;M510091;X
+650075;Minister of Armament;Victor Leemans;1938;1964;FA;laissez-faire capitalist;Very High;M510055;X
 650076;Minister of Armament;Victor Matthys;1933;1964;NS;Military Entrepreneur;Very High;M15058;X
 650077;Minister of Security;A. De Bontridder;1933;1964;FA;Silent Lawyer;Very High;M510039;X
 650078;Minister of Security;Alfons Herten;1940;1964;NS;Efficient Sociopath;Very High;M510046;X
@@ -99,8 +99,8 @@ FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 650097;Foreign Minister;August Borms;1933;1964;FA;Ideological Crusader;Very High;M510099;X
 650098;Foreign Minister;Clemens De Landtsheer;1933;1964;SC;Ideological Crusader;Very High;M510100;X
 650099;Head of State;Camille Huysmans;1933;1964;SD;Benevolent Gentleman;Very High;M15038;X
-650100;Head of Government;Camille Huysmans;1933;1964;SD;Happy Amateur;Medium;M15038;X
-650101;Head of Government;Achille Van Acker;1939;1964;SD;Corporate Suit;High;M15041;X
+650100;Head of Government;Camille Huysmans;1933;1964;SD;Happy Amateur;NA;M15038;X
+650101;Head of Government;Achille Van Acker;1939;1964;SD;Corporate Suit;NA;M15041;X
 650102;Minister of Armament;Hendrik de Man;1933;1964;SL;Administrative Genius;Very High;M15056;X
 650103;Minister of Armament;Franz de Voghel;1945;1964;ML;Laissez-Faire Capitalist;Very High;M15067;X
 650104;Minister of Armament;Albert de Vleeschauwer;1946;1964;SC;Resource Industrialist;Very High;M15069;X
@@ -122,4 +122,4 @@ FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 650120;Minister of Armament;Gustaaf Sap;1933;1964;SC;Military Entrepreneur;High;M15140;X
 650121;Chief of Navy;G. Timmermans;1933;1964;SC;Indirect Approach Doctrine;Very High;M15009;X
 650122;Chief of Air Force;L.F.E. Wouters;1933;1964;SC;Vertical Envelopment Doctrine;Very High;M15010;X
-650123;Chief of Staff;Leon Gillis;1949;1964;NS;School of Manoeuvre;Medium;6069;X
+650123;Chief of Staff;Leon Gillis;1949;1964;NS;School of Manoeuvre;medium;6069;x

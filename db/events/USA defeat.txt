@@ -1,0 +1,90 @@
+# ID range 1500 - ?
+
+# This file is still very much WIP. Refer to Tommy Vercetti/Nightwing as to what the future holds for it. -Korsteeni 18 April 2023
+
+event = {
+	id = 1500
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		control = { province = 608 data = CSA } # PHILADELPHIA
+		# I'm intentionally not including Washington or NYC here, because even this set of provinces in CSA hands means the USA is hosed
+		control = { province = 614 data = CSA } # Pittsburgh
+		control = { province = 615 data = CSA } # Cleveland
+		control = { province = 628 data = CSA } # Columbus, OH
+		control = { province = 633 data = CSA } # Richmond (to prevent complete piss-takes of defending VA)
+		control = { province = 641 data = CSA } # Louisville
+		control = { province = 2720 data = CSA } # Cincinnati
+		control = { province = 6383 data = CSA } # Dayton
+		atwar = CSA
+	}
+
+	name = "The United States has been defeated by the Confederacy"
+	desc = "Text here please?"
+
+	date = { day = 0 month = january year = 1940 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1949 }
+
+	action_a = {
+		ai_chance = 90
+		name = "Propose a ceasefire with the Confederacy"
+		command = { type = dissent value = 5 }
+		command = { type = event which = 1501 where = CSA when = 1 }
+		}	
+	action_b = {
+		ai_chance = 10
+		name = "The fight is not yet over, we shall overcome!"
+		command = { type = dissent value = 3 }
+		}
+	}
+
+event = {
+	id = 1501
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "The United States proposes a ceasefire"
+	desc = "Text here please?"
+
+	action_a = {
+		ai_chance = 100
+		name = "Sure, that was just what we were waiting for"
+		command = { type = dissent value = -5 }
+		command = { type = peace which = USA value = 1 }
+		command = { type = event which = 1502 where = USA when = 5 } #
+		}	
+	action_b = {
+		ai_chance = 0
+		name = "Ha-ha, suckers! We'll take all or nothing!"
+		command = { type = dissent value = 1 }
+		}
+	}
+
+event = {
+	id = 1502
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Cede the disputed territories to the Confederacy"
+	desc = "Text here please?"
+
+	action = {
+		name = "Damn that hurts"
+		command = { type = dissent value = 1 }
+		# ALL states are covered, in case the CSA did not gain some in the Richmond Agreement / for some other reason
+        	command = { type = secedearea which = CSA value = "Kentucky" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Oklahoma" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Texas" when = 1 } #
+        	command = { type = secedearea which = CSA value = "Virginia" when = 1 } #
+        	command = { type = secedearea which = CSA value = "Arkansas" when = 1 } #
+        	command = { type = secedearea which = CSA value = "West Virginia" when = 1 } #
+		}
+	}

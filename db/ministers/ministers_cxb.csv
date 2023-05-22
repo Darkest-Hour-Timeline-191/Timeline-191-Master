@@ -1,7 +1,7 @@
 CXB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
 610001;Head of State;Ma Hongkui;1933;1964;PA;Barking Buffoon;High;947;X
-610002;Head of Government;Ma Hongkui;1933;1964;PA;Old Airmarshal;High;947;X
+610002;Head of Government;Ma Hongkui;1933;1964;PA;old airmarshal;High;947;X
 610003;Foreign Minister;Fang Jing;1933;1964;PA;Great Compromiser;High;L50075;X
 610004;Minister of Armament;Zi Shen;1933;1964;PA;Corrupt Kleptocrat;Medium;M504004;X
 610005;Minister of Security;Li Shiqun;1933;1964;PA;Prince of Terror;Medium;M504005;X
@@ -11,7 +11,7 @@ CXB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 610009;Chief of Navy;Ma Bufang;1933;1964;PA;Indirect Approach Doctrine;Medium;M504009;X
 610010;Chief of Air Force;Ma Bufang;1933;1964;PA;Army Aviation Doctrine;Medium;M504009;X
 610011;Chief of Air Force;Ma Hongkui;1914;1933;PA;Army Aviation Doctrine;Medium;unknown;X
-610012;Chief of Army;Ma Bufang;1914;1933;PA;Decisive Battle Doctrine;Very High;unknown;X
+610012;Chief of Army;Ma Bufang;1914;1933;PA;Decisive Battle Doctrine;Undying;unknown;X
 610013;Chief of Navy;Ma Bufang;1914;1933;PA;Decisive Naval Battle Doctrine;Medium;unknown;X
 610014;Chief of Staff;Ma Hongkui;1914;1933;PA;School of Mass Combat;Medium;unknown;X
 610015;Foreign Minister;Ma Buqing;1914;1933;PA;Great Compromiser;Very High;unknown;X

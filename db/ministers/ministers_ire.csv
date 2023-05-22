@@ -3,7 +3,7 @@ IRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 125001;Head of State;Donal Buckley;1933;1964;ML;Insignificant Layman;High;M25001;X
 125002;Head of Government;Eamon de Valera;1933;1964;ML;Flamboyant Tough Guy;High;M25002;X
 125003;Foreign Minister;Eamon de Valera;1933;1964;ML;Ideological Crusader;Undying;M25002;X
-125004;Minister of Armament;Seán MacEntee;1933;1964;ML;Laissez-Faire Capitalist;High;M25004;X
+125004;Minister of Armament;Seán MacEntee;1933;1964;ML;laissez-faire capitalist;High;M25004;X
 125005;Minister of Security;Patrick J. Ruttledge;1933;1964;ML;Silent Lawyer;High;M25005;X
 125006;Head of Military Intelligence;Gerald Boland;1933;1964;ML;Political Specialist;High;M25006;X
 125007;Chief of Staff;M.J. Costello;1933;1964;ML;School of Defence;High;M25007;X
@@ -33,9 +33,9 @@ IRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 125031;Foreign Minister;Thomas Johnson;1941;1964;SD;Ideological Crusader;Very High;M25042;X
 125032;Foreign Minister;William Norton;1944;1964;SD;Apologetic Clerk;High;M25044;X
 125033;Foreign Minister;P.A. Mulcahy;1947;1964;ML;General Staffer;High;M25010;X
-125034;Foreign Minister;W.T. Cosgrave;1933;1964;SC;Biased Intellectual;Very High;M25046;X
+125034;Foreign Minister;W.T. Cosgrave;1933;1964;SC;Biased Intellectual;Undying;M25046;X
 125035;Foreign Minister;Kevin O'Higgins;1937;1964;SC;Ideological Crusader;High;M25058;X
-125036;Foreign Minister;Richard Mulcahy;1941;1964;SC;Apologetic Clerk;Very High;M25039;X
+125036;Foreign Minister;Richard Mulcahy;1941;1964;SC;Apologetic Clerk;Undying;M25039;X
 125037;Foreign Minister;John A. Costello;1944;1964;SC;Great Compromiser;High;M25048;X
 125038;Foreign Minister;Sean MacBride;1947;1964;SC;Iron Fisted Brute;High;M25061;X
 125039;Foreign Minister;Oliver J. Flanagan;1933;1964;PA;Biased Intellectual;Low;M25011;X
@@ -56,7 +56,7 @@ IRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 125054;Minister of Armament;Richard Mulcahy;1939;1964;SC;Military Entrepreneur;High;M25039;X
 125055;Minister of Armament;Seán Moylan;1941;1964;SC;Infantry Proponent;High;M25079;X
 125056;Minister of Armament;Patrick Lynch;1942;1964;SC;Submarine Proponent;High;M25080;X
-125057;Minister of Armament;John O'Byrne;1944;1964;SC;Laissez-Faire Capitalist;High;M25081;X
+125057;Minister of Armament;John O'Byrne;1944;1964;SC;laissez-faire capitalist;High;M25081;X
 125058;Minister of Armament;Patrick McGilligan;1947;1964;SC;Resource Industrialist;High;M25082;X
 125059;Minister of Armament;Donal Brackley;1933;1964;PA;Battle Fleet Proponent;High;M25014;X
 125060;Minister of Armament;Eoin O'Duffy;1941;1964;FA;Infantry Proponent;High;M25018;X
@@ -136,7 +136,7 @@ IRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 125134;Foreign Minister;Frank Aiken;1951;1964;ML;Great Compromiser;High;M25074;X
 125135;Minister of Armament;Oscar Traynor;1939;1964;ML;Infantry Proponent;High;M25111;X
 125136;Minister of Armament;Kevin O'Higgins;1948;1964;SC;Military Entrepreneur;High;M25058;X
-125137;Chief of Army;Michael Collins;1916;1933;SL;Elastic Defence Doctrine;High;2677;X
+125137;Chief of Army;Michael Collins;1916;1933;SL;elastic defence doctrine;High;2677;X
 125138;Chief of Staff;Richard Mulcahy;1916;1933;SL;School of Mass Combat;High;2678;X
 125139;Chief of Staff;Michael Collins;1916;1933;SL;School of Psychology;High;2677;X
 125140;Foreign Minister;Desmond Fitzgerald;1916;1933;SL;Great Compromiser;High;2679;X
@@ -154,4 +154,4 @@ IRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 125152;Head of State;George V;1914;1933;ML;Stern Imperialist;High;2474;X
 125153;Minister of Armament;John Dillon;1914;1933;ML;Administrative Genius;High;2687;X
 125154;Minister of Security;John Redmond;1914;1933;ML;Man of the People;High;2686;X
-125155;Chief of Staff;Oscar Traynor;1939;1964;ML;School of Mass Combat;High;6070;X
+125155;Chief of Staff;Oscar Traynor;1939;1964;ML;School of Mass Combat;High;6070;x

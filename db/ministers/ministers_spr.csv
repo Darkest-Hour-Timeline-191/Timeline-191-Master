@@ -38,7 +38,7 @@ SPR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 255036;Head of Government;José María Gil-Robles Quiñones;1933;1964;SC;Political Protege;High;M11012;X
 255037;Head of Government;Claudio Sánchez Albornoz;1939;1964;SC;Smiling Oilman;High;M11072;X
 255038;Head of Government;Miguel Maura Gamazo;1942;1964;SC;Corporate Suit;High;M11073;X
-255039;Head of Government;José María Gil-Robles Quiñones;1933;1964;PA;Flamboyant Tough Guy;High;M11012;X
+255039;Head of Government;José María Gil-Robles Quiñones;1933;1964;PA;Flamboyant Tough Guy;NA;M11012;X
 255040;Foreign Minister;Jesús Hernández y Tomás;1933;1964;ST;Ideological Crusader;High;M11023;X
 255041;Foreign Minister;Dolores Ibáurri Gómez;1937;1964;ST;Iron Fisted Brute;High;M11049;X
 255042;Foreign Minister;Margarita Nelken;1939;1964;ST;Biased Intellectual;Medium;M11077;X
@@ -92,7 +92,7 @@ SPR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 255090;Minister of Armament;Fernando de los Ríos Urruti;1939;1964;LWR;Strategic Air Proponent;High;M11128;X
 255091;Minister of Armament;Juan Negrín López;1940;1964;LWR;Administrative Genius;High;M11046;X
 255092;Minister of Armament;Francisco Largo Caballero;1941;1964;LWR;Resource Industrialist;High;M11039;X
-255093;Minister of Armament;Felix Gordón Ordás;1943;1964;LWR;Laissez-Faire Capitalist;High;M11132;X
+255093;Minister of Armament;Felix Gordón Ordás;1943;1964;LWR;laissez-faire capitalist;High;M11132;X
 255094;Minister of Armament;Todolfo Llopis Férrandiz;1944;1964;LWR;Infantry Proponent;High;M11133;X
 255095;Minister of Armament;José Giral Pereira;1933;1964;SD;Battle Fleet Proponent;High;M11067;X
 255096;Minister of Armament;Francisco Méndez Aspe;1938;1964;SD;Resource Industrialist;High;M11135;X
@@ -100,7 +100,7 @@ SPR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 255098;Minister of Armament;Santiago Casares Quiroga;1939;1964;SD;Submarine Proponent;High;M11137;X
 255099;Minister of Armament;Manuel Azaña Díaz;1930;1940;SD;Theoretical Scientist;Medium;M11033;X
 255100;Minister of Armament;José Larraz Lopez;1941;1964;SD;Tank Proponent;High;M11139;X
-255101;Minister of Armament;José Prat García;1942;1964;SD;Laissez-Faire Capitalist;High;M11140;X
+255101;Minister of Armament;José Prat García;1942;1964;SD;laissez-faire capitalist;High;M11140;X
 255102;Minister of Armament;Carles Pi i Suñer;1945;1964;SD;Administrative Genius;High;M11142;X
 255103;Minister of Armament;Miguel Nuñez de Prado;1933;1964;SL;Air to Sea Proponent;Medium;M11143;X
 255104;Minister of Armament;Bernardo Giner de los Ríos García;1937;1964;SL;Theoretical Scientist;High;M11144;X
@@ -108,11 +108,11 @@ SPR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 255106;Minister of Armament;Lluis Nicolau d'Olwer;1940;1964;SL;Resource Industrialist;High;M11146;X
 255107;Minister of Armament;Alejandro Lerroux García;1945;1964;SL;Administrative Genius;High;M11051;X
 255108;Minister of Armament;José Yanguas Messía;1933;1964;SC;Administrative Genius;High;M11150;X
-255109;Minister of Armament;Manuel Carrasco i Formiguera;1938;1964;SC;Laissez-Faire Capitalist;High;M11152;X
+255109;Minister of Armament;Manuel Carrasco i Formiguera;1938;1964;SC;laissez-faire capitalist;High;M11152;X
 255110;Minister of Armament;Diego Hidalgo Dúran;1939;1964;SC;Military Entrepreneur;High;M11101;X
 255111;Minister of Armament;Ángel Osorio y Gallardo;1941;1964;SC;Theoretical Scientist;High;M11105;X
 255112;Minister of Armament;Joaquín Chapaprieta Torregosa;1945;1964;SC;Resource Industrialist;High;M11155;X
-255113;Minister of Armament;José Calvo-Sotelo;1933;1964;PA;Laissez-Faire Capitalist;Very High;M11014;X
+255113;Minister of Armament;José Calvo-Sotelo;1933;1964;PA;laissez-faire capitalist;Very High;M11014;X
 255114;Minister of Armament;Luis Luciá Luciá;1937;1964;PA;Resource Industrialist;Low;M11113;X
 255115;Minister of Armament;José María Gil-Robles Quiñones;1937;1964;PA;Military Entrepreneur;Medium;M11012;X
 255116;Minister of Armament;José María Quinones de Leon;1938;1964;PA;Tank Proponent;Medium;M11159;X

@@ -1,16 +1,16 @@
 ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-165001;Head of State;Agustín P. Justo;1922;1944;PA;Resigned Generalissimo;High;M35001;X
-165002;Head of Government;Agustín P. Justo;1922;1944;PA;Old General;High;M35001;X
+165001;Head of State;Agustín P. Justo;1922;1933;PA;Resigned Generalissimo;High;M35001;X
+165002;Head of Government;Agustín P. Justo;1922;1933;PA;Old General;High;M35001;X
 165003;Foreign Minister;Carlos Saavedra Lamas;1933;1964;PA;The Cloak N Dagger Schemer;High;M35003;X
-165004;Minister of Armament;Alberto Hueyo;1933;1964;PA;Laissez-Faire Capitalist;High;M35004;X
+165004;Minister of Armament;Alberto Hueyo;1933;1964;PA;laissez-faire capitalist;High;M35004;X
 165005;Minister of Security;Ramon Castillo;1933;1964;PA;Prince of Terror;Medium;M35005;X
 165006;Head of Military Intelligence;Jorge de la Torre;1933;1964;PA;Industrial Specialist;Medium;M35006;X
 165007;Chief of Staff;Manuel A. Rodriguez;1933;1964;PA;School of Defence;Very High;M35007;X
 165008;Chief of Army;Manuel A. Rodriguez;1933;1964;PA;Decisive Battle Doctrine;Very High;M35007;X
 165009;Chief of Navy;Pedro S. Casal;1933;1964;PA;Base Control Doctrine;Medium;M35009;X
 165010;Chief of Air Force;Antonio Parodi;1933;1964;PA;Air Superiority Doctrine;Very High;M35010;X
-165011;Head of State;Agustín P. Justo;1922;1944;SC;Resigned Generalissimo;High;M35001;X
+165011;Head of State;Agustín P. Justo;1922;1933;SC;Resigned Generalissimo;High;M35001;X
 165012;Head of State;Luis Podesta Costa;1938;1964;SC;Benevolent Gentleman;High;M35014;X
 165013;Head of State;Ramon Castillo;1942;1964;PA;Stern Imperialist;High;M35005;X
 165014;Head of State;Manuel Maria de Iriondo;1946;1964;SC;Insignificant Layman;High;M35034;X
@@ -24,7 +24,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165022;Head of State;Cesar Armeghino;1944;1964;PA;Autocratic Charmer;High;M35042;X
 165023;Head of State;Carlos Alberto Pueyrredon;1933;1964;FA;Ruthless Powermonger;High;M35011;X
 165024;Head of State;Juan Domingo Peron;1945;1964;LWR;Autocratic Charmer;High;M35021;X
-165025;Head of Government;Agustín P. Justo;1922;1944;SC;Old General;High;M35001;X
+165025;Head of Government;Agustín P. Justo;1922;1933;SC;Old General;High;M35001;X
 165026;Head of Government;Luis Podesta Costa;1938;1964;SC;Backroom Backstabber;High;M35014;X
 165027;Head of Government;Ramon Castillo;1940;1964;PA;Old General;High;M35005;X
 165028;Head of Government;Manuel Maria de Iriondo;1946;1964;SC;Silent Workhorse;High;M35034;X
@@ -61,7 +61,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165059;Foreign Minister;Juan Bramuglia;1945;1964;LWR;Great Compromiser;Medium;M35081;X
 165060;Foreign Minister;Juan Isaac Cooke;1947;1964;LWR;Iron Fisted Brute;Medium;M35082;X
 165061;Minister of Armament;Lisandro de la Torre;1937;1964;SC;Resource Industrialist;High;M35084;X
-165062;Minister of Armament;Luis Podesta Costa;1938;1964;SC;Air to Ground Proponent;Medium;M35014;X
+165062;Minister of Armament;Luis Podesta Costa;1938;1964;SC;Air To Ground Proponent;Medium;M35014;X
 165063;Minister of Armament;Pedro Aramburu;1940;1964;SC;Tank Proponent;High;M35062;X
 165064;Minister of Armament;Agustin Rodriguez;1944;1964;SC;Administrative Genius;High;M35087;X
 165065;Minister of Armament;Elpidio Gonzalez;1933;1964;SL;Resource Industrialist;High;M35088;X
@@ -75,9 +75,9 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165073;Minister of Armament;Humberto de Cejas Verda;1933;1964;SD;Theoretical Scientist;High;M35096;X
 165074;Minister of Armament;Juan Oztero Medina;1940;1964;SD;Resource Industrialist;High;M35097;X
 165075;Minister of Armament;Guillermo Rothe;1938;1964;PA;Corrupt Kleptocrat;Medium;M35074;X
-165076;Minister of Armament;Federico Pinedo;1939;1964;PA;Laissez-Faire Capitalist;High;M35099;X
+165076;Minister of Armament;Federico Pinedo;1939;1964;PA;laissez-faire capitalist;High;M35099;X
 165077;Minister of Armament;Julio A. Roca;1940;1964;PA;Battle Fleet Proponent;High;M35040;X
-165078;Minister of Armament;Augusto Díaz Bustan;1939;1964;PA;Military Entrepreneur;High;M35101;X
+165078;Minister of Armament;Augusto Díaz Bustan;1941;1964;PA;Military Entrepreneur;High;M35101;X
 165079;Minister of Armament;Antonio Parodi;1940;1964;PA;Air Superiority Proponent;Very High;M35010;X
 165080;Minister of Armament;Edelmiro Farrell;1943;1964;PA;Infantry Proponent;Low;M35041;X
 165081;Minister of Armament;José Maria Cantilo;1944;1964;PA;Submarine Proponent;High;M35072;X
@@ -88,7 +88,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165086;Minister of Security;Manuel Maria de Iriondo;1933;1964;SC;Prince of Terror;Medium;M35034;X
 165087;Minister of Security;Leopoldo Melo;1938;1964;SC;Compassionate Gentleman;Medium;M35112;X
 165088;Minister of Security;Jorge Escobar Coll;1940;1964;SC;Prince of Terror;Medium;M35113;X
-165089;Minister of Security;Alberto Gilbert;1943;1964;SC;Crooked Kleptocrat;High;M35061;X
+165089;Minister of Security;Alberto Gilbert;1944;1964;SC;Crooked Kleptocrat;High;M35061;X
 165090;Minister of Security;Enrique Martinez;1933;1964;SL;Man of the People;High;M35091;X
 165091;Minister of Security;Horacio Hoya San Arte;1937;1964;SL;Silent Lawyer;Medium;M35064;X
 165092;Minister of Security;Agustin Rodriguez;1938;1964;SL;Compassionate Gentleman;High;M35087;X
@@ -140,7 +140,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165138;Chief of Staff;Carlos von der Becke;1946;1964;PA;School of Defence;Low;M35169;X
 165139;Chief of Staff;Pablo San Martín;1945;1964;LWR;School of Defence;Medium;M35027;X
 165140;Chief of Staff;Paul Castex Lainford;1947;1964;LWR;School of Psychology;Medium;M35172;X
-165141;Chief of Army;Agustín P. Justo;1933;1944;PA;Elastic Defence Doctrine;High;M35001;X
+165141;Chief of Army;Agustín P. Justo;1933;1964;SC;Elastic Defence Doctrine;High;M35001;X
 165142;Chief of Army;Laureano Anaya;1938;1964;SC;Armoured Spearhead Doctrine;Very High;M35174;X
 165143;Chief of Army;Thomas Martínez;1938;1964;SL;Guns and Butter Doctrine;Very High;M35161;X
 165144;Chief of Army;Juan Domingo Peron;1940;1964;SL;Decisive Battle Doctrine;Medium;M35028;X
@@ -148,7 +148,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165146;Chief of Army;Heriberto La Galíne;1933;1964;SD;Static Defence Doctrine;High;M35029;X
 165147;Chief of Army;Francisco M. Velez;1940;1964;SD;Elastic Defence Doctrine;Low;M35160;X
 165148;Chief of Army;Manuel Savio;1938;1964;PA;Static Defence Doctrine;High;M35176;X
-165149;Chief of Army;Carlos O. Marquez;1939;1964;PA;Decisive Battle Doctrine;Very High;M35017;X
+165149;Chief of Army;Carlos O. Marquez;1940;1964;PA;Decisive Battle Doctrine;Very High;M35017;X
 165150;Chief of Army;Pedro Pablo Ramirez;1942;1964;PA;Guns and Butter Doctrine;Low;M35055;X
 165151;Chief of Army;Enrique Mosconi;1944;1964;PA;Armoured Spearhead Doctrine;Low;M35187;X
 165152;Chief of Army;Juan Domingo Peron;1945;1964;LWR;Armoured Spearhead Doctrine;Medium;M35028;X
@@ -160,7 +160,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165158;Chief of Navy;Carlos Putalla Vignolo;1946;1964;SL;Open Seas Doctrine;High;M35197;X
 165159;Chief of Navy;Luogo Cavalieri;1933;1964;SD;Base Control Doctrine;High;M35198;X
 165160;Chief of Navy;Leon Sanchez Scasso;1938;1964;PA;Open Seas Doctrine;Very High;M35200;X
-165161;Chief of Navy;Pedro Pablo Ramirez;1939;1964;PA;Base Control Doctrine;Low;M35126;X
+165161;Chief of Navy;Pedro Pablo Ramirez;1940;1964;PA;Base Control Doctrine;Low;M35126;X
 165162;Chief of Navy;Pedro Grosso Soto;1944;1964;PA;Indirect Approach Doctrine;Low;M35016;X
 165163;Chief of Air Force;Leopoldo Melo;1938;1964;SC;Naval Aviation Doctrine;Medium;M35112;X
 165164;Chief of Air Force;Oscar Muratorio;1940;1964;SC;Vertical Envelopment Doctrine;Very High;M35208;X
@@ -171,13 +171,13 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165169;Chief of Air Force;Oscar Benavides Perez;1933;1964;SD;Naval Aviation Doctrine;Medium;M35145;X
 165170;Chief of Air Force;Uribaldi Díaz Brittenberg;1940;1964;SD;Army Aviation Doctrine;Medium;M35147;X
 165171;Chief of Air Force;Alberto Verdaquer;1938;1964;PA;Carpet Bombing Doctrine;Medium;M35213;X
-165172;Chief of Air Force;Carlos O. Marquez;1939;1964;PA;Vertical Envelopment Doctrine;Very High;M35017;X
+165172;Chief of Air Force;Carlos O. Marquez;1940;1964;PA;Vertical Envelopment Doctrine;Very High;M35017;X
 165173;Chief of Air Force;Carlos Maurino;1944;1964;PA;Army Aviation Doctrine;Medium;M35020;X
 165174;Chief of Air Force;Gabriel A. Hermansson;1946;1964;PA;Air Superiority Doctrine;Medium;M35220;X
 165175;Head of State;Adolfo Rawson Bustamante;1943;1964;SC;Barking Buffoon;High;M35150;X
 165176;Head of Government;Adolfo Rawson Bustamante;1943;1964;SC;Old Admiral;High;M35150;X
 165177;Foreign Minister;Segundo R. Storni;1943;1964;SC;Iron Fisted Brute;High;M35225;X
-165178;Minister of Armament;Benito Sueyro;1943;1964;SC;Laissez-Faire Capitalist;High;M35226;X
+165178;Minister of Armament;Benito Sueyro;1943;1964;SC;laissez-faire capitalist;High;M35226;X
 165179;Minister of Security;Diego Isidro Mason;1943;1964;SC;Silent Lawyer;Medium;M35227;X
 165180;Head of Military Intelligence;Vicente Huidrabra Urribe;1943;1964;SC;Technical Specialist;Medium;M35228;X
 165181;Chief of Army;Adolfo Rawson Bustamante;1941;1964;SC;Decisive Battle Doctrine;Very High;M35150;X
@@ -193,18 +193,18 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165191;Chief of Air Force;Benjamín Matienzo;1918;1933;ML;Carpet Bombing Doctrine;High;5931;X
 165192;Chief of Air Force;Alejandro Obligado;1915;1933;ML;Army Aviation Doctrine;Very High;2159;X
 165193;Chief of Army;Francisco Velez;1914;1933;ML;Decisive Battle Doctrine;Very High;2160;X
-165194;Chief of Army;Angel P. Allaria;1914;1933;ML;Elastic Defence Doctrine;High;5932;X
-165195;Chief of Navy;Servando Cardozo;1914;1933;ML;Decisive Naval Battle Doctrine;High;unknownminister;X
-165196;Chief of Navy;Gabriel Albarracion;1915;1933;ML;Open Seas Doctrine;High;unknownminister;X
+165194;Chief of Army;Angel P. Allaria;1914;1933;ML;elastic defence doctrine;High;5932;X
+165195;Chief of Navy;Servando Cardozo;1914;1933;ML;Decisive Naval Battle Doctrine;High;unknown;X
+165196;Chief of Navy;Gabriel Albarracion;1915;1933;ML;Open Seas Doctrine;High;unknown;X
 165197;Chief of Navy;Ricardo Ugarriza;1916;1933;ML;Base Control Doctrine;High;5933;X
 165198;Chief of Navy;Julio Ayala Torales;1917;1933;ML;Indirect Approach Doctrine;High;5934;X
-165199;Chief of Navy;Julio Castañeda;1917;1933;ML;Decisive Naval Battle Doctrine;High;unknownminister;X
-165200;Chief of Navy;Pedro Gully;1919;1933;ML;Decisive Naval Battle Doctrine;High;unknownminister;X
-165201;Chief of Navy;Julio Mendeville;1921;1933;ML;Open Seas Doctrine;High;unknownminister;X
-165202;Chief of Navy;Enrique G. Fliess;1923;1933;ML;Base Control Doctrine;High;unknownminister;X
-165203;Chief of Navy;Carlos G. Daireaux;1924;1933;ML;Decisive Naval Battle Doctrine;High;unknownminister;X
+165199;Chief of Navy;Julio Castañeda;1917;1933;ML;Decisive Naval Battle Doctrine;High;unknown;X
+165200;Chief of Navy;Pedro Gully;1919;1933;ML;Decisive Naval Battle Doctrine;High;unknown;X
+165201;Chief of Navy;Julio Mendeville;1921;1933;ML;Open Seas Doctrine;High;unknown;X
+165202;Chief of Navy;Enrique G. Fliess;1923;1933;ML;Base Control Doctrine;High;unknown;X
+165203;Chief of Navy;Carlos G. Daireaux;1924;1933;ML;Decisive Naval Battle Doctrine;High;unknown;X
 165204;Chief of Staff;Francisco Velez;1914;1933;ML;School of Psychology;Very High;2160;X
-165205;Chief of Staff;Angel P. Allaria;1914;1933;ML;School of Defence;High;5932;X
+165205;Chief of Staff;Angel P. Allaria;1914;1933;ML;school of defence;High;5932;X
 165206;Foreign Minister;Ernesto Bosch;1914;1933;ML;Great Compromiser;High;5935;X
 165207;Foreign Minister;José Luis Muratore;1914;1933;ML;Great Compromiser;High;2161;X
 165208;Foreign Minister;Hipólito Yrigoyen;1916;1933;LWR;Ideological Crusader;High;2162;X
@@ -222,10 +222,10 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165220;Head of State;Manuel Quintana;1914;1933;PA;Benevolent Gentleman;High;2168;X
 165221;Head of State;José Figueroa Alcorta;1914;1933;PA;Autocratic Charmer;High;2169;X
 165222;Minister of Armament;Enrique Carbo;1914;1933;ML;Laissez-Faire Capitalist;High;2170;X
-165223;Minister of Armament;Francisco J. Oliver;1914;1933;ML;Administrative Genius;High;unknownminister;X
+165223;Minister of Armament;Francisco J. Oliver;1914;1933;ML;Administrative Genius;High;unknown;X
 165224;Minister of Armament;Ramon Gomez;1916;1933;LWR;Resource Industrialist;High;5939;X
 165225;Minister of Armament;Francisco Beiro;1916;1933;LWR;Resource Industrialist;High;5937;X
-165226;Minister of Armament;José Nicolas Matienzo;1922;1933;SL;Laissez-Faire Capitalist;High;5938;X
+165226;Minister of Armament;José Nicolas Matienzo;1922;1933;SL;laissez-faire capitalist;High;5938;X
 165227;Minister of Armament;Vicente C. Gallo;1922;1933;SL;Resource Industrialist;High;2171;X
 165228;Minister of Armament;José P. Tamborini;1922;1933;SL;Administrative Genius;High;2172;X
 165229;Minister of Security;Indelecio Gomez;1914;1933;ML;Silent Lawyer;High;5940;X
@@ -235,8 +235,8 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165233;Minister of Security;José Nicolas Matienzo;1922;1933;SL;Man of the People;High;5938;X
 165234;Minister of Security;Vicente C. Gallo;1922;1933;SL;Compassionate Gentleman;High;2171;X
 165235;Minister of Security;José P. Tamborini;1922;1933;SL;Crime Fighter;High;2172;X
-165236;Minister of Security;Rodolf Almiron Sena;1959;1964;FA;Crooked Kleptocrat;Very Low;5990;X
-165237;Head of Government;Nimio de Anquín;1940;1964;FA;Naive Optimist;High;5991;X
-165238;Foreign Minister;Nimio de Anquín;1934;1964;FA;Biased Intellectual;High;5991;X
-165239;Minister of Security;Julio Meinvielle;1934;1964;NS;Prince of Terror;High;5992;X
-165240;Minister of Armament;Alfredo Martínez de Hoz;1956;1964;PA;Laissez-Faire Capitalist;Medium;5993;X
+165236;Minister of Security;Rodolf Almiron Sena;1959;1964;FA;Crooked Kleptocrat;Very Low;5990;x
+165237;Head of Government;Nimio de Anquín;1940;1964;FA;Naive Optimist;High;5991;x
+165238;Foreign Minister;Nimio de Anquín;1934;1964;FA;Biased Intellectual;High;5991;x
+165239;Minister of Security;Julio Meinvielle;1934;1964;NS;Prince of Terror;High;5992;x
+165240;Minister of Armament;Alfredo Martínez de Hoz;1956;1964;PA;Laissez-Faire Capitalist;medium;5993;x 

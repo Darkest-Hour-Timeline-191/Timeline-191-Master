@@ -170,7 +170,6 @@ country = {
 
   diplomacy = {
     relation = { tag = AST value = 150 }
-    relation = { tag = AUS value = -10 }
     relation = {
       tag        = BEL
       value      = 120
@@ -178,7 +177,6 @@ country = {
     }
     relation = { tag = BHU value = 150 }
     relation = { tag = BUL value = 20 }
-    relation = { tag = CAN value = 150 }
     relation = { tag = CZE value = 150 }
     relation = { tag = ENG value = 150 }
     relation = { tag = EST value = 65 }
@@ -191,11 +189,10 @@ country = {
       value      = 75
       guaranteed = { year = 1935 month = january day = 7 }
     }
-    relation = { tag = HUN value = -70 }
     relation = { tag = IRE value = 25 }
     relation = { tag = IRQ value = 100 }
     relation = { tag = ITA value = -50 }
-    relation = { tag = JAP value = -20 }
+    relation = { tag = JAP value =  35 }
     relation = { tag = LAT value = 65 }
     relation = { tag = LIT value = 65 }
     relation = {
@@ -232,17 +229,14 @@ country = {
       value      = 50
       guaranteed = { year = 1935 month = january day = 7 }
     }
-    relation = { tag = USA value = 65 }
+    relation = { tag = U09 value = -50 } # Austria-Hungary
+    relation = { tag = USA value = -50 }
     relation = { tag = YEM value = 150 }
-    relation = {
-      tag        = YUG
-      value      = 50
-      guaranteed = { year = 1935 month = january day = 7 }
-    }
   }
+
   SpyInfo                = { country = "ENG" NumberOfSpies = 3 }
   SpyInfo                = { country = "GER" NumberOfSpies = 4 }
-  SpyInfo                = { country = "SOV" NumberOfSpies = 2 }
+  SpyInfo                = { country = "RUS" NumberOfSpies = 2 }
   SpyInfo                = { country = "CZE" NumberOfSpies = 1 }
   SpyInfo                = { country = "AUS" NumberOfSpies = 1 }
   SpyInfo                = { country = "SPR" NumberOfSpies = 4 }
@@ -250,19 +244,19 @@ country = {
   SpyInfo                = { country = "SWE" NumberOfSpies = 3 }
   SpyInfo                = { country = "NOR" NumberOfSpies = 1 }
   SpyInfo                = { country = "FIN" NumberOfSpies = 1 }
-  SpyInfo                = { country = "YUG" NumberOfSpies = 1 }
-  SpyInfo                = { country = "HUN" NumberOfSpies = 2 }
+  SpyInfo                = { country = "SER" NumberOfSpies = 1 }
+  SpyInfo                = { country = "CSA" NumberOfSpies = 2 }
   SpyInfo                = { country = "BUL" NumberOfSpies = 1 }
   SpyInfo                = { country = "BEL" NumberOfSpies = 4 }
   SpyInfo                = { country = "DEN" NumberOfSpies = 2 }
   SpyInfo                = { country = "HOL" NumberOfSpies = 3 }
   SpyInfo                = { country = "ARG" NumberOfSpies = 3 }
-  SpyInfo                = { country = "USA" NumberOfSpies = 2 }
+  SpyInfo                = { country = "USA" NumberOfSpies = 3 }
   SpyInfo                = { country = "ALB" NumberOfSpies = 1 }
   SpyInfo                = { country = "GRE" NumberOfSpies = 1 }
   SpyInfo                = { country = "JAP" NumberOfSpies = 2 }
   SpyInfo                = { country = "ROM" NumberOfSpies = 2 }
-  SpyInfo                = { country = "LUX" NumberOfSpies = 2 }
+  SpyInfo                = { country = "U09" NumberOfSpies = 2 }
   SpyInfo                = { country = "POR" NumberOfSpies = 1 }
   SpyInfo                = { country = "ITA" NumberOfSpies = 4 }
 
@@ -283,16 +277,16 @@ country = {
     defense_lobby     = 7
     interventionism   = 7
   }
-  headofstate            = { type = 9 id = 5001 } # S.M. Jean III de Orléans
-  headofgovernment       = { type = 9 id = 5002 } # Charles Maurras
-  foreignminister        = { type = 9 id = 5003 } # Maurice Pujo
-  armamentminister       = { type = 9 id = 5004 } # Louis Renault
-  ministerofsecurity     = { type = 9 id = 5005 } # Raphael Alibert
-  ministerofintelligence = { type = 9 id = 5006 } # René Bousquet
-  chiefofstaff           = { type = 9 id = 5007 } # Phillipe Pétain
-  chiefofarmy            = { type = 9 id = 5008 } # Eugène Bridoux
-  chiefofnavy            = { type = 9 id = 5009 } # François Darlan
-  chiefofair             = { type = 9 id = 5010 } # Joseph Vuillemin
+  headofstate            = { type = 9 id = 5400 } # Charles XI
+  headofgovernment       = { type = 9 id = 5358 } # Charles Maurras
+  foreignminister        = { type = 9 id = 5394 } # Charles Maurras
+  armamentminister       = { type = 9 id = 5365 } # Louis Renault
+#  ministerofsecurity     = { type = 9 id = 5005 } # Raphael Alibert
+#  ministerofintelligence = { type = 9 id = 5006 } # René Bousquet
+#  chiefofstaff           = { type = 9 id = 5007 } # Phillipe Pétain
+#  chiefofarmy            = { type = 9 id = 5008 } # Eugène Bridoux
+#  chiefofnavy            = { type = 9 id = 5009 } # François Darlan
+#  chiefofair             = { type = 9 id = 5010 } # Joseph Vuillemin
 
   landunit = {
     id       = { type = 13500 id = 1 }
@@ -1183,12 +1177,7 @@ country = {
     name     = "1ère Flotte"
     location = 38
     base     = 38
-    division = {
-      id             = { type = 13500 id = 119 }
-      name           = "Béarn"
-      type           = escort_carrier
-      model          = 2
-    }
+
     division = {
       id             = { type = 13500 id = 120 }
       name           = "1ère Flottille de Contre-Torpilleurs"
@@ -1196,23 +1185,8 @@ country = {
       model          = 5
     }
     division = {
-      id             = { type = 13500 id = 121 }
-      name           = "Lorraine"
-      type           = battleship
-      model          = 3
-      extra1         = naval_anti_air_l
-      extra2         = floatplane
-      brigade_model2 = 4
-    }
-    division = {
-      id             = { type = 13500 id = 122 }
-      name           = "Provence"
-      type           = battleship
-      model          = 3
-    }
-    division = {
       id             = { type = 13500 id = 123 }
-      name           = "Colbert"
+      name           = "NMF Colbert"
       type           = heavy_cruiser
       model          = 3
       extra1         = floatplane
@@ -1220,7 +1194,7 @@ country = {
     }
     division = {
       id             = { type = 13500 id = 124 }
-      name           = "Dupleix"
+      name           = "NMF Dupleix"
       type           = heavy_cruiser
       model          = 3
       extra1         = floatplane
@@ -1228,13 +1202,13 @@ country = {
     }
     division = {
       id             = { type = 13500 id = 125 }
-      name           = "Emile Bertin"
+      name           = "NMF Emile Bertin"
       type           = light_cruiser
       model          = 4
     }
     division = {
       id             = { type = 13500 id = 128 }
-      name           = "Algérie"
+      name           = "NMF Algérie"
       type           = heavy_cruiser
       model          = 4
       extra1         = floatplane
@@ -1242,25 +1216,25 @@ country = {
     }
     division = {
       id             = { type = 13500 id = 126 }
-      name           = "Primauguet"
+      name           = "NMF Primauguet"
       type           = light_cruiser
       model          = 3
     }
     division = {
       id             = { type = 13500 id = 127 }
-      name           = "Duguay-Trouin"
+      name           = "NMF Duguay-Trouin"
       type           = light_cruiser
       model          = 3
     }
     division = {
       id             = { type = 13500 id = 129 }
-      name           = "Lamotte-Picquet"
+      name           = "NMF Lamotte-Picquet"
       type           = light_cruiser
       model          = 3
     }
     division = {
       id             = { type = 13500 id = 131 }
-      name           = "La Galissonnière"
+      name           = "NMF La Galissonnière"
       type           = light_cruiser
       model          = 4
     }
@@ -1272,19 +1246,19 @@ country = {
     base     = 38
     division = {
       id             = { type = 13500 id = 132 }
-      name           = "Courbet"
+      name           = "NMF Courbet"
       type           = battleship
       model          = 2
     }
     division = {
       id             = { type = 13500 id = 133 }
-      name           = "Paris"
+      name           = "NMF Paris"
       type           = battleship
       model          = 2
     }
     division = {
       id             = { type = 13500 id = 134 }
-      name           = "Suffren"
+      name           = "NMF Suffren"
       type           = heavy_cruiser
       model          = 3
       extra1         = floatplane
@@ -1292,7 +1266,7 @@ country = {
     }
     division = {
       id             = { type = 13500 id = 135 }
-      name           = "Duquesne"
+      name           = "NMF Duquesne"
       type           = heavy_cruiser
       model          = 3
       extra1         = floatplane
@@ -1300,13 +1274,13 @@ country = {
     }
     division = {
       id             = { type = 13500 id = 136 }
-      name           = "Pluton"
+      name           = "NMF Pluton"
       type           = light_cruiser
       model          = 3
     }
     division = {
       id             = { type = 13500 id = 137 }
-      name           = "Jeanne d'Arc"
+      name           = "NMF Othon de Torcy"
       type           = light_cruiser
       model          = 3
     }
@@ -1328,31 +1302,18 @@ country = {
     name     = "3ème Flotte"
     location = 38
     base     = 38
-    division = {
-      id             = { type = 13500 id = 142 }
-      name           = "Bretagne"
-      type           = battleship
-      model          = 3
-    }
+	
     division = {
       id             = { type = 13500 id = 143 }
-      name           = "Foch"
+      name           = "NMF Hugues Quiéret"
       type           = heavy_cruiser
       model          = 3
       extra1         = floatplane
       brigade_model1 = 4
     }
     division = {
-      id             = { type = 13500 id = 307 }
-      name           = "Commandant Teste"
-      type           = escort_carrier
-      model          = 0
-      extra1         = naval_anti_air_l
-      brigade_model1 = 0
-    }
-    division = {
       id             = { type = 13500 id = 144 }
-      name           = "Tourville"
+      name           = "NMF Tourville"
       type           = heavy_cruiser
       model          = 3
       extra1         = floatplane
@@ -1677,7 +1638,7 @@ country = {
 
   division_development = {
     id             = { type = 13500 id = 300 }
-    name           = "Dunkerque"
+    name           = "NMF Dunkerque"
     type           = battlecruiser
     model          = 3
     cost           = 0.4
@@ -1686,7 +1647,7 @@ country = {
   }
   division_development = {
     id             = { type = 13500 id = 301 }
-    name           = "Strasbourg"
+    name           = "NMF Strasbourg"
     type           = battlecruiser
     model          = 3
     cost           = 0.4
@@ -1695,7 +1656,7 @@ country = {
   }
   division_development = {
     id             = { type = 13500 id = 302 }
-    name           = "George Leygues"
+    name           = "NMF George Leygues"
     type           = light_cruiser
     model          = 4
     cost           = 0.4
@@ -1704,7 +1665,7 @@ country = {
   }
   division_development = {
     id             = { type = 13500 id = 303 }
-    name           = "Gloire"
+    name           = "NMF Gloire"
     type           = light_cruiser
     model          = 4
     cost           = 0.4
@@ -1713,7 +1674,7 @@ country = {
   }
   division_development = {
     id             = { type = 13500 id = 304 }
-    name           = "Marsellaise"
+    name           = "NMF Marsellaise"
     type           = light_cruiser
     model          = 4
     cost           = 0.4
@@ -1722,7 +1683,7 @@ country = {
   }
   division_development = {
     id             = { type = 13500 id = 305 }
-    name           = "Jean de Vienne"
+    name           = "NMF Jean de Vienne"
     type           = light_cruiser
     model          = 4
     cost           = 0.4
@@ -1731,7 +1692,7 @@ country = {
   }
   division_development = {
     id             = { type = 13500 id = 306 }
-    name           = "Montcalm"
+    name           = "NMF Montcalm"
     type           = light_cruiser
     model          = 4
     cost           = 0.4

@@ -1,5 +1,6 @@
 province = { id = 588 ic = 1 energy = 100 metal = 100 rare_materials = 100 oil = 100 manpower = 10 }
-province = { id = 606 ic = 1 energy = 1000 metal = 1000 rare_materials = 1000 oil = 1000 manpower = 10 }
+province = { id = 606 ic = 1 energy = 1000 metal = 1000 rare_materials = 1000 oil = 1000 }
+province = { id = 670 ic = 1 energy = 100 metal = 100 rare_materials = 100 oil = 100 manpower = 10 }
 province = { id = 752 ic = 1 energy = 100 metal = 100 rare_materials = 100 oil = 100 manpower = 10 }
 province = { id = 757 ic = 1 energy = 100 metal = 100 rare_materials = 100 oil = 100 manpower = 10 }
 province = { id = 759 ic = 1 energy = 100 metal = 100 rare_materials = 100 oil = 100 manpower = 10 }

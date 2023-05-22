@@ -1,34 +1,34 @@
-U10;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyality;Picture Name;X
+U10;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-865001;Head of State;Benjamin Boers;1933;1964;ST;Insignificant Layman;High;M8040;X
-865002;Head of State;Jan Dieters;1933;1964;ST;Autocratic Charmer;High;M8041;X
-865003;Head of State;Saul de Groot;1933;1964;ST;Ruthless Powermonger;High;M8021;X
-865004;Head of Government;Johan Albarda;1933;1964;LWR;Happy Amateur;High;M8043;X
-865005;Head of Government;Nicolaas Beuzemaker;1933;1964;ST;Happy Amateur;High;M8054;X
-865006;Head of Government;David Wijnkoop;1933;1964;ST;Naive Optimist;High;M8022;X
-865007;Head of Government;Daniel Goulooze;1933;1964;ST;Smiling Oilman;High;M8025;X
-865008;Foreign Minister;Servatius Baart;1933;1964;LWR;Great Compromiser;Medium;M8057;X
-865009;Foreign Minister;George van den Bergh;1933;1964;LWR;Iron Fisted Brute;Medium;M8059;X
-865010;Foreign Minister;Jan van Royen;1933;1964;LWR;Biased Intellectual;Low;M8060;X
+865001;Head of State;Heber J. Grant;1920;1945;PA;Ruthless Powermonger;Very High;U10 - Heber J Grant;X
+865002;Head of State;George Albert Smith;1930;1951;PA;Benevolent Gentleman;High;U10 - George Albert Smith;X
+865003;Head of State;George Romney;1948;1993;SC;Benevolent Gentleman;High;U10 - George Romney;X
+865004;Head of Government;George Albert Smith;1920;1951;PA;Political Protege;High;U10 - George Albert Smith;X
+865005;Head of Government;George Romney;1942;1993;SC;Corporate Suit;High;U10 - George Romney;X
+865006;Head of Government;Lemuel A. Garrison;1933;1964;PA;Flamboyant Tough Guy;High;U10 - Lemuel A Garrison;X
+865007;Head of Government;Herbert Brown Maw;1933;1964;ML;Silent Workhorse;High;U10 - Herbert Brown Maw;X
+865008;Foreign Minister;Wallace F. Bennett;1933;1964;ML;Ideological Crusader;Medium;U10 - Wallace F Bennett;X
+865009;Foreign Minister;George Albert Smith;1933;1964;PA;Great Compromiser;High;U10 - George Albert Smith;X
+865010;Foreign Minister;Moroni Olsen;1933;1964;SC;Great Compromiser;Medium;U10 - Moroni Olsen;X
 865011;Foreign Minister;Charles Guillaume Cramer;1933;1964;LWR;The Cloak N Dagger Schemer;Very High;M8062;X
 865012;Foreign Minister;Benjamin Boers;1933;1964;ST;Great Compromiser;Medium;M8040;X
 865013;Foreign Minister;Nicolaas Beuzemaker;1933;1964;ST;The Cloak N Dagger Schemer;Very High;M8054;X
 865014;Foreign Minister;David Wijnkoop;1933;1964;ST;Biased Intellectual;Low;M8022;X
 865015;Foreign Minister;Saul de Groot;1933;1964;ST;Ideological Crusader;Low;M8021;X
 865016;Foreign Minister;Willem van Ravesteyn;1933;1964;ST;Apologetic Clerk;Medium;M8023;X
-865017;Minister of Armament;Jacob van Gelderen;1933;1964;LWR;laissez-faire capitalist;High;M8077;X
-865018;Minister of Armament;Lambertus H. Mansholt;1933;1964;LWR;Resource Industrialist;Medium;M8078;X
-865019;Minister of Armament;Johan Albarda;1933;1964;LWR;laissez-faire capitalist;High;M8043;X
+865017;Minister of Armament;Val Browning;1933;1964;SC;Administrative Genius;High;unknownminister;X
+865018;Minister of Armament;Marriner S. Eccles;1933;1964;SC;Laissez-Faire Capitalist;Medium;unknownminister;X
+865019;Minister of Armament;Johan Albarda;1933;1964;LWR;Laissez-Faire Capitalist;High;M8043;X
 865020;Minister of Armament;Jacques de Kadt;1933;1964;LWR;Military Entrepreneur;High;M8081;X
 865021;Minister of Armament;Charles Guillaume Cramer;1933;1964;LWR;Air Superiority Proponent;Very High;M8062;X
 865022;Minister of Armament;Jan Tinbergen;1933;1964;LWR;Resource Industrialist;Very High;M8084;X
-865023;Minister of Armament;Peiter Bergsma;1933;1964;ST;laissez-faire capitalist;Medium;M8102;X
+865023;Minister of Armament;Peiter Bergsma;1933;1964;ST;Laissez-Faire Capitalist;Medium;M8102;X
 865024;Minister of Armament;Jacques de Kadt;1933;1964;ST;Military Entrepreneur;High;M8081;X
 865025;Minister of Armament;Jan Postma;1933;1964;ST;Theoretical Scientist;Low;M8024;X
 865026;Minister of Armament;Jacobus Engels;1933;1964;ST;Strategic Air Proponent;High;M8105;X
-865027;Minister of Security;Franc van der Goes;1933;1964;LWR;Man of the People;Medium;M8106;X
-865028;Minister of Security;Jan Bergmeijer;1933;1964;LWR;Compassionate Gentleman;Medium;M8107;X
-865029;Minister of Security;Louis Beel;1933;1964;LWR;Man of the People;Medium;M8044;X
+865027;Minister of Security;Reuben Clark Jr;1933;1964;ML;Crime Fighter;Very High;U10 - Reuben Clark Jr;X
+865028;Minister of Security;Floyd Gottfredson;1940;1964;SC;Media magnate;Medium;U10 - Floyd Gottfredson;X
+865029;Minister of Security;Samuel Cowley;1933;1964;SC;Crime Fighter;High;U10 - Samuel Cowley;X
 865030;Minister of Security;Charles Guillaume Cramer;1933;1964;LWR;Silent Lawyer;Very High;M8062;X
 865031;Minister of Security;Johan Brautigam;1933;1964;LWR;Prince of Terror;Medium;M8110;X
 865032;Minister of Security;Fokke Bosman;1933;1964;ST;Compassionate Gentleman;High;M8123;X
@@ -41,17 +41,17 @@ U10;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 865039;Head of Military Intelligence;Willem Drees;1933;1964;LWR;Logistics Specialist;Very High;M8130;X
 865040;Head of Military Intelligence;Abraham Menist;1933;1964;ST;Political Specialist;High;M8026;X
 865041;Head of Military Intelligence;Ina Willekes-MacDonald;1933;1964;ST;Dismal Enigma;Very High;M8141;X
-865042;Chief of Staff;Bernhard Coltof;1933;1964;LWR;School of Psychology;High;M8142;X
-865043;Chief of Staff;Thomas Struik;1933;1964;ST;School of Mass Combat;High;M8027;X
-865044;Chief of Staff;Geert Sterringa;1933;1964;ST;School of Defence;High;M8152;X
+865042;Chief of Staff;Wallace F. Bennett;1933;1964;ML;School of Psychology;High;U10 - Wallace F Bennett;X
+865043;Chief of Staff;Briant H. Wells;1933;1938;SC;School of Defence;High;U10 - Briant Harris Wells;X
+865044;Chief of Staff;Ray DuChene Free;1943;1964;SC;School of Mass Combat;High;unknownleader;X
 865045;Chief of Staff;Jacobus Engels;1933;1964;ST;School of Psychology;High;M8105;X
-865046;Chief of Army;Alexander de Leeuw;1933;1964;ST;Elastic Defence Doctrine;Very High;M8162;X
-865047;Chief of Army;Nico van Straaten;1933;1964;ST;Armoured Spearhead Doctrine;Low;M8028;X
+865046;Chief of Army;Briant H. Wells;1933;1938;SC;Guns and Butter Doctrine;Very High;U10 - Briant Harris Wells;X
+865047;Chief of Army;Wendell Schmitt Jr.;1933;1964;FA;Decisive Battle Doctrine;Very High;unknownminister;X
 865048;Chief of Army;Anthon Koejemans;1933;1964;ST;Guns and Butter Doctrine;Very High;M8164;X
-865049;Chief of Navy;Christiaan Beekman;1933;1964;ST;Base Control Doctrine;Low;M8170;X
+865049;Chief of Navy;Under Army Command;1933;1964;SC;Base Control Doctrine;Low;unknownminister;X
 865050;Chief of Navy;Fokke Bosman;1933;1964;ST;Open Seas Doctrine;High;M8123;X
-865051;Chief of Air Force;Petrus W. Best;1933;1964;LWR;Naval Aviation Doctrine;High;M8172;X
-865052;Chief of Air Force;Jan Dieters;1933;1964;ST;Vertical Envelopment Doctrine;High;M8041;X
+865051;Chief of Air Force;Russell Maugan;1933;1964;SC;Air Superiority Doctrine;High;U10 - Russell Maughan;X
+865052;Chief of Air Force;Orvil A. Anderson;1933;1964;SC;Army Aviation Doctrine;High;unknownminister;X
 865053;Chief of Air Force;Julius Zegers;1933;1964;ST;Air Superiority Doctrine;Low;M8030;X
 865054;Chief of Army;Bernhard Coltof;1933;1964;LWR;Elastic Defence Doctrine;High;M8142;X
 865055;Head of State;Wilhelmina;1933;1964;LWR;Stern Imperialist;Very High;M8001;X

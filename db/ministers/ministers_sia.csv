@@ -1,5 +1,5 @@
-SIA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
+SIA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
 290001;Head of State;H.M. Rama VIII;1933;1964;PA;Popular Figurehead;High;M62001;X
 290002;Head of Government;Phot Phahonyothin;1933;1964;PA;Happy Amateur;High;M62002;X
 290003;Foreign Minister;Ha Samptasiri;1933;1964;PA;Apologetic Clerk;Medium;M62003;X
@@ -37,7 +37,7 @@ SIA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 290035;Foreign Minister;Thawon Thamrongnawasawat;1946;1964;SC;The Cloak N Dagger Schemer;Medium;M62029;X
 290036;Foreign Minister;Pote Sarasin;1948;1964;SC;Great Compromiser;Medium;M62114;X
 290037;Foreign Minister;Buddhadasa Bhikkhu;1946;1964;SD;Great Compromiser;High;SIA-Buddhadasa_Bhikkhu;X
-290038;Foreign Minister;Asanee Poljantra;1933;1964;LE;Ideological Crusader;Very High;SIA-Asanee_Poljantra;X
+290038;Foreign Minister;Asanee Poljantra;1933;1964;LE;Generic;Very High;SIA-Asanee_Poljantra;X
 290039;Minister of Armament;Phya Bidadhkosha;1937;1964;PA;Administrative Genius;Medium;M62054;X
 290040;Minister of Armament;Phraya Wichcitcholathai;1937;1964;PA;Battle Fleet Proponent;Medium;M62055;X
 290041;Minister of Armament;Pridi Phanomyong;1938;1964;FA;Mixed Economy;Low;M62005;X
@@ -131,7 +131,7 @@ SIA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 290129;Chief of Staff;Paribatra Sukhumbhand;1914;1933;PA;School of Mass Combat;Medium;9870;X
 290130;Chief of Staff;Chakrabongse Bhuvanath;1914;1921;PA;School of Psychology;Medium;3168;X
 290131;Chief of Staff;Blue Shadow;1914;1933;ML;Generic;Very High;unknownminister;X
-290132;Chief of Army;Chakrabongse Bhuvanath;1914;1921;PA;Static Defence Doctrine;Medium;unknownminister;X
+290132;Chief of Army;Chakrabongse Bhuvanath;1914;1921;PA;Static Defence Doctrine;Medium;3168;X
 290133;Chief of Army;Paribatra Sukhumbhand;1914;1933;PA;Decisive Battle Doctrine;Medium;9870;X
 290134;Chief of Army;Nakhon Jaisri Suradej;1914;1933;PA;Decisive Battle Doctrine;Medium;3166;X
 290135;Chief of Army;Blue Shadow;1914;1933;ML;Generic;Very High;unknownminister;X

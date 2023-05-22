@@ -1,8 +1,8 @@
 WLL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-795001;Head of State;Léon Degrelle;1933;1964;NS;Powerhungry Demagogue;High;M511001;X
-795002;Head of Government;Léon Degrelle;1933;1964;NS;Old General;High;M511001;X
-795003;Foreign Minister;Léon Degrelle;1933;1964;NS;Ideological Crusader;Very High;M511001;X
+795001;Head of State;Léon Degrelle;1933;1964;NS;Powerhungry Demagogue;NA;M511001;X
+795002;Head of Government;Léon Degrelle;1933;1964;NS;Old General;NA;M511001;X
+795003;Foreign Minister;Léon Degrelle;1933;1964;NS;Iron Fisted Brute;Very High;M511001;X
 795004;Minister of Armament;Victor Matthys;1933;1964;NS;Military Entrepreneur;Very High;M15058;X
 795005;Minister of Security;Paul Ouwerx;1933;1964;NS;Crime Fighter;Very High;M15075;X
 795006;Head of Military Intelligence;Paul Ouwerx;1933;1964;NS;Logistics Specialist;Very High;M15075;X
@@ -19,10 +19,10 @@ WLL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 795017;Foreign Minister;José Streel;1942;1964;NS;Ideological Crusader;Very High;M511014;X
 795018;Foreign Minister;Xavier de Grunne;1933;1964;FA;Biased Intellectual;Very High;M511018;X
 795019;Minister of Armament;Baron de Launoit;1933;1964;FA;Resource Industrialist;Very High;M511019;X
-795020;Minister of Armament;Jean-François Collard;1940;1964;FA;Laissez-Faire Capitalist;Very High;M511016;X
+795020;Minister of Armament;Jean-François Collard;1940;1964;FA;laissez-faire capitalist;Very High;M511016;X
 795021;Minister of Armament;Léon Degrelle;1937;1964;NS;Infantry Proponent;Very High;M511001;X
 795022;Minister of Armament;Paul Garain;1942;1964;NS;Military Entrepreneur;Very High;M511022;X
-795023;Minister of Armament;Xavier de Grunne;1933;1964;FA;Laissez-Faire Capitalist;Very High;M511018;X
+795023;Minister of Armament;Xavier de Grunne;1933;1964;FA;laissez-faire capitalist;Very High;M511018;X
 795024;Minister of Security;Jean Vermeire;1933;1964;NS;Efficient Sociopath;Very High;M511007;X
 795025;Minister of Security;John Hagemans;1940;1964;NS;Man of the People;Very High;M511025;X
 795026;Minister of Security;José Streel;1942;1964;NS;Man of the People;Very High;M511014;X

@@ -1,0 +1,1304 @@
+# ID range 1000 - ?
+
+event = {
+	id = 1000
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		government = democratic # unnecessary unless the player cheats, but eh
+		NOT = { ispuppet = CSA } # same as above
+		}
+
+	name = "Confederate States Presidential Election, 1933"
+	desc = "Another presidential election is finally here. The worldwide depression has hit the CSA quite badly, and some of the people have never quite gotten over of how the Mitchel government mishandled the response to the Great Mississippi Flood of 1927. Will tradition be able to help the Whig candidate, Virginia Senator Samuel Longstreet, over the finishing line, or will the people turn to the two alternatives: Cordell Hull and Huey Long's Radical Liberals, or (heaven forbid!) Jake Featherston's Freedom Party?"
+
+	date = { day = 0 month = november year = 1933 }
+
+	action_a = {
+		ai_chance = 1
+		name = "Samuel Longstreet/Hugo Black (Whig)"
+		command = { type = sleepminister which = 600064 } # Mitchel
+		command = { type = headofstate which = 600074 } # 
+		command = { type = headofgovernment which = 600073 } # 
+		command = { type = foreignminister which = 600089 } # Breckinridge Long
+		command = { type = ministerofsecurity which = 600091 } # Park Trammell
+		command = { type = set_domestic which = democratic value = 9 }
+		command = { type = set_domestic which = political_left value = 2 }
+		command = { type = dissent value = 15 }
+		}
+	action_b = {
+		ai_chance = 1
+		name = "Cordell Hull/Huey Long (Rad. Lib.)"
+		command = { type = sleepminister which = 600064 } # Mitchel
+		command = { type = headofstate which = 600092 } # 
+		command = { type = headofgovernment which = 600093 } # 
+		command = { type = foreignminister which = 600094 } # William Dodd
+		command = { type = ministerofsecurity which = 600088 } # John Johnston Parker
+		command = { type = set_domestic which = democratic value = 9 }
+		command = { type = set_domestic which = political_left value = 7 }
+		command = { type = change_policy which = free_market value = -1 }
+		command = { type = dissent value = 10 }	
+		}
+	action_c = {
+		ai_chance = 98
+		name = "Jake Featherston/Willy Knight (Freedom)"
+		command = { type = sleepminister which = 600064 } # Mitchel
+		command = { type = headofstate which = 600052 } # 
+		command = { type = headofgovernment which = 600054 } # 
+		command = { type = ministerofsecurity which = 600059 } # Ferdinand Koenig
+		command = { type = set_domestic which = democratic value = 3 }
+		command = { type = set_domestic which = political_left value = 1 }
+		command = { type = change_policy which = interventionism value = 1 }
+		command = { type = change_policy which = free_market value = -1 }
+		command = { type = change_policy which = freedom value = -2 }
+		command = { type = change_policy which = defense_lobby value = 2 }
+		command = { type = dissent value = 3 }	
+		}
+	}
+
+event = {
+	id = 1002
+	random = no
+	country = CSA
+	style = 2
+	picture = "mcreynolds"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "The Supreme Court is abolished"
+	desc = "In July 1934, Featherston passed a law authorizing the construction of several dams along the Mississippi River, to create electricity and new jobs. The Supreme Court, led by Chief Justice James McReynolds, declared the legislation unconstitutional, which it indeed was. Featherston responded by unilaterally abolishing the court, and threatened McReynolds if he did not drop the issue. As the damming plan was very popular and the Court very unpopular, McReynolds was in no position to argue against him."
+
+	date = { day = 0 month = july year = 1934 }
+
+	action = {
+		name = ACTION_NAME_GOOD
+		command = { type = dissent value = -3 }
+		command = { type = change_policy which = freedom value = -1 }
+		# command = { type = sleepminister which = ? } # McReynolds, if he is an available minister
+		# move towards dictatorship/closed society/both
+		}
+	}
+
+event = {
+	id = 1003
+	random = no
+	country = CSA
+	style = 2
+	picture = "csa_dam"
+
+	trigger = {
+		event = 1002
+		headofstate = 600052 # Featherston
+	}
+
+	name = "The Mississippi Valley Dam Authority"
+	desc = "After more than a year of construction, the first dams and hydroelectric plants along the Mississippi River valley were finished in late 1935. Many industries had prepared to expand their operations in anticipation of cheap and plentiful electricity, and existing operations also became much more efficient with it."
+
+	date = { day = 0 month = november year = 1935 }
+	offset = 1
+	deathdate = { day = 29 month = december year = 1935 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = dissent value = -5 }
+		command = { type = industrial_modifier which = total value = 3 }
+		command = { type = construct which = ic where = 642 value = 1 } # Knoxville
+		command = { type = construct which = ic where = 671 value = 2 } # Nashville
+		command = { type = construct which = ic where = 673 value = 2 } # Memphis
+		command = { type = construct which = ic where = 6427 value = 1 } # Greenville, Mississippi
+		command = { type = construct which = ic where = 679 value = 2 } # New Orleans
+		command = { type = construct which = ic where = 6274 value = 1 } # Baton Rouge
+		}
+	}
+
+event = {
+	id = 1004
+	random = no
+	country = CSA
+	style = 2
+	picture = "olympics"
+
+	trigger = {
+		event = 1104
+		atwar = no
+		headofstate = 600052 # Featherston
+	}
+
+	name = "An incident at the Richmond Olympics"
+	desc = "During the Richmond Olympics, President Featherston arrived to watch a swimming event in person, with intelligence officer Clarence Potter accompanying him. During the visit, a black frankfurter salesman attempted to assassinate Featherston using a sawed-off submachine gun."
+
+	date = { day = 4 month = august year = 1936 }
+
+	action_a = {
+		ai_chance = 99
+		name = "Fate is on the Sarge's side and he is unharmed!"
+		command = { type = dissent value = 1 } # it is a bit scary to have people try to kill the prez
+		}	
+	action_b = {
+		ai_chance = 1
+		name = "The President is dead!"
+		command = { type = sleepminister which = 600052 } # Featherston HoS
+		command = { type = sleepminister which = 600082 } # Featherston HoG
+		command = { type = sleepminister which = 600083 } # Featherston CoA
+		command = { type = dissent value = 5 } # it is VERY scary to have people trying to kill the prez and SUCCEED
+		command = { type = headofstate which = 600053 } # Willy Knight
+		command = { type = headofgovernment which = 600054 } # Willy Knight (just in case)
+		}
+	}
+
+event = {
+	id = 1005
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		atwar = no
+		headofstate = 600052 # Featherston
+		minister = 600081 # Stuart Jr., unsurprisingly
+	}
+
+	name = "Featherston meets with General Stuart"
+	desc = "After the failed assassination against Featherston, he felt that a shake-up of the Confederate States Army was in order. He had also never forgotten about how General J. E. B. Stuart Jr. had once passed him over for promotion despite his evidence about an impending Black revolt, which had proven to be correct. In his meeting with Stuart, Featherston reminded him of their previous meeting in 1923, in which Stuart had claimed Featherston would never amount to anything, and asked for Stuart's resignation."
+
+	date = { day = 0 month = november year = 1936 }
+
+	action_a = {
+		ai_chance = 99
+		name = "Drop (figuratively) dead, geezer!"
+		command = { type = dissent value = -1 } #
+		command = { type = sleepminister which = 600081 } # Stuart as CoA
+		command = { type = sleepleader which = 600096 } # Stuart as land leader
+		command = { type = sleepteam which = 600035 } # Stuat as tech team
+		}	
+	action_b = {
+		ai_chance = 1
+		name = "Let bygones be bygones"
+		command = { type = dissent value = 1 } #
+		}
+	}
+
+event = {
+	id = 1006
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "The Seven Words Amendment"
+	desc = "The Confederate Constitution forbade a sitting President from seeking a second term in office. In late 1937, some members of the Congress introduced an amendment to abolish this limitation, obviously so that President Featherston could run for a second term in the 1939 election and not have to appoint anyone as his successor. The amendment was approved in late 1938 with wide approval from the Confederate citizens. However, one man in Richmond was furious, and began planning his next move."
+
+	date = { day = 0 month = october year = 1938 }
+
+	action = {
+		name = "Six more years!"
+		command = { type = dissent value = -3 }
+		}
+	}
+
+event = {
+	id = 1007
+	random = no
+	country = CSA
+	style = 2
+	picture = "tommygun"
+
+	trigger = {
+		atwar = no
+		headofstate = 600052 # Featherston
+	}
+
+	name = "The December Plot"
+	desc = "In December 1938, Vice President Willy Knight made his move. He knew he had no power as long as Featherston remained President, and with the recent constitutional amendment it was obvious that Featherston would never willingly leave the position. Knight was also aware that he might be replaced as the vice presidential candidate in the 1939 election, and sought to kill Featherston himself instead. Knight's means of killing Featherston turned out to be his goons opening automatic fire on his motorcade."
+
+	date = { day = 5 month = december year = 1938 }
+
+	action_a = {
+		ai_chance = 99
+		name = "The assassination attempt fails and Knight is impeached"
+		command = { type = dissent value = 1 } # it is a bit scary to have people try to kill the prez
+		command = { type = headofgovernment which = 600082 } # Featherston is HoG as well until 1939
+		}	
+	action_b = {
+		ai_chance = 1
+		name = "The assassination attempt succeeds!"
+		command = { type = sleepminister which = 600052 } # Featherston HoS
+		command = { type = sleepminister which = 600082 } # Featherston HoG
+		command = { type = sleepminister which = 600083 } # Featherston CoA
+		command = { type = dissent value = 10 } # 
+		command = { type = headofstate which = 600053 } # Willy Knight
+		command = { type = headofgovernment which = 600054 } # Willy Knight (just in case)
+		}
+	}
+
+event = {
+	id = 1008
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "Confederate States Presidential Election, 1939"
+	desc = "To say that the 1939 Confederate presidential election was rigged would be a vast understatement. The Featherston regime regularly intimidated voters and electors, and the media paid no attention whatsoever to the other candidates. The Freedom Party had also already ousted all other representatives and senators from the Congress in the preceding years. And while Featherston was certainly quite the popular leader, he certainly was not as popular as the final vote count would have led one to believe."
+
+	date = { day = 1 month = november year = 1939 }
+
+	action = {
+		name = "Jake Featherston/Donald Partridge (Freedom)"
+		command = { type = dissent value = -3 }
+		command = { type = headofstate which = 600052 } # 
+		command = { type = headofgovernment which = 600067 } # Donald Partridge
+		command = { type = change_policy which = democratic value = -1 }
+		command = { type = change_policy which = freedom value = -1 }
+		}
+	}
+
+### Murder of Huey Long
+
+event = {
+	id = 1009
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		atwar = no
+		headofstate = 600052 # Featherston
+		control = { province = 679 data = CSA } # New Orleans
+	}
+
+	name = "Featherston moves against Governor Long"
+	desc = "Governor Huey Long continued to be a popular man in Louisiana, even after his failed bid for Vice President in 1933. His authority was such that not even President Featherston could make him do as he said. Featherston found Long a threat on a personal level, as Long frequently bragged how he would defeat the Freedom Party candidate in 1939. Finally in 1937, after Long told Featherston's envoy Anne Colleton that he was not intimidated by Featherston's threats, Featherston started to plan for Long's demise."
+
+	date = { day = 15 month = october year = 1937 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Arrange for an accident to occur to him, in the VERY near future"
+		command = { type = dissent value = -1 } #
+		command = { type = sleepminister which = 600070 } # Long HoS
+		command = { type = sleepminister which = 600093 } # Long HoG
+		}	
+	action_b = {
+		ai_chance = 0
+		name = "Do nothing - he'll fall in line eventually"
+		command = { type = dissent value = 1 } #
+		command = { type = sleepevent which = 1010 } # 
+		}
+	}
+
+# REB receives an event deciding whether or not Long's assassination is successful
+
+event = {
+	id = 1010
+	random = no
+	country = REB
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		event = 1009
+	}
+
+	name = ""
+	desc = ""
+
+	date = { day = 17 month = october year = 1937 }
+
+	action_a = {
+		ai_chance = 99
+		name = ""
+		command = { type = event which = 1011 where = CSA } # success
+		}	
+	action_b = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1012 where = CSA } # failure
+		}
+	}
+
+# success
+
+event = {
+	id = 1011
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Assassination of Huey Long succeeds!"
+	desc = "Long's assassination by a black janitor in Baton Rouge in late 1937 marked the end of the last even remotely free state in the Confederate States. Freedom Party stalwarts swarmed into Louisiana and disarmed the Louisiana State Police and the local militia, and Long's two brothers received a bullet to the head and imprisonment respectively. The Radical Liberal Party also no longer had a high-profile figure to run in the upcoming presidential election in 1939."
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = dissent value = -3 }
+		}
+	}		
+
+# failure -- could probably have a few more follow-up events
+
+event = {
+	id = 1012
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Assassination of Huey Long fails!"
+	desc = "Just like with Featherston's attempted assassination in the Olympics in the summer of 1936, Long survived the attempt on his life through blind luck. It did not take a genius to figure out who had ordered the hit on him, and Long knew that despite him surviving this attempt, his time was running out. Long decided to stake all he had, by attempting secession from the CSA, hoping that the world would come to Louisiana's aid and help topple Featherston in favor of him, or at least someone less murderous."
+
+	action = {
+		name = "Incompetent fools!"
+		command = { type = sleepleader which = 600020 } # Raymond Fleming
+		command = { type = dissent value = 10 }
+		command = { type = independence which = U15 value = 1 when = 1 } #
+		command = { type = war which = U15 } #
+		command = { type = event which = 1013 where = U15 } #
+		}
+	}
+
+event = {
+	id = 1013
+	random = no
+	country = U15
+	style = 2
+	picture = "news_paper"
+
+	name = "Louisiana forces prepare their defenses"
+	desc = "Impossible that anyone could read this"
+
+	action_a = {
+		name = "Bring it on!"
+		command = { type = add_corps which = "Louisiana National Guard" value = land where = 679 } # in New Orleans
+		command = { type = add_division which = "1st Infantry Division 'Cossacks'" value = infantry when = 9 }
+		command = { type = add_division which = "2nd Infantry Division 'Skullcrushers'" value = infantry when = 8 }
+		command = { type = add_division which = "3rd Infantry Division 'Kingfish's Finest'" value = infantry when = 7 }
+		command = { type = add_division which = "4th Infantry Division 'Bayou Rangers'" value = infantry when = 7 }
+		command = { type = add_division which = "Louisiana State Police" value = militia when = 4 where = -75 }
+		}
+	}
+
+event = {
+	id = 1020
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "The inauguration of Jake Featherston"
+	desc = "On March 4th 1934, Jake Featherston was sworn in as 13th President of the Confederate States in a lavish inauguration in Richmond, amidst numerous Freedom Party 'inverted battle flags' flown by attendees and hanging from flagpoles. Chief Justice James Clark McReynolds administered the oath of office to Featherston, as well as to his Vice President Willy Knight. Featherston could now begin assembling his cabinet, and hopefully begin rebuilding the country from the depths of the Great Depression."
+
+	date = { day = 4 month = march year = 1934 }
+
+	action = {
+		name = "Freedom!"
+		command = { type = dissent value = -0.5 }
+		command = { type = flag_ext where = -1 which = "_FRP" }
+		}
+	}
+
+event = {
+	id = 1021
+	random = no
+	country = CSA
+	
+	decision = {
+		headofstate = 600052 # Featherston
+		atwar = no
+		policy = { type = professional_army value = 2 } 
+		NOT = { policy = { type = professional_army value = 3 } }
+	}
+	decision_trigger = {
+		headofstate = 600052 # Featherston
+		atwar = no
+		policy = { type = professional_army value = 2 } 
+		NOT = { policy = { type = professional_army value = 3 } }
+	}
+	trigger = {
+		headofstate = 600052 # Featherston
+		atwar = no
+		policy = { type = professional_army value = 2 } 
+		NOT = { policy = { type = professional_army value = 3 } }
+	}
+
+	date = { day = 3 month = march year = 1934 }
+	offset = 60
+	deathdate = { day = 29 month = september year = 1999 }	
+
+	name = "Re-establish conscription"
+	desc = "The 1917 Treaty of Arlington forbade the Confederate States from having a drafted army, which severely curtailed the size of the C. S. armed forces. After Jake Featherston's inauguration in March 1934, he began asking for the United States to revise the terms of the treaty. He cited the low-level Black insurgency in the Deep South as the reason, as there was not enough manpower available to deal with the matter using only volunteers."
+  	style = 2
+  	picture = "Wehrmacht"
+	
+	action = {
+		name = ACTION_NAME_GREAT
+		command = { type = set_domestic which = professional_army value = 3 }
+		command = { type = local_setflag which = MOB3 }
+		command = { type = dissent value = -1 }
+	}
+}
+
+### An event to prevent use of the Panama Canal
+
+event = {
+	id = 1030
+	random = no
+	country = COL
+	style = 2
+	picture = "news_paper"
+
+	name = "There is no Canal"
+	desc = "So you don't get to mess around with the area, sorry."
+
+	date = { day = 0 month = november year = 1933 }
+
+	action = {
+		name = ACTION_NAME_DAMN
+		command = { type = revolt which = 889 } # Balboa
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		# ten militia should defeat even an airborne assault
+		}
+	}
+
+### Japanese-American War endings
+
+# Japanese victory
+
+event = {
+	id = 1035
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		control = { province = 7242 data = JAP } # Pearl Harbor
+		control = { province = 663 data = JAP } # Honolulu
+		atwar = USA
+	}
+
+	name = "Japanese-American War - Japanese victory"
+	desc = "The Japanese efforts against the imperialist Americans went almost exactly as planned. Without any proper bases on the Sandwich Islands, the Americans could no longer strike back at the Japanese in a meaningful way, and thus they achieved full dominance of the Pacific. Perhaps now the USA would be willing to sign a treaty accepting Japan's status as the premier power of the East, and pay indemnities for the damages caused to Japanese shipping and commerce."
+
+	date = { day = 0 month = november year = 1933 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1935 }
+
+	action_a = {
+		ai_chance = 99
+		name = "The Sun rises in the East!"
+		command = { type = dissent value = -5 } # 
+		command = { type = event which = 1036 where = USA when = 1 } #
+		}	
+	action_b = {
+		ai_chance = 1
+		name = "No peace with the Americans! Onwards to Philadelphia!"
+		command = { type = dissent value = 15 } # 
+		}
+	}
+
+event = {
+	id = 1036
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+	
+	name = "Japanese-American War - Japanese victory"
+	desc = "Despite the best efforts of the United States military, Japan overwhelmingly defeated them in the Pacific. The United States Navy was crippled decisively, and the Japanese took Pearl Harbor. The American government could not keep up the struggle any longer."
+	
+	action = {
+		name = "Accept the Japanese conditions"
+		ai_chance = 100
+		command = { type = dissent value = 5 } #
+        	command = { type = secederegion which = JAP value = "American Pacific" when = 1 }
+        	command = { type = secederegion which = JAP value = "Asian Pacific" when = 1 }
+		command = { type = peace which = JAP value = 1 }
+		command = {  type = peacetime_ic_mod value = -75 } # slightly higher than the other endings
+		command = { type = event which = 1037 where = JAP } #
+	}
+	action = {
+		name = "We won’t give up!"
+		ai_chance = 0
+		command = { type = dissent value = 15 }
+	}
+}
+
+event = {
+	id = 1037
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+
+	name = "Japanese-American War - Japanese peace demands accepted"
+	desc = "The Americans accepted the Japanese demands of Japanese suzerainty over the Hawaiian islands. Though some in the Japanese government had had plans of restoring the Hawaiian monarchy to power, time would tell if this would actually be done."
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = dissent value = -3 }
+		command = {  type = peacetime_ic_mod value = -10 }
+		}
+	}
+
+### American victory
+
+event = {
+	id = 1038
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	trigger = {
+		# actual Japanese holdings
+		control = { province = 1599 data = USA } # Iwo Jima/Motoyama
+		control = { province = 1624 data = USA } # Agana/Guam
+		control = { province = 1785 data = USA } # Marcus Island/Minamitori-shima
+
+		# to ensure the USA is not just taking the piss by striking at Japanese islands while core territories are at risk
+		control = { province = 762 data = USA } # LOS ANGELES!
+		control = { province = 7242 data = USA } # Pearl Harbor
+		control = { province = 663 data = USA } # Honolulu
+		atwar = JAP
+	}
+
+	name = "Japanese-American War - American victory"
+	desc = "Despite the less than optimal state of the United States armed forces and the ongoing economic depression, they were able to beat back the Japanese and seize significant parts of their Pacific territories. Perhaps now the Japanese would be willing to sign a treaty that would acknowledge U. S. status as the strongest power in the Pacific."
+
+	date = { day = 0 month = november year = 1933 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1935 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Propose a deal for a Japanese retreat from the Pacific"
+		command = { type = dissent value = -5 } # 
+		command = { type = event which = 1039 where = JAP when = 1 } #
+		}	
+	action_b = {
+		ai_chance = 0
+		name = "Keep going until the Stars and Stripes flies in Tokyo!"
+		command = { type = dissent value = 5 } # 
+		}
+	}
+
+event = {
+	id = 1039
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+	
+	name = "Japanese-American War - American victory"
+	desc = "In a meeting with the privy council, the Emperor noted that the war in the Pacific had not exactly developed to Japan's advantage. The Americans had also made a diplomatic overture and offered Japan a chance to surrender their Pacific island holdings to the USA, in order to avoid an invasion of the home islands. As the Imperial fleet had become too weak to resist further American incursions into Japan’s territory, it was seen as prudent to accept the offer."
+	
+	action = {
+		name = "Accept the American demands, as harsh as they are"
+		ai_chance = 99
+		command = { type = dissent value = 5 } #
+		command = { type = peace which = USA value = 1 }
+        	command = { type = secederegion which = USA value = "Asian Pacific" when = 1 } # 
+		command = { type = event which = 1040 where = USA } #
+
+	}
+	action = {
+		name = "No peace! Death before dishonor!"
+		ai_chance = 1
+		command = { type = dissent value = 15 }
+		command = { type = event which = 1041 where = USA } #
+	}
+}
+
+event = {
+	id = 1040
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	name = "Japanese-American War - American peace demands accepted"
+	desc = "The Japanese accepted the American demands of retreating from their Pacific holdings, though the Japanese requested the right to keep some of the islands particularly close to the Home Islands, which the Americans agreed to. The Japanese were also required to pay war indemnities, which of course would take some time to be arranged for and delivered."
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = secedeprovince which = JAP value = 7938 when = 1 } # Mitsune-mura
+		command = { type = secedeprovince which = JAP value = 3088 when = 1 } # Moto-mura
+		command = { type = event which = 1042 where = USA when = 60 } # maybe even higher?
+		command = { type = dissent value = -3 }
+		command = {  type = peacetime_ic_mod value = -80 }
+		}
+	}
+
+event = {
+	id = 1041
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	name = "Japanese-American War - American peace demands rejected"
+	desc = "No one can quite explain the reasoning behind the Japanese refusal to accept the American peace demands. It was possibly pure arrogance, the thought of continuing the fight to force better terms later on through exhausting the Americans' will to bring the fight to the Home Islands."
+
+	action = {
+		name = ACTION_NAME_DAMN
+		command = { type = dissent value = 3 }
+		}
+	}
+
+event = {
+	id = 1042
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	# triggered by USA 1040
+
+	name = "Japanese war indemnities to the United States"
+	desc = "The Japanese war indemnities for the Japanese-American War included monetary compensation and commercial vessels. The Japanese had to go through considerable lengths of security to ensure that their own vengeful officers did not scuttle or sabotage the ships that were being being handed over."
+
+	action = {
+		ai_chance = 100
+		name = ACTION_NAME_GOOD
+		command = { type = dissent value = -1 } # 
+		command = { type = transport_pool which = -1 value = 40 }
+		command = { type = money value = 350 }
+		}
+	}
+
+### Stalemate
+### could maybe have a different version for the Japanese to call it, but I'm a lazy bastard --Korsteeni 27 Feb '23
+
+event = {
+	id = 1043
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		random = 67
+		control = { province = 1599 data = JAP } # Iwo Jima/Motoyama
+		control = { province = 1624 data = JAP } # Agana/Guam
+		control = { province = 1785 data = JAP } # Marcus Island/Minamitori-shima
+
+		control = { province = 7242 data = USA } # Pearl Harbor
+		control = { province = 663 data = USA } # Honolulu
+		atwar = JAP
+
+		NOT = {
+		event = 1056 # Japan has not already fully surrendered once
+		}
+	}
+
+	name = "Japanese-American War - Inconclusive"
+	desc = "With no progress being made by either side of the Pacific War, in early 1934, President Herbert Hoover proposed a 'status quo ante bellum' peace to the Japanese government."
+
+	date = { day = 0 month = february year = 1934 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1940 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Let us end this war"
+		command = { type = dissent value = -1 } # 
+		command = { type = event which = 1044 where = JAP when = 1 } #
+		}	
+	action_b = {
+		ai_chance = 0
+		name = "Keep going until the Stars and Stripes flies in Tokyo!"
+		command = { type = dissent value = 10 } # 
+		}
+	}
+
+event = {
+	id = 1044
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+	
+	name = "Japanese response to the American peace offer"
+	desc = "With no progress by either side of the Pacific War, in early 1934, President Herbert Hoover proposed a 'status quo ante bellum' peace to the Japanese government."
+	
+	action = {
+		name = "Agree, no reason to continue the war"
+		ai_chance = 99
+		command = { type = dissent value = -1 } #
+		command = { type = peace which = USA value = 1 }
+		command = { type = event which = 1045 where = USA } #
+
+	}
+	action = {
+		name = "No reason to QUIT this war!"
+		ai_chance = 1
+		command = { type = dissent value = 10 }
+	}
+}
+
+event = {
+	id = 1045
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	name = "Japanese-American War - American peace proposal accepted"
+	desc = "The Japanese accepted the American suggestion of ending the Pacific War with no territorial concessions or indemnities from either side."
+
+	action = {
+		name = ACTION_NAME_GOOD
+		command = { type = dissent value = -1 }
+		command = {  type = peacetime_ic_mod value = -80 }
+		}
+	}
+
+### U. S. presidential election, 1936
+
+# canonical
+
+event = {
+	id = 1050
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		event = 1045
+		}
+	
+	name = "United States Presidential Election, 1936"
+	desc = "The Hoover administration did not achieve much between 1933 and 1936, aside from ending the war against Japan, and even the war had been wholly pointless to begin with. As the people of the United States headed to the voting booths in November 1936, the results were known with relative certainty before the vote count had even begun."
+
+	date = { day = 3 month = november year = 1936 }
+	
+	action = {
+		name = "Al Smith/Charles La Follette (Socialist)"
+		ai_chance = 99
+		command = { type = dissent value = -1 } #
+		command = { type = headofstate which = 240384 } # 
+		command = { type = headofgovernment which = 240417 } # 
+		command = { type = foreignminister which = 240275 } # Emil Seidel; happened to be in the vanilla file
+		command = { type = change_policy which = democratic value = 1 }
+		command = { type = set_domestic which = political_left value = 10 }
+
+	}
+	action = {
+		name = "Herbert Hoover/William Borah (Democratic)"
+		ai_chance = 1
+		command = { type = dissent value = 3 }
+		command = { type = headofstate which = 240382 } # Hoover, unsurprisingly
+		command = { type = headofgovernment which = 240425 } # Borah
+		command = { type = change_policy which = political_left value = -1 }
+	}
+}
+
+# hypothetical non-canonical USA victory in the Japanese-American War
+
+event = {
+	id = 1051
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		event = 1040
+		}
+	
+	name = "United States Presidential Election, 1936"
+	desc = "By November 1936, the United States economy had experienced at least some recovery from the depression, and the victorious war against Japan also certainly helped incumbent President Hoover's re-election chances. Hoover and his running mate, Idaho Senator William Borah, appeared in Los Angeles for a campaign stop during the final days of their election campaign, in an obvious reference to President Hosea Blackford's failed 1932 visit, which had ended up with him getting bombed by Japanese planes."
+
+	date = { day = 3 month = november year = 1936 }
+	
+	action = {
+		name = "Herbert Hoover/William Borah (Democratic)"
+		ai_chance = 99
+		command = { type = dissent value = -1 }
+		command = { type = headofstate which = 240382 } # Hoover, unsurprisingly
+		command = { type = headofgovernment which = 240425 } # Borah
+		command = { type = change_policy which = political_left value = -1 }
+
+	}
+	action = {
+		name = "Al Smith/Charles La Follette (Socialist)"
+		ai_chance = 1
+		command = { type = dissent value = 3 }
+		command = { type = headofstate which = 240384 } # 
+		command = { type = headofgovernment which = 240417 } # 
+		command = { type = foreignminister which = 240275 } # Emil Seidel; happened to be in the vanilla file
+		command = { type = change_policy which = democratic value = 1 }
+		command = { type = set_domestic which = political_left value = 10 }
+	}
+}
+
+# NEEDS USA DEFEAT VARIANT!
+
+### U. S. presidential election, 1940
+
+event = {
+	id = 1060
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		event = 1008 # Featherston is CSA HoS
+		# technically _this_ event does not have anything that would not fit a non-Featherston CSA, but the follow-up events do
+		headofstate = 240384 # Smith
+		}
+	
+	name = "United States Presidential Election, 1940"
+	desc = "Al Smith's presidency had progressed relatively well by the time the voters headed to vote in November 1940. The economy was still not doing particularly hot, but the country had avoided conflict with other powers around the world. Smith had also promised that if he were re-elected, he'd allow for plebiscites in the contested territories about whether or not they'd want to re-join the Confederacy. His Democratic opponent Robert Taft disagreed, and called for a harder stance against the Confederacy."
+
+	date = { day = 5 month = november year = 1940 }
+	
+	action = {
+		name = "Al Smith/Charles La Follette (Socialist)"
+		ai_chance = 99
+		command = { type = dissent value = -1 } #
+		command = { type = headofstate which = 240384 } # 
+		command = { type = headofgovernment which = 240417 } # 
+		command = { type = foreignminister which = 240275 } # Emil Seidel; happened to be in the vanilla file
+		command = { type = change_policy which = democratic value = 1 }
+		command = { type = set_domestic which = political_left value = 10 }
+
+	}
+	action = {
+		name = "Robert Taft/Charles McNary (Democratic)"
+		ai_chance = 1
+		command = { type = dissent value = 1 }
+#		command = { type = headofstate which =  } # Taft isn't in the minister file yet
+		command = { type = headofgovernment which = 240027 } # McNary
+		command = { type = domestic which = political_left value = -1 }
+		command = { type = domestic which = interventionism value = 1 }
+		command = { type = event which = 1070 where = CSA when = 20 } #
+	}
+}
+
+##########################
+### Richmond agreement ###
+##########################
+
+# non-canonical refusal
+
+event = {
+	id = 1070
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	# Triggered by USA 1060 option b
+	
+	name = "Richmond Agreement cancelled"
+	desc = "Without a mandate from his people, outgoing U. S. President Smith cancelled the proposition of plebiscites in the three border states that had once been part of the Confederate States. This infuriated Featherston, who considered starting a war against the United States before hardliner Democratic President Robert Taft could be sworn into office, and before he could further block Featherston's aims at expansion."
+
+	action_a = {
+		ai_chance = 99
+		name = "Launch the attack!"
+		command = { type = war which = USA } #
+		command = { type = change_policy which = interventionism value = 1 }
+		}
+
+	action_b = {
+		ai_chance = 1
+		name = "We are not ready to fight... yet"
+		command = { type = dissent value = 1 }
+		}
+	}
+
+# canonical
+# first REB gets an event deciding the outcome
+
+event = {
+	id = 1071
+	random = no
+	country = REB
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		NOT = {
+		event = 1080
+		}
+	}
+
+	name = ""
+	desc = ""
+
+	date = { day = 6 month = january year = 1941 }
+
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1072 where = USA when = 1 } # CSA gets nothing
+		}
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1073 where = USA when = 1 } # CSA gets Sequoyah
+		}
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1074 where = USA when = 1 } # CSA gets Kentucky
+		}
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1075 where = USA when = 1 } # CSA gets Houston
+		}
+	action = {
+		ai_chance = 93
+		name = ""
+		command = { type = event which = 1076 where = USA when = 1 } # CSA gets Kentucky and Houston (CANONICAL)
+		}
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1077 where = USA when = 1 } # CSA gets Sequoyah and Houston
+		}
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1078 where = USA when = 1 } # CSA gets Sequoyah and Kentucky
+		}
+	action = {
+		ai_chance = 1
+		name = ""
+		command = { type = event which = 1079 where = USA when = 1 } # CSA gets Kentucky, Houston and Sequoyah
+		}
+	}
+
+# CSA gets nothing
+
+event = {
+	id = 1072
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - no states re-join the CSA"
+	desc = "To the surprise of many, none of the three states in which the plebiscites were held on January 7th 1941 voted to leave the United States in favor of the Confederate States. Many U. S. citizens were overjoyed at having avoided the country losing territory they had fought so hard for between 1914 and 1917, but others were concerned about the country having to continue administering the three states, which grew more and more restless by the day."
+
+	action = {
+		name = "Good, now don't ask again"
+		command = { type = dissent value = 1 }
+		command = { type = relation which = CSA value = -5 }
+		command = { type = event which = 1081 where = CSA when = 7 }
+		}
+	}
+
+# CSA gets Sequoyah
+
+event = {
+	id = 1073
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - Sequoyah re-joins the CSA"
+	desc = "Text to be added later"
+
+	action = {
+		name = "Text"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Oklahoma" when = 1 } # 
+		command = { type = relation which = CSA value = 5 }
+		}
+	}
+
+# CSA gets Kentucky
+
+event = {
+	id = 1074
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - Kentucky re-joins the CSA"
+	desc = "Text to be added later"
+
+	action = {
+		name = "Text"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Kentucky" when = 1 } # 
+		command = { type = relation which = CSA value = 5 }
+		}
+	}
+
+# CSA gets Houston
+
+event = {
+	id = 1075
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - Houston re-joins the CSA"
+	desc = "Text to be added later"
+
+	action = {
+		name = "Text"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Texas" when = 1 } # 
+		command = { type = relation which = CSA value = 5 }
+		}
+	}
+
+# CSA gets Kentucky and Houston
+
+event = {
+	id = 1076
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - Kentucky and Houston re-join the CSA"
+	desc = "Of the three states in which the Richmond Agreement Plebiscite was held, two decided to leave the United States. The State of Houston was absorbed back into the state of Texas after 23 years of separation, while Kentucky retained its traditional status as a separate state upon its reaccession into the Confederate States. Meanwhile in Sequoyah, the votes of a large number of U. S. settlers prevented the state from leaving. Both Houston and Sequoyah were to be remain demilitarized for twenty-five years."
+
+	action = {
+		name = "Guess that's a good outcome for everyone"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Texas" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Kentucky" when = 1 } # 
+		command = { type = relation which = CSA value = 5 }
+		}
+	}
+
+# CSA gets Sequoyah and Houston
+
+event = {
+	id = 1077
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - Sequoyah and Houston re-join the CSA"
+	desc = "Text to be added later"
+
+	action = {
+		name = "Text"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Texas" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Oklahoma" when = 1 } # 
+		command = { type = relation which = CSA value = 5 }
+		}
+	}
+
+# CSA gets Kentucky and Sequoyah
+
+event = {
+	id = 1078
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - Kentucky and Sequoyah re-join the CSA"
+	desc = "Text to be added later"
+
+	action = {
+		name = "Text"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Kentucky" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Oklahoma" when = 1 } # 
+		command = { type = relation which = CSA value = 5 }
+		}
+	}
+
+# CSA gets Kentucky, Houston and Sequoyah
+
+event = {
+	id = 1079
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "Richmond Agreement Plebiscite - all three states re-join the CSA"
+	desc = "Text to be added later"
+
+	action = {
+		name = "Text"
+		command = { type = dissent value = 1 }
+        	command = { type = secedearea which = CSA value = "Kentucky" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Oklahoma" when = 1 } # 
+        	command = { type = secedearea which = CSA value = "Texas" when = 1 } # 
+		command = { type = relation which = CSA value = 10 }
+		}
+	}
+
+# an interpretation of the "Frankfort Incident"
+
+event = {
+	id = 1080
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		atwar = no
+		event = 1071
+		OR = {
+			# a few provinces missing
+			garrison = { country = CSA province = 641 size = 1 } # Louisville
+			garrison = { country = CSA province = 713 size = 1 } # Lawton
+			garrison = { country = CSA province = 718 size = 1 } # El Paso
+			garrison = { country = CSA province = 2682 size = 1 } # Tulsa
+			garrison = { country = CSA province = 6229 size = 1 } # McAlester
+			garrison = { country = CSA province = 6230 size = 1 } # Ardmore
+			garrison = { country = CSA province = 6248 size = 1 } # Vernon
+			garrison = { country = CSA province = 6252 size = 1 } # Lamesa
+			garrison = { country = CSA province = 6260 size = 1 } # Pecos
+			garrison = { country = CSA province = 6264 size = 1 } # Odessa
+			garrison = { country = CSA province = 6455 size = 1 } # Somerset
+			garrison = { country = CSA province = 6456 size = 1 } # Bowling Green
+			garrison = { country = CSA province = 6457 size = 1 } # Middlesboro
+			garrison = { country = CSA province = 6458 size = 1 } # Henderson
+			garrison = { country = CSA province = 6459 size = 1 } # Paducah
+			garrison = { country = CSA province = 6461 size = 1 } # Covington
+			garrison = { country = CSA province = 6462 size = 1 } # Ashland
+
+		}
+	}
+
+	name = "Featherston violates the Richmond Agreement!"
+	desc = "It did not take President Featherston 25 years to move his troops to demilitarized Kentucky -- instead, it took 25 DAYS. The pretext for the move was an attack against the Confederate States when a police station in Frankfort was blown up, ostensibly by a pro-Union group known as the 'American Patriots'. After President Smith rightfully stated that he knew nothing of the incident, Featherston condemned him and started demanding the return of even more of the territory that the USA had taken in 1917."
+
+	date = { day = 0 month = january year = 1941 }
+	offset = 2
+	deathdate = { day = 29 month = december year = 1949 }
+
+	action = {
+		name = "The bastard just can not be trusted, apparently"
+		command = { type = dissent value = 1 }
+		command = { type = change_policy which = defense_lobby value = 1 }
+		command = { type = change_policy which = interventionism value = 1 }
+		command = { type = relation which = CSA value = -75 }
+		}
+	}
+
+# CSA responds to the "getting nothing" outcome
+
+event = {
+	id = 1081
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+	
+	name = "President Featherston's reply to the plebiscites"
+	desc = "The Richmond Agreement plebiscites had not really turned out the way President Featherston had wanted them to, as none of the three states in which they were held wanted to re-join the CSA. Featherston was certain that the majority of the residents in them were pro-Confederate, so the only possible explanation was that the plebiscites had been rigged by President Smith. If Smith was not playing fair, then Featherston certainly could do so too, and by doing much more than just rigging a lousy plebiscite."
+
+	action_a = {
+		ai_chance = 99
+		name = "This is war!"
+		command = { type = war which = USA } #
+		command = { type = change_policy which = interventionism value = 1 }
+		}
+
+	action_b = {
+		ai_chance = 1
+		name = "We are not ready to fight... yet"
+		command = { type = dissent value = 1 }
+		}
+	}
+
+### test events
+
+event = {
+	id = 1090
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Blackbeard test"
+	desc = "Blackbeard test"
+
+	date = { day = 22 month = june year = 1941 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Launch the attack!"
+		command = { type = war which = USA } #
+		}
+
+	action_b = {
+		ai_chance = 0
+		name = "Nope"
+		command = { type = dissent value = 10 }
+		}
+	}
+
+event = {
+	id = 1091
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		war = { country = USA country = CSA }
+		# currently for any instance of war breaking out between them
+		# could have separate versions for different paths to war
+		}
+
+	name = "The Canadian Rebellion"
+	desc = "As the USA and the CSA began yet another war with each other, the Canadians saw their chance at regaining their independence. Revolts erupted all across the occupied territories, and the USA forces, spread thin by the threat to the south, could initially not contain them."
+
+	date = { day = 0 month = january year = 1940 }
+	offset = 5
+	deathdate = { day = 29 month = december year = 1949 }
+
+	action = {
+		name = "Goddamn syrup-sipping backstabbing bastards!"
+		command = { type = revolt which = 541 when = 1 } # Vancouver
+		command = { type = revolt which = 565 when = 1 } # Sault St Marie, ON
+		command = { type = revolt which = 569 when = 1 } # Winnipeg
+		command = { type = revolt which = 569 when = 1 }
+		command = { type = revolt which = 588 when = 1 } # Ottawa
+		command = { type = revolt which = 588 when = 1 }
+		command = { type = revolt which = 796 when = 1 } # Edmonton
+		command = { type = revolt which = 797 when = 1 } # Calgary
+		}
+	}	

@@ -1,0 +1,184 @@
+### ID range 1100 - ?
+
+### CSA
+
+event = {
+	id = 1100
+	random = no
+	country = CSA
+	style = 2
+	picture = "golfer"
+	
+	trigger = {
+		atwar = no
+		control = { province = 2711 data = CSA } # Augusta (just in case)
+	}
+
+	name = "Augusta National Invitation Tournament"
+	desc = "The first-ever Augusta National Invitation Tournament began in Augusta, Georgia on March 22nd 1934. While golf was not even close to the most popular sport in the Confederate States, the event appeared high-class and prestigious, and many people flocked to Augusta to follow it."
+
+	date = { day = 22 month = march year = 1934 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = dissent value = -1 }
+		command = { type = money value = 5 }
+		}
+	}
+
+event = {
+	id = 1101
+	random = no
+	country = CSA
+	style = 2
+	picture = "williamsburg"
+	
+	trigger = {
+		atwar = no
+		control = { province = 6471 data = CSA } # Newport News (just in case)
+	}
+
+	name = "Opening of Colonial Williamsburg"
+	desc = "After a period of economic uncertainty, the restored Colonial Williamsburg was opened to the public on May Day 1934. The site had been conceived to commemorate the earliest period of Southern heritage from the 17th century by W. A. R. Goodwin, a Richmond-based priest and historian."
+
+	date = { day = 0 month = may year = 1934 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = dissent value = -1 }
+		}
+	}
+
+event = {
+	id = 1102
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Labor Day Hurricane"
+	desc = "The Labor Day hurricane struck the western coast of Florida on September 2nd 1935. It passed through the Florida Panhandle area to further wreak havoc in Alabama and Georgia, though it had weakened by then. About 400 people in total died in the hurricane, and the value of property damage was measured at least in the tens of millions of dollars."
+
+	date = { day = 2 month = september year = 1935 }
+
+	action = {
+		name = ACTION_NAME_DAMN
+		command = { type = construct which = ic where = 649 value = -1 } # Tampa
+		command = { type = construct which = infrastructure where = 649 value = -10 } # Tampa
+		command = { type = construct which = ic where = 6318 value = -1 } # Saint Petersburg
+		command = { type = dissent value = 3 }
+		}
+	}
+
+event = {
+	id = 1103
+	random = no
+	country = CSA
+	style = 2
+	picture = "battleofalamo"
+
+	name = "100th anniversary of the Battle of the Alamo"
+	desc = "Exactly 100 years ago, the Alamo Mission in San Antonio, Texas surrendered to the Mexican Army after a brutal battle with practically no survivors from the Texan side. Texas gained her independence from Mexico soon thereafter, and the sacrifices made by such brave men as Davy Crockett are something that no one in the country should ever forget."
+
+	date = { day = 6 month = march year = 1936 }
+
+	action = {
+		name = "Those patriots of old"
+		command = { type = dissent value = -1 }
+		}
+	}
+
+event = {
+	id = 1104
+	random = no
+	country = CSA
+	style = 2
+	picture = "olympics"
+
+	trigger = {
+		atwar = no
+	}
+
+	name = "1936 Summer Olympics"
+	desc = "Richmond finally hosted the Olympic Games in 1936, after a failed bid in 1928 when the IOC had awarded the games to Berlin instead. The country had spent a significant amount of money and manpower to construct the necessary venues, and it was hoped that the effort would pay off in the form of improving relations with countries worldwide. As was tradition by that point, the games were also inaugurated by the President himself."
+
+	date = { day = 0 month = august year = 1936 }
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = relation which = ENG value = 5 }
+		command = { type = relation which = FRA value = 5 }
+		command = { type = relation which = GER value = 5 }
+		command = { type = relation which = U09 value = 5 }
+		command = { type = relation which = ITA value = 5 }
+		command = { type = relation which = USA value = 5 }
+		command = { type = relation which = JAP value = 5 }
+		command = { type = relation which = HOL value = 5 }
+		command = { type = money value = 200 }
+		command = { type = dissent value = -3 }
+		}
+	}
+
+event = {
+	id = 1105
+	random = no
+	country = CSA
+	style = 2
+	picture = "southcarolina1860"
+
+	name = "75th anniversary of South Carolina's secession"
+	desc = "In December 1935, the Confederate States of America celebrated their 75th anniversary, in a sense. It was on December 20th 1860 that the state of South Carolina chose to leave the United States, starting the process that eventually led to the formation of the country known as the Confederate States, and to the War of Secession in which she successfully won her independence."
+
+	date = { day = 20 month = december year = 1935 }
+
+	action = {
+		name = "Next stop 100th anniversary, in 1960!"
+		command = { type = dissent value = -3 }
+		}
+	}
+
+### USA
+
+event = {
+	id = 1150
+	random = no
+	country = USA
+	style = 2
+	picture = "firefighters"
+	
+	trigger = {
+		control = { province = 606 data = USA } # Washington D.C. (just in case)
+	}
+
+	name = "A Fire at the White House"
+	desc = "A small fire broke out at the White House in Washington on the morning of November 22nd 1933, due to an inattentive guard dropping an unextinguished cigarette butt atop a newspaper on a drawer chest and leaving the room. The fire was still noticed fairly soon and was put out by the fire brigade, and the damages were minor. President Hoover was not at the White House at the time, instead meeting a Department of Agriculture official at his residence at the Powel House in Philadelphia."
+
+	date = { day = 22 month = november year = 1933 }
+
+	action = {
+		name = "Who cares what happens in the White House these days?"
+		command = { type = money value = -1 }
+		}
+	}
+
+event = {
+	id = 1151
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+	
+	trigger = {
+		war = { country = USA country = JAP }
+	}
+
+	name = "Samuel Chapman speaks in Long Beach, California"
+	desc = "'And whatever happens, the Japanese must go!' was how Representative Samuel Chapman always ended his speeches, this time in Long Beach. He had borrowed the mannerism from his political mentor Denis Kearney, who had developed a similar fixation on Chinese immigrants in the late 19th century. Kearney had died in 1907 already, but Chapman continued to carry out his life's work of attacking Orientals, politicians, big money and the media, something that caused both adoration and disgust in the public."
+
+	date = { day = 7 month = december year = 1933 }
+
+	action = {
+		name = "Tell the people something they don't know yet!"
+		command = { type = dissent value = 0.5 }
+		}
+	}

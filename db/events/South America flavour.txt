@@ -1,0 +1,31 @@
+### ID range 1300 - ?
+
+# a similar phenomenon existed in Scandinavia in the 1930's (see https://fi.wikipedia.org/wiki/Kummituslentokoneet here); decided to switch the location to the other side of the world ;) --Korsteeni 15 Mar 2023
+
+event = {
+	id = 1300
+	random = no
+	persistent = yes
+	country = CHL
+	style = 2
+	picture = "ghostplane"
+
+	trigger = {
+		random = 5
+		atwar = no
+	}
+
+	name = "Ghost Fliers of Patagonia"
+	desc = "Throughout the 1930's, Argentina and Chile experienced reports of unidentified craft flying in the night skies. Witnesses often claimed that the mystery planes' performance exceeded that of regular ones, and that they had powerful floodlights installed. The Chilean Air Force investigated the claims and ultimately declared their cause to be wild imagination. Explanations by laymen blamed foreigners instead, such as British fliers from the Falklands, or even across Antarctica from Australia or New Zealand."
+
+	date = { day = 0 month = december year = 1933 }
+	offset = 42
+	deathdate = { day = 29 month = december year = 1940 }
+	# 94.3% chance of firing at least once before the the end of 1940, if my calculations are correct
+
+	action = {
+		name = "...can I have a theremin playing in the background for this?"
+		command = { type = supplies value = -5 }
+		command = { type = dissent value = 1 }
+		}
+	}

@@ -51,7 +51,7 @@ SCO;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 760048;Head of State;H.M. James IX FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
 760049;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
 760050;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-760051;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
+760051;Head of State;H.M. Edward VIII;1933;1964;SC;Autocratic Charmer;High;M1011;X
 760052;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
 760053;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
 760054;Head of State;Robert Gayre;1933;1964;NS;Powerhungry Demagogue;High;SCO-Robert_Gayre;X
@@ -63,7 +63,7 @@ SCO;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 760060;Head of State;H.M. James IX FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
 760061;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
 760062;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-760063;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
+760063;Head of State;H.M. Edward VIII;1933;1964;FA;Autocratic Charmer;High;M1011;X
 760064;Head of State;H.M. George VI;1933;1953;PA;Insignificant Layman;High;M1033;X
 760065;Head of State;H.M. Elizabeth II;1952;2012;PA;Weary Stiffneck;High;M1182;X
 760055;Head of Government;Robert Gayre;1933;1964;NS;Flamboyant Tough Guy;High;SCO-Robert_Gayre;X

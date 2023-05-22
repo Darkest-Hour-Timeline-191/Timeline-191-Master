@@ -1,6 +1,6 @@
-U73;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
-1180001;Head of State;H.M. Edward VIII;1933;1964;FA;Autocratic Charmer;High;M1011;X
+U73;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+1180001;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
 1180002;Head of Government;Oswald Mosley;1933;1964;FA;Flamboyant Tough Guy;High;M1012;X
 1180135;Foreign Minister;Arthur K. Chesterton;1933;1964;FA;Biased Intellectual;High;M1092;X
 1180002;Head of State;Aneurin Bevan;1933;1964;LWR;Pig-headed Isolationist;High;M1021;X
@@ -16,7 +16,7 @@ U73;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 1180012;Foreign Minister;D.N. Pritt;1943;1964;ST;Apologetic Clerk;Medium;M1057;X
 1180013;Foreign Minister;Dave Springhall;1944;1964;LWR;Iron Fisted Brute;Medium;M1058;X
 1180014;Foreign Minister;Ian Mikardo;1945;1964;LWR;Ideological Crusader;Medium;M1059;X
-1180015;Minister of Armament;Oswald Mosley;1933;1964;FA;Planned Economy Proponent;Very High;M1012;X
+1180015;Minister of Armament;Oswald Mosley;1933;1964;FA;Planned Economy Proponent;Undying;M1012;X
 1180016;Minister of Armament;Alliott Vernon-Roe;1938;1964;FA;Air to Ground Proponent;High;M1069;X
 1180017;Minister of Armament;Neil Francis-Hawkins;1939;1964;FA;Submarine Proponent;High;M1070;X
 1180018;Minister of Armament;Alexander Raven-Thomson;1941;1964;FA;Strategic Air Proponent;High;M1071;X
@@ -28,7 +28,7 @@ U73;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 1180024;Minister of Armament;Jack Gaster;1941;1964;ST;Submarine Proponent;Medium;M1077;X
 1180025;Minister of Armament;Abe Moffatt;1942;1964;LWR;Tank Proponent;Medium;M1078;X
 1180026;Minister of Armament;William Rust;1944;1964;ST;Infantry Proponent;Medium;M1079;X
-1180027;Minister of Armament;Konnie Zilliacus;1945;1964;LWR;Air Superiority Proponent;Medium;M1080;X
+1180027;Minister of Armament;Konni Zilliacus;1945;1964;LWR;Air Superiority Proponent;Medium;M1080;X
 1180028;Minister of Security;Arnold Spencer-Leese;1933;1964;FA;Prince of Terror;Low;M1015;X
 1180029;Minister of Security;John Beckett;1940;1964;FA;Compassionate Gentleman;Medium;M1091;X
 1180030;Minister of Security;Arthur K. Chesterton;1941;1964;FA;Back Stabber;Very High;M1092;X
@@ -78,7 +78,7 @@ U73;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 1180079;Foreign Minister;D.N. Pritt;1943;1964;SL;Apologetic Clerk;Medium;M1057;X
 1180080;Foreign Minister;Dave Springhall;1944;1964;SL;Iron Fisted Brute;Medium;M1058;X
 1180081;Foreign Minister;Ian Mikardo;1945;1964;SL;Ideological Crusader;Medium;M1059;X
-1180082;Minister of Armament;Oswald Mosley;1933;1964;SC;Resource Industrialist;Very High;M1012;X
+1180082;Minister of Armament;Oswald Mosley;1933;1964;SC;Resource Industrialist;Undying;M1012;X
 1180083;Minister of Armament;Alliott Vernon-Roe;1938;1964;SC;Air to Ground Proponent;High;M1069;X
 1180084;Minister of Armament;Neil Francis-Hawkins;1939;1964;SC;Submarine Proponent;High;M1070;X
 1180085;Minister of Armament;Alexander Raven-Thomson;1941;1964;SC;Strategic Air Proponent;High;M1071;X

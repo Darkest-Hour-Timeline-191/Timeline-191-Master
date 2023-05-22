@@ -1,0 +1,8 @@
+
+-- ministers_aus.csv must not exceed ID 115501, as ministers_u54.csv (Liechtenstein) begins there!
+
+-- ministers_cal.csv must not exceed ID 575501, as ministers_u07.csv (Hawaii) begins there!
+
+-- ministers_ita.csv must not exceed ID 25501, as ministers_u56.csv (Vatican/Papal States) begins there!
+
+-- ministers_pak.csv must not exceed ID 725501, as ministers_u37.csv (Hyderabad) begins there!

@@ -1,8 +1,8 @@
 U17;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
 900001;Minister of Security;Eugène Soudan;1933;1964;LWR;Silent Lawyer;Very High;M15005;X
-900002;Head of State;Joseph Jacquemotte;1933;1964;ST;Weary Stiffneck;Very High;M15020;X
-900003;Head of Government;Joseph Jacquemotte;1933;1964;ST;Political Protege;Very High;M15020;X
+900002;Head of State;Joseph Jacquemotte;1933;1964;ST;Weary Stiffneck;NA;M15020;X
+900003;Head of Government;Joseph Jacquemotte;1933;1964;ST;Political Protege;NA;M15020;X
 900004;Foreign Minister;War van Overstraeten;1933;1964;ST;Biased Intellectual;Very High;M15118;X
 900005;Minister of Armament;Abraham Leon;1933;1964;ST;Resource Industrialist;Very High;M15023;X
 900006;Minister of Security;Adhemar Hennaut;1933;1964;ST;Crime Fighter;Very High;unknown;X
@@ -11,12 +11,12 @@ U17;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 900009;Chief of Army;Georges Vereecken;1933;1964;ST;Elastic Defence Doctrine;Very High;unknown;X
 900010;Chief of Navy;Georges Vereecken;1933;1964;ST;Undistinguished Suit;Very High;unknown;X
 900011;Chief of Air Force;Georges Vereecken;1933;1964;ST;Undistinguished Suit;Very High;unknown;X
-900012;Head of State;Julien Lahaut;1933;1964;ST;Ruthless Powermonger;Very High;M15024;X
-900013;Head of Government;Paul-Henri Spaak;1933;1964;LWR;Ambitious Union Boss;High;M15034;X
-900014;Head of Government;Camille Huysmans;1933;1964;LWR;Happy Amateur;Medium;M15038;X
-900015;Head of Government;Joseph Jacquemotte;1933;1964;ST;Political Protege;Very High;M15020;X
-900016;Head of Government;Achille Van Acker;1933;1964;LWR;Corporate Suit;Medium;M15041;X
-900017;Head of Government;Julien Lahaut;1933;1964;ST;Backroom Backstabber;Very High;M15024;X
+900012;Head of State;Julien Lahaut;1933;1964;ST;Ruthless Powermonger;NA;M15024;X
+900013;Head of Government;Paul-Henri Spaak;1933;1964;LWR;Ambitious Union Boss;NA;M15034;X
+900014;Head of Government;Camille Huysmans;1933;1964;LWR;Happy Amateur;NA;M15038;X
+900015;Head of Government;Joseph Jacquemotte;1933;1964;ST;Political Protege;NA;M15020;X
+900016;Head of Government;Achille Van Acker;1933;1964;LWR;Corporate Suit;NA;M15041;X
+900017;Head of Government;Julien Lahaut;1933;1964;ST;Backroom Backstabber;NA;M15024;X
 900018;Foreign Minister;Paul-Henri Spaak;1933;1964;LWR;Great Compromiser;Very High;M15034;X
 900019;Foreign Minister;Louis de Brouckère;1933;1964;LWR;Ideological Crusader;Very High;M15047;X
 900020;Foreign Minister;Eugène Soudan;1933;1964;LWR;Ideological Crusader;Very High;M15005;X

@@ -1,5 +1,5 @@
-CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
+CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
 220001;Head of State;Sir John Buchan;1933;1964;ML;Benevolent Gentleman;High;M45001;X
 220002;Head of Government;Mackenzie King;1933;1964;ML;Flamboyant Tough Guy;High;M45002;X
 220003;Foreign Minister;Mackenzie King;1933;1964;ML;Great Compromiser;Undying;M45002;X
@@ -150,7 +150,7 @@ CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 220158;Chief of Navy;Howard Reid;1946;1948;PA;Open Seas Doctrine;Very High;9761;X
 220159;Chief of Navy;Harold Grant;1947;1952;PA;Decisive Naval Battle Doctrine;Very High;9762;X
 220160;Chief of Navy;Rollo Mainguy;1951;1957;PA;Open Seas Doctrine;Very High;9763;X
-220161;Chief of Navy;Harry Dewolf;1956;1960;PA;Generic;Very High;unknownminister;X
+220161;Chief of Navy;Harry Dewolf;1956;1960;PA;Decisive Naval Battle Doctrine;Very High;L52084;X
 220162;Chief of Navy;Daniel Hanington;1957;1964;PA;Open Seas Doctrine;Medium;M45167;X
 220163;Chief of Navy;Herbert Rayner;1960;1965;PA;Power Projection Doctrine;Very High;9764;X
 220164;Chief of Air Force;Lloyd Breadner;1928;1964;ML;Army Aviation Doctrine;Medium;M45168;X

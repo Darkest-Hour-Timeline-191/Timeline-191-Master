@@ -90,6 +90,6 @@ country = {
     defense_lobby     = 6
     interventionism   = 5
   }
-  headofstate            = { type = 6 id = 545170 } # H.M. Pavlo Skoropadsky
+  headofstate            = { type = 6 id = 545079 } # H.M. Pavlo Skoropadsky
   headofgovernment       = { type = 6 id = 545016 } # Omelyan Senyk
 }

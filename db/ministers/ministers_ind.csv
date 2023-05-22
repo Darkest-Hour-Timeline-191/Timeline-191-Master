@@ -1,12 +1,12 @@
-IND;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
+IND;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
 250001;Head of State;Rajendra Prasad;1933;1964;SL;Weary Stiffneck;High;M59031;X
 250002;Head of Government;Mahatma Mohandas Gandhi;1933;1964;SD;Naive Optimist;High;M59037;X
 250003;Foreign Minister;Subhas Chandra Bose;1933;1964;LWR;The Cloak N Dagger Schemer;High;M59011;X
 250004;Minister of Armament;Sardar Vallabhbhai Patel;1933;1964;SD;Military Entrepreneur;High;M59056;X
 250005;Minister of Security;Rafi Ahmed Kidwai;1933;1964;SD;Crime Fighter;Medium;M59068;X
 250006;Head of Military Intelligence;Shri Jagjivan Ram;1933;1964;SD;Political Specialist;Very High;M59077;X
-250007;Chief of Staff;Mohan Singh;1933;1964;SL;School of Mass Combat;Low;M59028;X
+250007;Chief of Staff;Mohan Singh;1933;1964;SL;School of Mass Combat;Very Low;M59028;X
 250008;Chief of Army;Ram Singh Thakur;1933;1964;SD;Guns and Butter Doctrine;Very High;M59099;X
 250009;Chief of Navy;Bhaskar Soman;1933;1964;SD;Decisive Naval Battle Doctrine;Medium;M59107;X
 250010;Chief of Air Force;Arjan Singh Vibhusan;1933;1964;SD;Air Superiority Doctrine;Medium;M59113;X

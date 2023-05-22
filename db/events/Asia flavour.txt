@@ -1,0 +1,51 @@
+### ID range 1400 - ?
+
+event = {
+	id = 1400
+	random = no
+	country = U02
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		control = { province = 1494 data = U02 } # Quetta
+		}
+
+	name = "Bihar Earthquake"
+	desc = "On January 15th 1934, a large earthquake struck southeastern Nepal and the northern parts of Bihar in India. The earthquake was so powerful that damage was reported as far as Calcutta far to the south of the epicenter. About 10,000 to 12,000 people died."
+
+	date = { day = 31 month = may year = 1935 }
+
+	action = {
+		name = "That's not good"
+		command = { type = supplies value = -10 }
+		command = { type = dissent value = 2 }
+		}
+	}
+
+event = {
+	id = 1401
+	random = no
+	country = U02
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		control = { province = 1494 data = U02 } # Quetta
+		}
+
+	name = "Quetta Earthquake"
+	desc = "On May 31st 1935, a large earthquake struck near the city of Quetta in Belochistan. Numerous installations of both civilian and military nature were damaged, and between 25,000 and 60,000 people died."
+
+	date = { day = 31 month = may year = 1935 }
+
+	action = {
+		name = "That's not good"
+		command = { type = manpowerpool value = -0.1 }
+		command = { type = supplies value = -10 }
+		command = { type = dissent value = 2 }
+		}
+	}
+
+
+

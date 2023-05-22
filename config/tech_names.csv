@@ -4879,7 +4879,7 @@ TECH_CMP_SW_119_2_NAME;Command/Service Module;Infra-red Missile Guidance;Infra-r
 TECH_CMP_SW_119_3_NAME;Booster Rockets;Proximity Detonation Mechanism;Proximity Detonation Mechanism;Proximity Detonation Mechanism;Proximity Detonation Mechanism;Proximity Detonation Mechanism;;Proximity Detonation Mechanism;;;X
 TECH_CMP_SW_119_4_NAME;Guidance and Navigation Computer;All Aspect Capability Missile;All Aspect Capability Missile;All Aspect Capability Missile;All Aspect Capability Missile;All Aspect Capability Missile;;All Aspect Capability Missile;;;X
 TECH_CMP_SW_119_5_NAME;Moonwalk Training;Mobile SAM Prototype Tests;Mobile SAM Prototype Tests;Mobile SAM Prototype Tests;Mobile SAM Prototype Tests;Mobile SAM Prototype Tests;;Mobile SAM Prototype Tests;;;X
-TECH_APP_SW_120_NAME;Lunar Landing;Mobile SAM System;Mobile SAM System;Mobile SAM System;Mobile SAM System;Mobile SAM System;;Mobile SAM System;;;X
+TECH_APP_SW_120_NAME;Space Station;Mobile SAM System;Mobile SAM System;Mobile SAM System;Mobile SAM System;Mobile SAM System;;Mobile SAM System;;;X
 TECH_CMP_SW_120_1_NAME;Docking Ports;Portable SAM Missile;Portable SAM Missile;Portable SAM Missile;Portable SAM Missile;Portable SAM Missile;;Portable SAM Missile;;;X
 TECH_CMP_SW_120_2_NAME;Space Ferries conceptualization;Infra-red Missile Guidance;Infra-red Missile Guidance;Infra-red Missile Guidance;Infra-red Missile Guidance;Infra-red Missile Guidance;;Infra-red Missile Guidance;;;X
 TECH_CMP_SW_120_3_NAME;Intensive Training;Proximity Detonation Mechanism;Proximity Detonation Mechanism;Proximity Detonation Mechanism;Proximity Detonation Mechanism;Proximity Detonation Mechanism;;Proximity Detonation Mechanism;;;X

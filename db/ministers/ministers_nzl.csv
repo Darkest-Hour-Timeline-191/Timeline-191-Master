@@ -1,5 +1,5 @@
-NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;X
+NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
 215001;Head of State;George de Vere Viscount Galway;1933;1964;SD;Stern Imperialist;High;M55001;X
 215002;Head of Government;Michael Joseph Savage;1933;1964;SD;Silent Workhorse;High;M55002;X
 215003;Foreign Minister;Michael Joseph Savage;1933;1964;SD;Great Compromiser;Very High;M55002;X
@@ -83,7 +83,7 @@ NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 215082;Chief of Navy;G.W.G. Simpson;1945;1964;ML;Base Control Doctrine;High;M55089;X
 215083;Chief of Navy;F. A. Balance;1950;1953;SC;Open Seas Doctrine;High;unknownminister;X
 215084;Chief of Navy;Charles Madden;1953;1964;SC;Decisive Naval Battle Doctrine;High;9819;X
-215085;Chief of Air Force;Hugh Saunders;1939;1954;SC;Air Superiority Doctrine;High;9820;X
+215085;Chief of Air Force;Hugh Saunders;1939;1942;SC;Air Superiority Doctrine;High;9820;X
 215086;Chief of Air Force;W.H. Stratton;1939;1964;ML;Army Aviation Doctrine;High;M55056;X
 215087;Chief of Air Force;H.D. McGregor;1941;1964;ML;Vertical Envelopment Doctrine;High;M55091;X
 215088;Chief of Air Force;Victor Goddard;1941;1952;SC;Naval Aviation Doctrine;High;9821;X
@@ -163,6 +163,6 @@ NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 215163;Head of State;H.M. Koroki Mahuta;1933;1964;SC;Insignificant Layman;Very High;NZL-Koroki_Mahuta;X
 215164;Head of Government;Keith J. Holyoake;1957;1984;ML;Happy Amateur;Medium;M215201;X
 215165;Head of Government;Arnold H. Nordmeyer;1963;1990;SD;Political Protege;Medium;M215203;X
-215166;Head of Government;A. N. Field;1933;1964;FA;Ambitious Union Boss;High;NZL-Arthur_Nelson_Field;X
+215166;Head of Government;A. N. Field;1936;1964;FA;Ambitious Union Boss;High;NZL-Arthur_Nelson_Field;X
 215167;Head of Government;S. J. E. Closey;1936;1964;PA;Old General;High;NZL-S_J_E_Closey;X
 215168;Head of Government;James Henare;1941;1964;PA;Old General;High;NZL-James_Henare;X
